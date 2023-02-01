@@ -37893,7 +37893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2022-12-07T15:13:11Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-01-30T09:23:24Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -41951,13 +41951,6 @@ return [
 			'locus : 2015-06-25 Locus Analytics LLC',
 		],
 	],
-	'loft' => [
-		'suffix' => 'loft',
-		'type' => 'ICANN',
-		'comments' => [
-			'loft : 2015-07-30 Annco, Inc.',
-		],
-	],
 	'lol' => [
 		'suffix' => 'lol',
 		'type' => 'ICANN',
@@ -43792,13 +43785,6 @@ return [
 			'services : 2014-02-27 Binky Moon, LLC',
 		],
 	],
-	'ses' => [
-		'suffix' => 'ses',
-		'type' => 'ICANN',
-		'comments' => [
-			'ses : 2015-07-23 SES',
-		],
-	],
 	'seven' => [
 		'suffix' => 'seven',
 		'type' => 'ICANN',
@@ -43999,7 +43985,7 @@ return [
 		'suffix' => 'sncf',
 		'type' => 'ICANN',
 		'comments' => [
-			'sncf : 2015-02-19 Société Nationale des Chemins de fer Francais S N C F',
+			'sncf : 2015-02-19 Société Nationale SNCF',
 		],
 	],
 	'soccer' => [
@@ -44552,7 +44538,7 @@ return [
 		'suffix' => 'total',
 		'type' => 'ICANN',
 		'comments' => [
-			'total : 2015-08-06 TOTAL SE',
+			'total : 2015-08-06 TotalEnergies SE',
 		],
 	],
 	'tours' => [
