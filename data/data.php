@@ -1827,23 +1827,126 @@ return [
 		'suffix' => 'bj',
 		'type' => 'ICANN',
 		'comments' => [
-			'bj : https://en.wikipedia.org/wiki/.bj',
+			'bj : https://nic.bj/bj-suffixes.txt',
+			'submitted by registry <contact@nic.bj>',
 		],
 	],
-	'asso.bj' => [
-		'suffix' => 'asso.bj',
+	'africa.bj' => [
+		'suffix' => 'africa.bj',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'barreau.bj' => [
-		'suffix' => 'barreau.bj',
+	'agro.bj' => [
+		'suffix' => 'agro.bj',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'gouv.bj' => [
-		'suffix' => 'gouv.bj',
+	'architectes.bj' => [
+		'suffix' => 'architectes.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'assur.bj' => [
+		'suffix' => 'assur.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'avocats.bj' => [
+		'suffix' => 'avocats.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'co.bj' => [
+		'suffix' => 'co.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.bj' => [
+		'suffix' => 'com.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'eco.bj' => [
+		'suffix' => 'eco.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'econo.bj' => [
+		'suffix' => 'econo.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.bj' => [
+		'suffix' => 'edu.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'info.bj' => [
+		'suffix' => 'info.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'loisirs.bj' => [
+		'suffix' => 'loisirs.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'money.bj' => [
+		'suffix' => 'money.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.bj' => [
+		'suffix' => 'net.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.bj' => [
+		'suffix' => 'org.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ote.bj' => [
+		'suffix' => 'ote.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'resto.bj' => [
+		'suffix' => 'resto.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'restaurant.bj' => [
+		'suffix' => 'restaurant.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tourism.bj' => [
+		'suffix' => 'tourism.bj',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'univ.bj' => [
+		'suffix' => 'univ.bj',
 		'type' => 'ICANN',
 		'comments' => [
 		],
