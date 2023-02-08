@@ -46135,6 +46135,20 @@ return [
 		'comments' => [
 		],
 	],
+	'adobeio-static.net' => [
+		'suffix' => 'adobeio-static.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Adobe Developer Platform : https://developer.adobe.com',
+			'Submitted by Jesse MacFadyen<jessem@adobe.com>',
+		],
+	],
+	'adobeioruntime.net' => [
+		'suffix' => 'adobeioruntime.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'beep.pl' => [
 		'suffix' => 'beep.pl',
 		'type' => 'PRIVATE',
@@ -47147,6 +47161,14 @@ return [
 			'Submitted by Lukas Reschke <lukas@authentick.net>',
 		],
 	],
+	'autocode.dev' => [
+		'suffix' => 'autocode.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Autocode : https://autocode.com',
+			'Submitted by Jacob Lee <jacob@autocode.com>',
+		],
+	],
 	'myfritz.net' => [
 		'suffix' => 'myfritz.net',
 		'type' => 'PRIVATE',
@@ -47476,6 +47498,20 @@ return [
 		'comments' => [
 			'callidomus : https://www.callidomus.com/',
 			'Submitted by Marcus Popp <admin@callidomus.com>',
+		],
+	],
+	'canva-apps.cn' => [
+		'suffix' => 'canva-apps.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Canva Pty Ltd : https://canva.com/',
+			'Submitted by Joel Aquilina <publicsuffixlist@canva.com>',
+		],
+	],
+	'canva-apps.com' => [
+		'suffix' => 'canva-apps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'drr.ac' => [
@@ -51511,6 +51547,12 @@ return [
 		'comments' => [
 			'Fastly Inc. : http://www.fastly.com/',
 			'Submitted by Fastly Security <security@fastly.com>',
+		],
+	],
+	'fastly-edge.com' => [
+		'suffix' => 'fastly-edge.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'fastly-terrarium.com' => [
@@ -57869,12 +57911,30 @@ return [
 			'Submitted by Dan Kozak <dan@smoove.io>',
 		],
 	],
-	'streamlitapp.com' => [
-		'suffix' => 'streamlitapp.com',
+	'snowflake.app' => [
+		'suffix' => 'snowflake.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Snowflake Inc : https://www.snowflake.com/',
 			'Submitted by Faith Olapade <faith.olapade@snowflake.com>',
+		],
+	],
+	'privatelink.snowflake.app' => [
+		'suffix' => 'privatelink.snowflake.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'streamlit.app' => [
+		'suffix' => 'streamlit.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'streamlitapp.com' => [
+		'suffix' => 'streamlitapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'try-snowplow.com' => [
