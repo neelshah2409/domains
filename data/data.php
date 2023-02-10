@@ -58903,6 +58903,14 @@ return [
 		'comments' => [
 		],
 	],
+	'it.com' => [
+		'suffix' => 'it.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'UK Intis Telecom LTD : https://it.com',
+			'Submitted by ITComdomains <to@it.com>',
+		],
+	],
 	'name.pm' => [
 		'suffix' => 'name.pm',
 		'type' => 'PRIVATE',
