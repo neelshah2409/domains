@@ -46185,6 +46185,98 @@ return [
 			'Submitted by Etienne Stalmans <security@aiven.io>',
 		],
 	],
+	'akadns.net' => [
+		'suffix' => 'akadns.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Akamai : https://www.akamai.com/',
+			'Submitted by Akamai Team <publicsuffixlist@akamai.com>',
+		],
+	],
+	'akamai.net' => [
+		'suffix' => 'akamai.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamai-staging.net' => [
+		'suffix' => 'akamai-staging.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamaiedge.net' => [
+		'suffix' => 'akamaiedge.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamaiedge-staging.net' => [
+		'suffix' => 'akamaiedge-staging.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamaihd.net' => [
+		'suffix' => 'akamaihd.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamaihd-staging.net' => [
+		'suffix' => 'akamaihd-staging.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamaiorigin.net' => [
+		'suffix' => 'akamaiorigin.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamaiorigin-staging.net' => [
+		'suffix' => 'akamaiorigin-staging.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamaized.net' => [
+		'suffix' => 'akamaized.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'akamaized-staging.net' => [
+		'suffix' => 'akamaized-staging.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'edgekey.net' => [
+		'suffix' => 'edgekey.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'edgekey-staging.net' => [
+		'suffix' => 'edgekey-staging.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'edgesuite.net' => [
+		'suffix' => 'edgesuite.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'edgesuite-staging.net' => [
+		'suffix' => 'edgesuite-staging.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'barsy.ca' => [
 		'suffix' => 'barsy.ca',
 		'type' => 'PRIVATE',
