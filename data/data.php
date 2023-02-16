@@ -55530,6 +55530,12 @@ return [
 		'comments' => [
 		],
 	],
+	'3.azurestaticapps.net' => [
+		'suffix' => '3.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'centralus.azurestaticapps.net' => [
 		'suffix' => 'centralus.azurestaticapps.net',
 		'type' => 'PRIVATE',
