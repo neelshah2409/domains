@@ -37996,7 +37996,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-02-15T15:49:53Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-02-22T15:15:03Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -40791,7 +40791,7 @@ return [
 		'suffix' => 'global',
 		'type' => 'ICANN',
 		'comments' => [
-			'global : 2014-04-17 Dot Global Domain Registry Limited',
+			'global : 2014-04-17 Identity Digital Limited',
 		],
 	],
 	'globo' => [
