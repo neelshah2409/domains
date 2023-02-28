@@ -57525,6 +57525,290 @@ return [
 		'comments' => [
 		],
 	],
+	'180r.com' => [
+		'suffix' => '180r.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'SAKURA Internet Inc. : https://www.sakura.ad.jp/',
+			'Submitted by Internet Service Department <rs-vendor-ml@sakura.ad.jp>',
+		],
+	],
+	'dojin.com' => [
+		'suffix' => 'dojin.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sakuratan.com' => [
+		'suffix' => 'sakuratan.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sakuraweb.com' => [
+		'suffix' => 'sakuraweb.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'x0.com' => [
+		'suffix' => 'x0.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'2-d.jp' => [
+		'suffix' => '2-d.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'bona.jp' => [
+		'suffix' => 'bona.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'crap.jp' => [
+		'suffix' => 'crap.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'daynight.jp' => [
+		'suffix' => 'daynight.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eek.jp' => [
+		'suffix' => 'eek.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'flop.jp' => [
+		'suffix' => 'flop.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'halfmoon.jp' => [
+		'suffix' => 'halfmoon.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jeez.jp' => [
+		'suffix' => 'jeez.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'matrix.jp' => [
+		'suffix' => 'matrix.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mimoza.jp' => [
+		'suffix' => 'mimoza.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ivory.ne.jp' => [
+		'suffix' => 'ivory.ne.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mail-box.ne.jp' => [
+		'suffix' => 'mail-box.ne.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mints.ne.jp' => [
+		'suffix' => 'mints.ne.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mokuren.ne.jp' => [
+		'suffix' => 'mokuren.ne.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'opal.ne.jp' => [
+		'suffix' => 'opal.ne.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sakura.ne.jp' => [
+		'suffix' => 'sakura.ne.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sumomo.ne.jp' => [
+		'suffix' => 'sumomo.ne.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'topaz.ne.jp' => [
+		'suffix' => 'topaz.ne.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'netgamers.jp' => [
+		'suffix' => 'netgamers.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nyanta.jp' => [
+		'suffix' => 'nyanta.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'o0o0.jp' => [
+		'suffix' => 'o0o0.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rdy.jp' => [
+		'suffix' => 'rdy.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rgr.jp' => [
+		'suffix' => 'rgr.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rulez.jp' => [
+		'suffix' => 'rulez.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.isk01.sakurastorage.jp' => [
+		'suffix' => 's3.isk01.sakurastorage.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.isk02.sakurastorage.jp' => [
+		'suffix' => 's3.isk02.sakurastorage.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'saloon.jp' => [
+		'suffix' => 'saloon.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sblo.jp' => [
+		'suffix' => 'sblo.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'skr.jp' => [
+		'suffix' => 'skr.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'tank.jp' => [
+		'suffix' => 'tank.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'uh-oh.jp' => [
+		'suffix' => 'uh-oh.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'undo.jp' => [
+		'suffix' => 'undo.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rs.webaccel.jp' => [
+		'suffix' => 'rs.webaccel.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'user.webaccel.jp' => [
+		'suffix' => 'user.webaccel.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'websozai.jp' => [
+		'suffix' => 'websozai.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xii.jp' => [
+		'suffix' => 'xii.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'squares.net' => [
+		'suffix' => 'squares.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jpn.org' => [
+		'suffix' => 'jpn.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kirara.st' => [
+		'suffix' => 'kirara.st',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'x0.to' => [
+		'suffix' => 'x0.to',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'from.tv' => [
+		'suffix' => 'from.tv',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sakura.tv' => [
+		'suffix' => 'sakura.tv',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.builder.code.com' => [
 		'suffix' => '*.builder.code.com',
 		'type' => 'PRIVATE',
