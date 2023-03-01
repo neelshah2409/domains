@@ -53796,6 +53796,14 @@ return [
 		'comments' => [
 		],
 	],
+	'ie.ua' => [
+		'suffix' => 'ie.ua',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'HostFly : https://www.ie.ua',
+			'Submitted by Bohdan Dub <support@hostfly.com.ua>',
+		],
+	],
 	'hostyhosting.io' => [
 		'suffix' => 'hostyhosting.io',
 		'type' => 'PRIVATE',
@@ -55738,12 +55746,84 @@ return [
 			'Submitted by Trung Tran <Trung.Tran@neustar.biz>',
 		],
 	],
-	'ngrok.io' => [
-		'suffix' => 'ngrok.io',
+	'ngrok.app' => [
+		'suffix' => 'ngrok.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'ngrok : https://ngrok.com/',
 			'Submitted by Alan Shreve <alan@ngrok.com>',
+		],
+	],
+	'ngrok-free.app' => [
+		'suffix' => 'ngrok-free.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ngrok.dev' => [
+		'suffix' => 'ngrok.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ngrok-free.dev' => [
+		'suffix' => 'ngrok-free.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ngrok.io' => [
+		'suffix' => 'ngrok.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ap.ngrok.io' => [
+		'suffix' => 'ap.ngrok.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'au.ngrok.io' => [
+		'suffix' => 'au.ngrok.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eu.ngrok.io' => [
+		'suffix' => 'eu.ngrok.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'in.ngrok.io' => [
+		'suffix' => 'in.ngrok.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jp.ngrok.io' => [
+		'suffix' => 'jp.ngrok.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sa.ngrok.io' => [
+		'suffix' => 'sa.ngrok.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us.ngrok.io' => [
+		'suffix' => 'us.ngrok.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ngrok.pizza' => [
+		'suffix' => 'ngrok.pizza',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'nh-serv.co.uk' => [
