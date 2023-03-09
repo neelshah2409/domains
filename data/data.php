@@ -37996,7 +37996,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-02-22T15:15:03Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-03-08T15:15:40Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -42136,13 +42136,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'luxury : 2013-10-17 Luxury Partners, LLC',
-		],
-	],
-	'macys' => [
-		'suffix' => 'macys',
-		'type' => 'ICANN',
-		'comments' => [
-			'macys : 2015-07-31 Macys, Inc.',
 		],
 	],
 	'madrid' => [
