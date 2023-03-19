@@ -37996,7 +37996,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-03-08T15:15:40Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-03-18T15:13:13Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -41975,13 +41975,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lincoln : 2014-11-13 Ford Motor Company',
-		],
-	],
-	'linde' => [
-		'suffix' => 'linde',
-		'type' => 'ICANN',
-		'comments' => [
-			'linde : 2014-12-04 Linde Aktiengesellschaft',
 		],
 	],
 	'link' => [
