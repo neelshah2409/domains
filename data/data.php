@@ -57253,6 +57253,14 @@ return [
 			'Submitted by Xavier De Cock <xdecock@gmail.com>',
 		],
 	],
+	'ladesk.com' => [
+		'suffix' => 'ladesk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Quality Unit: https://qualityunit.com',
+			'Submitted by Vasyl Tsalko <vtsalko@qualityunit.com>',
+		],
+	],
 	'qbuser.com' => [
 		'suffix' => 'qbuser.com',
 		'type' => 'PRIVATE',
