@@ -5085,8 +5085,7 @@ return [
 		'suffix' => 'fr',
 		'type' => 'ICANN',
 		'comments' => [
-			'fr : http://www.afnic.fr/',
-			'domaines descriptifs : https://www.afnic.fr/medias/documents/Cadre_legal/Afnic_Naming_Policy_12122016_VEN.pdf',
+			'fr : https://www.afnic.fr/ https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf',
 		],
 	],
 	'asso.fr' => [
@@ -5129,7 +5128,7 @@ return [
 		'suffix' => 'aeroport.fr',
 		'type' => 'ICANN',
 		'comments' => [
-			'domaines sectoriels : https://www.afnic.fr/en/products-and-services/the-fr-tld/sector-based-fr-domains-4.html',
+			'Former "domaines sectoriels", still registration suffixes',
 		],
 	],
 	'avocat.fr' => [
@@ -28933,7 +28932,7 @@ return [
 		'suffix' => 'pm',
 		'type' => 'ICANN',
 		'comments' => [
-			'pm : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf',
+			'pm : https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf',
 		],
 	],
 	'pn' => [
@@ -29396,7 +29395,7 @@ return [
 		'suffix' => 're',
 		'type' => 'ICANN',
 		'comments' => [
-			're : http://www.afnic.re/obtenir/chartes/nommage-re/annexe-descriptifs',
+			're : https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf',
 		],
 	],
 	'asso.re' => [
@@ -30548,7 +30547,7 @@ return [
 		'suffix' => 'tf',
 		'type' => 'ICANN',
 		'comments' => [
-			'tf : https://en.wikipedia.org/wiki/.tf',
+			'tf : https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf',
 		],
 	],
 	'tg' => [
@@ -33750,7 +33749,7 @@ return [
 		'suffix' => 'wf',
 		'type' => 'ICANN',
 		'comments' => [
-			'wf : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf',
+			'wf : https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf',
 		],
 	],
 	'ws' => [
@@ -33795,7 +33794,7 @@ return [
 		'suffix' => 'yt',
 		'type' => 'ICANN',
 		'comments' => [
-			'yt : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf',
+			'yt : https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf',
 		],
 	],
 	'امارات' => [
