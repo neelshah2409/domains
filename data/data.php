@@ -34718,7 +34718,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-03-18T15:13:13Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-04-14T15:13:16Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -39648,7 +39648,7 @@ return [
 		'suffix' => 'panasonic',
 		'type' => 'ICANN',
 		'comments' => [
-			'panasonic : 2015-07-30 Panasonic Corporation',
+			'panasonic : 2015-07-30 Panasonic Holdings Corporation',
 		],
 	],
 	'paris' => [
