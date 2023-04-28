@@ -31557,6 +31557,12 @@ return [
 		'comments' => [
 		],
 	],
+	'kropyvnytskyi.ua' => [
+		'suffix' => 'kropyvnytskyi.ua',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'krym.ua' => [
 		'suffix' => 'krym.ua',
 		'type' => 'ICANN',
