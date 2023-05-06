@@ -27937,6 +27937,12 @@ return [
 		'comments' => [
 		],
 	],
+	'griw.gov.pl' => [
+		'suffix' => 'griw.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'ic.gov.pl' => [
 		'suffix' => 'ic.gov.pl',
 		'type' => 'ICANN',
@@ -27949,14 +27955,14 @@ return [
 		'comments' => [
 		],
 	],
-	'us.gov.pl' => [
-		'suffix' => 'us.gov.pl',
+	'kmpsp.gov.pl' => [
+		'suffix' => 'kmpsp.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'kmpsp.gov.pl' => [
-		'suffix' => 'kmpsp.gov.pl',
+	'konsulat.gov.pl' => [
+		'suffix' => 'konsulat.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27967,26 +27973,20 @@ return [
 		'comments' => [
 		],
 	],
+	'kwp.gov.pl' => [
+		'suffix' => 'kwp.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'kwpsp.gov.pl' => [
 		'suffix' => 'kwpsp.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'psp.gov.pl' => [
-		'suffix' => 'psp.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'wskr.gov.pl' => [
-		'suffix' => 'wskr.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'kwp.gov.pl' => [
-		'suffix' => 'kwp.gov.pl',
+	'mup.gov.pl' => [
+		'suffix' => 'mup.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27997,44 +27997,38 @@ return [
 		'comments' => [
 		],
 	],
-	'ug.gov.pl' => [
-		'suffix' => 'ug.gov.pl',
+	'oia.gov.pl' => [
+		'suffix' => 'oia.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'um.gov.pl' => [
-		'suffix' => 'um.gov.pl',
+	'oirm.gov.pl' => [
+		'suffix' => 'oirm.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'umig.gov.pl' => [
-		'suffix' => 'umig.gov.pl',
+	'oke.gov.pl' => [
+		'suffix' => 'oke.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ugim.gov.pl' => [
-		'suffix' => 'ugim.gov.pl',
+	'oow.gov.pl' => [
+		'suffix' => 'oow.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'upow.gov.pl' => [
-		'suffix' => 'upow.gov.pl',
+	'oschr.gov.pl' => [
+		'suffix' => 'oschr.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'uw.gov.pl' => [
-		'suffix' => 'uw.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'starostwo.gov.pl' => [
-		'suffix' => 'starostwo.gov.pl',
+	'oum.gov.pl' => [
+		'suffix' => 'oum.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -28045,8 +28039,32 @@ return [
 		'comments' => [
 		],
 	],
+	'pinb.gov.pl' => [
+		'suffix' => 'pinb.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'piw.gov.pl' => [
+		'suffix' => 'piw.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'po.gov.pl' => [
 		'suffix' => 'po.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pr.gov.pl' => [
+		'suffix' => 'pr.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'psp.gov.pl' => [
+		'suffix' => 'psp.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -28075,6 +28093,18 @@ return [
 		'comments' => [
 		],
 	],
+	'sdn.gov.pl' => [
+		'suffix' => 'sdn.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sko.gov.pl' => [
+		'suffix' => 'sko.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'so.gov.pl' => [
 		'suffix' => 'so.gov.pl',
 		'type' => 'ICANN',
@@ -28087,20 +28117,68 @@ return [
 		'comments' => [
 		],
 	],
-	'wsa.gov.pl' => [
-		'suffix' => 'wsa.gov.pl',
+	'starostwo.gov.pl' => [
+		'suffix' => 'starostwo.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'sko.gov.pl' => [
-		'suffix' => 'sko.gov.pl',
+	'ug.gov.pl' => [
+		'suffix' => 'ug.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ugim.gov.pl' => [
+		'suffix' => 'ugim.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'um.gov.pl' => [
+		'suffix' => 'um.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'umig.gov.pl' => [
+		'suffix' => 'umig.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'upow.gov.pl' => [
+		'suffix' => 'upow.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'uppo.gov.pl' => [
+		'suffix' => 'uppo.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'us.gov.pl' => [
+		'suffix' => 'us.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'uw.gov.pl' => [
+		'suffix' => 'uw.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'uzs.gov.pl' => [
 		'suffix' => 'uzs.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'wif.gov.pl' => [
+		'suffix' => 'wif.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -28117,12 +28195,6 @@ return [
 		'comments' => [
 		],
 	],
-	'pinb.gov.pl' => [
-		'suffix' => 'pinb.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'wios.gov.pl' => [
 		'suffix' => 'wios.gov.pl',
 		'type' => 'ICANN',
@@ -28135,62 +28207,32 @@ return [
 		'comments' => [
 		],
 	],
-	'wzmiuw.gov.pl' => [
-		'suffix' => 'wzmiuw.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'piw.gov.pl' => [
-		'suffix' => 'piw.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'wiw.gov.pl' => [
 		'suffix' => 'wiw.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'griw.gov.pl' => [
-		'suffix' => 'griw.gov.pl',
+	'wkz.gov.pl' => [
+		'suffix' => 'wkz.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'wif.gov.pl' => [
-		'suffix' => 'wif.gov.pl',
+	'wsa.gov.pl' => [
+		'suffix' => 'wsa.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'oum.gov.pl' => [
-		'suffix' => 'oum.gov.pl',
+	'wskr.gov.pl' => [
+		'suffix' => 'wskr.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'sdn.gov.pl' => [
-		'suffix' => 'sdn.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'zp.gov.pl' => [
-		'suffix' => 'zp.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'uppo.gov.pl' => [
-		'suffix' => 'uppo.gov.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mup.gov.pl' => [
-		'suffix' => 'mup.gov.pl',
+	'wsse.gov.pl' => [
+		'suffix' => 'wsse.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -28201,14 +28243,20 @@ return [
 		'comments' => [
 		],
 	],
-	'konsulat.gov.pl' => [
-		'suffix' => 'konsulat.gov.pl',
+	'wzmiuw.gov.pl' => [
+		'suffix' => 'wzmiuw.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'oirm.gov.pl' => [
-		'suffix' => 'oirm.gov.pl',
+	'zp.gov.pl' => [
+		'suffix' => 'zp.gov.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'zpisdn.gov.pl' => [
+		'suffix' => 'zpisdn.gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
