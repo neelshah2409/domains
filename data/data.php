@@ -34772,7 +34772,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-04-14T15:13:16Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-06-07T15:13:30Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -34782,13 +34782,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aarp : 2015-05-21 AARP',
-		],
-	],
-	'abarth' => [
-		'suffix' => 'abarth',
-		'type' => 'ICANN',
-		'comments' => [
-			'abarth : 2015-07-30 Fiat Chrysler Automobiles N.V.',
 		],
 	],
 	'abb' => [
@@ -34971,13 +34964,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'akdn : 2015-04-23 Fondation Aga Khan (Aga Khan Foundation)',
-		],
-	],
-	'alfaromeo' => [
-		'suffix' => 'alfaromeo',
-		'type' => 'ICANN',
-		'comments' => [
-			'alfaromeo : 2015-07-31 Fiat Chrysler Automobiles N.V.',
 		],
 	],
 	'alibaba' => [
@@ -37108,13 +37094,6 @@ return [
 			'ferrero : 2014-12-18 Ferrero Trading Lux S.A.',
 		],
 	],
-	'fiat' => [
-		'suffix' => 'fiat',
-		'type' => 'ICANN',
-		'comments' => [
-			'fiat : 2015-07-31 Fiat Chrysler Automobiles N.V.',
-		],
-	],
 	'fidelity' => [
 		'suffix' => 'fidelity',
 		'type' => 'ICANN',
@@ -38557,13 +38536,6 @@ return [
 			'lancaster : 2015-02-12 LANCASTER',
 		],
 	],
-	'lancia' => [
-		'suffix' => 'lancia',
-		'type' => 'ICANN',
-		'comments' => [
-			'lancia : 2015-07-31 Fiat Chrysler Automobiles N.V.',
-		],
-	],
 	'land' => [
 		'suffix' => 'land',
 		'type' => 'ICANN',
@@ -38996,13 +38968,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'marshalls : 2015-07-16 The TJX Companies, Inc.',
-		],
-	],
-	'maserati' => [
-		'suffix' => 'maserati',
-		'type' => 'ICANN',
-		'comments' => [
-			'maserati : 2015-07-31 Fiat Chrysler Automobiles N.V.',
 		],
 	],
 	'mattel' => [
@@ -42649,7 +42614,7 @@ return [
 		'suffix' => '信息',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--vuq861b : 2014-10-16 Beijing Tele-info Network Technology Co., Ltd.',
+			'xn--vuq861b : 2014-10-16 Beijing Tele-info Technology Co., Ltd.',
 		],
 	],
 	'嘉里大酒店' => [
