@@ -34772,7 +34772,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-06-07T15:13:30Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-06-10T15:11:57Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -39527,14 +39527,14 @@ return [
 		'suffix' => 'olayan',
 		'type' => 'ICANN',
 		'comments' => [
-			'olayan : 2015-05-14 Crescent Holding GmbH',
+			'olayan : 2015-05-14 Competrol (Luxembourg) Sarl',
 		],
 	],
 	'olayangroup' => [
 		'suffix' => 'olayangroup',
 		'type' => 'ICANN',
 		'comments' => [
-			'olayangroup : 2015-05-14 Crescent Holding GmbH',
+			'olayangroup : 2015-05-14 Competrol (Luxembourg) Sarl',
 		],
 	],
 	'oldnavy' => [
@@ -42411,7 +42411,7 @@ return [
 		'suffix' => 'العليان',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgba7c0bbn0a : 2015-05-14 Crescent Holding GmbH',
+			'xn--mgba7c0bbn0a : 2015-05-14 Competrol (Luxembourg) Sarl',
 		],
 	],
 	'اتصالات' => [
