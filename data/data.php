@@ -33692,23 +33692,29 @@ return [
 		'suffix' => 'vn',
 		'type' => 'ICANN',
 		'comments' => [
-			'vn : https://www.dot.vn/vnnic/vnnic/domainregistration.jsp',
+			'vn : https://www.vnnic.vn/en/domain/cctld-vn',
+		],
+	],
+	'ac.vn' => [
+		'suffix' => 'ac.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ai.vn' => [
+		'suffix' => 'ai.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'biz.vn' => [
+		'suffix' => 'biz.vn',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'com.vn' => [
 		'suffix' => 'com.vn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.vn' => [
-		'suffix' => 'net.vn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.vn' => [
-		'suffix' => 'org.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33725,20 +33731,14 @@ return [
 		'comments' => [
 		],
 	],
-	'int.vn' => [
-		'suffix' => 'int.vn',
+	'health.vn' => [
+		'suffix' => 'health.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ac.vn' => [
-		'suffix' => 'ac.vn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'biz.vn' => [
-		'suffix' => 'biz.vn',
+	'id.vn' => [
+		'suffix' => 'id.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33749,20 +33749,38 @@ return [
 		'comments' => [
 		],
 	],
+	'int.vn' => [
+		'suffix' => 'int.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'io.vn' => [
+		'suffix' => 'io.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'name.vn' => [
 		'suffix' => 'name.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'pro.vn' => [
-		'suffix' => 'pro.vn',
+	'net.vn' => [
+		'suffix' => 'net.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'health.vn' => [
-		'suffix' => 'health.vn',
+	'org.vn' => [
+		'suffix' => 'org.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pro.vn' => [
+		'suffix' => 'pro.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
