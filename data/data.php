@@ -34790,7 +34790,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-06-10T15:11:57Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-06-14T15:13:06Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -37466,7 +37466,7 @@ return [
 		'suffix' => 'gay',
 		'type' => 'ICANN',
 		'comments' => [
-			'gay : 2019-05-23 Top Level Design, LLC',
+			'gay : 2019-05-23 Registry Services, LLC',
 		],
 	],
 	'gbiz' => [
@@ -38159,7 +38159,7 @@ return [
 		'suffix' => 'ink',
 		'type' => 'ICANN',
 		'comments' => [
-			'ink : 2013-12-05 Top Level Design, LLC',
+			'ink : 2013-12-05 Registry Services, LLC',
 		],
 	],
 	'institute' => [
@@ -41169,7 +41169,7 @@ return [
 		'suffix' => 'tattoo',
 		'type' => 'ICANN',
 		'comments' => [
-			'tattoo : 2013-08-30 Top Level Design, LLC',
+			'tattoo : 2013-08-30 Registry Services, LLC',
 		],
 	],
 	'tax' => [
@@ -41890,7 +41890,7 @@ return [
 		'suffix' => 'wiki',
 		'type' => 'ICANN',
 		'comments' => [
-			'wiki : 2013-11-07 Top Level Design, LLC',
+			'wiki : 2013-11-07 Registry Services, LLC',
 		],
 	],
 	'williamhill' => [
