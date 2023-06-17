@@ -33693,6 +33693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vn : https://www.vnnic.vn/en/domain/cctld-vn',
+			'https://vnnic.vn/sites/default/files/tailieu/vn.cctld.domains.txt',
 		],
 	],
 	'ac.vn' => [
@@ -33781,6 +33782,385 @@ return [
 	],
 	'pro.vn' => [
 		'suffix' => 'pro.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'angiang.vn' => [
+		'suffix' => 'angiang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+			'vn geographical names',
+		],
+	],
+	'bacgiang.vn' => [
+		'suffix' => 'bacgiang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'backan.vn' => [
+		'suffix' => 'backan.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'baclieu.vn' => [
+		'suffix' => 'baclieu.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bacninh.vn' => [
+		'suffix' => 'bacninh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'baria-vungtau.vn' => [
+		'suffix' => 'baria-vungtau.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bentre.vn' => [
+		'suffix' => 'bentre.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'binhdinh.vn' => [
+		'suffix' => 'binhdinh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'binhduong.vn' => [
+		'suffix' => 'binhduong.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'binhphuoc.vn' => [
+		'suffix' => 'binhphuoc.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'binhthuan.vn' => [
+		'suffix' => 'binhthuan.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'camau.vn' => [
+		'suffix' => 'camau.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'cantho.vn' => [
+		'suffix' => 'cantho.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'caobang.vn' => [
+		'suffix' => 'caobang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'daklak.vn' => [
+		'suffix' => 'daklak.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'daknong.vn' => [
+		'suffix' => 'daknong.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'danang.vn' => [
+		'suffix' => 'danang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'dienbien.vn' => [
+		'suffix' => 'dienbien.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'dongnai.vn' => [
+		'suffix' => 'dongnai.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'dongthap.vn' => [
+		'suffix' => 'dongthap.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gialai.vn' => [
+		'suffix' => 'gialai.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hagiang.vn' => [
+		'suffix' => 'hagiang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'haiduong.vn' => [
+		'suffix' => 'haiduong.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'haiphong.vn' => [
+		'suffix' => 'haiphong.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hanam.vn' => [
+		'suffix' => 'hanam.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hanoi.vn' => [
+		'suffix' => 'hanoi.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hatinh.vn' => [
+		'suffix' => 'hatinh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'haugiang.vn' => [
+		'suffix' => 'haugiang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hoabinh.vn' => [
+		'suffix' => 'hoabinh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hungyen.vn' => [
+		'suffix' => 'hungyen.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'khanhhoa.vn' => [
+		'suffix' => 'khanhhoa.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kiengiang.vn' => [
+		'suffix' => 'kiengiang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kontum.vn' => [
+		'suffix' => 'kontum.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'laichau.vn' => [
+		'suffix' => 'laichau.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lamdong.vn' => [
+		'suffix' => 'lamdong.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'langson.vn' => [
+		'suffix' => 'langson.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'laocai.vn' => [
+		'suffix' => 'laocai.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'longan.vn' => [
+		'suffix' => 'longan.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'namdinh.vn' => [
+		'suffix' => 'namdinh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'nghean.vn' => [
+		'suffix' => 'nghean.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ninhbinh.vn' => [
+		'suffix' => 'ninhbinh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ninhthuan.vn' => [
+		'suffix' => 'ninhthuan.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'phutho.vn' => [
+		'suffix' => 'phutho.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'phuyen.vn' => [
+		'suffix' => 'phuyen.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'quangbinh.vn' => [
+		'suffix' => 'quangbinh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'quangnam.vn' => [
+		'suffix' => 'quangnam.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'quangngai.vn' => [
+		'suffix' => 'quangngai.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'quangninh.vn' => [
+		'suffix' => 'quangninh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'quangtri.vn' => [
+		'suffix' => 'quangtri.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'soctrang.vn' => [
+		'suffix' => 'soctrang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sonla.vn' => [
+		'suffix' => 'sonla.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tayninh.vn' => [
+		'suffix' => 'tayninh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'thaibinh.vn' => [
+		'suffix' => 'thaibinh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'thainguyen.vn' => [
+		'suffix' => 'thainguyen.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'thanhhoa.vn' => [
+		'suffix' => 'thanhhoa.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'thanhphohochiminh.vn' => [
+		'suffix' => 'thanhphohochiminh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'thuathienhue.vn' => [
+		'suffix' => 'thuathienhue.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tiengiang.vn' => [
+		'suffix' => 'tiengiang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'travinh.vn' => [
+		'suffix' => 'travinh.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tuyenquang.vn' => [
+		'suffix' => 'tuyenquang.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vinhlong.vn' => [
+		'suffix' => 'vinhlong.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vinhphuc.vn' => [
+		'suffix' => 'vinhphuc.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'yenbai.vn' => [
+		'suffix' => 'yenbai.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34790,7 +35170,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-06-14T15:13:06Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-06-16T15:12:40Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -36349,13 +36729,6 @@ return [
 			'cooking : 2013-11-21 Registry Services, LLC',
 		],
 	],
-	'cookingchannel' => [
-		'suffix' => 'cookingchannel',
-		'type' => 'ICANN',
-		'comments' => [
-			'cookingchannel : 2015-07-02 Lifestyle Domain Holdings, Inc.',
-		],
-	],
 	'cool' => [
 		'suffix' => 'cool',
 		'type' => 'ICANN',
@@ -37259,13 +37632,6 @@ return [
 			'food : 2016-04-21 Lifestyle Domain Holdings, Inc.',
 		],
 	],
-	'foodnetwork' => [
-		'suffix' => 'foodnetwork',
-		'type' => 'ICANN',
-		'comments' => [
-			'foodnetwork : 2015-07-02 Lifestyle Domain Holdings, Inc.',
-		],
-	],
 	'football' => [
 		'suffix' => 'football',
 		'type' => 'ICANN',
@@ -37816,7 +38182,7 @@ return [
 		'suffix' => 'health',
 		'type' => 'ICANN',
 		'comments' => [
-			'health : 2015-02-11 DotHealth, LLC',
+			'health : 2015-02-11 Registry Services, LLC',
 		],
 	],
 	'healthcare' => [
@@ -37852,13 +38218,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hermes : 2014-07-10 HERMES INTERNATIONAL',
-		],
-	],
-	'hgtv' => [
-		'suffix' => 'hgtv',
-		'type' => 'ICANN',
-		'comments' => [
-			'hgtv : 2015-07-02 Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'hiphop' => [
@@ -41443,13 +41802,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'travel : 2015-10-09 Dog Beach, LLC',
-		],
-	],
-	'travelchannel' => [
-		'suffix' => 'travelchannel',
-		'type' => 'ICANN',
-		'comments' => [
-			'travelchannel : 2015-07-02 Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'travelers' => [
