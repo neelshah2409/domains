@@ -35170,7 +35170,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-06-16T15:12:40Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-07-01T15:13:06Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -41283,7 +41283,7 @@ return [
 		'suffix' => 'sport',
 		'type' => 'ICANN',
 		'comments' => [
-			'sport : 2017-11-16 Global Association of International Sports Federations (GAISF)',
+			'sport : 2017-11-16 SportAccord',
 		],
 	],
 	'spot' => [
