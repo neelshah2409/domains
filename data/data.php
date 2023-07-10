@@ -35170,7 +35170,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-07-01T15:13:06Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-07-08T15:13:18Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -38346,13 +38346,6 @@ return [
 			'hot : 2015-08-27 Amazon Registry Services, Inc.',
 		],
 	],
-	'hoteles' => [
-		'suffix' => 'hoteles',
-		'type' => 'ICANN',
-		'comments' => [
-			'hoteles : 2015-03-05 Travel Reservations SRL',
-		],
-	],
 	'hotels' => [
 		'suffix' => 'hotels',
 		'type' => 'ICANN',
@@ -40080,13 +40073,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'party : 2014-09-11 Blue Sky Registry Limited',
-		],
-	],
-	'passagens' => [
-		'suffix' => 'passagens',
-		'type' => 'ICANN',
-		'comments' => [
-			'passagens : 2015-03-05 Travel Reservations SRL',
 		],
 	],
 	'pay' => [
@@ -42110,13 +42096,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'voyage : 2013-08-27 Binky Moon, LLC',
-		],
-	],
-	'vuelos' => [
-		'suffix' => 'vuelos',
-		'type' => 'ICANN',
-		'comments' => [
-			'vuelos : 2015-03-05 Travel Reservations SRL',
 		],
 	],
 	'wales' => [
