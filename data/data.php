@@ -51475,12 +51475,6 @@ return [
 		'comments' => [
 		],
 	],
-	'users.scale.virtualcloud.com.br' => [
-		'suffix' => 'users.scale.virtualcloud.com.br',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'mycloud.by' => [
 		'suffix' => 'mycloud.by',
 		'type' => 'PRIVATE',
@@ -51619,20 +51613,8 @@ return [
 		'comments' => [
 		],
 	],
-	'clicketcloud.com' => [
-		'suffix' => 'clicketcloud.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'dopaas.com' => [
 		'suffix' => 'dopaas.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'hidora.com' => [
-		'suffix' => 'hidora.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55895,6 +55877,14 @@ return [
 		'comments' => [
 			'Standard Library : https://stdlib.com',
 			'Submitted by Jacob Lee <jacob@stdlib.com>',
+		],
+	],
+	'storipress.app' => [
+		'suffix' => 'storipress.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Storipress : https://storipress.com',
+			'Submitted by Benno Liu <benno@storipress.com>',
 		],
 	],
 	'storj.farm' => [
