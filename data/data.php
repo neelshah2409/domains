@@ -35170,7 +35170,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-07-08T15:13:18Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-07-28T15:13:22Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : 2015-02-26 American Automobile Association, Inc.',
 		],
@@ -41629,13 +41629,6 @@ return [
 			'tienda : 2013-11-14 Binky Moon, LLC',
 		],
 	],
-	'tiffany' => [
-		'suffix' => 'tiffany',
-		'type' => 'ICANN',
-		'comments' => [
-			'tiffany : 2015-01-30 Tiffany and Company',
-		],
-	],
 	'tips' => [
 		'suffix' => 'tips',
 		'type' => 'ICANN',
@@ -42487,14 +42480,14 @@ return [
 		'suffix' => 'онлайн',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--80asehdb : 2013-07-14 CORE Association',
+			'xn--80asehdb : 2023-07-14 CORE Association',
 		],
 	],
 	'сайт' => [
 		'suffix' => 'сайт',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--80aswg : 2013-07-14 CORE Association',
+			'xn--80aswg : 2023-07-14 CORE Association',
 		],
 	],
 	'联通' => [
@@ -42816,7 +42809,7 @@ return [
 		'suffix' => 'شبكة',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--ngbc5azd : 2013-07-13 International Domain Registry Pty. Ltd.',
+			'xn--ngbc5azd : 2023-07-13 International Domain Registry Pty. Ltd.',
 		],
 	],
 	'بيتك' => [
@@ -42935,7 +42928,7 @@ return [
 		'suffix' => '游戏',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--unup4y : 2013-07-14 Binky Moon, LLC',
+			'xn--unup4y : 2023-07-14 Binky Moon, LLC',
 		],
 	],
 	'vermögensberater' => [
