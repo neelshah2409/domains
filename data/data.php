@@ -35170,7940 +35170,7933 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-07-28T15:13:22Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-02T15:12:00Z',
 			'This list is auto-generated, don\'t edit it manually.',
-			'aaa : 2015-02-26 American Automobile Association, Inc.',
+			'aaa : American Automobile Association, Inc.',
 		],
 	],
 	'aarp' => [
 		'suffix' => 'aarp',
 		'type' => 'ICANN',
 		'comments' => [
-			'aarp : 2015-05-21 AARP',
+			'aarp : AARP',
 		],
 	],
 	'abb' => [
 		'suffix' => 'abb',
 		'type' => 'ICANN',
 		'comments' => [
-			'abb : 2014-10-24 ABB Ltd',
+			'abb : ABB Ltd',
 		],
 	],
 	'abbott' => [
 		'suffix' => 'abbott',
 		'type' => 'ICANN',
 		'comments' => [
-			'abbott : 2014-07-24 Abbott Laboratories, Inc.',
+			'abbott : Abbott Laboratories, Inc.',
 		],
 	],
 	'abbvie' => [
 		'suffix' => 'abbvie',
 		'type' => 'ICANN',
 		'comments' => [
-			'abbvie : 2015-07-30 AbbVie Inc.',
+			'abbvie : AbbVie Inc.',
 		],
 	],
 	'abc' => [
 		'suffix' => 'abc',
 		'type' => 'ICANN',
 		'comments' => [
-			'abc : 2015-07-30 Disney Enterprises, Inc.',
+			'abc : Disney Enterprises, Inc.',
 		],
 	],
 	'able' => [
 		'suffix' => 'able',
 		'type' => 'ICANN',
 		'comments' => [
-			'able : 2015-06-25 Able Inc.',
+			'able : Able Inc.',
 		],
 	],
 	'abogado' => [
 		'suffix' => 'abogado',
 		'type' => 'ICANN',
 		'comments' => [
-			'abogado : 2014-04-24 Registry Services, LLC',
+			'abogado : Registry Services, LLC',
 		],
 	],
 	'abudhabi' => [
 		'suffix' => 'abudhabi',
 		'type' => 'ICANN',
 		'comments' => [
-			'abudhabi : 2015-07-30 Abu Dhabi Systems and Information Centre',
+			'abudhabi : Abu Dhabi Systems and Information Centre',
 		],
 	],
 	'academy' => [
 		'suffix' => 'academy',
 		'type' => 'ICANN',
 		'comments' => [
-			'academy : 2013-11-07 Binky Moon, LLC',
+			'academy : Binky Moon, LLC',
 		],
 	],
 	'accenture' => [
 		'suffix' => 'accenture',
 		'type' => 'ICANN',
 		'comments' => [
-			'accenture : 2014-08-15 Accenture plc',
+			'accenture : Accenture plc',
 		],
 	],
 	'accountant' => [
 		'suffix' => 'accountant',
 		'type' => 'ICANN',
 		'comments' => [
-			'accountant : 2014-11-20 dot Accountant Limited',
+			'accountant : dot Accountant Limited',
 		],
 	],
 	'accountants' => [
 		'suffix' => 'accountants',
 		'type' => 'ICANN',
 		'comments' => [
-			'accountants : 2014-03-20 Binky Moon, LLC',
+			'accountants : Binky Moon, LLC',
 		],
 	],
 	'aco' => [
 		'suffix' => 'aco',
 		'type' => 'ICANN',
 		'comments' => [
-			'aco : 2015-01-08 ACO Severin Ahlmann GmbH & Co. KG',
+			'aco : ACO Severin Ahlmann GmbH & Co. KG',
 		],
 	],
 	'actor' => [
 		'suffix' => 'actor',
 		'type' => 'ICANN',
 		'comments' => [
-			'actor : 2013-12-12 Dog Beach, LLC',
+			'actor : Dog Beach, LLC',
 		],
 	],
 	'ads' => [
 		'suffix' => 'ads',
 		'type' => 'ICANN',
 		'comments' => [
-			'ads : 2014-12-04 Charleston Road Registry Inc.',
+			'ads : Charleston Road Registry Inc.',
 		],
 	],
 	'adult' => [
 		'suffix' => 'adult',
 		'type' => 'ICANN',
 		'comments' => [
-			'adult : 2014-10-16 ICM Registry AD LLC',
+			'adult : ICM Registry AD LLC',
 		],
 	],
 	'aeg' => [
 		'suffix' => 'aeg',
 		'type' => 'ICANN',
 		'comments' => [
-			'aeg : 2015-03-19 Aktiebolaget Electrolux',
+			'aeg : Aktiebolaget Electrolux',
 		],
 	],
 	'aetna' => [
 		'suffix' => 'aetna',
 		'type' => 'ICANN',
 		'comments' => [
-			'aetna : 2015-05-21 Aetna Life Insurance Company',
+			'aetna : Aetna Life Insurance Company',
 		],
 	],
 	'afl' => [
 		'suffix' => 'afl',
 		'type' => 'ICANN',
 		'comments' => [
-			'afl : 2014-10-02 Australian Football League',
+			'afl : Australian Football League',
 		],
 	],
 	'africa' => [
 		'suffix' => 'africa',
 		'type' => 'ICANN',
 		'comments' => [
-			'africa : 2014-03-24 ZA Central Registry NPC trading as Registry.Africa',
+			'africa : ZA Central Registry NPC trading as Registry.Africa',
 		],
 	],
 	'agakhan' => [
 		'suffix' => 'agakhan',
 		'type' => 'ICANN',
 		'comments' => [
-			'agakhan : 2015-04-23 Fondation Aga Khan (Aga Khan Foundation)',
+			'agakhan : Fondation Aga Khan (Aga Khan Foundation)',
 		],
 	],
 	'agency' => [
 		'suffix' => 'agency',
 		'type' => 'ICANN',
 		'comments' => [
-			'agency : 2013-11-14 Binky Moon, LLC',
+			'agency : Binky Moon, LLC',
 		],
 	],
 	'aig' => [
 		'suffix' => 'aig',
 		'type' => 'ICANN',
 		'comments' => [
-			'aig : 2014-12-18 American International Group, Inc.',
+			'aig : American International Group, Inc.',
 		],
 	],
 	'airbus' => [
 		'suffix' => 'airbus',
 		'type' => 'ICANN',
 		'comments' => [
-			'airbus : 2015-07-30 Airbus S.A.S.',
+			'airbus : Airbus S.A.S.',
 		],
 	],
 	'airforce' => [
 		'suffix' => 'airforce',
 		'type' => 'ICANN',
 		'comments' => [
-			'airforce : 2014-03-06 Dog Beach, LLC',
+			'airforce : Dog Beach, LLC',
 		],
 	],
 	'airtel' => [
 		'suffix' => 'airtel',
 		'type' => 'ICANN',
 		'comments' => [
-			'airtel : 2014-10-24 Bharti Airtel Limited',
+			'airtel : Bharti Airtel Limited',
 		],
 	],
 	'akdn' => [
 		'suffix' => 'akdn',
 		'type' => 'ICANN',
 		'comments' => [
-			'akdn : 2015-04-23 Fondation Aga Khan (Aga Khan Foundation)',
+			'akdn : Fondation Aga Khan (Aga Khan Foundation)',
 		],
 	],
 	'alibaba' => [
 		'suffix' => 'alibaba',
 		'type' => 'ICANN',
 		'comments' => [
-			'alibaba : 2015-01-15 Alibaba Group Holding Limited',
+			'alibaba : Alibaba Group Holding Limited',
 		],
 	],
 	'alipay' => [
 		'suffix' => 'alipay',
 		'type' => 'ICANN',
 		'comments' => [
-			'alipay : 2015-01-15 Alibaba Group Holding Limited',
+			'alipay : Alibaba Group Holding Limited',
 		],
 	],
 	'allfinanz' => [
 		'suffix' => 'allfinanz',
 		'type' => 'ICANN',
 		'comments' => [
-			'allfinanz : 2014-07-03 Allfinanz Deutsche Vermögensberatung Aktiengesellschaft',
+			'allfinanz : Allfinanz Deutsche Vermögensberatung Aktiengesellschaft',
 		],
 	],
 	'allstate' => [
 		'suffix' => 'allstate',
 		'type' => 'ICANN',
 		'comments' => [
-			'allstate : 2015-07-31 Allstate Fire and Casualty Insurance Company',
+			'allstate : Allstate Fire and Casualty Insurance Company',
 		],
 	],
 	'ally' => [
 		'suffix' => 'ally',
 		'type' => 'ICANN',
 		'comments' => [
-			'ally : 2015-06-18 Ally Financial Inc.',
+			'ally : Ally Financial Inc.',
 		],
 	],
 	'alsace' => [
 		'suffix' => 'alsace',
 		'type' => 'ICANN',
 		'comments' => [
-			'alsace : 2014-07-02 Region Grand Est',
+			'alsace : Region Grand Est',
 		],
 	],
 	'alstom' => [
 		'suffix' => 'alstom',
 		'type' => 'ICANN',
 		'comments' => [
-			'alstom : 2015-07-30 ALSTOM',
+			'alstom : ALSTOM',
 		],
 	],
 	'amazon' => [
 		'suffix' => 'amazon',
 		'type' => 'ICANN',
 		'comments' => [
-			'amazon : 2019-12-19 Amazon Registry Services, Inc.',
+			'amazon : Amazon Registry Services, Inc.',
 		],
 	],
 	'americanexpress' => [
 		'suffix' => 'americanexpress',
 		'type' => 'ICANN',
 		'comments' => [
-			'americanexpress : 2015-07-31 American Express Travel Related Services Company, Inc.',
+			'americanexpress : American Express Travel Related Services Company, Inc.',
 		],
 	],
 	'americanfamily' => [
 		'suffix' => 'americanfamily',
 		'type' => 'ICANN',
 		'comments' => [
-			'americanfamily : 2015-07-23 AmFam, Inc.',
+			'americanfamily : AmFam, Inc.',
 		],
 	],
 	'amex' => [
 		'suffix' => 'amex',
 		'type' => 'ICANN',
 		'comments' => [
-			'amex : 2015-07-31 American Express Travel Related Services Company, Inc.',
+			'amex : American Express Travel Related Services Company, Inc.',
 		],
 	],
 	'amfam' => [
 		'suffix' => 'amfam',
 		'type' => 'ICANN',
 		'comments' => [
-			'amfam : 2015-07-23 AmFam, Inc.',
+			'amfam : AmFam, Inc.',
 		],
 	],
 	'amica' => [
 		'suffix' => 'amica',
 		'type' => 'ICANN',
 		'comments' => [
-			'amica : 2015-05-28 Amica Mutual Insurance Company',
+			'amica : Amica Mutual Insurance Company',
 		],
 	],
 	'amsterdam' => [
 		'suffix' => 'amsterdam',
 		'type' => 'ICANN',
 		'comments' => [
-			'amsterdam : 2014-07-24 Gemeente Amsterdam',
+			'amsterdam : Gemeente Amsterdam',
 		],
 	],
 	'analytics' => [
 		'suffix' => 'analytics',
 		'type' => 'ICANN',
 		'comments' => [
-			'analytics : 2014-12-18 Campus IP LLC',
+			'analytics : Campus IP LLC',
 		],
 	],
 	'android' => [
 		'suffix' => 'android',
 		'type' => 'ICANN',
 		'comments' => [
-			'android : 2014-08-07 Charleston Road Registry Inc.',
+			'android : Charleston Road Registry Inc.',
 		],
 	],
 	'anquan' => [
 		'suffix' => 'anquan',
 		'type' => 'ICANN',
 		'comments' => [
-			'anquan : 2015-01-08 Beijing Qihu Keji Co., Ltd.',
+			'anquan : Beijing Qihu Keji Co., Ltd.',
 		],
 	],
 	'anz' => [
 		'suffix' => 'anz',
 		'type' => 'ICANN',
 		'comments' => [
-			'anz : 2015-07-31 Australia and New Zealand Banking Group Limited',
+			'anz : Australia and New Zealand Banking Group Limited',
 		],
 	],
 	'aol' => [
 		'suffix' => 'aol',
 		'type' => 'ICANN',
 		'comments' => [
-			'aol : 2015-09-17 Oath Inc.',
+			'aol : Oath Inc.',
 		],
 	],
 	'apartments' => [
 		'suffix' => 'apartments',
 		'type' => 'ICANN',
 		'comments' => [
-			'apartments : 2014-12-11 Binky Moon, LLC',
+			'apartments : Binky Moon, LLC',
 		],
 	],
 	'app' => [
 		'suffix' => 'app',
 		'type' => 'ICANN',
 		'comments' => [
-			'app : 2015-05-14 Charleston Road Registry Inc.',
+			'app : Charleston Road Registry Inc.',
 		],
 	],
 	'apple' => [
 		'suffix' => 'apple',
 		'type' => 'ICANN',
 		'comments' => [
-			'apple : 2015-05-14 Apple Inc.',
+			'apple : Apple Inc.',
 		],
 	],
 	'aquarelle' => [
 		'suffix' => 'aquarelle',
 		'type' => 'ICANN',
 		'comments' => [
-			'aquarelle : 2014-07-24 Aquarelle.com',
+			'aquarelle : Aquarelle.com',
 		],
 	],
 	'arab' => [
 		'suffix' => 'arab',
 		'type' => 'ICANN',
 		'comments' => [
-			'arab : 2015-11-12 League of Arab States',
+			'arab : League of Arab States',
 		],
 	],
 	'aramco' => [
 		'suffix' => 'aramco',
 		'type' => 'ICANN',
 		'comments' => [
-			'aramco : 2014-11-20 Aramco Services Company',
+			'aramco : Aramco Services Company',
 		],
 	],
 	'archi' => [
 		'suffix' => 'archi',
 		'type' => 'ICANN',
 		'comments' => [
-			'archi : 2014-02-06 Identity Digital Limited',
+			'archi : Identity Digital Limited',
 		],
 	],
 	'army' => [
 		'suffix' => 'army',
 		'type' => 'ICANN',
 		'comments' => [
-			'army : 2014-03-06 Dog Beach, LLC',
+			'army : Dog Beach, LLC',
 		],
 	],
 	'art' => [
 		'suffix' => 'art',
 		'type' => 'ICANN',
 		'comments' => [
-			'art : 2016-03-24 UK Creative Ideas Limited',
+			'art : UK Creative Ideas Limited',
 		],
 	],
 	'arte' => [
 		'suffix' => 'arte',
 		'type' => 'ICANN',
 		'comments' => [
-			'arte : 2014-12-11 Association Relative à la Télévision Européenne G.E.I.E.',
+			'arte : Association Relative à la Télévision Européenne G.E.I.E.',
 		],
 	],
 	'asda' => [
 		'suffix' => 'asda',
 		'type' => 'ICANN',
 		'comments' => [
-			'asda : 2015-07-31 Wal-Mart Stores, Inc.',
+			'asda : Wal-Mart Stores, Inc.',
 		],
 	],
 	'associates' => [
 		'suffix' => 'associates',
 		'type' => 'ICANN',
 		'comments' => [
-			'associates : 2014-03-06 Binky Moon, LLC',
+			'associates : Binky Moon, LLC',
 		],
 	],
 	'athleta' => [
 		'suffix' => 'athleta',
 		'type' => 'ICANN',
 		'comments' => [
-			'athleta : 2015-07-30 The Gap, Inc.',
+			'athleta : The Gap, Inc.',
 		],
 	],
 	'attorney' => [
 		'suffix' => 'attorney',
 		'type' => 'ICANN',
 		'comments' => [
-			'attorney : 2014-03-20 Dog Beach, LLC',
+			'attorney : Dog Beach, LLC',
 		],
 	],
 	'auction' => [
 		'suffix' => 'auction',
 		'type' => 'ICANN',
 		'comments' => [
-			'auction : 2014-03-20 Dog Beach, LLC',
+			'auction : Dog Beach, LLC',
 		],
 	],
 	'audi' => [
 		'suffix' => 'audi',
 		'type' => 'ICANN',
 		'comments' => [
-			'audi : 2015-05-21 AUDI Aktiengesellschaft',
+			'audi : AUDI Aktiengesellschaft',
 		],
 	],
 	'audible' => [
 		'suffix' => 'audible',
 		'type' => 'ICANN',
 		'comments' => [
-			'audible : 2015-06-25 Amazon Registry Services, Inc.',
+			'audible : Amazon Registry Services, Inc.',
 		],
 	],
 	'audio' => [
 		'suffix' => 'audio',
 		'type' => 'ICANN',
 		'comments' => [
-			'audio : 2014-03-20 XYZ.COM LLC',
+			'audio : XYZ.COM LLC',
 		],
 	],
 	'auspost' => [
 		'suffix' => 'auspost',
 		'type' => 'ICANN',
 		'comments' => [
-			'auspost : 2015-08-13 Australian Postal Corporation',
+			'auspost : Australian Postal Corporation',
 		],
 	],
 	'author' => [
 		'suffix' => 'author',
 		'type' => 'ICANN',
 		'comments' => [
-			'author : 2014-12-18 Amazon Registry Services, Inc.',
+			'author : Amazon Registry Services, Inc.',
 		],
 	],
 	'auto' => [
 		'suffix' => 'auto',
 		'type' => 'ICANN',
 		'comments' => [
-			'auto : 2014-11-13 XYZ.COM LLC',
+			'auto : XYZ.COM LLC',
 		],
 	],
 	'autos' => [
 		'suffix' => 'autos',
 		'type' => 'ICANN',
 		'comments' => [
-			'autos : 2014-01-09 XYZ.COM LLC',
+			'autos : XYZ.COM LLC',
 		],
 	],
 	'avianca' => [
 		'suffix' => 'avianca',
 		'type' => 'ICANN',
 		'comments' => [
-			'avianca : 2015-01-08 Avianca Inc.',
+			'avianca : Avianca Inc.',
 		],
 	],
 	'aws' => [
 		'suffix' => 'aws',
 		'type' => 'ICANN',
 		'comments' => [
-			'aws : 2015-06-25 AWS Registry LLC',
+			'aws : AWS Registry LLC',
 		],
 	],
 	'axa' => [
 		'suffix' => 'axa',
 		'type' => 'ICANN',
 		'comments' => [
-			'axa : 2013-12-19 AXA Group Operations SAS',
+			'axa : AXA Group Operations SAS',
 		],
 	],
 	'azure' => [
 		'suffix' => 'azure',
 		'type' => 'ICANN',
 		'comments' => [
-			'azure : 2014-12-18 Microsoft Corporation',
+			'azure : Microsoft Corporation',
 		],
 	],
 	'baby' => [
 		'suffix' => 'baby',
 		'type' => 'ICANN',
 		'comments' => [
-			'baby : 2015-04-09 XYZ.COM LLC',
+			'baby : XYZ.COM LLC',
 		],
 	],
 	'baidu' => [
 		'suffix' => 'baidu',
 		'type' => 'ICANN',
 		'comments' => [
-			'baidu : 2015-01-08 Baidu, Inc.',
+			'baidu : Baidu, Inc.',
 		],
 	],
 	'banamex' => [
 		'suffix' => 'banamex',
 		'type' => 'ICANN',
 		'comments' => [
-			'banamex : 2015-07-30 Citigroup Inc.',
+			'banamex : Citigroup Inc.',
 		],
 	],
 	'bananarepublic' => [
 		'suffix' => 'bananarepublic',
 		'type' => 'ICANN',
 		'comments' => [
-			'bananarepublic : 2015-07-31 The Gap, Inc.',
+			'bananarepublic : The Gap, Inc.',
 		],
 	],
 	'band' => [
 		'suffix' => 'band',
 		'type' => 'ICANN',
 		'comments' => [
-			'band : 2014-06-12 Dog Beach, LLC',
+			'band : Dog Beach, LLC',
 		],
 	],
 	'bank' => [
 		'suffix' => 'bank',
 		'type' => 'ICANN',
 		'comments' => [
-			'bank : 2014-09-25 fTLD Registry Services LLC',
+			'bank : fTLD Registry Services LLC',
 		],
 	],
 	'bar' => [
 		'suffix' => 'bar',
 		'type' => 'ICANN',
 		'comments' => [
-			'bar : 2013-12-12 Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable',
+			'bar : Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable',
 		],
 	],
 	'barcelona' => [
 		'suffix' => 'barcelona',
 		'type' => 'ICANN',
 		'comments' => [
-			'barcelona : 2014-07-24 Municipi de Barcelona',
+			'barcelona : Municipi de Barcelona',
 		],
 	],
 	'barclaycard' => [
 		'suffix' => 'barclaycard',
 		'type' => 'ICANN',
 		'comments' => [
-			'barclaycard : 2014-11-20 Barclays Bank PLC',
+			'barclaycard : Barclays Bank PLC',
 		],
 	],
 	'barclays' => [
 		'suffix' => 'barclays',
 		'type' => 'ICANN',
 		'comments' => [
-			'barclays : 2014-11-20 Barclays Bank PLC',
+			'barclays : Barclays Bank PLC',
 		],
 	],
 	'barefoot' => [
 		'suffix' => 'barefoot',
 		'type' => 'ICANN',
 		'comments' => [
-			'barefoot : 2015-06-11 Gallo Vineyards, Inc.',
+			'barefoot : Gallo Vineyards, Inc.',
 		],
 	],
 	'bargains' => [
 		'suffix' => 'bargains',
 		'type' => 'ICANN',
 		'comments' => [
-			'bargains : 2013-11-14 Binky Moon, LLC',
+			'bargains : Binky Moon, LLC',
 		],
 	],
 	'baseball' => [
 		'suffix' => 'baseball',
 		'type' => 'ICANN',
 		'comments' => [
-			'baseball : 2015-10-29 MLB Advanced Media DH, LLC',
+			'baseball : MLB Advanced Media DH, LLC',
 		],
 	],
 	'basketball' => [
 		'suffix' => 'basketball',
 		'type' => 'ICANN',
 		'comments' => [
-			'basketball : 2015-08-20 Fédération Internationale de Basketball (FIBA)',
+			'basketball : Fédération Internationale de Basketball (FIBA)',
 		],
 	],
 	'bauhaus' => [
 		'suffix' => 'bauhaus',
 		'type' => 'ICANN',
 		'comments' => [
-			'bauhaus : 2014-04-17 Werkhaus GmbH',
+			'bauhaus : Werkhaus GmbH',
 		],
 	],
 	'bayern' => [
 		'suffix' => 'bayern',
 		'type' => 'ICANN',
 		'comments' => [
-			'bayern : 2014-01-23 Bayern Connect GmbH',
+			'bayern : Bayern Connect GmbH',
 		],
 	],
 	'bbc' => [
 		'suffix' => 'bbc',
 		'type' => 'ICANN',
 		'comments' => [
-			'bbc : 2014-12-18 British Broadcasting Corporation',
+			'bbc : British Broadcasting Corporation',
 		],
 	],
 	'bbt' => [
 		'suffix' => 'bbt',
 		'type' => 'ICANN',
 		'comments' => [
-			'bbt : 2015-07-23 BB&T Corporation',
+			'bbt : BB&T Corporation',
 		],
 	],
 	'bbva' => [
 		'suffix' => 'bbva',
 		'type' => 'ICANN',
 		'comments' => [
-			'bbva : 2014-10-02 BANCO BILBAO VIZCAYA ARGENTARIA, S.A.',
+			'bbva : BANCO BILBAO VIZCAYA ARGENTARIA, S.A.',
 		],
 	],
 	'bcg' => [
 		'suffix' => 'bcg',
 		'type' => 'ICANN',
 		'comments' => [
-			'bcg : 2015-04-02 The Boston Consulting Group, Inc.',
+			'bcg : The Boston Consulting Group, Inc.',
 		],
 	],
 	'bcn' => [
 		'suffix' => 'bcn',
 		'type' => 'ICANN',
 		'comments' => [
-			'bcn : 2014-07-24 Municipi de Barcelona',
+			'bcn : Municipi de Barcelona',
 		],
 	],
 	'beats' => [
 		'suffix' => 'beats',
 		'type' => 'ICANN',
 		'comments' => [
-			'beats : 2015-05-14 Beats Electronics, LLC',
+			'beats : Beats Electronics, LLC',
 		],
 	],
 	'beauty' => [
 		'suffix' => 'beauty',
 		'type' => 'ICANN',
 		'comments' => [
-			'beauty : 2015-12-03 XYZ.COM LLC',
+			'beauty : XYZ.COM LLC',
 		],
 	],
 	'beer' => [
 		'suffix' => 'beer',
 		'type' => 'ICANN',
 		'comments' => [
-			'beer : 2014-01-09 Registry Services, LLC',
+			'beer : Registry Services, LLC',
 		],
 	],
 	'bentley' => [
 		'suffix' => 'bentley',
 		'type' => 'ICANN',
 		'comments' => [
-			'bentley : 2014-12-18 Bentley Motors Limited',
+			'bentley : Bentley Motors Limited',
 		],
 	],
 	'berlin' => [
 		'suffix' => 'berlin',
 		'type' => 'ICANN',
 		'comments' => [
-			'berlin : 2013-10-31 dotBERLIN GmbH & Co. KG',
+			'berlin : dotBERLIN GmbH & Co. KG',
 		],
 	],
 	'best' => [
 		'suffix' => 'best',
 		'type' => 'ICANN',
 		'comments' => [
-			'best : 2013-12-19 BestTLD Pty Ltd',
+			'best : BestTLD Pty Ltd',
 		],
 	],
 	'bestbuy' => [
 		'suffix' => 'bestbuy',
 		'type' => 'ICANN',
 		'comments' => [
-			'bestbuy : 2015-07-31 BBY Solutions, Inc.',
+			'bestbuy : BBY Solutions, Inc.',
 		],
 	],
 	'bet' => [
 		'suffix' => 'bet',
 		'type' => 'ICANN',
 		'comments' => [
-			'bet : 2015-05-07 Identity Digital Limited',
+			'bet : Identity Digital Limited',
 		],
 	],
 	'bharti' => [
 		'suffix' => 'bharti',
 		'type' => 'ICANN',
 		'comments' => [
-			'bharti : 2014-01-09 Bharti Enterprises (Holding) Private Limited',
+			'bharti : Bharti Enterprises (Holding) Private Limited',
 		],
 	],
 	'bible' => [
 		'suffix' => 'bible',
 		'type' => 'ICANN',
 		'comments' => [
-			'bible : 2014-06-19 American Bible Society',
+			'bible : American Bible Society',
 		],
 	],
 	'bid' => [
 		'suffix' => 'bid',
 		'type' => 'ICANN',
 		'comments' => [
-			'bid : 2013-12-19 dot Bid Limited',
+			'bid : dot Bid Limited',
 		],
 	],
 	'bike' => [
 		'suffix' => 'bike',
 		'type' => 'ICANN',
 		'comments' => [
-			'bike : 2013-08-27 Binky Moon, LLC',
+			'bike : Binky Moon, LLC',
 		],
 	],
 	'bing' => [
 		'suffix' => 'bing',
 		'type' => 'ICANN',
 		'comments' => [
-			'bing : 2014-12-18 Microsoft Corporation',
+			'bing : Microsoft Corporation',
 		],
 	],
 	'bingo' => [
 		'suffix' => 'bingo',
 		'type' => 'ICANN',
 		'comments' => [
-			'bingo : 2014-12-04 Binky Moon, LLC',
+			'bingo : Binky Moon, LLC',
 		],
 	],
 	'bio' => [
 		'suffix' => 'bio',
 		'type' => 'ICANN',
 		'comments' => [
-			'bio : 2014-03-06 Identity Digital Limited',
+			'bio : Identity Digital Limited',
 		],
 	],
 	'black' => [
 		'suffix' => 'black',
 		'type' => 'ICANN',
 		'comments' => [
-			'black : 2014-01-16 Identity Digital Limited',
+			'black : Identity Digital Limited',
 		],
 	],
 	'blackfriday' => [
 		'suffix' => 'blackfriday',
 		'type' => 'ICANN',
 		'comments' => [
-			'blackfriday : 2014-01-16 Registry Services, LLC',
+			'blackfriday : Registry Services, LLC',
 		],
 	],
 	'blockbuster' => [
 		'suffix' => 'blockbuster',
 		'type' => 'ICANN',
 		'comments' => [
-			'blockbuster : 2015-07-30 Dish DBS Corporation',
+			'blockbuster : Dish DBS Corporation',
 		],
 	],
 	'blog' => [
 		'suffix' => 'blog',
 		'type' => 'ICANN',
 		'comments' => [
-			'blog : 2015-05-14 Knock Knock WHOIS There, LLC',
+			'blog : Knock Knock WHOIS There, LLC',
 		],
 	],
 	'bloomberg' => [
 		'suffix' => 'bloomberg',
 		'type' => 'ICANN',
 		'comments' => [
-			'bloomberg : 2014-07-17 Bloomberg IP Holdings LLC',
+			'bloomberg : Bloomberg IP Holdings LLC',
 		],
 	],
 	'blue' => [
 		'suffix' => 'blue',
 		'type' => 'ICANN',
 		'comments' => [
-			'blue : 2013-11-07 Identity Digital Limited',
+			'blue : Identity Digital Limited',
 		],
 	],
 	'bms' => [
 		'suffix' => 'bms',
 		'type' => 'ICANN',
 		'comments' => [
-			'bms : 2014-10-30 Bristol-Myers Squibb Company',
+			'bms : Bristol-Myers Squibb Company',
 		],
 	],
 	'bmw' => [
 		'suffix' => 'bmw',
 		'type' => 'ICANN',
 		'comments' => [
-			'bmw : 2014-01-09 Bayerische Motoren Werke Aktiengesellschaft',
+			'bmw : Bayerische Motoren Werke Aktiengesellschaft',
 		],
 	],
 	'bnpparibas' => [
 		'suffix' => 'bnpparibas',
 		'type' => 'ICANN',
 		'comments' => [
-			'bnpparibas : 2014-05-29 BNP Paribas',
+			'bnpparibas : BNP Paribas',
 		],
 	],
 	'boats' => [
 		'suffix' => 'boats',
 		'type' => 'ICANN',
 		'comments' => [
-			'boats : 2014-12-04 XYZ.COM LLC',
+			'boats : XYZ.COM LLC',
 		],
 	],
 	'boehringer' => [
 		'suffix' => 'boehringer',
 		'type' => 'ICANN',
 		'comments' => [
-			'boehringer : 2015-07-09 Boehringer Ingelheim International GmbH',
+			'boehringer : Boehringer Ingelheim International GmbH',
 		],
 	],
 	'bofa' => [
 		'suffix' => 'bofa',
 		'type' => 'ICANN',
 		'comments' => [
-			'bofa : 2015-07-31 Bank of America Corporation',
+			'bofa : Bank of America Corporation',
 		],
 	],
 	'bom' => [
 		'suffix' => 'bom',
 		'type' => 'ICANN',
 		'comments' => [
-			'bom : 2014-10-16 Núcleo de Informação e Coordenação do Ponto BR - NIC.br',
+			'bom : Núcleo de Informação e Coordenação do Ponto BR - NIC.br',
 		],
 	],
 	'bond' => [
 		'suffix' => 'bond',
 		'type' => 'ICANN',
 		'comments' => [
-			'bond : 2014-06-05 ShortDot SA',
+			'bond : ShortDot SA',
 		],
 	],
 	'boo' => [
 		'suffix' => 'boo',
 		'type' => 'ICANN',
 		'comments' => [
-			'boo : 2014-01-30 Charleston Road Registry Inc.',
+			'boo : Charleston Road Registry Inc.',
 		],
 	],
 	'book' => [
 		'suffix' => 'book',
 		'type' => 'ICANN',
 		'comments' => [
-			'book : 2015-08-27 Amazon Registry Services, Inc.',
+			'book : Amazon Registry Services, Inc.',
 		],
 	],
 	'booking' => [
 		'suffix' => 'booking',
 		'type' => 'ICANN',
 		'comments' => [
-			'booking : 2015-07-16 Booking.com B.V.',
+			'booking : Booking.com B.V.',
 		],
 	],
 	'bosch' => [
 		'suffix' => 'bosch',
 		'type' => 'ICANN',
 		'comments' => [
-			'bosch : 2015-06-18 Robert Bosch GMBH',
+			'bosch : Robert Bosch GMBH',
 		],
 	],
 	'bostik' => [
 		'suffix' => 'bostik',
 		'type' => 'ICANN',
 		'comments' => [
-			'bostik : 2015-05-28 Bostik SA',
+			'bostik : Bostik SA',
 		],
 	],
 	'boston' => [
 		'suffix' => 'boston',
 		'type' => 'ICANN',
 		'comments' => [
-			'boston : 2015-12-10 Registry Services, LLC',
+			'boston : Registry Services, LLC',
 		],
 	],
 	'bot' => [
 		'suffix' => 'bot',
 		'type' => 'ICANN',
 		'comments' => [
-			'bot : 2014-12-18 Amazon Registry Services, Inc.',
+			'bot : Amazon Registry Services, Inc.',
 		],
 	],
 	'boutique' => [
 		'suffix' => 'boutique',
 		'type' => 'ICANN',
 		'comments' => [
-			'boutique : 2013-11-14 Binky Moon, LLC',
+			'boutique : Binky Moon, LLC',
 		],
 	],
 	'box' => [
 		'suffix' => 'box',
 		'type' => 'ICANN',
 		'comments' => [
-			'box : 2015-11-12 Intercap Registry Inc.',
+			'box : Intercap Registry Inc.',
 		],
 	],
 	'bradesco' => [
 		'suffix' => 'bradesco',
 		'type' => 'ICANN',
 		'comments' => [
-			'bradesco : 2014-12-18 Banco Bradesco S.A.',
+			'bradesco : Banco Bradesco S.A.',
 		],
 	],
 	'bridgestone' => [
 		'suffix' => 'bridgestone',
 		'type' => 'ICANN',
 		'comments' => [
-			'bridgestone : 2014-12-18 Bridgestone Corporation',
+			'bridgestone : Bridgestone Corporation',
 		],
 	],
 	'broadway' => [
 		'suffix' => 'broadway',
 		'type' => 'ICANN',
 		'comments' => [
-			'broadway : 2014-12-22 Celebrate Broadway, Inc.',
+			'broadway : Celebrate Broadway, Inc.',
 		],
 	],
 	'broker' => [
 		'suffix' => 'broker',
 		'type' => 'ICANN',
 		'comments' => [
-			'broker : 2014-12-11 Dog Beach, LLC',
+			'broker : Dog Beach, LLC',
 		],
 	],
 	'brother' => [
 		'suffix' => 'brother',
 		'type' => 'ICANN',
 		'comments' => [
-			'brother : 2015-01-29 Brother Industries, Ltd.',
+			'brother : Brother Industries, Ltd.',
 		],
 	],
 	'brussels' => [
 		'suffix' => 'brussels',
 		'type' => 'ICANN',
 		'comments' => [
-			'brussels : 2014-02-06 DNS.be vzw',
+			'brussels : DNS.be vzw',
 		],
 	],
 	'build' => [
 		'suffix' => 'build',
 		'type' => 'ICANN',
 		'comments' => [
-			'build : 2013-11-07 Plan Bee LLC',
+			'build : Plan Bee LLC',
 		],
 	],
 	'builders' => [
 		'suffix' => 'builders',
 		'type' => 'ICANN',
 		'comments' => [
-			'builders : 2013-11-07 Binky Moon, LLC',
+			'builders : Binky Moon, LLC',
 		],
 	],
 	'business' => [
 		'suffix' => 'business',
 		'type' => 'ICANN',
 		'comments' => [
-			'business : 2013-11-07 Binky Moon, LLC',
+			'business : Binky Moon, LLC',
 		],
 	],
 	'buy' => [
 		'suffix' => 'buy',
 		'type' => 'ICANN',
 		'comments' => [
-			'buy : 2014-12-18 Amazon Registry Services, Inc.',
+			'buy : Amazon Registry Services, Inc.',
 		],
 	],
 	'buzz' => [
 		'suffix' => 'buzz',
 		'type' => 'ICANN',
 		'comments' => [
-			'buzz : 2013-10-02 DOTSTRATEGY CO.',
+			'buzz : DOTSTRATEGY CO.',
 		],
 	],
 	'bzh' => [
 		'suffix' => 'bzh',
 		'type' => 'ICANN',
 		'comments' => [
-			'bzh : 2014-02-27 Association www.bzh',
+			'bzh : Association www.bzh',
 		],
 	],
 	'cab' => [
 		'suffix' => 'cab',
 		'type' => 'ICANN',
 		'comments' => [
-			'cab : 2013-10-24 Binky Moon, LLC',
+			'cab : Binky Moon, LLC',
 		],
 	],
 	'cafe' => [
 		'suffix' => 'cafe',
 		'type' => 'ICANN',
 		'comments' => [
-			'cafe : 2015-02-11 Binky Moon, LLC',
+			'cafe : Binky Moon, LLC',
 		],
 	],
 	'cal' => [
 		'suffix' => 'cal',
 		'type' => 'ICANN',
 		'comments' => [
-			'cal : 2014-07-24 Charleston Road Registry Inc.',
+			'cal : Charleston Road Registry Inc.',
 		],
 	],
 	'call' => [
 		'suffix' => 'call',
 		'type' => 'ICANN',
 		'comments' => [
-			'call : 2014-12-18 Amazon Registry Services, Inc.',
+			'call : Amazon Registry Services, Inc.',
 		],
 	],
 	'calvinklein' => [
 		'suffix' => 'calvinklein',
 		'type' => 'ICANN',
 		'comments' => [
-			'calvinklein : 2015-07-30 PVH gTLD Holdings LLC',
+			'calvinklein : PVH gTLD Holdings LLC',
 		],
 	],
 	'cam' => [
 		'suffix' => 'cam',
 		'type' => 'ICANN',
 		'comments' => [
-			'cam : 2016-04-21 Cam Connecting SARL',
+			'cam : Cam Connecting SARL',
 		],
 	],
 	'camera' => [
 		'suffix' => 'camera',
 		'type' => 'ICANN',
 		'comments' => [
-			'camera : 2013-08-27 Binky Moon, LLC',
+			'camera : Binky Moon, LLC',
 		],
 	],
 	'camp' => [
 		'suffix' => 'camp',
 		'type' => 'ICANN',
 		'comments' => [
-			'camp : 2013-11-07 Binky Moon, LLC',
+			'camp : Binky Moon, LLC',
 		],
 	],
 	'canon' => [
 		'suffix' => 'canon',
 		'type' => 'ICANN',
 		'comments' => [
-			'canon : 2014-09-12 Canon Inc.',
+			'canon : Canon Inc.',
 		],
 	],
 	'capetown' => [
 		'suffix' => 'capetown',
 		'type' => 'ICANN',
 		'comments' => [
-			'capetown : 2014-03-24 ZA Central Registry NPC trading as ZA Central Registry',
+			'capetown : ZA Central Registry NPC trading as ZA Central Registry',
 		],
 	],
 	'capital' => [
 		'suffix' => 'capital',
 		'type' => 'ICANN',
 		'comments' => [
-			'capital : 2014-03-06 Binky Moon, LLC',
+			'capital : Binky Moon, LLC',
 		],
 	],
 	'capitalone' => [
 		'suffix' => 'capitalone',
 		'type' => 'ICANN',
 		'comments' => [
-			'capitalone : 2015-08-06 Capital One Financial Corporation',
+			'capitalone : Capital One Financial Corporation',
 		],
 	],
 	'car' => [
 		'suffix' => 'car',
 		'type' => 'ICANN',
 		'comments' => [
-			'car : 2015-01-22 XYZ.COM LLC',
+			'car : XYZ.COM LLC',
 		],
 	],
 	'caravan' => [
 		'suffix' => 'caravan',
 		'type' => 'ICANN',
 		'comments' => [
-			'caravan : 2013-12-12 Caravan International, Inc.',
+			'caravan : Caravan International, Inc.',
 		],
 	],
 	'cards' => [
 		'suffix' => 'cards',
 		'type' => 'ICANN',
 		'comments' => [
-			'cards : 2013-12-05 Binky Moon, LLC',
+			'cards : Binky Moon, LLC',
 		],
 	],
 	'care' => [
 		'suffix' => 'care',
 		'type' => 'ICANN',
 		'comments' => [
-			'care : 2014-03-06 Binky Moon, LLC',
+			'care : Binky Moon, LLC',
 		],
 	],
 	'career' => [
 		'suffix' => 'career',
 		'type' => 'ICANN',
 		'comments' => [
-			'career : 2013-10-09 dotCareer LLC',
+			'career : dotCareer LLC',
 		],
 	],
 	'careers' => [
 		'suffix' => 'careers',
 		'type' => 'ICANN',
 		'comments' => [
-			'careers : 2013-10-02 Binky Moon, LLC',
+			'careers : Binky Moon, LLC',
 		],
 	],
 	'cars' => [
 		'suffix' => 'cars',
 		'type' => 'ICANN',
 		'comments' => [
-			'cars : 2014-11-13 XYZ.COM LLC',
+			'cars : XYZ.COM LLC',
 		],
 	],
 	'casa' => [
 		'suffix' => 'casa',
 		'type' => 'ICANN',
 		'comments' => [
-			'casa : 2013-11-21 Registry Services, LLC',
+			'casa : Registry Services, LLC',
 		],
 	],
 	'case' => [
 		'suffix' => 'case',
 		'type' => 'ICANN',
 		'comments' => [
-			'case : 2015-09-03 Digity, LLC',
+			'case : Digity, LLC',
 		],
 	],
 	'cash' => [
 		'suffix' => 'cash',
 		'type' => 'ICANN',
 		'comments' => [
-			'cash : 2014-03-06 Binky Moon, LLC',
+			'cash : Binky Moon, LLC',
 		],
 	],
 	'casino' => [
 		'suffix' => 'casino',
 		'type' => 'ICANN',
 		'comments' => [
-			'casino : 2014-12-18 Binky Moon, LLC',
+			'casino : Binky Moon, LLC',
 		],
 	],
 	'catering' => [
 		'suffix' => 'catering',
 		'type' => 'ICANN',
 		'comments' => [
-			'catering : 2013-12-05 Binky Moon, LLC',
+			'catering : Binky Moon, LLC',
 		],
 	],
 	'catholic' => [
 		'suffix' => 'catholic',
 		'type' => 'ICANN',
 		'comments' => [
-			'catholic : 2015-10-21 Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
+			'catholic : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
 		],
 	],
 	'cba' => [
 		'suffix' => 'cba',
 		'type' => 'ICANN',
 		'comments' => [
-			'cba : 2014-06-26 COMMONWEALTH BANK OF AUSTRALIA',
+			'cba : COMMONWEALTH BANK OF AUSTRALIA',
 		],
 	],
 	'cbn' => [
 		'suffix' => 'cbn',
 		'type' => 'ICANN',
 		'comments' => [
-			'cbn : 2014-08-22 The Christian Broadcasting Network, Inc.',
+			'cbn : The Christian Broadcasting Network, Inc.',
 		],
 	],
 	'cbre' => [
 		'suffix' => 'cbre',
 		'type' => 'ICANN',
 		'comments' => [
-			'cbre : 2015-07-02 CBRE, Inc.',
+			'cbre : CBRE, Inc.',
 		],
 	],
 	'cbs' => [
 		'suffix' => 'cbs',
 		'type' => 'ICANN',
 		'comments' => [
-			'cbs : 2015-08-06 CBS Domains Inc.',
+			'cbs : CBS Domains Inc.',
 		],
 	],
 	'center' => [
 		'suffix' => 'center',
 		'type' => 'ICANN',
 		'comments' => [
-			'center : 2013-11-07 Binky Moon, LLC',
+			'center : Binky Moon, LLC',
 		],
 	],
 	'ceo' => [
 		'suffix' => 'ceo',
 		'type' => 'ICANN',
 		'comments' => [
-			'ceo : 2013-11-07 CEOTLD Pty Ltd',
+			'ceo : CEOTLD Pty Ltd',
 		],
 	],
 	'cern' => [
 		'suffix' => 'cern',
 		'type' => 'ICANN',
 		'comments' => [
-			'cern : 2014-06-05 European Organization for Nuclear Research ("CERN")',
+			'cern : European Organization for Nuclear Research ("CERN")',
 		],
 	],
 	'cfa' => [
 		'suffix' => 'cfa',
 		'type' => 'ICANN',
 		'comments' => [
-			'cfa : 2014-08-28 CFA Institute',
+			'cfa : CFA Institute',
 		],
 	],
 	'cfd' => [
 		'suffix' => 'cfd',
 		'type' => 'ICANN',
 		'comments' => [
-			'cfd : 2014-12-11 ShortDot SA',
+			'cfd : ShortDot SA',
 		],
 	],
 	'chanel' => [
 		'suffix' => 'chanel',
 		'type' => 'ICANN',
 		'comments' => [
-			'chanel : 2015-04-09 Chanel International B.V.',
+			'chanel : Chanel International B.V.',
 		],
 	],
 	'channel' => [
 		'suffix' => 'channel',
 		'type' => 'ICANN',
 		'comments' => [
-			'channel : 2014-05-08 Charleston Road Registry Inc.',
+			'channel : Charleston Road Registry Inc.',
 		],
 	],
 	'charity' => [
 		'suffix' => 'charity',
 		'type' => 'ICANN',
 		'comments' => [
-			'charity : 2018-04-11 Public Interest Registry',
+			'charity : Public Interest Registry',
 		],
 	],
 	'chase' => [
 		'suffix' => 'chase',
 		'type' => 'ICANN',
 		'comments' => [
-			'chase : 2015-04-30 JPMorgan Chase Bank, National Association',
+			'chase : JPMorgan Chase Bank, National Association',
 		],
 	],
 	'chat' => [
 		'suffix' => 'chat',
 		'type' => 'ICANN',
 		'comments' => [
-			'chat : 2014-12-04 Binky Moon, LLC',
+			'chat : Binky Moon, LLC',
 		],
 	],
 	'cheap' => [
 		'suffix' => 'cheap',
 		'type' => 'ICANN',
 		'comments' => [
-			'cheap : 2013-11-14 Binky Moon, LLC',
+			'cheap : Binky Moon, LLC',
 		],
 	],
 	'chintai' => [
 		'suffix' => 'chintai',
 		'type' => 'ICANN',
 		'comments' => [
-			'chintai : 2015-06-11 CHINTAI Corporation',
+			'chintai : CHINTAI Corporation',
 		],
 	],
 	'christmas' => [
 		'suffix' => 'christmas',
 		'type' => 'ICANN',
 		'comments' => [
-			'christmas : 2013-11-21 XYZ.COM LLC',
+			'christmas : XYZ.COM LLC',
 		],
 	],
 	'chrome' => [
 		'suffix' => 'chrome',
 		'type' => 'ICANN',
 		'comments' => [
-			'chrome : 2014-07-24 Charleston Road Registry Inc.',
+			'chrome : Charleston Road Registry Inc.',
 		],
 	],
 	'church' => [
 		'suffix' => 'church',
 		'type' => 'ICANN',
 		'comments' => [
-			'church : 2014-02-06 Binky Moon, LLC',
+			'church : Binky Moon, LLC',
 		],
 	],
 	'cipriani' => [
 		'suffix' => 'cipriani',
 		'type' => 'ICANN',
 		'comments' => [
-			'cipriani : 2015-02-19 Hotel Cipriani Srl',
+			'cipriani : Hotel Cipriani Srl',
 		],
 	],
 	'circle' => [
 		'suffix' => 'circle',
 		'type' => 'ICANN',
 		'comments' => [
-			'circle : 2014-12-18 Amazon Registry Services, Inc.',
+			'circle : Amazon Registry Services, Inc.',
 		],
 	],
 	'cisco' => [
 		'suffix' => 'cisco',
 		'type' => 'ICANN',
 		'comments' => [
-			'cisco : 2014-12-22 Cisco Technology, Inc.',
+			'cisco : Cisco Technology, Inc.',
 		],
 	],
 	'citadel' => [
 		'suffix' => 'citadel',
 		'type' => 'ICANN',
 		'comments' => [
-			'citadel : 2015-07-23 Citadel Domain LLC',
+			'citadel : Citadel Domain LLC',
 		],
 	],
 	'citi' => [
 		'suffix' => 'citi',
 		'type' => 'ICANN',
 		'comments' => [
-			'citi : 2015-07-30 Citigroup Inc.',
+			'citi : Citigroup Inc.',
 		],
 	],
 	'citic' => [
 		'suffix' => 'citic',
 		'type' => 'ICANN',
 		'comments' => [
-			'citic : 2014-01-09 CITIC Group Corporation',
+			'citic : CITIC Group Corporation',
 		],
 	],
 	'city' => [
 		'suffix' => 'city',
 		'type' => 'ICANN',
 		'comments' => [
-			'city : 2014-05-29 Binky Moon, LLC',
+			'city : Binky Moon, LLC',
 		],
 	],
 	'cityeats' => [
 		'suffix' => 'cityeats',
 		'type' => 'ICANN',
 		'comments' => [
-			'cityeats : 2014-12-11 Lifestyle Domain Holdings, Inc.',
+			'cityeats : Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'claims' => [
 		'suffix' => 'claims',
 		'type' => 'ICANN',
 		'comments' => [
-			'claims : 2014-03-20 Binky Moon, LLC',
+			'claims : Binky Moon, LLC',
 		],
 	],
 	'cleaning' => [
 		'suffix' => 'cleaning',
 		'type' => 'ICANN',
 		'comments' => [
-			'cleaning : 2013-12-05 Binky Moon, LLC',
+			'cleaning : Binky Moon, LLC',
 		],
 	],
 	'click' => [
 		'suffix' => 'click',
 		'type' => 'ICANN',
 		'comments' => [
-			'click : 2014-06-05 Internet Naming Company LLC',
+			'click : Internet Naming Company LLC',
 		],
 	],
 	'clinic' => [
 		'suffix' => 'clinic',
 		'type' => 'ICANN',
 		'comments' => [
-			'clinic : 2014-03-20 Binky Moon, LLC',
+			'clinic : Binky Moon, LLC',
 		],
 	],
 	'clinique' => [
 		'suffix' => 'clinique',
 		'type' => 'ICANN',
 		'comments' => [
-			'clinique : 2015-10-01 The Estée Lauder Companies Inc.',
+			'clinique : The Estée Lauder Companies Inc.',
 		],
 	],
 	'clothing' => [
 		'suffix' => 'clothing',
 		'type' => 'ICANN',
 		'comments' => [
-			'clothing : 2013-08-27 Binky Moon, LLC',
+			'clothing : Binky Moon, LLC',
 		],
 	],
 	'cloud' => [
 		'suffix' => 'cloud',
 		'type' => 'ICANN',
 		'comments' => [
-			'cloud : 2015-04-16 Aruba PEC S.p.A.',
+			'cloud : Aruba PEC S.p.A.',
 		],
 	],
 	'club' => [
 		'suffix' => 'club',
 		'type' => 'ICANN',
 		'comments' => [
-			'club : 2013-11-08 Registry Services, LLC',
+			'club : Registry Services, LLC',
 		],
 	],
 	'clubmed' => [
 		'suffix' => 'clubmed',
 		'type' => 'ICANN',
 		'comments' => [
-			'clubmed : 2015-06-25 Club Méditerranée S.A.',
+			'clubmed : Club Méditerranée S.A.',
 		],
 	],
 	'coach' => [
 		'suffix' => 'coach',
 		'type' => 'ICANN',
 		'comments' => [
-			'coach : 2014-10-09 Binky Moon, LLC',
+			'coach : Binky Moon, LLC',
 		],
 	],
 	'codes' => [
 		'suffix' => 'codes',
 		'type' => 'ICANN',
 		'comments' => [
-			'codes : 2013-10-31 Binky Moon, LLC',
+			'codes : Binky Moon, LLC',
 		],
 	],
 	'coffee' => [
 		'suffix' => 'coffee',
 		'type' => 'ICANN',
 		'comments' => [
-			'coffee : 2013-10-17 Binky Moon, LLC',
+			'coffee : Binky Moon, LLC',
 		],
 	],
 	'college' => [
 		'suffix' => 'college',
 		'type' => 'ICANN',
 		'comments' => [
-			'college : 2014-01-16 XYZ.COM LLC',
+			'college : XYZ.COM LLC',
 		],
 	],
 	'cologne' => [
 		'suffix' => 'cologne',
 		'type' => 'ICANN',
 		'comments' => [
-			'cologne : 2014-02-05 dotKoeln GmbH',
+			'cologne : dotKoeln GmbH',
 		],
 	],
 	'comcast' => [
 		'suffix' => 'comcast',
 		'type' => 'ICANN',
 		'comments' => [
-			'comcast : 2015-07-23 Comcast IP Holdings I, LLC',
+			'comcast : Comcast IP Holdings I, LLC',
 		],
 	],
 	'commbank' => [
 		'suffix' => 'commbank',
 		'type' => 'ICANN',
 		'comments' => [
-			'commbank : 2014-06-26 COMMONWEALTH BANK OF AUSTRALIA',
+			'commbank : COMMONWEALTH BANK OF AUSTRALIA',
 		],
 	],
 	'community' => [
 		'suffix' => 'community',
 		'type' => 'ICANN',
 		'comments' => [
-			'community : 2013-12-05 Binky Moon, LLC',
+			'community : Binky Moon, LLC',
 		],
 	],
 	'company' => [
 		'suffix' => 'company',
 		'type' => 'ICANN',
 		'comments' => [
-			'company : 2013-11-07 Binky Moon, LLC',
+			'company : Binky Moon, LLC',
 		],
 	],
 	'compare' => [
 		'suffix' => 'compare',
 		'type' => 'ICANN',
 		'comments' => [
-			'compare : 2015-10-08 Registry Services, LLC',
+			'compare : Registry Services, LLC',
 		],
 	],
 	'computer' => [
 		'suffix' => 'computer',
 		'type' => 'ICANN',
 		'comments' => [
-			'computer : 2013-10-24 Binky Moon, LLC',
+			'computer : Binky Moon, LLC',
 		],
 	],
 	'comsec' => [
 		'suffix' => 'comsec',
 		'type' => 'ICANN',
 		'comments' => [
-			'comsec : 2015-01-08 VeriSign, Inc.',
+			'comsec : VeriSign, Inc.',
 		],
 	],
 	'condos' => [
 		'suffix' => 'condos',
 		'type' => 'ICANN',
 		'comments' => [
-			'condos : 2013-12-05 Binky Moon, LLC',
+			'condos : Binky Moon, LLC',
 		],
 	],
 	'construction' => [
 		'suffix' => 'construction',
 		'type' => 'ICANN',
 		'comments' => [
-			'construction : 2013-09-16 Binky Moon, LLC',
+			'construction : Binky Moon, LLC',
 		],
 	],
 	'consulting' => [
 		'suffix' => 'consulting',
 		'type' => 'ICANN',
 		'comments' => [
-			'consulting : 2013-12-05 Dog Beach, LLC',
+			'consulting : Dog Beach, LLC',
 		],
 	],
 	'contact' => [
 		'suffix' => 'contact',
 		'type' => 'ICANN',
 		'comments' => [
-			'contact : 2015-01-08 Dog Beach, LLC',
+			'contact : Dog Beach, LLC',
 		],
 	],
 	'contractors' => [
 		'suffix' => 'contractors',
 		'type' => 'ICANN',
 		'comments' => [
-			'contractors : 2013-09-10 Binky Moon, LLC',
+			'contractors : Binky Moon, LLC',
 		],
 	],
 	'cooking' => [
 		'suffix' => 'cooking',
 		'type' => 'ICANN',
 		'comments' => [
-			'cooking : 2013-11-21 Registry Services, LLC',
+			'cooking : Registry Services, LLC',
 		],
 	],
 	'cool' => [
 		'suffix' => 'cool',
 		'type' => 'ICANN',
 		'comments' => [
-			'cool : 2013-11-14 Binky Moon, LLC',
+			'cool : Binky Moon, LLC',
 		],
 	],
 	'corsica' => [
 		'suffix' => 'corsica',
 		'type' => 'ICANN',
 		'comments' => [
-			'corsica : 2014-09-25 Collectivité de Corse',
+			'corsica : Collectivité de Corse',
 		],
 	],
 	'country' => [
 		'suffix' => 'country',
 		'type' => 'ICANN',
 		'comments' => [
-			'country : 2013-12-19 Internet Naming Company LLC',
+			'country : Internet Naming Company LLC',
 		],
 	],
 	'coupon' => [
 		'suffix' => 'coupon',
 		'type' => 'ICANN',
 		'comments' => [
-			'coupon : 2015-02-26 Amazon Registry Services, Inc.',
+			'coupon : Amazon Registry Services, Inc.',
 		],
 	],
 	'coupons' => [
 		'suffix' => 'coupons',
 		'type' => 'ICANN',
 		'comments' => [
-			'coupons : 2015-03-26 Binky Moon, LLC',
+			'coupons : Binky Moon, LLC',
 		],
 	],
 	'courses' => [
 		'suffix' => 'courses',
 		'type' => 'ICANN',
 		'comments' => [
-			'courses : 2014-12-04 Registry Services, LLC',
+			'courses : Registry Services, LLC',
 		],
 	],
 	'cpa' => [
 		'suffix' => 'cpa',
 		'type' => 'ICANN',
 		'comments' => [
-			'cpa : 2019-06-10 American Institute of Certified Public Accountants',
+			'cpa : American Institute of Certified Public Accountants',
 		],
 	],
 	'credit' => [
 		'suffix' => 'credit',
 		'type' => 'ICANN',
 		'comments' => [
-			'credit : 2014-03-20 Binky Moon, LLC',
+			'credit : Binky Moon, LLC',
 		],
 	],
 	'creditcard' => [
 		'suffix' => 'creditcard',
 		'type' => 'ICANN',
 		'comments' => [
-			'creditcard : 2014-03-20 Binky Moon, LLC',
+			'creditcard : Binky Moon, LLC',
 		],
 	],
 	'creditunion' => [
 		'suffix' => 'creditunion',
 		'type' => 'ICANN',
 		'comments' => [
-			'creditunion : 2015-01-22 DotCooperation LLC',
+			'creditunion : DotCooperation LLC',
 		],
 	],
 	'cricket' => [
 		'suffix' => 'cricket',
 		'type' => 'ICANN',
 		'comments' => [
-			'cricket : 2014-10-09 dot Cricket Limited',
+			'cricket : dot Cricket Limited',
 		],
 	],
 	'crown' => [
 		'suffix' => 'crown',
 		'type' => 'ICANN',
 		'comments' => [
-			'crown : 2014-10-24 Crown Equipment Corporation',
+			'crown : Crown Equipment Corporation',
 		],
 	],
 	'crs' => [
 		'suffix' => 'crs',
 		'type' => 'ICANN',
 		'comments' => [
-			'crs : 2014-04-03 Federated Co-operatives Limited',
+			'crs : Federated Co-operatives Limited',
 		],
 	],
 	'cruise' => [
 		'suffix' => 'cruise',
 		'type' => 'ICANN',
 		'comments' => [
-			'cruise : 2015-12-10 Viking River Cruises (Bermuda) Ltd.',
+			'cruise : Viking River Cruises (Bermuda) Ltd.',
 		],
 	],
 	'cruises' => [
 		'suffix' => 'cruises',
 		'type' => 'ICANN',
 		'comments' => [
-			'cruises : 2013-12-05 Binky Moon, LLC',
+			'cruises : Binky Moon, LLC',
 		],
 	],
 	'cuisinella' => [
 		'suffix' => 'cuisinella',
 		'type' => 'ICANN',
 		'comments' => [
-			'cuisinella : 2014-04-03 SCHMIDT GROUPE S.A.S.',
+			'cuisinella : SCHMIDT GROUPE S.A.S.',
 		],
 	],
 	'cymru' => [
 		'suffix' => 'cymru',
 		'type' => 'ICANN',
 		'comments' => [
-			'cymru : 2014-05-08 Nominet UK',
+			'cymru : Nominet UK',
 		],
 	],
 	'cyou' => [
 		'suffix' => 'cyou',
 		'type' => 'ICANN',
 		'comments' => [
-			'cyou : 2015-01-22 ShortDot SA',
+			'cyou : ShortDot SA',
 		],
 	],
 	'dabur' => [
 		'suffix' => 'dabur',
 		'type' => 'ICANN',
 		'comments' => [
-			'dabur : 2014-02-06 Dabur India Limited',
+			'dabur : Dabur India Limited',
 		],
 	],
 	'dad' => [
 		'suffix' => 'dad',
 		'type' => 'ICANN',
 		'comments' => [
-			'dad : 2014-01-23 Charleston Road Registry Inc.',
+			'dad : Charleston Road Registry Inc.',
 		],
 	],
 	'dance' => [
 		'suffix' => 'dance',
 		'type' => 'ICANN',
 		'comments' => [
-			'dance : 2013-10-24 Dog Beach, LLC',
+			'dance : Dog Beach, LLC',
 		],
 	],
 	'data' => [
 		'suffix' => 'data',
 		'type' => 'ICANN',
 		'comments' => [
-			'data : 2016-06-02 Dish DBS Corporation',
+			'data : Dish DBS Corporation',
 		],
 	],
 	'date' => [
 		'suffix' => 'date',
 		'type' => 'ICANN',
 		'comments' => [
-			'date : 2014-11-20 dot Date Limited',
+			'date : dot Date Limited',
 		],
 	],
 	'dating' => [
 		'suffix' => 'dating',
 		'type' => 'ICANN',
 		'comments' => [
-			'dating : 2013-12-05 Binky Moon, LLC',
+			'dating : Binky Moon, LLC',
 		],
 	],
 	'datsun' => [
 		'suffix' => 'datsun',
 		'type' => 'ICANN',
 		'comments' => [
-			'datsun : 2014-03-27 NISSAN MOTOR CO., LTD.',
+			'datsun : NISSAN MOTOR CO., LTD.',
 		],
 	],
 	'day' => [
 		'suffix' => 'day',
 		'type' => 'ICANN',
 		'comments' => [
-			'day : 2014-01-30 Charleston Road Registry Inc.',
+			'day : Charleston Road Registry Inc.',
 		],
 	],
 	'dclk' => [
 		'suffix' => 'dclk',
 		'type' => 'ICANN',
 		'comments' => [
-			'dclk : 2014-11-20 Charleston Road Registry Inc.',
+			'dclk : Charleston Road Registry Inc.',
 		],
 	],
 	'dds' => [
 		'suffix' => 'dds',
 		'type' => 'ICANN',
 		'comments' => [
-			'dds : 2015-05-07 Registry Services, LLC',
+			'dds : Registry Services, LLC',
 		],
 	],
 	'deal' => [
 		'suffix' => 'deal',
 		'type' => 'ICANN',
 		'comments' => [
-			'deal : 2015-06-25 Amazon Registry Services, Inc.',
+			'deal : Amazon Registry Services, Inc.',
 		],
 	],
 	'dealer' => [
 		'suffix' => 'dealer',
 		'type' => 'ICANN',
 		'comments' => [
-			'dealer : 2014-12-22 Intercap Registry Inc.',
+			'dealer : Intercap Registry Inc.',
 		],
 	],
 	'deals' => [
 		'suffix' => 'deals',
 		'type' => 'ICANN',
 		'comments' => [
-			'deals : 2014-05-22 Binky Moon, LLC',
+			'deals : Binky Moon, LLC',
 		],
 	],
 	'degree' => [
 		'suffix' => 'degree',
 		'type' => 'ICANN',
 		'comments' => [
-			'degree : 2014-03-06 Dog Beach, LLC',
+			'degree : Dog Beach, LLC',
 		],
 	],
 	'delivery' => [
 		'suffix' => 'delivery',
 		'type' => 'ICANN',
 		'comments' => [
-			'delivery : 2014-09-11 Binky Moon, LLC',
+			'delivery : Binky Moon, LLC',
 		],
 	],
 	'dell' => [
 		'suffix' => 'dell',
 		'type' => 'ICANN',
 		'comments' => [
-			'dell : 2014-10-24 Dell Inc.',
+			'dell : Dell Inc.',
 		],
 	],
 	'deloitte' => [
 		'suffix' => 'deloitte',
 		'type' => 'ICANN',
 		'comments' => [
-			'deloitte : 2015-07-31 Deloitte Touche Tohmatsu',
+			'deloitte : Deloitte Touche Tohmatsu',
 		],
 	],
 	'delta' => [
 		'suffix' => 'delta',
 		'type' => 'ICANN',
 		'comments' => [
-			'delta : 2015-02-19 Delta Air Lines, Inc.',
+			'delta : Delta Air Lines, Inc.',
 		],
 	],
 	'democrat' => [
 		'suffix' => 'democrat',
 		'type' => 'ICANN',
 		'comments' => [
-			'democrat : 2013-10-24 Dog Beach, LLC',
+			'democrat : Dog Beach, LLC',
 		],
 	],
 	'dental' => [
 		'suffix' => 'dental',
 		'type' => 'ICANN',
 		'comments' => [
-			'dental : 2014-03-20 Binky Moon, LLC',
+			'dental : Binky Moon, LLC',
 		],
 	],
 	'dentist' => [
 		'suffix' => 'dentist',
 		'type' => 'ICANN',
 		'comments' => [
-			'dentist : 2014-03-20 Dog Beach, LLC',
+			'dentist : Dog Beach, LLC',
 		],
 	],
 	'desi' => [
 		'suffix' => 'desi',
 		'type' => 'ICANN',
 		'comments' => [
-			'desi : 2013-11-14 Desi Networks LLC',
+			'desi : Desi Networks LLC',
 		],
 	],
 	'design' => [
 		'suffix' => 'design',
 		'type' => 'ICANN',
 		'comments' => [
-			'design : 2014-11-07 Registry Services, LLC',
+			'design : Registry Services, LLC',
 		],
 	],
 	'dev' => [
 		'suffix' => 'dev',
 		'type' => 'ICANN',
 		'comments' => [
-			'dev : 2014-10-16 Charleston Road Registry Inc.',
+			'dev : Charleston Road Registry Inc.',
 		],
 	],
 	'dhl' => [
 		'suffix' => 'dhl',
 		'type' => 'ICANN',
 		'comments' => [
-			'dhl : 2015-07-23 Deutsche Post AG',
+			'dhl : Deutsche Post AG',
 		],
 	],
 	'diamonds' => [
 		'suffix' => 'diamonds',
 		'type' => 'ICANN',
 		'comments' => [
-			'diamonds : 2013-09-22 Binky Moon, LLC',
+			'diamonds : Binky Moon, LLC',
 		],
 	],
 	'diet' => [
 		'suffix' => 'diet',
 		'type' => 'ICANN',
 		'comments' => [
-			'diet : 2014-06-26 XYZ.COM LLC',
+			'diet : XYZ.COM LLC',
 		],
 	],
 	'digital' => [
 		'suffix' => 'digital',
 		'type' => 'ICANN',
 		'comments' => [
-			'digital : 2014-03-06 Binky Moon, LLC',
+			'digital : Binky Moon, LLC',
 		],
 	],
 	'direct' => [
 		'suffix' => 'direct',
 		'type' => 'ICANN',
 		'comments' => [
-			'direct : 2014-04-10 Binky Moon, LLC',
+			'direct : Binky Moon, LLC',
 		],
 	],
 	'directory' => [
 		'suffix' => 'directory',
 		'type' => 'ICANN',
 		'comments' => [
-			'directory : 2013-09-20 Binky Moon, LLC',
+			'directory : Binky Moon, LLC',
 		],
 	],
 	'discount' => [
 		'suffix' => 'discount',
 		'type' => 'ICANN',
 		'comments' => [
-			'discount : 2014-03-06 Binky Moon, LLC',
+			'discount : Binky Moon, LLC',
 		],
 	],
 	'discover' => [
 		'suffix' => 'discover',
 		'type' => 'ICANN',
 		'comments' => [
-			'discover : 2015-07-23 Discover Financial Services',
+			'discover : Discover Financial Services',
 		],
 	],
 	'dish' => [
 		'suffix' => 'dish',
 		'type' => 'ICANN',
 		'comments' => [
-			'dish : 2015-07-30 Dish DBS Corporation',
+			'dish : Dish DBS Corporation',
 		],
 	],
 	'diy' => [
 		'suffix' => 'diy',
 		'type' => 'ICANN',
 		'comments' => [
-			'diy : 2015-11-05 Lifestyle Domain Holdings, Inc.',
+			'diy : Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'dnp' => [
 		'suffix' => 'dnp',
 		'type' => 'ICANN',
 		'comments' => [
-			'dnp : 2013-12-13 Dai Nippon Printing Co., Ltd.',
+			'dnp : Dai Nippon Printing Co., Ltd.',
 		],
 	],
 	'docs' => [
 		'suffix' => 'docs',
 		'type' => 'ICANN',
 		'comments' => [
-			'docs : 2014-10-16 Charleston Road Registry Inc.',
+			'docs : Charleston Road Registry Inc.',
 		],
 	],
 	'doctor' => [
 		'suffix' => 'doctor',
 		'type' => 'ICANN',
 		'comments' => [
-			'doctor : 2016-06-02 Binky Moon, LLC',
+			'doctor : Binky Moon, LLC',
 		],
 	],
 	'dog' => [
 		'suffix' => 'dog',
 		'type' => 'ICANN',
 		'comments' => [
-			'dog : 2014-12-04 Binky Moon, LLC',
+			'dog : Binky Moon, LLC',
 		],
 	],
 	'domains' => [
 		'suffix' => 'domains',
 		'type' => 'ICANN',
 		'comments' => [
-			'domains : 2013-10-17 Binky Moon, LLC',
+			'domains : Binky Moon, LLC',
 		],
 	],
 	'dot' => [
 		'suffix' => 'dot',
 		'type' => 'ICANN',
 		'comments' => [
-			'dot : 2015-05-21 Dish DBS Corporation',
+			'dot : Dish DBS Corporation',
 		],
 	],
 	'download' => [
 		'suffix' => 'download',
 		'type' => 'ICANN',
 		'comments' => [
-			'download : 2014-11-20 dot Support Limited',
+			'download : dot Support Limited',
 		],
 	],
 	'drive' => [
 		'suffix' => 'drive',
 		'type' => 'ICANN',
 		'comments' => [
-			'drive : 2015-03-05 Charleston Road Registry Inc.',
+			'drive : Charleston Road Registry Inc.',
 		],
 	],
 	'dtv' => [
 		'suffix' => 'dtv',
 		'type' => 'ICANN',
 		'comments' => [
-			'dtv : 2015-06-04 Dish DBS Corporation',
+			'dtv : Dish DBS Corporation',
 		],
 	],
 	'dubai' => [
 		'suffix' => 'dubai',
 		'type' => 'ICANN',
 		'comments' => [
-			'dubai : 2015-01-01 Dubai Smart Government Department',
+			'dubai : Dubai Smart Government Department',
 		],
 	],
 	'dunlop' => [
 		'suffix' => 'dunlop',
 		'type' => 'ICANN',
 		'comments' => [
-			'dunlop : 2015-07-02 The Goodyear Tire & Rubber Company',
+			'dunlop : The Goodyear Tire & Rubber Company',
 		],
 	],
 	'dupont' => [
 		'suffix' => 'dupont',
 		'type' => 'ICANN',
 		'comments' => [
-			'dupont : 2015-06-25 DuPont Specialty Products USA, LLC',
+			'dupont : DuPont Specialty Products USA, LLC',
 		],
 	],
 	'durban' => [
 		'suffix' => 'durban',
 		'type' => 'ICANN',
 		'comments' => [
-			'durban : 2014-03-24 ZA Central Registry NPC trading as ZA Central Registry',
+			'durban : ZA Central Registry NPC trading as ZA Central Registry',
 		],
 	],
 	'dvag' => [
 		'suffix' => 'dvag',
 		'type' => 'ICANN',
 		'comments' => [
-			'dvag : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG',
+			'dvag : Deutsche Vermögensberatung Aktiengesellschaft DVAG',
 		],
 	],
 	'dvr' => [
 		'suffix' => 'dvr',
 		'type' => 'ICANN',
 		'comments' => [
-			'dvr : 2016-05-26 DISH Technologies L.L.C.',
+			'dvr : DISH Technologies L.L.C.',
 		],
 	],
 	'earth' => [
 		'suffix' => 'earth',
 		'type' => 'ICANN',
 		'comments' => [
-			'earth : 2014-12-04 Interlink Systems Innovation Institute K.K.',
+			'earth : Interlink Systems Innovation Institute K.K.',
 		],
 	],
 	'eat' => [
 		'suffix' => 'eat',
 		'type' => 'ICANN',
 		'comments' => [
-			'eat : 2014-01-23 Charleston Road Registry Inc.',
+			'eat : Charleston Road Registry Inc.',
 		],
 	],
 	'eco' => [
 		'suffix' => 'eco',
 		'type' => 'ICANN',
 		'comments' => [
-			'eco : 2016-07-08 Big Room Inc.',
+			'eco : Big Room Inc.',
 		],
 	],
 	'edeka' => [
 		'suffix' => 'edeka',
 		'type' => 'ICANN',
 		'comments' => [
-			'edeka : 2014-12-18 EDEKA Verband kaufmännischer Genossenschaften e.V.',
+			'edeka : EDEKA Verband kaufmännischer Genossenschaften e.V.',
 		],
 	],
 	'education' => [
 		'suffix' => 'education',
 		'type' => 'ICANN',
 		'comments' => [
-			'education : 2013-11-07 Binky Moon, LLC',
+			'education : Binky Moon, LLC',
 		],
 	],
 	'email' => [
 		'suffix' => 'email',
 		'type' => 'ICANN',
 		'comments' => [
-			'email : 2013-10-31 Binky Moon, LLC',
+			'email : Binky Moon, LLC',
 		],
 	],
 	'emerck' => [
 		'suffix' => 'emerck',
 		'type' => 'ICANN',
 		'comments' => [
-			'emerck : 2014-04-03 Merck KGaA',
+			'emerck : Merck KGaA',
 		],
 	],
 	'energy' => [
 		'suffix' => 'energy',
 		'type' => 'ICANN',
 		'comments' => [
-			'energy : 2014-09-11 Binky Moon, LLC',
+			'energy : Binky Moon, LLC',
 		],
 	],
 	'engineer' => [
 		'suffix' => 'engineer',
 		'type' => 'ICANN',
 		'comments' => [
-			'engineer : 2014-03-06 Dog Beach, LLC',
+			'engineer : Dog Beach, LLC',
 		],
 	],
 	'engineering' => [
 		'suffix' => 'engineering',
 		'type' => 'ICANN',
 		'comments' => [
-			'engineering : 2014-03-06 Binky Moon, LLC',
+			'engineering : Binky Moon, LLC',
 		],
 	],
 	'enterprises' => [
 		'suffix' => 'enterprises',
 		'type' => 'ICANN',
 		'comments' => [
-			'enterprises : 2013-09-20 Binky Moon, LLC',
+			'enterprises : Binky Moon, LLC',
 		],
 	],
 	'epson' => [
 		'suffix' => 'epson',
 		'type' => 'ICANN',
 		'comments' => [
-			'epson : 2014-12-04 Seiko Epson Corporation',
+			'epson : Seiko Epson Corporation',
 		],
 	],
 	'equipment' => [
 		'suffix' => 'equipment',
 		'type' => 'ICANN',
 		'comments' => [
-			'equipment : 2013-08-27 Binky Moon, LLC',
+			'equipment : Binky Moon, LLC',
 		],
 	],
 	'ericsson' => [
 		'suffix' => 'ericsson',
 		'type' => 'ICANN',
 		'comments' => [
-			'ericsson : 2015-07-09 Telefonaktiebolaget L M Ericsson',
+			'ericsson : Telefonaktiebolaget L M Ericsson',
 		],
 	],
 	'erni' => [
 		'suffix' => 'erni',
 		'type' => 'ICANN',
 		'comments' => [
-			'erni : 2014-04-03 ERNI Group Holding AG',
+			'erni : ERNI Group Holding AG',
 		],
 	],
 	'esq' => [
 		'suffix' => 'esq',
 		'type' => 'ICANN',
 		'comments' => [
-			'esq : 2014-05-08 Charleston Road Registry Inc.',
+			'esq : Charleston Road Registry Inc.',
 		],
 	],
 	'estate' => [
 		'suffix' => 'estate',
 		'type' => 'ICANN',
 		'comments' => [
-			'estate : 2013-08-27 Binky Moon, LLC',
+			'estate : Binky Moon, LLC',
 		],
 	],
 	'etisalat' => [
 		'suffix' => 'etisalat',
 		'type' => 'ICANN',
 		'comments' => [
-			'etisalat : 2015-09-03 Emirates Telecommunications Corporation (trading as Etisalat)',
+			'etisalat : Emirates Telecommunications Corporation (trading as Etisalat)',
 		],
 	],
 	'eurovision' => [
 		'suffix' => 'eurovision',
 		'type' => 'ICANN',
 		'comments' => [
-			'eurovision : 2014-04-24 European Broadcasting Union (EBU)',
+			'eurovision : European Broadcasting Union (EBU)',
 		],
 	],
 	'eus' => [
 		'suffix' => 'eus',
 		'type' => 'ICANN',
 		'comments' => [
-			'eus : 2013-12-12 Puntueus Fundazioa',
+			'eus : Puntueus Fundazioa',
 		],
 	],
 	'events' => [
 		'suffix' => 'events',
 		'type' => 'ICANN',
 		'comments' => [
-			'events : 2013-12-05 Binky Moon, LLC',
+			'events : Binky Moon, LLC',
 		],
 	],
 	'exchange' => [
 		'suffix' => 'exchange',
 		'type' => 'ICANN',
 		'comments' => [
-			'exchange : 2014-03-06 Binky Moon, LLC',
+			'exchange : Binky Moon, LLC',
 		],
 	],
 	'expert' => [
 		'suffix' => 'expert',
 		'type' => 'ICANN',
 		'comments' => [
-			'expert : 2013-11-21 Binky Moon, LLC',
+			'expert : Binky Moon, LLC',
 		],
 	],
 	'exposed' => [
 		'suffix' => 'exposed',
 		'type' => 'ICANN',
 		'comments' => [
-			'exposed : 2013-12-05 Binky Moon, LLC',
+			'exposed : Binky Moon, LLC',
 		],
 	],
 	'express' => [
 		'suffix' => 'express',
 		'type' => 'ICANN',
 		'comments' => [
-			'express : 2015-02-11 Binky Moon, LLC',
+			'express : Binky Moon, LLC',
 		],
 	],
 	'extraspace' => [
 		'suffix' => 'extraspace',
 		'type' => 'ICANN',
 		'comments' => [
-			'extraspace : 2015-05-14 Extra Space Storage LLC',
+			'extraspace : Extra Space Storage LLC',
 		],
 	],
 	'fage' => [
 		'suffix' => 'fage',
 		'type' => 'ICANN',
 		'comments' => [
-			'fage : 2014-12-18 Fage International S.A.',
+			'fage : Fage International S.A.',
 		],
 	],
 	'fail' => [
 		'suffix' => 'fail',
 		'type' => 'ICANN',
 		'comments' => [
-			'fail : 2014-03-06 Binky Moon, LLC',
+			'fail : Binky Moon, LLC',
 		],
 	],
 	'fairwinds' => [
 		'suffix' => 'fairwinds',
 		'type' => 'ICANN',
 		'comments' => [
-			'fairwinds : 2014-11-13 FairWinds Partners, LLC',
+			'fairwinds : FairWinds Partners, LLC',
 		],
 	],
 	'faith' => [
 		'suffix' => 'faith',
 		'type' => 'ICANN',
 		'comments' => [
-			'faith : 2014-11-20 dot Faith Limited',
+			'faith : dot Faith Limited',
 		],
 	],
 	'family' => [
 		'suffix' => 'family',
 		'type' => 'ICANN',
 		'comments' => [
-			'family : 2015-04-02 Dog Beach, LLC',
+			'family : Dog Beach, LLC',
 		],
 	],
 	'fan' => [
 		'suffix' => 'fan',
 		'type' => 'ICANN',
 		'comments' => [
-			'fan : 2014-03-06 Dog Beach, LLC',
+			'fan : Dog Beach, LLC',
 		],
 	],
 	'fans' => [
 		'suffix' => 'fans',
 		'type' => 'ICANN',
 		'comments' => [
-			'fans : 2014-11-07 ZDNS International Limited',
+			'fans : ZDNS International Limited',
 		],
 	],
 	'farm' => [
 		'suffix' => 'farm',
 		'type' => 'ICANN',
 		'comments' => [
-			'farm : 2013-11-07 Binky Moon, LLC',
+			'farm : Binky Moon, LLC',
 		],
 	],
 	'farmers' => [
 		'suffix' => 'farmers',
 		'type' => 'ICANN',
 		'comments' => [
-			'farmers : 2015-07-09 Farmers Insurance Exchange',
+			'farmers : Farmers Insurance Exchange',
 		],
 	],
 	'fashion' => [
 		'suffix' => 'fashion',
 		'type' => 'ICANN',
 		'comments' => [
-			'fashion : 2014-07-03 Registry Services, LLC',
+			'fashion : Registry Services, LLC',
 		],
 	],
 	'fast' => [
 		'suffix' => 'fast',
 		'type' => 'ICANN',
 		'comments' => [
-			'fast : 2014-12-18 Amazon Registry Services, Inc.',
+			'fast : Amazon Registry Services, Inc.',
 		],
 	],
 	'fedex' => [
 		'suffix' => 'fedex',
 		'type' => 'ICANN',
 		'comments' => [
-			'fedex : 2015-08-06 Federal Express Corporation',
+			'fedex : Federal Express Corporation',
 		],
 	],
 	'feedback' => [
 		'suffix' => 'feedback',
 		'type' => 'ICANN',
 		'comments' => [
-			'feedback : 2013-12-19 Top Level Spectrum, Inc.',
+			'feedback : Top Level Spectrum, Inc.',
 		],
 	],
 	'ferrari' => [
 		'suffix' => 'ferrari',
 		'type' => 'ICANN',
 		'comments' => [
-			'ferrari : 2015-07-31 Fiat Chrysler Automobiles N.V.',
+			'ferrari : Fiat Chrysler Automobiles N.V.',
 		],
 	],
 	'ferrero' => [
 		'suffix' => 'ferrero',
 		'type' => 'ICANN',
 		'comments' => [
-			'ferrero : 2014-12-18 Ferrero Trading Lux S.A.',
+			'ferrero : Ferrero Trading Lux S.A.',
 		],
 	],
 	'fidelity' => [
 		'suffix' => 'fidelity',
 		'type' => 'ICANN',
 		'comments' => [
-			'fidelity : 2015-07-30 Fidelity Brokerage Services LLC',
+			'fidelity : Fidelity Brokerage Services LLC',
 		],
 	],
 	'fido' => [
 		'suffix' => 'fido',
 		'type' => 'ICANN',
 		'comments' => [
-			'fido : 2015-08-06 Rogers Communications Canada Inc.',
+			'fido : Rogers Communications Canada Inc.',
 		],
 	],
 	'film' => [
 		'suffix' => 'film',
 		'type' => 'ICANN',
 		'comments' => [
-			'film : 2015-01-08 Motion Picture Domain Registry Pty Ltd',
+			'film : Motion Picture Domain Registry Pty Ltd',
 		],
 	],
 	'final' => [
 		'suffix' => 'final',
 		'type' => 'ICANN',
 		'comments' => [
-			'final : 2014-10-16 Núcleo de Informação e Coordenação do Ponto BR - NIC.br',
+			'final : Núcleo de Informação e Coordenação do Ponto BR - NIC.br',
 		],
 	],
 	'finance' => [
 		'suffix' => 'finance',
 		'type' => 'ICANN',
 		'comments' => [
-			'finance : 2014-03-20 Binky Moon, LLC',
+			'finance : Binky Moon, LLC',
 		],
 	],
 	'financial' => [
 		'suffix' => 'financial',
 		'type' => 'ICANN',
 		'comments' => [
-			'financial : 2014-03-06 Binky Moon, LLC',
+			'financial : Binky Moon, LLC',
 		],
 	],
 	'fire' => [
 		'suffix' => 'fire',
 		'type' => 'ICANN',
 		'comments' => [
-			'fire : 2015-06-25 Amazon Registry Services, Inc.',
+			'fire : Amazon Registry Services, Inc.',
 		],
 	],
 	'firestone' => [
 		'suffix' => 'firestone',
 		'type' => 'ICANN',
 		'comments' => [
-			'firestone : 2014-12-18 Bridgestone Licensing Services, Inc',
+			'firestone : Bridgestone Licensing Services, Inc',
 		],
 	],
 	'firmdale' => [
 		'suffix' => 'firmdale',
 		'type' => 'ICANN',
 		'comments' => [
-			'firmdale : 2014-03-27 Firmdale Holdings Limited',
+			'firmdale : Firmdale Holdings Limited',
 		],
 	],
 	'fish' => [
 		'suffix' => 'fish',
 		'type' => 'ICANN',
 		'comments' => [
-			'fish : 2013-12-12 Binky Moon, LLC',
+			'fish : Binky Moon, LLC',
 		],
 	],
 	'fishing' => [
 		'suffix' => 'fishing',
 		'type' => 'ICANN',
 		'comments' => [
-			'fishing : 2013-11-21 Registry Services, LLC',
+			'fishing : Registry Services, LLC',
 		],
 	],
 	'fit' => [
 		'suffix' => 'fit',
 		'type' => 'ICANN',
 		'comments' => [
-			'fit : 2014-11-07 Registry Services, LLC',
+			'fit : Registry Services, LLC',
 		],
 	],
 	'fitness' => [
 		'suffix' => 'fitness',
 		'type' => 'ICANN',
 		'comments' => [
-			'fitness : 2014-03-06 Binky Moon, LLC',
+			'fitness : Binky Moon, LLC',
 		],
 	],
 	'flickr' => [
 		'suffix' => 'flickr',
 		'type' => 'ICANN',
 		'comments' => [
-			'flickr : 2015-04-02 Flickr, Inc.',
+			'flickr : Flickr, Inc.',
 		],
 	],
 	'flights' => [
 		'suffix' => 'flights',
 		'type' => 'ICANN',
 		'comments' => [
-			'flights : 2013-12-05 Binky Moon, LLC',
+			'flights : Binky Moon, LLC',
 		],
 	],
 	'flir' => [
 		'suffix' => 'flir',
 		'type' => 'ICANN',
 		'comments' => [
-			'flir : 2015-07-23 FLIR Systems, Inc.',
+			'flir : FLIR Systems, Inc.',
 		],
 	],
 	'florist' => [
 		'suffix' => 'florist',
 		'type' => 'ICANN',
 		'comments' => [
-			'florist : 2013-11-07 Binky Moon, LLC',
+			'florist : Binky Moon, LLC',
 		],
 	],
 	'flowers' => [
 		'suffix' => 'flowers',
 		'type' => 'ICANN',
 		'comments' => [
-			'flowers : 2014-10-09 XYZ.COM LLC',
+			'flowers : XYZ.COM LLC',
 		],
 	],
 	'fly' => [
 		'suffix' => 'fly',
 		'type' => 'ICANN',
 		'comments' => [
-			'fly : 2014-05-08 Charleston Road Registry Inc.',
+			'fly : Charleston Road Registry Inc.',
 		],
 	],
 	'foo' => [
 		'suffix' => 'foo',
 		'type' => 'ICANN',
 		'comments' => [
-			'foo : 2014-01-23 Charleston Road Registry Inc.',
+			'foo : Charleston Road Registry Inc.',
 		],
 	],
 	'food' => [
 		'suffix' => 'food',
 		'type' => 'ICANN',
 		'comments' => [
-			'food : 2016-04-21 Lifestyle Domain Holdings, Inc.',
+			'food : Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'football' => [
 		'suffix' => 'football',
 		'type' => 'ICANN',
 		'comments' => [
-			'football : 2014-12-18 Binky Moon, LLC',
+			'football : Binky Moon, LLC',
 		],
 	],
 	'ford' => [
 		'suffix' => 'ford',
 		'type' => 'ICANN',
 		'comments' => [
-			'ford : 2014-11-13 Ford Motor Company',
+			'ford : Ford Motor Company',
 		],
 	],
 	'forex' => [
 		'suffix' => 'forex',
 		'type' => 'ICANN',
 		'comments' => [
-			'forex : 2014-12-11 Dog Beach, LLC',
+			'forex : Dog Beach, LLC',
 		],
 	],
 	'forsale' => [
 		'suffix' => 'forsale',
 		'type' => 'ICANN',
 		'comments' => [
-			'forsale : 2014-05-22 Dog Beach, LLC',
+			'forsale : Dog Beach, LLC',
 		],
 	],
 	'forum' => [
 		'suffix' => 'forum',
 		'type' => 'ICANN',
 		'comments' => [
-			'forum : 2015-04-02 Fegistry, LLC',
+			'forum : Fegistry, LLC',
 		],
 	],
 	'foundation' => [
 		'suffix' => 'foundation',
 		'type' => 'ICANN',
 		'comments' => [
-			'foundation : 2013-12-05 Public Interest Registry',
+			'foundation : Public Interest Registry',
 		],
 	],
 	'fox' => [
 		'suffix' => 'fox',
 		'type' => 'ICANN',
 		'comments' => [
-			'fox : 2015-09-11 FOX Registry, LLC',
+			'fox : FOX Registry, LLC',
 		],
 	],
 	'free' => [
 		'suffix' => 'free',
 		'type' => 'ICANN',
 		'comments' => [
-			'free : 2015-12-10 Amazon Registry Services, Inc.',
+			'free : Amazon Registry Services, Inc.',
 		],
 	],
 	'fresenius' => [
 		'suffix' => 'fresenius',
 		'type' => 'ICANN',
 		'comments' => [
-			'fresenius : 2015-07-30 Fresenius Immobilien-Verwaltungs-GmbH',
+			'fresenius : Fresenius Immobilien-Verwaltungs-GmbH',
 		],
 	],
 	'frl' => [
 		'suffix' => 'frl',
 		'type' => 'ICANN',
 		'comments' => [
-			'frl : 2014-05-15 FRLregistry B.V.',
+			'frl : FRLregistry B.V.',
 		],
 	],
 	'frogans' => [
 		'suffix' => 'frogans',
 		'type' => 'ICANN',
 		'comments' => [
-			'frogans : 2013-12-19 OP3FT',
+			'frogans : OP3FT',
 		],
 	],
 	'frontdoor' => [
 		'suffix' => 'frontdoor',
 		'type' => 'ICANN',
 		'comments' => [
-			'frontdoor : 2015-07-02 Lifestyle Domain Holdings, Inc.',
+			'frontdoor : Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'frontier' => [
 		'suffix' => 'frontier',
 		'type' => 'ICANN',
 		'comments' => [
-			'frontier : 2015-02-05 Frontier Communications Corporation',
+			'frontier : Frontier Communications Corporation',
 		],
 	],
 	'ftr' => [
 		'suffix' => 'ftr',
 		'type' => 'ICANN',
 		'comments' => [
-			'ftr : 2015-07-16 Frontier Communications Corporation',
+			'ftr : Frontier Communications Corporation',
 		],
 	],
 	'fujitsu' => [
 		'suffix' => 'fujitsu',
 		'type' => 'ICANN',
 		'comments' => [
-			'fujitsu : 2015-07-30 Fujitsu Limited',
+			'fujitsu : Fujitsu Limited',
 		],
 	],
 	'fun' => [
 		'suffix' => 'fun',
 		'type' => 'ICANN',
 		'comments' => [
-			'fun : 2016-01-14 Radix FZC',
+			'fun : Radix FZC',
 		],
 	],
 	'fund' => [
 		'suffix' => 'fund',
 		'type' => 'ICANN',
 		'comments' => [
-			'fund : 2014-03-20 Binky Moon, LLC',
+			'fund : Binky Moon, LLC',
 		],
 	],
 	'furniture' => [
 		'suffix' => 'furniture',
 		'type' => 'ICANN',
 		'comments' => [
-			'furniture : 2014-03-20 Binky Moon, LLC',
+			'furniture : Binky Moon, LLC',
 		],
 	],
 	'futbol' => [
 		'suffix' => 'futbol',
 		'type' => 'ICANN',
 		'comments' => [
-			'futbol : 2013-09-20 Dog Beach, LLC',
+			'futbol : Dog Beach, LLC',
 		],
 	],
 	'fyi' => [
 		'suffix' => 'fyi',
 		'type' => 'ICANN',
 		'comments' => [
-			'fyi : 2015-04-02 Binky Moon, LLC',
+			'fyi : Binky Moon, LLC',
 		],
 	],
 	'gal' => [
 		'suffix' => 'gal',
 		'type' => 'ICANN',
 		'comments' => [
-			'gal : 2013-11-07 Asociación puntoGAL',
+			'gal : Asociación puntoGAL',
 		],
 	],
 	'gallery' => [
 		'suffix' => 'gallery',
 		'type' => 'ICANN',
 		'comments' => [
-			'gallery : 2013-09-13 Binky Moon, LLC',
+			'gallery : Binky Moon, LLC',
 		],
 	],
 	'gallo' => [
 		'suffix' => 'gallo',
 		'type' => 'ICANN',
 		'comments' => [
-			'gallo : 2015-06-11 Gallo Vineyards, Inc.',
+			'gallo : Gallo Vineyards, Inc.',
 		],
 	],
 	'gallup' => [
 		'suffix' => 'gallup',
 		'type' => 'ICANN',
 		'comments' => [
-			'gallup : 2015-02-19 Gallup, Inc.',
+			'gallup : Gallup, Inc.',
 		],
 	],
 	'game' => [
 		'suffix' => 'game',
 		'type' => 'ICANN',
 		'comments' => [
-			'game : 2015-05-28 XYZ.COM LLC',
+			'game : XYZ.COM LLC',
 		],
 	],
 	'games' => [
 		'suffix' => 'games',
 		'type' => 'ICANN',
 		'comments' => [
-			'games : 2015-05-28 Dog Beach, LLC',
+			'games : Dog Beach, LLC',
 		],
 	],
 	'gap' => [
 		'suffix' => 'gap',
 		'type' => 'ICANN',
 		'comments' => [
-			'gap : 2015-07-31 The Gap, Inc.',
+			'gap : The Gap, Inc.',
 		],
 	],
 	'garden' => [
 		'suffix' => 'garden',
 		'type' => 'ICANN',
 		'comments' => [
-			'garden : 2014-06-26 Registry Services, LLC',
+			'garden : Registry Services, LLC',
 		],
 	],
 	'gay' => [
 		'suffix' => 'gay',
 		'type' => 'ICANN',
 		'comments' => [
-			'gay : 2019-05-23 Registry Services, LLC',
+			'gay : Registry Services, LLC',
 		],
 	],
 	'gbiz' => [
 		'suffix' => 'gbiz',
 		'type' => 'ICANN',
 		'comments' => [
-			'gbiz : 2014-07-17 Charleston Road Registry Inc.',
+			'gbiz : Charleston Road Registry Inc.',
 		],
 	],
 	'gdn' => [
 		'suffix' => 'gdn',
 		'type' => 'ICANN',
 		'comments' => [
-			'gdn : 2014-07-31 Joint Stock Company "Navigation-information systems"',
+			'gdn : Joint Stock Company "Navigation-information systems"',
 		],
 	],
 	'gea' => [
 		'suffix' => 'gea',
 		'type' => 'ICANN',
 		'comments' => [
-			'gea : 2014-12-04 GEA Group Aktiengesellschaft',
+			'gea : GEA Group Aktiengesellschaft',
 		],
 	],
 	'gent' => [
 		'suffix' => 'gent',
 		'type' => 'ICANN',
 		'comments' => [
-			'gent : 2014-01-23 Easyhost BV',
+			'gent : Easyhost BV',
 		],
 	],
 	'genting' => [
 		'suffix' => 'genting',
 		'type' => 'ICANN',
 		'comments' => [
-			'genting : 2015-03-12 Resorts World Inc Pte. Ltd.',
+			'genting : Resorts World Inc Pte. Ltd.',
 		],
 	],
 	'george' => [
 		'suffix' => 'george',
 		'type' => 'ICANN',
 		'comments' => [
-			'george : 2015-07-31 Wal-Mart Stores, Inc.',
+			'george : Wal-Mart Stores, Inc.',
 		],
 	],
 	'ggee' => [
 		'suffix' => 'ggee',
 		'type' => 'ICANN',
 		'comments' => [
-			'ggee : 2014-01-09 GMO Internet, Inc.',
+			'ggee : GMO Internet, Inc.',
 		],
 	],
 	'gift' => [
 		'suffix' => 'gift',
 		'type' => 'ICANN',
 		'comments' => [
-			'gift : 2013-10-17 DotGift, LLC',
+			'gift : DotGift, LLC',
 		],
 	],
 	'gifts' => [
 		'suffix' => 'gifts',
 		'type' => 'ICANN',
 		'comments' => [
-			'gifts : 2014-07-03 Binky Moon, LLC',
+			'gifts : Binky Moon, LLC',
 		],
 	],
 	'gives' => [
 		'suffix' => 'gives',
 		'type' => 'ICANN',
 		'comments' => [
-			'gives : 2014-03-06 Public Interest Registry',
+			'gives : Public Interest Registry',
 		],
 	],
 	'giving' => [
 		'suffix' => 'giving',
 		'type' => 'ICANN',
 		'comments' => [
-			'giving : 2014-11-13 Public Interest Registry',
+			'giving : Public Interest Registry',
 		],
 	],
 	'glass' => [
 		'suffix' => 'glass',
 		'type' => 'ICANN',
 		'comments' => [
-			'glass : 2013-11-07 Binky Moon, LLC',
+			'glass : Binky Moon, LLC',
 		],
 	],
 	'gle' => [
 		'suffix' => 'gle',
 		'type' => 'ICANN',
 		'comments' => [
-			'gle : 2014-07-24 Charleston Road Registry Inc.',
+			'gle : Charleston Road Registry Inc.',
 		],
 	],
 	'global' => [
 		'suffix' => 'global',
 		'type' => 'ICANN',
 		'comments' => [
-			'global : 2014-04-17 Identity Digital Limited',
+			'global : Identity Digital Limited',
 		],
 	],
 	'globo' => [
 		'suffix' => 'globo',
 		'type' => 'ICANN',
 		'comments' => [
-			'globo : 2013-12-19 Globo Comunicação e Participações S.A',
+			'globo : Globo Comunicação e Participações S.A',
 		],
 	],
 	'gmail' => [
 		'suffix' => 'gmail',
 		'type' => 'ICANN',
 		'comments' => [
-			'gmail : 2014-05-01 Charleston Road Registry Inc.',
+			'gmail : Charleston Road Registry Inc.',
 		],
 	],
 	'gmbh' => [
 		'suffix' => 'gmbh',
 		'type' => 'ICANN',
 		'comments' => [
-			'gmbh : 2016-01-29 Binky Moon, LLC',
+			'gmbh : Binky Moon, LLC',
 		],
 	],
 	'gmo' => [
 		'suffix' => 'gmo',
 		'type' => 'ICANN',
 		'comments' => [
-			'gmo : 2014-01-09 GMO Internet, Inc.',
+			'gmo : GMO Internet, Inc.',
 		],
 	],
 	'gmx' => [
 		'suffix' => 'gmx',
 		'type' => 'ICANN',
 		'comments' => [
-			'gmx : 2014-04-24 1&1 Mail & Media GmbH',
+			'gmx : 1&1 Mail & Media GmbH',
 		],
 	],
 	'godaddy' => [
 		'suffix' => 'godaddy',
 		'type' => 'ICANN',
 		'comments' => [
-			'godaddy : 2015-07-23 Go Daddy East, LLC',
+			'godaddy : Go Daddy East, LLC',
 		],
 	],
 	'gold' => [
 		'suffix' => 'gold',
 		'type' => 'ICANN',
 		'comments' => [
-			'gold : 2015-01-22 Binky Moon, LLC',
+			'gold : Binky Moon, LLC',
 		],
 	],
 	'goldpoint' => [
 		'suffix' => 'goldpoint',
 		'type' => 'ICANN',
 		'comments' => [
-			'goldpoint : 2014-11-20 YODOBASHI CAMERA CO.,LTD.',
+			'goldpoint : YODOBASHI CAMERA CO.,LTD.',
 		],
 	],
 	'golf' => [
 		'suffix' => 'golf',
 		'type' => 'ICANN',
 		'comments' => [
-			'golf : 2014-12-18 Binky Moon, LLC',
+			'golf : Binky Moon, LLC',
 		],
 	],
 	'goo' => [
 		'suffix' => 'goo',
 		'type' => 'ICANN',
 		'comments' => [
-			'goo : 2014-12-18 NTT Resonant Inc.',
+			'goo : NTT Resonant Inc.',
 		],
 	],
 	'goodyear' => [
 		'suffix' => 'goodyear',
 		'type' => 'ICANN',
 		'comments' => [
-			'goodyear : 2015-07-02 The Goodyear Tire & Rubber Company',
+			'goodyear : The Goodyear Tire & Rubber Company',
 		],
 	],
 	'goog' => [
 		'suffix' => 'goog',
 		'type' => 'ICANN',
 		'comments' => [
-			'goog : 2014-11-20 Charleston Road Registry Inc.',
+			'goog : Charleston Road Registry Inc.',
 		],
 	],
 	'google' => [
 		'suffix' => 'google',
 		'type' => 'ICANN',
 		'comments' => [
-			'google : 2014-07-24 Charleston Road Registry Inc.',
+			'google : Charleston Road Registry Inc.',
 		],
 	],
 	'gop' => [
 		'suffix' => 'gop',
 		'type' => 'ICANN',
 		'comments' => [
-			'gop : 2014-01-16 Republican State Leadership Committee, Inc.',
+			'gop : Republican State Leadership Committee, Inc.',
 		],
 	],
 	'got' => [
 		'suffix' => 'got',
 		'type' => 'ICANN',
 		'comments' => [
-			'got : 2014-12-18 Amazon Registry Services, Inc.',
+			'got : Amazon Registry Services, Inc.',
 		],
 	],
 	'grainger' => [
 		'suffix' => 'grainger',
 		'type' => 'ICANN',
 		'comments' => [
-			'grainger : 2015-05-07 Grainger Registry Services, LLC',
+			'grainger : Grainger Registry Services, LLC',
 		],
 	],
 	'graphics' => [
 		'suffix' => 'graphics',
 		'type' => 'ICANN',
 		'comments' => [
-			'graphics : 2013-09-13 Binky Moon, LLC',
+			'graphics : Binky Moon, LLC',
 		],
 	],
 	'gratis' => [
 		'suffix' => 'gratis',
 		'type' => 'ICANN',
 		'comments' => [
-			'gratis : 2014-03-20 Binky Moon, LLC',
+			'gratis : Binky Moon, LLC',
 		],
 	],
 	'green' => [
 		'suffix' => 'green',
 		'type' => 'ICANN',
 		'comments' => [
-			'green : 2014-05-08 Identity Digital Limited',
+			'green : Identity Digital Limited',
 		],
 	],
 	'gripe' => [
 		'suffix' => 'gripe',
 		'type' => 'ICANN',
 		'comments' => [
-			'gripe : 2014-03-06 Binky Moon, LLC',
+			'gripe : Binky Moon, LLC',
 		],
 	],
 	'grocery' => [
 		'suffix' => 'grocery',
 		'type' => 'ICANN',
 		'comments' => [
-			'grocery : 2016-06-16 Wal-Mart Stores, Inc.',
+			'grocery : Wal-Mart Stores, Inc.',
 		],
 	],
 	'group' => [
 		'suffix' => 'group',
 		'type' => 'ICANN',
 		'comments' => [
-			'group : 2014-08-15 Binky Moon, LLC',
+			'group : Binky Moon, LLC',
 		],
 	],
 	'guardian' => [
 		'suffix' => 'guardian',
 		'type' => 'ICANN',
 		'comments' => [
-			'guardian : 2015-07-30 The Guardian Life Insurance Company of America',
+			'guardian : The Guardian Life Insurance Company of America',
 		],
 	],
 	'gucci' => [
 		'suffix' => 'gucci',
 		'type' => 'ICANN',
 		'comments' => [
-			'gucci : 2014-11-13 Guccio Gucci S.p.a.',
+			'gucci : Guccio Gucci S.p.a.',
 		],
 	],
 	'guge' => [
 		'suffix' => 'guge',
 		'type' => 'ICANN',
 		'comments' => [
-			'guge : 2014-08-28 Charleston Road Registry Inc.',
+			'guge : Charleston Road Registry Inc.',
 		],
 	],
 	'guide' => [
 		'suffix' => 'guide',
 		'type' => 'ICANN',
 		'comments' => [
-			'guide : 2013-09-13 Binky Moon, LLC',
+			'guide : Binky Moon, LLC',
 		],
 	],
 	'guitars' => [
 		'suffix' => 'guitars',
 		'type' => 'ICANN',
 		'comments' => [
-			'guitars : 2013-11-14 XYZ.COM LLC',
+			'guitars : XYZ.COM LLC',
 		],
 	],
 	'guru' => [
 		'suffix' => 'guru',
 		'type' => 'ICANN',
 		'comments' => [
-			'guru : 2013-08-27 Binky Moon, LLC',
+			'guru : Binky Moon, LLC',
 		],
 	],
 	'hair' => [
 		'suffix' => 'hair',
 		'type' => 'ICANN',
 		'comments' => [
-			'hair : 2015-12-03 XYZ.COM LLC',
+			'hair : XYZ.COM LLC',
 		],
 	],
 	'hamburg' => [
 		'suffix' => 'hamburg',
 		'type' => 'ICANN',
 		'comments' => [
-			'hamburg : 2014-02-20 Hamburg Top-Level-Domain GmbH',
+			'hamburg : Hamburg Top-Level-Domain GmbH',
 		],
 	],
 	'hangout' => [
 		'suffix' => 'hangout',
 		'type' => 'ICANN',
 		'comments' => [
-			'hangout : 2014-11-13 Charleston Road Registry Inc.',
+			'hangout : Charleston Road Registry Inc.',
 		],
 	],
 	'haus' => [
 		'suffix' => 'haus',
 		'type' => 'ICANN',
 		'comments' => [
-			'haus : 2013-12-05 Dog Beach, LLC',
+			'haus : Dog Beach, LLC',
 		],
 	],
 	'hbo' => [
 		'suffix' => 'hbo',
 		'type' => 'ICANN',
 		'comments' => [
-			'hbo : 2015-07-30 HBO Registry Services, Inc.',
+			'hbo : HBO Registry Services, Inc.',
 		],
 	],
 	'hdfc' => [
 		'suffix' => 'hdfc',
 		'type' => 'ICANN',
 		'comments' => [
-			'hdfc : 2015-07-30 HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED',
+			'hdfc : HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED',
 		],
 	],
 	'hdfcbank' => [
 		'suffix' => 'hdfcbank',
 		'type' => 'ICANN',
 		'comments' => [
-			'hdfcbank : 2015-02-12 HDFC Bank Limited',
+			'hdfcbank : HDFC Bank Limited',
 		],
 	],
 	'health' => [
 		'suffix' => 'health',
 		'type' => 'ICANN',
 		'comments' => [
-			'health : 2015-02-11 Registry Services, LLC',
+			'health : Registry Services, LLC',
 		],
 	],
 	'healthcare' => [
 		'suffix' => 'healthcare',
 		'type' => 'ICANN',
 		'comments' => [
-			'healthcare : 2014-06-12 Binky Moon, LLC',
+			'healthcare : Binky Moon, LLC',
 		],
 	],
 	'help' => [
 		'suffix' => 'help',
 		'type' => 'ICANN',
 		'comments' => [
-			'help : 2014-06-26 Innovation service Limited',
+			'help : Innovation service Limited',
 		],
 	],
 	'helsinki' => [
 		'suffix' => 'helsinki',
 		'type' => 'ICANN',
 		'comments' => [
-			'helsinki : 2015-02-05 City of Helsinki',
+			'helsinki : City of Helsinki',
 		],
 	],
 	'here' => [
 		'suffix' => 'here',
 		'type' => 'ICANN',
 		'comments' => [
-			'here : 2014-02-06 Charleston Road Registry Inc.',
+			'here : Charleston Road Registry Inc.',
 		],
 	],
 	'hermes' => [
 		'suffix' => 'hermes',
 		'type' => 'ICANN',
 		'comments' => [
-			'hermes : 2014-07-10 HERMES INTERNATIONAL',
+			'hermes : HERMES INTERNATIONAL',
 		],
 	],
 	'hiphop' => [
 		'suffix' => 'hiphop',
 		'type' => 'ICANN',
 		'comments' => [
-			'hiphop : 2014-03-06 Dot Hip Hop, LLC',
+			'hiphop : Dot Hip Hop, LLC',
 		],
 	],
 	'hisamitsu' => [
 		'suffix' => 'hisamitsu',
 		'type' => 'ICANN',
 		'comments' => [
-			'hisamitsu : 2015-07-16 Hisamitsu Pharmaceutical Co.,Inc.',
+			'hisamitsu : Hisamitsu Pharmaceutical Co.,Inc.',
 		],
 	],
 	'hitachi' => [
 		'suffix' => 'hitachi',
 		'type' => 'ICANN',
 		'comments' => [
-			'hitachi : 2014-10-31 Hitachi, Ltd.',
+			'hitachi : Hitachi, Ltd.',
 		],
 	],
 	'hiv' => [
 		'suffix' => 'hiv',
 		'type' => 'ICANN',
 		'comments' => [
-			'hiv : 2014-03-13 Internet Naming Company LLC',
+			'hiv : Internet Naming Company LLC',
 		],
 	],
 	'hkt' => [
 		'suffix' => 'hkt',
 		'type' => 'ICANN',
 		'comments' => [
-			'hkt : 2015-05-14 PCCW-HKT DataCom Services Limited',
+			'hkt : PCCW-HKT DataCom Services Limited',
 		],
 	],
 	'hockey' => [
 		'suffix' => 'hockey',
 		'type' => 'ICANN',
 		'comments' => [
-			'hockey : 2015-03-19 Binky Moon, LLC',
+			'hockey : Binky Moon, LLC',
 		],
 	],
 	'holdings' => [
 		'suffix' => 'holdings',
 		'type' => 'ICANN',
 		'comments' => [
-			'holdings : 2013-08-27 Binky Moon, LLC',
+			'holdings : Binky Moon, LLC',
 		],
 	],
 	'holiday' => [
 		'suffix' => 'holiday',
 		'type' => 'ICANN',
 		'comments' => [
-			'holiday : 2013-11-07 Binky Moon, LLC',
+			'holiday : Binky Moon, LLC',
 		],
 	],
 	'homedepot' => [
 		'suffix' => 'homedepot',
 		'type' => 'ICANN',
 		'comments' => [
-			'homedepot : 2015-04-02 Home Depot Product Authority, LLC',
+			'homedepot : Home Depot Product Authority, LLC',
 		],
 	],
 	'homegoods' => [
 		'suffix' => 'homegoods',
 		'type' => 'ICANN',
 		'comments' => [
-			'homegoods : 2015-07-16 The TJX Companies, Inc.',
+			'homegoods : The TJX Companies, Inc.',
 		],
 	],
 	'homes' => [
 		'suffix' => 'homes',
 		'type' => 'ICANN',
 		'comments' => [
-			'homes : 2014-01-09 XYZ.COM LLC',
+			'homes : XYZ.COM LLC',
 		],
 	],
 	'homesense' => [
 		'suffix' => 'homesense',
 		'type' => 'ICANN',
 		'comments' => [
-			'homesense : 2015-07-16 The TJX Companies, Inc.',
+			'homesense : The TJX Companies, Inc.',
 		],
 	],
 	'honda' => [
 		'suffix' => 'honda',
 		'type' => 'ICANN',
 		'comments' => [
-			'honda : 2014-12-18 Honda Motor Co., Ltd.',
+			'honda : Honda Motor Co., Ltd.',
 		],
 	],
 	'horse' => [
 		'suffix' => 'horse',
 		'type' => 'ICANN',
 		'comments' => [
-			'horse : 2013-11-21 Registry Services, LLC',
+			'horse : Registry Services, LLC',
 		],
 	],
 	'hospital' => [
 		'suffix' => 'hospital',
 		'type' => 'ICANN',
 		'comments' => [
-			'hospital : 2016-10-20 Binky Moon, LLC',
+			'hospital : Binky Moon, LLC',
 		],
 	],
 	'host' => [
 		'suffix' => 'host',
 		'type' => 'ICANN',
 		'comments' => [
-			'host : 2014-04-17 Radix FZC',
+			'host : Radix FZC',
 		],
 	],
 	'hosting' => [
 		'suffix' => 'hosting',
 		'type' => 'ICANN',
 		'comments' => [
-			'hosting : 2014-05-29 XYZ.COM LLC',
+			'hosting : XYZ.COM LLC',
 		],
 	],
 	'hot' => [
 		'suffix' => 'hot',
 		'type' => 'ICANN',
 		'comments' => [
-			'hot : 2015-08-27 Amazon Registry Services, Inc.',
+			'hot : Amazon Registry Services, Inc.',
 		],
 	],
 	'hotels' => [
 		'suffix' => 'hotels',
 		'type' => 'ICANN',
 		'comments' => [
-			'hotels : 2016-04-07 Booking.com B.V.',
+			'hotels : Booking.com B.V.',
 		],
 	],
 	'hotmail' => [
 		'suffix' => 'hotmail',
 		'type' => 'ICANN',
 		'comments' => [
-			'hotmail : 2014-12-18 Microsoft Corporation',
+			'hotmail : Microsoft Corporation',
 		],
 	],
 	'house' => [
 		'suffix' => 'house',
 		'type' => 'ICANN',
 		'comments' => [
-			'house : 2013-11-07 Binky Moon, LLC',
+			'house : Binky Moon, LLC',
 		],
 	],
 	'how' => [
 		'suffix' => 'how',
 		'type' => 'ICANN',
 		'comments' => [
-			'how : 2014-01-23 Charleston Road Registry Inc.',
+			'how : Charleston Road Registry Inc.',
 		],
 	],
 	'hsbc' => [
 		'suffix' => 'hsbc',
 		'type' => 'ICANN',
 		'comments' => [
-			'hsbc : 2014-10-24 HSBC Global Services (UK) Limited',
+			'hsbc : HSBC Global Services (UK) Limited',
 		],
 	],
 	'hughes' => [
 		'suffix' => 'hughes',
 		'type' => 'ICANN',
 		'comments' => [
-			'hughes : 2015-07-30 Hughes Satellite Systems Corporation',
+			'hughes : Hughes Satellite Systems Corporation',
 		],
 	],
 	'hyatt' => [
 		'suffix' => 'hyatt',
 		'type' => 'ICANN',
 		'comments' => [
-			'hyatt : 2015-07-30 Hyatt GTLD, L.L.C.',
+			'hyatt : Hyatt GTLD, L.L.C.',
 		],
 	],
 	'hyundai' => [
 		'suffix' => 'hyundai',
 		'type' => 'ICANN',
 		'comments' => [
-			'hyundai : 2015-07-09 Hyundai Motor Company',
+			'hyundai : Hyundai Motor Company',
 		],
 	],
 	'ibm' => [
 		'suffix' => 'ibm',
 		'type' => 'ICANN',
 		'comments' => [
-			'ibm : 2014-07-31 International Business Machines Corporation',
+			'ibm : International Business Machines Corporation',
 		],
 	],
 	'icbc' => [
 		'suffix' => 'icbc',
 		'type' => 'ICANN',
 		'comments' => [
-			'icbc : 2015-02-19 Industrial and Commercial Bank of China Limited',
+			'icbc : Industrial and Commercial Bank of China Limited',
 		],
 	],
 	'ice' => [
 		'suffix' => 'ice',
 		'type' => 'ICANN',
 		'comments' => [
-			'ice : 2014-10-30 IntercontinentalExchange, Inc.',
+			'ice : IntercontinentalExchange, Inc.',
 		],
 	],
 	'icu' => [
 		'suffix' => 'icu',
 		'type' => 'ICANN',
 		'comments' => [
-			'icu : 2015-01-08 ShortDot SA',
+			'icu : ShortDot SA',
 		],
 	],
 	'ieee' => [
 		'suffix' => 'ieee',
 		'type' => 'ICANN',
 		'comments' => [
-			'ieee : 2015-07-23 IEEE Global LLC',
+			'ieee : IEEE Global LLC',
 		],
 	],
 	'ifm' => [
 		'suffix' => 'ifm',
 		'type' => 'ICANN',
 		'comments' => [
-			'ifm : 2014-01-30 ifm electronic gmbh',
+			'ifm : ifm electronic gmbh',
 		],
 	],
 	'ikano' => [
 		'suffix' => 'ikano',
 		'type' => 'ICANN',
 		'comments' => [
-			'ikano : 2015-07-09 Ikano S.A.',
+			'ikano : Ikano S.A.',
 		],
 	],
 	'imamat' => [
 		'suffix' => 'imamat',
 		'type' => 'ICANN',
 		'comments' => [
-			'imamat : 2015-08-06 Fondation Aga Khan (Aga Khan Foundation)',
+			'imamat : Fondation Aga Khan (Aga Khan Foundation)',
 		],
 	],
 	'imdb' => [
 		'suffix' => 'imdb',
 		'type' => 'ICANN',
 		'comments' => [
-			'imdb : 2015-06-25 Amazon Registry Services, Inc.',
+			'imdb : Amazon Registry Services, Inc.',
 		],
 	],
 	'immo' => [
 		'suffix' => 'immo',
 		'type' => 'ICANN',
 		'comments' => [
-			'immo : 2014-07-10 Binky Moon, LLC',
+			'immo : Binky Moon, LLC',
 		],
 	],
 	'immobilien' => [
 		'suffix' => 'immobilien',
 		'type' => 'ICANN',
 		'comments' => [
-			'immobilien : 2013-11-07 Dog Beach, LLC',
+			'immobilien : Dog Beach, LLC',
 		],
 	],
 	'inc' => [
 		'suffix' => 'inc',
 		'type' => 'ICANN',
 		'comments' => [
-			'inc : 2018-03-10 Intercap Registry Inc.',
+			'inc : Intercap Registry Inc.',
 		],
 	],
 	'industries' => [
 		'suffix' => 'industries',
 		'type' => 'ICANN',
 		'comments' => [
-			'industries : 2013-12-05 Binky Moon, LLC',
+			'industries : Binky Moon, LLC',
 		],
 	],
 	'infiniti' => [
 		'suffix' => 'infiniti',
 		'type' => 'ICANN',
 		'comments' => [
-			'infiniti : 2014-03-27 NISSAN MOTOR CO., LTD.',
+			'infiniti : NISSAN MOTOR CO., LTD.',
 		],
 	],
 	'ing' => [
 		'suffix' => 'ing',
 		'type' => 'ICANN',
 		'comments' => [
-			'ing : 2014-01-23 Charleston Road Registry Inc.',
+			'ing : Charleston Road Registry Inc.',
 		],
 	],
 	'ink' => [
 		'suffix' => 'ink',
 		'type' => 'ICANN',
 		'comments' => [
-			'ink : 2013-12-05 Registry Services, LLC',
+			'ink : Registry Services, LLC',
 		],
 	],
 	'institute' => [
 		'suffix' => 'institute',
 		'type' => 'ICANN',
 		'comments' => [
-			'institute : 2013-11-07 Binky Moon, LLC',
+			'institute : Binky Moon, LLC',
 		],
 	],
 	'insurance' => [
 		'suffix' => 'insurance',
 		'type' => 'ICANN',
 		'comments' => [
-			'insurance : 2015-02-19 fTLD Registry Services LLC',
+			'insurance : fTLD Registry Services LLC',
 		],
 	],
 	'insure' => [
 		'suffix' => 'insure',
 		'type' => 'ICANN',
 		'comments' => [
-			'insure : 2014-03-20 Binky Moon, LLC',
+			'insure : Binky Moon, LLC',
 		],
 	],
 	'international' => [
 		'suffix' => 'international',
 		'type' => 'ICANN',
 		'comments' => [
-			'international : 2013-11-07 Binky Moon, LLC',
+			'international : Binky Moon, LLC',
 		],
 	],
 	'intuit' => [
 		'suffix' => 'intuit',
 		'type' => 'ICANN',
 		'comments' => [
-			'intuit : 2015-07-30 Intuit Administrative Services, Inc.',
+			'intuit : Intuit Administrative Services, Inc.',
 		],
 	],
 	'investments' => [
 		'suffix' => 'investments',
 		'type' => 'ICANN',
 		'comments' => [
-			'investments : 2014-03-20 Binky Moon, LLC',
+			'investments : Binky Moon, LLC',
 		],
 	],
 	'ipiranga' => [
 		'suffix' => 'ipiranga',
 		'type' => 'ICANN',
 		'comments' => [
-			'ipiranga : 2014-08-28 Ipiranga Produtos de Petroleo S.A.',
+			'ipiranga : Ipiranga Produtos de Petroleo S.A.',
 		],
 	],
 	'irish' => [
 		'suffix' => 'irish',
 		'type' => 'ICANN',
 		'comments' => [
-			'irish : 2014-08-07 Binky Moon, LLC',
+			'irish : Binky Moon, LLC',
 		],
 	],
 	'ismaili' => [
 		'suffix' => 'ismaili',
 		'type' => 'ICANN',
 		'comments' => [
-			'ismaili : 2015-08-06 Fondation Aga Khan (Aga Khan Foundation)',
+			'ismaili : Fondation Aga Khan (Aga Khan Foundation)',
 		],
 	],
 	'ist' => [
 		'suffix' => 'ist',
 		'type' => 'ICANN',
 		'comments' => [
-			'ist : 2014-08-28 Istanbul Metropolitan Municipality',
+			'ist : Istanbul Metropolitan Municipality',
 		],
 	],
 	'istanbul' => [
 		'suffix' => 'istanbul',
 		'type' => 'ICANN',
 		'comments' => [
-			'istanbul : 2014-08-28 Istanbul Metropolitan Municipality',
+			'istanbul : Istanbul Metropolitan Municipality',
 		],
 	],
 	'itau' => [
 		'suffix' => 'itau',
 		'type' => 'ICANN',
 		'comments' => [
-			'itau : 2014-10-02 Itau Unibanco Holding S.A.',
+			'itau : Itau Unibanco Holding S.A.',
 		],
 	],
 	'itv' => [
 		'suffix' => 'itv',
 		'type' => 'ICANN',
 		'comments' => [
-			'itv : 2015-07-09 ITV Services Limited',
+			'itv : ITV Services Limited',
 		],
 	],
 	'jaguar' => [
 		'suffix' => 'jaguar',
 		'type' => 'ICANN',
 		'comments' => [
-			'jaguar : 2014-11-13 Jaguar Land Rover Ltd',
+			'jaguar : Jaguar Land Rover Ltd',
 		],
 	],
 	'java' => [
 		'suffix' => 'java',
 		'type' => 'ICANN',
 		'comments' => [
-			'java : 2014-06-19 Oracle Corporation',
+			'java : Oracle Corporation',
 		],
 	],
 	'jcb' => [
 		'suffix' => 'jcb',
 		'type' => 'ICANN',
 		'comments' => [
-			'jcb : 2014-11-20 JCB Co., Ltd.',
+			'jcb : JCB Co., Ltd.',
 		],
 	],
 	'jeep' => [
 		'suffix' => 'jeep',
 		'type' => 'ICANN',
 		'comments' => [
-			'jeep : 2015-07-30 FCA US LLC.',
+			'jeep : FCA US LLC.',
 		],
 	],
 	'jetzt' => [
 		'suffix' => 'jetzt',
 		'type' => 'ICANN',
 		'comments' => [
-			'jetzt : 2014-01-09 Binky Moon, LLC',
+			'jetzt : Binky Moon, LLC',
 		],
 	],
 	'jewelry' => [
 		'suffix' => 'jewelry',
 		'type' => 'ICANN',
 		'comments' => [
-			'jewelry : 2015-03-05 Binky Moon, LLC',
+			'jewelry : Binky Moon, LLC',
 		],
 	],
 	'jio' => [
 		'suffix' => 'jio',
 		'type' => 'ICANN',
 		'comments' => [
-			'jio : 2015-04-02 Reliance Industries Limited',
+			'jio : Reliance Industries Limited',
 		],
 	],
 	'jll' => [
 		'suffix' => 'jll',
 		'type' => 'ICANN',
 		'comments' => [
-			'jll : 2015-04-02 Jones Lang LaSalle Incorporated',
+			'jll : Jones Lang LaSalle Incorporated',
 		],
 	],
 	'jmp' => [
 		'suffix' => 'jmp',
 		'type' => 'ICANN',
 		'comments' => [
-			'jmp : 2015-03-26 Matrix IP LLC',
+			'jmp : Matrix IP LLC',
 		],
 	],
 	'jnj' => [
 		'suffix' => 'jnj',
 		'type' => 'ICANN',
 		'comments' => [
-			'jnj : 2015-06-18 Johnson & Johnson Services, Inc.',
+			'jnj : Johnson & Johnson Services, Inc.',
 		],
 	],
 	'joburg' => [
 		'suffix' => 'joburg',
 		'type' => 'ICANN',
 		'comments' => [
-			'joburg : 2014-03-24 ZA Central Registry NPC trading as ZA Central Registry',
+			'joburg : ZA Central Registry NPC trading as ZA Central Registry',
 		],
 	],
 	'jot' => [
 		'suffix' => 'jot',
 		'type' => 'ICANN',
 		'comments' => [
-			'jot : 2014-12-18 Amazon Registry Services, Inc.',
+			'jot : Amazon Registry Services, Inc.',
 		],
 	],
 	'joy' => [
 		'suffix' => 'joy',
 		'type' => 'ICANN',
 		'comments' => [
-			'joy : 2014-12-18 Amazon Registry Services, Inc.',
+			'joy : Amazon Registry Services, Inc.',
 		],
 	],
 	'jpmorgan' => [
 		'suffix' => 'jpmorgan',
 		'type' => 'ICANN',
 		'comments' => [
-			'jpmorgan : 2015-04-30 JPMorgan Chase Bank, National Association',
+			'jpmorgan : JPMorgan Chase Bank, National Association',
 		],
 	],
 	'jprs' => [
 		'suffix' => 'jprs',
 		'type' => 'ICANN',
 		'comments' => [
-			'jprs : 2014-09-18 Japan Registry Services Co., Ltd.',
+			'jprs : Japan Registry Services Co., Ltd.',
 		],
 	],
 	'juegos' => [
 		'suffix' => 'juegos',
 		'type' => 'ICANN',
 		'comments' => [
-			'juegos : 2014-03-20 Internet Naming Company LLC',
+			'juegos : Internet Naming Company LLC',
 		],
 	],
 	'juniper' => [
 		'suffix' => 'juniper',
 		'type' => 'ICANN',
 		'comments' => [
-			'juniper : 2015-07-30 JUNIPER NETWORKS, INC.',
+			'juniper : JUNIPER NETWORKS, INC.',
 		],
 	],
 	'kaufen' => [
 		'suffix' => 'kaufen',
 		'type' => 'ICANN',
 		'comments' => [
-			'kaufen : 2013-11-07 Dog Beach, LLC',
+			'kaufen : Dog Beach, LLC',
 		],
 	],
 	'kddi' => [
 		'suffix' => 'kddi',
 		'type' => 'ICANN',
 		'comments' => [
-			'kddi : 2014-09-12 KDDI CORPORATION',
+			'kddi : KDDI CORPORATION',
 		],
 	],
 	'kerryhotels' => [
 		'suffix' => 'kerryhotels',
 		'type' => 'ICANN',
 		'comments' => [
-			'kerryhotels : 2015-04-30 Kerry Trading Co. Limited',
+			'kerryhotels : Kerry Trading Co. Limited',
 		],
 	],
 	'kerrylogistics' => [
 		'suffix' => 'kerrylogistics',
 		'type' => 'ICANN',
 		'comments' => [
-			'kerrylogistics : 2015-04-09 Kerry Trading Co. Limited',
+			'kerrylogistics : Kerry Trading Co. Limited',
 		],
 	],
 	'kerryproperties' => [
 		'suffix' => 'kerryproperties',
 		'type' => 'ICANN',
 		'comments' => [
-			'kerryproperties : 2015-04-09 Kerry Trading Co. Limited',
+			'kerryproperties : Kerry Trading Co. Limited',
 		],
 	],
 	'kfh' => [
 		'suffix' => 'kfh',
 		'type' => 'ICANN',
 		'comments' => [
-			'kfh : 2014-12-04 Kuwait Finance House',
+			'kfh : Kuwait Finance House',
 		],
 	],
 	'kia' => [
 		'suffix' => 'kia',
 		'type' => 'ICANN',
 		'comments' => [
-			'kia : 2015-07-09 KIA MOTORS CORPORATION',
+			'kia : KIA MOTORS CORPORATION',
 		],
 	],
 	'kids' => [
 		'suffix' => 'kids',
 		'type' => 'ICANN',
 		'comments' => [
-			'kids : 2021-08-13 DotKids Foundation Limited',
+			'kids : DotKids Foundation Limited',
 		],
 	],
 	'kim' => [
 		'suffix' => 'kim',
 		'type' => 'ICANN',
 		'comments' => [
-			'kim : 2013-09-23 Identity Digital Limited',
+			'kim : Identity Digital Limited',
 		],
 	],
 	'kinder' => [
 		'suffix' => 'kinder',
 		'type' => 'ICANN',
 		'comments' => [
-			'kinder : 2014-11-07 Ferrero Trading Lux S.A.',
+			'kinder : Ferrero Trading Lux S.A.',
 		],
 	],
 	'kindle' => [
 		'suffix' => 'kindle',
 		'type' => 'ICANN',
 		'comments' => [
-			'kindle : 2015-06-25 Amazon Registry Services, Inc.',
+			'kindle : Amazon Registry Services, Inc.',
 		],
 	],
 	'kitchen' => [
 		'suffix' => 'kitchen',
 		'type' => 'ICANN',
 		'comments' => [
-			'kitchen : 2013-09-20 Binky Moon, LLC',
+			'kitchen : Binky Moon, LLC',
 		],
 	],
 	'kiwi' => [
 		'suffix' => 'kiwi',
 		'type' => 'ICANN',
 		'comments' => [
-			'kiwi : 2013-09-20 DOT KIWI LIMITED',
+			'kiwi : DOT KIWI LIMITED',
 		],
 	],
 	'koeln' => [
 		'suffix' => 'koeln',
 		'type' => 'ICANN',
 		'comments' => [
-			'koeln : 2014-01-09 dotKoeln GmbH',
+			'koeln : dotKoeln GmbH',
 		],
 	],
 	'komatsu' => [
 		'suffix' => 'komatsu',
 		'type' => 'ICANN',
 		'comments' => [
-			'komatsu : 2015-01-08 Komatsu Ltd.',
+			'komatsu : Komatsu Ltd.',
 		],
 	],
 	'kosher' => [
 		'suffix' => 'kosher',
 		'type' => 'ICANN',
 		'comments' => [
-			'kosher : 2015-08-20 Kosher Marketing Assets LLC',
+			'kosher : Kosher Marketing Assets LLC',
 		],
 	],
 	'kpmg' => [
 		'suffix' => 'kpmg',
 		'type' => 'ICANN',
 		'comments' => [
-			'kpmg : 2015-04-23 KPMG International Cooperative (KPMG International Genossenschaft)',
+			'kpmg : KPMG International Cooperative (KPMG International Genossenschaft)',
 		],
 	],
 	'kpn' => [
 		'suffix' => 'kpn',
 		'type' => 'ICANN',
 		'comments' => [
-			'kpn : 2015-01-08 Koninklijke KPN N.V.',
+			'kpn : Koninklijke KPN N.V.',
 		],
 	],
 	'krd' => [
 		'suffix' => 'krd',
 		'type' => 'ICANN',
 		'comments' => [
-			'krd : 2013-12-05 KRG Department of Information Technology',
+			'krd : KRG Department of Information Technology',
 		],
 	],
 	'kred' => [
 		'suffix' => 'kred',
 		'type' => 'ICANN',
 		'comments' => [
-			'kred : 2013-12-19 KredTLD Pty Ltd',
+			'kred : KredTLD Pty Ltd',
 		],
 	],
 	'kuokgroup' => [
 		'suffix' => 'kuokgroup',
 		'type' => 'ICANN',
 		'comments' => [
-			'kuokgroup : 2015-04-09 Kerry Trading Co. Limited',
+			'kuokgroup : Kerry Trading Co. Limited',
 		],
 	],
 	'kyoto' => [
 		'suffix' => 'kyoto',
 		'type' => 'ICANN',
 		'comments' => [
-			'kyoto : 2014-11-07 Academic Institution: Kyoto Jyoho Gakuen',
+			'kyoto : Academic Institution: Kyoto Jyoho Gakuen',
 		],
 	],
 	'lacaixa' => [
 		'suffix' => 'lacaixa',
 		'type' => 'ICANN',
 		'comments' => [
-			'lacaixa : 2014-01-09 Fundación Bancaria Caixa d’Estalvis i Pensions de Barcelona, “la Caixa”',
+			'lacaixa : Fundación Bancaria Caixa d’Estalvis i Pensions de Barcelona, “la Caixa”',
 		],
 	],
 	'lamborghini' => [
 		'suffix' => 'lamborghini',
 		'type' => 'ICANN',
 		'comments' => [
-			'lamborghini : 2015-06-04 Automobili Lamborghini S.p.A.',
+			'lamborghini : Automobili Lamborghini S.p.A.',
 		],
 	],
 	'lamer' => [
 		'suffix' => 'lamer',
 		'type' => 'ICANN',
 		'comments' => [
-			'lamer : 2015-10-01 The Estée Lauder Companies Inc.',
+			'lamer : The Estée Lauder Companies Inc.',
 		],
 	],
 	'lancaster' => [
 		'suffix' => 'lancaster',
 		'type' => 'ICANN',
 		'comments' => [
-			'lancaster : 2015-02-12 LANCASTER',
+			'lancaster : LANCASTER',
 		],
 	],
 	'land' => [
 		'suffix' => 'land',
 		'type' => 'ICANN',
 		'comments' => [
-			'land : 2013-09-10 Binky Moon, LLC',
+			'land : Binky Moon, LLC',
 		],
 	],
 	'landrover' => [
 		'suffix' => 'landrover',
 		'type' => 'ICANN',
 		'comments' => [
-			'landrover : 2014-11-13 Jaguar Land Rover Ltd',
+			'landrover : Jaguar Land Rover Ltd',
 		],
 	],
 	'lanxess' => [
 		'suffix' => 'lanxess',
 		'type' => 'ICANN',
 		'comments' => [
-			'lanxess : 2015-07-30 LANXESS Corporation',
+			'lanxess : LANXESS Corporation',
 		],
 	],
 	'lasalle' => [
 		'suffix' => 'lasalle',
 		'type' => 'ICANN',
 		'comments' => [
-			'lasalle : 2015-04-02 Jones Lang LaSalle Incorporated',
+			'lasalle : Jones Lang LaSalle Incorporated',
 		],
 	],
 	'lat' => [
 		'suffix' => 'lat',
 		'type' => 'ICANN',
 		'comments' => [
-			'lat : 2014-10-16 XYZ.COM LLC',
+			'lat : XYZ.COM LLC',
 		],
 	],
 	'latino' => [
 		'suffix' => 'latino',
 		'type' => 'ICANN',
 		'comments' => [
-			'latino : 2015-07-30 Dish DBS Corporation',
+			'latino : Dish DBS Corporation',
 		],
 	],
 	'latrobe' => [
 		'suffix' => 'latrobe',
 		'type' => 'ICANN',
 		'comments' => [
-			'latrobe : 2014-06-16 La Trobe University',
+			'latrobe : La Trobe University',
 		],
 	],
 	'law' => [
 		'suffix' => 'law',
 		'type' => 'ICANN',
 		'comments' => [
-			'law : 2015-01-22 Registry Services, LLC',
+			'law : Registry Services, LLC',
 		],
 	],
 	'lawyer' => [
 		'suffix' => 'lawyer',
 		'type' => 'ICANN',
 		'comments' => [
-			'lawyer : 2014-03-20 Dog Beach, LLC',
+			'lawyer : Dog Beach, LLC',
 		],
 	],
 	'lds' => [
 		'suffix' => 'lds',
 		'type' => 'ICANN',
 		'comments' => [
-			'lds : 2014-03-20 IRI Domain Management, LLC',
+			'lds : IRI Domain Management, LLC',
 		],
 	],
 	'lease' => [
 		'suffix' => 'lease',
 		'type' => 'ICANN',
 		'comments' => [
-			'lease : 2014-03-06 Binky Moon, LLC',
+			'lease : Binky Moon, LLC',
 		],
 	],
 	'leclerc' => [
 		'suffix' => 'leclerc',
 		'type' => 'ICANN',
 		'comments' => [
-			'leclerc : 2014-08-07 A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc',
+			'leclerc : A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc',
 		],
 	],
 	'lefrak' => [
 		'suffix' => 'lefrak',
 		'type' => 'ICANN',
 		'comments' => [
-			'lefrak : 2015-07-16 LeFrak Organization, Inc.',
+			'lefrak : LeFrak Organization, Inc.',
 		],
 	],
 	'legal' => [
 		'suffix' => 'legal',
 		'type' => 'ICANN',
 		'comments' => [
-			'legal : 2014-10-16 Binky Moon, LLC',
+			'legal : Binky Moon, LLC',
 		],
 	],
 	'lego' => [
 		'suffix' => 'lego',
 		'type' => 'ICANN',
 		'comments' => [
-			'lego : 2015-07-16 LEGO Juris A/S',
+			'lego : LEGO Juris A/S',
 		],
 	],
 	'lexus' => [
 		'suffix' => 'lexus',
 		'type' => 'ICANN',
 		'comments' => [
-			'lexus : 2015-04-23 TOYOTA MOTOR CORPORATION',
+			'lexus : TOYOTA MOTOR CORPORATION',
 		],
 	],
 	'lgbt' => [
 		'suffix' => 'lgbt',
 		'type' => 'ICANN',
 		'comments' => [
-			'lgbt : 2014-05-08 Identity Digital Limited',
+			'lgbt : Identity Digital Limited',
 		],
 	],
 	'lidl' => [
 		'suffix' => 'lidl',
 		'type' => 'ICANN',
 		'comments' => [
-			'lidl : 2014-09-18 Schwarz Domains und Services GmbH & Co. KG',
+			'lidl : Schwarz Domains und Services GmbH & Co. KG',
 		],
 	],
 	'life' => [
 		'suffix' => 'life',
 		'type' => 'ICANN',
 		'comments' => [
-			'life : 2014-02-06 Binky Moon, LLC',
+			'life : Binky Moon, LLC',
 		],
 	],
 	'lifeinsurance' => [
 		'suffix' => 'lifeinsurance',
 		'type' => 'ICANN',
 		'comments' => [
-			'lifeinsurance : 2015-01-15 American Council of Life Insurers',
+			'lifeinsurance : American Council of Life Insurers',
 		],
 	],
 	'lifestyle' => [
 		'suffix' => 'lifestyle',
 		'type' => 'ICANN',
 		'comments' => [
-			'lifestyle : 2014-12-11 Lifestyle Domain Holdings, Inc.',
+			'lifestyle : Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'lighting' => [
 		'suffix' => 'lighting',
 		'type' => 'ICANN',
 		'comments' => [
-			'lighting : 2013-08-27 Binky Moon, LLC',
+			'lighting : Binky Moon, LLC',
 		],
 	],
 	'like' => [
 		'suffix' => 'like',
 		'type' => 'ICANN',
 		'comments' => [
-			'like : 2014-12-18 Amazon Registry Services, Inc.',
+			'like : Amazon Registry Services, Inc.',
 		],
 	],
 	'lilly' => [
 		'suffix' => 'lilly',
 		'type' => 'ICANN',
 		'comments' => [
-			'lilly : 2015-07-31 Eli Lilly and Company',
+			'lilly : Eli Lilly and Company',
 		],
 	],
 	'limited' => [
 		'suffix' => 'limited',
 		'type' => 'ICANN',
 		'comments' => [
-			'limited : 2014-03-06 Binky Moon, LLC',
+			'limited : Binky Moon, LLC',
 		],
 	],
 	'limo' => [
 		'suffix' => 'limo',
 		'type' => 'ICANN',
 		'comments' => [
-			'limo : 2013-10-17 Binky Moon, LLC',
+			'limo : Binky Moon, LLC',
 		],
 	],
 	'lincoln' => [
 		'suffix' => 'lincoln',
 		'type' => 'ICANN',
 		'comments' => [
-			'lincoln : 2014-11-13 Ford Motor Company',
+			'lincoln : Ford Motor Company',
 		],
 	],
 	'link' => [
 		'suffix' => 'link',
 		'type' => 'ICANN',
 		'comments' => [
-			'link : 2013-11-14 Nova Registry Ltd',
+			'link : Nova Registry Ltd',
 		],
 	],
 	'lipsy' => [
 		'suffix' => 'lipsy',
 		'type' => 'ICANN',
 		'comments' => [
-			'lipsy : 2015-06-25 Lipsy Ltd',
+			'lipsy : Lipsy Ltd',
 		],
 	],
 	'live' => [
 		'suffix' => 'live',
 		'type' => 'ICANN',
 		'comments' => [
-			'live : 2014-12-04 Dog Beach, LLC',
+			'live : Dog Beach, LLC',
 		],
 	],
 	'living' => [
 		'suffix' => 'living',
 		'type' => 'ICANN',
 		'comments' => [
-			'living : 2015-07-30 Lifestyle Domain Holdings, Inc.',
+			'living : Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'llc' => [
 		'suffix' => 'llc',
 		'type' => 'ICANN',
 		'comments' => [
-			'llc : 2017-12-14 Identity Digital Limited',
+			'llc : Identity Digital Limited',
 		],
 	],
 	'llp' => [
 		'suffix' => 'llp',
 		'type' => 'ICANN',
 		'comments' => [
-			'llp : 2019-08-26 Intercap Registry Inc.',
+			'llp : Intercap Registry Inc.',
 		],
 	],
 	'loan' => [
 		'suffix' => 'loan',
 		'type' => 'ICANN',
 		'comments' => [
-			'loan : 2014-11-20 dot Loan Limited',
+			'loan : dot Loan Limited',
 		],
 	],
 	'loans' => [
 		'suffix' => 'loans',
 		'type' => 'ICANN',
 		'comments' => [
-			'loans : 2014-03-20 Binky Moon, LLC',
+			'loans : Binky Moon, LLC',
 		],
 	],
 	'locker' => [
 		'suffix' => 'locker',
 		'type' => 'ICANN',
 		'comments' => [
-			'locker : 2015-06-04 Dish DBS Corporation',
+			'locker : Dish DBS Corporation',
 		],
 	],
 	'locus' => [
 		'suffix' => 'locus',
 		'type' => 'ICANN',
 		'comments' => [
-			'locus : 2015-06-25 Locus Analytics LLC',
+			'locus : Locus Analytics LLC',
 		],
 	],
 	'lol' => [
 		'suffix' => 'lol',
 		'type' => 'ICANN',
 		'comments' => [
-			'lol : 2015-01-30 XYZ.COM LLC',
+			'lol : XYZ.COM LLC',
 		],
 	],
 	'london' => [
 		'suffix' => 'london',
 		'type' => 'ICANN',
 		'comments' => [
-			'london : 2013-11-14 Dot London Domains Limited',
+			'london : Dot London Domains Limited',
 		],
 	],
 	'lotte' => [
 		'suffix' => 'lotte',
 		'type' => 'ICANN',
 		'comments' => [
-			'lotte : 2014-11-07 Lotte Holdings Co., Ltd.',
+			'lotte : Lotte Holdings Co., Ltd.',
 		],
 	],
 	'lotto' => [
 		'suffix' => 'lotto',
 		'type' => 'ICANN',
 		'comments' => [
-			'lotto : 2014-04-10 Identity Digital Limited',
+			'lotto : Identity Digital Limited',
 		],
 	],
 	'love' => [
 		'suffix' => 'love',
 		'type' => 'ICANN',
 		'comments' => [
-			'love : 2014-12-22 Merchant Law Group LLP',
+			'love : Merchant Law Group LLP',
 		],
 	],
 	'lpl' => [
 		'suffix' => 'lpl',
 		'type' => 'ICANN',
 		'comments' => [
-			'lpl : 2015-07-30 LPL Holdings, Inc.',
+			'lpl : LPL Holdings, Inc.',
 		],
 	],
 	'lplfinancial' => [
 		'suffix' => 'lplfinancial',
 		'type' => 'ICANN',
 		'comments' => [
-			'lplfinancial : 2015-07-30 LPL Holdings, Inc.',
+			'lplfinancial : LPL Holdings, Inc.',
 		],
 	],
 	'ltd' => [
 		'suffix' => 'ltd',
 		'type' => 'ICANN',
 		'comments' => [
-			'ltd : 2014-09-25 Binky Moon, LLC',
+			'ltd : Binky Moon, LLC',
 		],
 	],
 	'ltda' => [
 		'suffix' => 'ltda',
 		'type' => 'ICANN',
 		'comments' => [
-			'ltda : 2014-04-17 InterNetX, Corp',
+			'ltda : InterNetX, Corp',
 		],
 	],
 	'lundbeck' => [
 		'suffix' => 'lundbeck',
 		'type' => 'ICANN',
 		'comments' => [
-			'lundbeck : 2015-08-06 H. Lundbeck A/S',
+			'lundbeck : H. Lundbeck A/S',
 		],
 	],
 	'luxe' => [
 		'suffix' => 'luxe',
 		'type' => 'ICANN',
 		'comments' => [
-			'luxe : 2014-01-09 Registry Services, LLC',
+			'luxe : Registry Services, LLC',
 		],
 	],
 	'luxury' => [
 		'suffix' => 'luxury',
 		'type' => 'ICANN',
 		'comments' => [
-			'luxury : 2013-10-17 Luxury Partners, LLC',
+			'luxury : Luxury Partners, LLC',
 		],
 	],
 	'madrid' => [
 		'suffix' => 'madrid',
 		'type' => 'ICANN',
 		'comments' => [
-			'madrid : 2014-05-01 Comunidad de Madrid',
+			'madrid : Comunidad de Madrid',
 		],
 	],
 	'maif' => [
 		'suffix' => 'maif',
 		'type' => 'ICANN',
 		'comments' => [
-			'maif : 2014-10-02 Mutuelle Assurance Instituteur France (MAIF)',
+			'maif : Mutuelle Assurance Instituteur France (MAIF)',
 		],
 	],
 	'maison' => [
 		'suffix' => 'maison',
 		'type' => 'ICANN',
 		'comments' => [
-			'maison : 2013-12-05 Binky Moon, LLC',
+			'maison : Binky Moon, LLC',
 		],
 	],
 	'makeup' => [
 		'suffix' => 'makeup',
 		'type' => 'ICANN',
 		'comments' => [
-			'makeup : 2015-01-15 XYZ.COM LLC',
+			'makeup : XYZ.COM LLC',
 		],
 	],
 	'man' => [
 		'suffix' => 'man',
 		'type' => 'ICANN',
 		'comments' => [
-			'man : 2014-12-04 MAN SE',
+			'man : MAN SE',
 		],
 	],
 	'management' => [
 		'suffix' => 'management',
 		'type' => 'ICANN',
 		'comments' => [
-			'management : 2013-11-07 Binky Moon, LLC',
+			'management : Binky Moon, LLC',
 		],
 	],
 	'mango' => [
 		'suffix' => 'mango',
 		'type' => 'ICANN',
 		'comments' => [
-			'mango : 2013-10-24 PUNTO FA S.L.',
+			'mango : PUNTO FA S.L.',
 		],
 	],
 	'map' => [
 		'suffix' => 'map',
 		'type' => 'ICANN',
 		'comments' => [
-			'map : 2016-06-09 Charleston Road Registry Inc.',
+			'map : Charleston Road Registry Inc.',
 		],
 	],
 	'market' => [
 		'suffix' => 'market',
 		'type' => 'ICANN',
 		'comments' => [
-			'market : 2014-03-06 Dog Beach, LLC',
+			'market : Dog Beach, LLC',
 		],
 	],
 	'marketing' => [
 		'suffix' => 'marketing',
 		'type' => 'ICANN',
 		'comments' => [
-			'marketing : 2013-11-07 Binky Moon, LLC',
+			'marketing : Binky Moon, LLC',
 		],
 	],
 	'markets' => [
 		'suffix' => 'markets',
 		'type' => 'ICANN',
 		'comments' => [
-			'markets : 2014-12-11 Dog Beach, LLC',
+			'markets : Dog Beach, LLC',
 		],
 	],
 	'marriott' => [
 		'suffix' => 'marriott',
 		'type' => 'ICANN',
 		'comments' => [
-			'marriott : 2014-10-09 Marriott Worldwide Corporation',
+			'marriott : Marriott Worldwide Corporation',
 		],
 	],
 	'marshalls' => [
 		'suffix' => 'marshalls',
 		'type' => 'ICANN',
 		'comments' => [
-			'marshalls : 2015-07-16 The TJX Companies, Inc.',
+			'marshalls : The TJX Companies, Inc.',
 		],
 	],
 	'mattel' => [
 		'suffix' => 'mattel',
 		'type' => 'ICANN',
 		'comments' => [
-			'mattel : 2015-08-06 Mattel Sites, Inc.',
+			'mattel : Mattel Sites, Inc.',
 		],
 	],
 	'mba' => [
 		'suffix' => 'mba',
 		'type' => 'ICANN',
 		'comments' => [
-			'mba : 2015-04-02 Binky Moon, LLC',
+			'mba : Binky Moon, LLC',
 		],
 	],
 	'mckinsey' => [
 		'suffix' => 'mckinsey',
 		'type' => 'ICANN',
 		'comments' => [
-			'mckinsey : 2015-07-31 McKinsey Holdings, Inc.',
+			'mckinsey : McKinsey Holdings, Inc.',
 		],
 	],
 	'med' => [
 		'suffix' => 'med',
 		'type' => 'ICANN',
 		'comments' => [
-			'med : 2015-08-06 Medistry LLC',
+			'med : Medistry LLC',
 		],
 	],
 	'media' => [
 		'suffix' => 'media',
 		'type' => 'ICANN',
 		'comments' => [
-			'media : 2014-03-06 Binky Moon, LLC',
+			'media : Binky Moon, LLC',
 		],
 	],
 	'meet' => [
 		'suffix' => 'meet',
 		'type' => 'ICANN',
 		'comments' => [
-			'meet : 2014-01-16 Charleston Road Registry Inc.',
+			'meet : Charleston Road Registry Inc.',
 		],
 	],
 	'melbourne' => [
 		'suffix' => 'melbourne',
 		'type' => 'ICANN',
 		'comments' => [
-			'melbourne : 2014-05-29 The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation',
+			'melbourne : The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation',
 		],
 	],
 	'meme' => [
 		'suffix' => 'meme',
 		'type' => 'ICANN',
 		'comments' => [
-			'meme : 2014-01-30 Charleston Road Registry Inc.',
+			'meme : Charleston Road Registry Inc.',
 		],
 	],
 	'memorial' => [
 		'suffix' => 'memorial',
 		'type' => 'ICANN',
 		'comments' => [
-			'memorial : 2014-10-16 Dog Beach, LLC',
+			'memorial : Dog Beach, LLC',
 		],
 	],
 	'men' => [
 		'suffix' => 'men',
 		'type' => 'ICANN',
 		'comments' => [
-			'men : 2015-02-26 Exclusive Registry Limited',
+			'men : Exclusive Registry Limited',
 		],
 	],
 	'menu' => [
 		'suffix' => 'menu',
 		'type' => 'ICANN',
 		'comments' => [
-			'menu : 2013-09-11 Dot Menu Registry, LLC',
+			'menu : Dot Menu Registry, LLC',
 		],
 	],
 	'merckmsd' => [
 		'suffix' => 'merckmsd',
 		'type' => 'ICANN',
 		'comments' => [
-			'merckmsd : 2016-07-14 MSD Registry Holdings, Inc.',
+			'merckmsd : MSD Registry Holdings, Inc.',
 		],
 	],
 	'miami' => [
 		'suffix' => 'miami',
 		'type' => 'ICANN',
 		'comments' => [
-			'miami : 2013-12-19 Registry Services, LLC',
+			'miami : Registry Services, LLC',
 		],
 	],
 	'microsoft' => [
 		'suffix' => 'microsoft',
 		'type' => 'ICANN',
 		'comments' => [
-			'microsoft : 2014-12-18 Microsoft Corporation',
+			'microsoft : Microsoft Corporation',
 		],
 	],
 	'mini' => [
 		'suffix' => 'mini',
 		'type' => 'ICANN',
 		'comments' => [
-			'mini : 2014-01-09 Bayerische Motoren Werke Aktiengesellschaft',
+			'mini : Bayerische Motoren Werke Aktiengesellschaft',
 		],
 	],
 	'mint' => [
 		'suffix' => 'mint',
 		'type' => 'ICANN',
 		'comments' => [
-			'mint : 2015-07-30 Intuit Administrative Services, Inc.',
+			'mint : Intuit Administrative Services, Inc.',
 		],
 	],
 	'mit' => [
 		'suffix' => 'mit',
 		'type' => 'ICANN',
 		'comments' => [
-			'mit : 2015-07-02 Massachusetts Institute of Technology',
+			'mit : Massachusetts Institute of Technology',
 		],
 	],
 	'mitsubishi' => [
 		'suffix' => 'mitsubishi',
 		'type' => 'ICANN',
 		'comments' => [
-			'mitsubishi : 2015-07-23 Mitsubishi Corporation',
+			'mitsubishi : Mitsubishi Corporation',
 		],
 	],
 	'mlb' => [
 		'suffix' => 'mlb',
 		'type' => 'ICANN',
 		'comments' => [
-			'mlb : 2015-05-21 MLB Advanced Media DH, LLC',
+			'mlb : MLB Advanced Media DH, LLC',
 		],
 	],
 	'mls' => [
 		'suffix' => 'mls',
 		'type' => 'ICANN',
 		'comments' => [
-			'mls : 2015-04-23 The Canadian Real Estate Association',
+			'mls : The Canadian Real Estate Association',
 		],
 	],
 	'mma' => [
 		'suffix' => 'mma',
 		'type' => 'ICANN',
 		'comments' => [
-			'mma : 2014-11-07 MMA IARD',
+			'mma : MMA IARD',
 		],
 	],
 	'mobile' => [
 		'suffix' => 'mobile',
 		'type' => 'ICANN',
 		'comments' => [
-			'mobile : 2016-06-02 Dish DBS Corporation',
+			'mobile : Dish DBS Corporation',
 		],
 	],
 	'moda' => [
 		'suffix' => 'moda',
 		'type' => 'ICANN',
 		'comments' => [
-			'moda : 2013-11-07 Dog Beach, LLC',
+			'moda : Dog Beach, LLC',
 		],
 	],
 	'moe' => [
 		'suffix' => 'moe',
 		'type' => 'ICANN',
 		'comments' => [
-			'moe : 2013-11-13 Interlink Systems Innovation Institute K.K.',
+			'moe : Interlink Systems Innovation Institute K.K.',
 		],
 	],
 	'moi' => [
 		'suffix' => 'moi',
 		'type' => 'ICANN',
 		'comments' => [
-			'moi : 2014-12-18 Amazon Registry Services, Inc.',
+			'moi : Amazon Registry Services, Inc.',
 		],
 	],
 	'mom' => [
 		'suffix' => 'mom',
 		'type' => 'ICANN',
 		'comments' => [
-			'mom : 2015-04-16 XYZ.COM LLC',
+			'mom : XYZ.COM LLC',
 		],
 	],
 	'monash' => [
 		'suffix' => 'monash',
 		'type' => 'ICANN',
 		'comments' => [
-			'monash : 2013-09-30 Monash University',
+			'monash : Monash University',
 		],
 	],
 	'money' => [
 		'suffix' => 'money',
 		'type' => 'ICANN',
 		'comments' => [
-			'money : 2014-10-16 Binky Moon, LLC',
+			'money : Binky Moon, LLC',
 		],
 	],
 	'monster' => [
 		'suffix' => 'monster',
 		'type' => 'ICANN',
 		'comments' => [
-			'monster : 2015-09-11 XYZ.COM LLC',
+			'monster : XYZ.COM LLC',
 		],
 	],
 	'mormon' => [
 		'suffix' => 'mormon',
 		'type' => 'ICANN',
 		'comments' => [
-			'mormon : 2013-12-05 IRI Domain Management, LLC',
+			'mormon : IRI Domain Management, LLC',
 		],
 	],
 	'mortgage' => [
 		'suffix' => 'mortgage',
 		'type' => 'ICANN',
 		'comments' => [
-			'mortgage : 2014-03-20 Dog Beach, LLC',
+			'mortgage : Dog Beach, LLC',
 		],
 	],
 	'moscow' => [
 		'suffix' => 'moscow',
 		'type' => 'ICANN',
 		'comments' => [
-			'moscow : 2013-12-19 Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)',
+			'moscow : Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)',
 		],
 	],
 	'moto' => [
 		'suffix' => 'moto',
 		'type' => 'ICANN',
 		'comments' => [
-			'moto : 2015-06-04 Motorola Trademark Holdings, LLC',
+			'moto : Motorola Trademark Holdings, LLC',
 		],
 	],
 	'motorcycles' => [
 		'suffix' => 'motorcycles',
 		'type' => 'ICANN',
 		'comments' => [
-			'motorcycles : 2014-01-09 XYZ.COM LLC',
+			'motorcycles : XYZ.COM LLC',
 		],
 	],
 	'mov' => [
 		'suffix' => 'mov',
 		'type' => 'ICANN',
 		'comments' => [
-			'mov : 2014-01-30 Charleston Road Registry Inc.',
+			'mov : Charleston Road Registry Inc.',
 		],
 	],
 	'movie' => [
 		'suffix' => 'movie',
 		'type' => 'ICANN',
 		'comments' => [
-			'movie : 2015-02-05 Binky Moon, LLC',
+			'movie : Binky Moon, LLC',
 		],
 	],
 	'msd' => [
 		'suffix' => 'msd',
 		'type' => 'ICANN',
 		'comments' => [
-			'msd : 2015-07-23 MSD Registry Holdings, Inc.',
+			'msd : MSD Registry Holdings, Inc.',
 		],
 	],
 	'mtn' => [
 		'suffix' => 'mtn',
 		'type' => 'ICANN',
 		'comments' => [
-			'mtn : 2014-12-04 MTN Dubai Limited',
+			'mtn : MTN Dubai Limited',
 		],
 	],
 	'mtr' => [
 		'suffix' => 'mtr',
 		'type' => 'ICANN',
 		'comments' => [
-			'mtr : 2015-03-12 MTR Corporation Limited',
+			'mtr : MTR Corporation Limited',
 		],
 	],
 	'music' => [
 		'suffix' => 'music',
 		'type' => 'ICANN',
 		'comments' => [
-			'music : 2021-05-04 DotMusic Limited',
-		],
-	],
-	'mutual' => [
-		'suffix' => 'mutual',
-		'type' => 'ICANN',
-		'comments' => [
-			'mutual : 2015-04-02 Northwestern Mutual MU TLD Registry, LLC',
+			'music : DotMusic Limited',
 		],
 	],
 	'nab' => [
 		'suffix' => 'nab',
 		'type' => 'ICANN',
 		'comments' => [
-			'nab : 2015-08-20 National Australia Bank Limited',
+			'nab : National Australia Bank Limited',
 		],
 	],
 	'nagoya' => [
 		'suffix' => 'nagoya',
 		'type' => 'ICANN',
 		'comments' => [
-			'nagoya : 2013-10-24 GMO Registry, Inc.',
+			'nagoya : GMO Registry, Inc.',
 		],
 	],
 	'natura' => [
 		'suffix' => 'natura',
 		'type' => 'ICANN',
 		'comments' => [
-			'natura : 2015-03-12 NATURA COSMÉTICOS S.A.',
+			'natura : NATURA COSMÉTICOS S.A.',
 		],
 	],
 	'navy' => [
 		'suffix' => 'navy',
 		'type' => 'ICANN',
 		'comments' => [
-			'navy : 2014-03-06 Dog Beach, LLC',
+			'navy : Dog Beach, LLC',
 		],
 	],
 	'nba' => [
 		'suffix' => 'nba',
 		'type' => 'ICANN',
 		'comments' => [
-			'nba : 2015-07-31 NBA REGISTRY, LLC',
+			'nba : NBA REGISTRY, LLC',
 		],
 	],
 	'nec' => [
 		'suffix' => 'nec',
 		'type' => 'ICANN',
 		'comments' => [
-			'nec : 2015-01-08 NEC Corporation',
+			'nec : NEC Corporation',
 		],
 	],
 	'netbank' => [
 		'suffix' => 'netbank',
 		'type' => 'ICANN',
 		'comments' => [
-			'netbank : 2014-06-26 COMMONWEALTH BANK OF AUSTRALIA',
+			'netbank : COMMONWEALTH BANK OF AUSTRALIA',
 		],
 	],
 	'netflix' => [
 		'suffix' => 'netflix',
 		'type' => 'ICANN',
 		'comments' => [
-			'netflix : 2015-06-18 Netflix, Inc.',
+			'netflix : Netflix, Inc.',
 		],
 	],
 	'network' => [
 		'suffix' => 'network',
 		'type' => 'ICANN',
 		'comments' => [
-			'network : 2013-11-14 Binky Moon, LLC',
+			'network : Binky Moon, LLC',
 		],
 	],
 	'neustar' => [
 		'suffix' => 'neustar',
 		'type' => 'ICANN',
 		'comments' => [
-			'neustar : 2013-12-05 NeuStar, Inc.',
+			'neustar : NeuStar, Inc.',
 		],
 	],
 	'new' => [
 		'suffix' => 'new',
 		'type' => 'ICANN',
 		'comments' => [
-			'new : 2014-01-30 Charleston Road Registry Inc.',
+			'new : Charleston Road Registry Inc.',
 		],
 	],
 	'news' => [
 		'suffix' => 'news',
 		'type' => 'ICANN',
 		'comments' => [
-			'news : 2014-12-18 Dog Beach, LLC',
+			'news : Dog Beach, LLC',
 		],
 	],
 	'next' => [
 		'suffix' => 'next',
 		'type' => 'ICANN',
 		'comments' => [
-			'next : 2015-06-18 Next plc',
+			'next : Next plc',
 		],
 	],
 	'nextdirect' => [
 		'suffix' => 'nextdirect',
 		'type' => 'ICANN',
 		'comments' => [
-			'nextdirect : 2015-06-18 Next plc',
+			'nextdirect : Next plc',
 		],
 	],
 	'nexus' => [
 		'suffix' => 'nexus',
 		'type' => 'ICANN',
 		'comments' => [
-			'nexus : 2014-07-24 Charleston Road Registry Inc.',
+			'nexus : Charleston Road Registry Inc.',
 		],
 	],
 	'nfl' => [
 		'suffix' => 'nfl',
 		'type' => 'ICANN',
 		'comments' => [
-			'nfl : 2015-07-23 NFL Reg Ops LLC',
+			'nfl : NFL Reg Ops LLC',
 		],
 	],
 	'ngo' => [
 		'suffix' => 'ngo',
 		'type' => 'ICANN',
 		'comments' => [
-			'ngo : 2014-03-06 Public Interest Registry',
+			'ngo : Public Interest Registry',
 		],
 	],
 	'nhk' => [
 		'suffix' => 'nhk',
 		'type' => 'ICANN',
 		'comments' => [
-			'nhk : 2014-02-13 Japan Broadcasting Corporation (NHK)',
+			'nhk : Japan Broadcasting Corporation (NHK)',
 		],
 	],
 	'nico' => [
 		'suffix' => 'nico',
 		'type' => 'ICANN',
 		'comments' => [
-			'nico : 2014-12-04 DWANGO Co., Ltd.',
+			'nico : DWANGO Co., Ltd.',
 		],
 	],
 	'nike' => [
 		'suffix' => 'nike',
 		'type' => 'ICANN',
 		'comments' => [
-			'nike : 2015-07-23 NIKE, Inc.',
+			'nike : NIKE, Inc.',
 		],
 	],
 	'nikon' => [
 		'suffix' => 'nikon',
 		'type' => 'ICANN',
 		'comments' => [
-			'nikon : 2015-05-21 NIKON CORPORATION',
+			'nikon : NIKON CORPORATION',
 		],
 	],
 	'ninja' => [
 		'suffix' => 'ninja',
 		'type' => 'ICANN',
 		'comments' => [
-			'ninja : 2013-11-07 Dog Beach, LLC',
+			'ninja : Dog Beach, LLC',
 		],
 	],
 	'nissan' => [
 		'suffix' => 'nissan',
 		'type' => 'ICANN',
 		'comments' => [
-			'nissan : 2014-03-27 NISSAN MOTOR CO., LTD.',
+			'nissan : NISSAN MOTOR CO., LTD.',
 		],
 	],
 	'nissay' => [
 		'suffix' => 'nissay',
 		'type' => 'ICANN',
 		'comments' => [
-			'nissay : 2015-10-29 Nippon Life Insurance Company',
+			'nissay : Nippon Life Insurance Company',
 		],
 	],
 	'nokia' => [
 		'suffix' => 'nokia',
 		'type' => 'ICANN',
 		'comments' => [
-			'nokia : 2015-01-08 Nokia Corporation',
+			'nokia : Nokia Corporation',
 		],
 	],
 	'northwesternmutual' => [
 		'suffix' => 'northwesternmutual',
 		'type' => 'ICANN',
 		'comments' => [
-			'northwesternmutual : 2015-06-18 Northwestern Mutual Registry, LLC',
+			'northwesternmutual : Northwestern Mutual Registry, LLC',
 		],
 	],
 	'norton' => [
 		'suffix' => 'norton',
 		'type' => 'ICANN',
 		'comments' => [
-			'norton : 2014-12-04 NortonLifeLock Inc.',
+			'norton : NortonLifeLock Inc.',
 		],
 	],
 	'now' => [
 		'suffix' => 'now',
 		'type' => 'ICANN',
 		'comments' => [
-			'now : 2015-06-25 Amazon Registry Services, Inc.',
+			'now : Amazon Registry Services, Inc.',
 		],
 	],
 	'nowruz' => [
 		'suffix' => 'nowruz',
 		'type' => 'ICANN',
 		'comments' => [
-			'nowruz : 2014-09-04 Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'nowruz : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
 		],
 	],
 	'nowtv' => [
 		'suffix' => 'nowtv',
 		'type' => 'ICANN',
 		'comments' => [
-			'nowtv : 2015-05-14 Starbucks (HK) Limited',
+			'nowtv : Starbucks (HK) Limited',
 		],
 	],
 	'nra' => [
 		'suffix' => 'nra',
 		'type' => 'ICANN',
 		'comments' => [
-			'nra : 2014-05-22 NRA Holdings Company, INC.',
+			'nra : NRA Holdings Company, INC.',
 		],
 	],
 	'nrw' => [
 		'suffix' => 'nrw',
 		'type' => 'ICANN',
 		'comments' => [
-			'nrw : 2013-11-21 Minds + Machines GmbH',
+			'nrw : Minds + Machines GmbH',
 		],
 	],
 	'ntt' => [
 		'suffix' => 'ntt',
 		'type' => 'ICANN',
 		'comments' => [
-			'ntt : 2014-10-31 NIPPON TELEGRAPH AND TELEPHONE CORPORATION',
+			'ntt : NIPPON TELEGRAPH AND TELEPHONE CORPORATION',
 		],
 	],
 	'nyc' => [
 		'suffix' => 'nyc',
 		'type' => 'ICANN',
 		'comments' => [
-			'nyc : 2014-01-23 The City of New York by and through the New York City Department of Information Technology & Telecommunications',
+			'nyc : The City of New York by and through the New York City Department of Information Technology & Telecommunications',
 		],
 	],
 	'obi' => [
 		'suffix' => 'obi',
 		'type' => 'ICANN',
 		'comments' => [
-			'obi : 2014-09-25 OBI Group Holding SE & Co. KGaA',
+			'obi : OBI Group Holding SE & Co. KGaA',
 		],
 	],
 	'observer' => [
 		'suffix' => 'observer',
 		'type' => 'ICANN',
 		'comments' => [
-			'observer : 2015-04-30 Dog Beach, LLC',
+			'observer : Dog Beach, LLC',
 		],
 	],
 	'office' => [
 		'suffix' => 'office',
 		'type' => 'ICANN',
 		'comments' => [
-			'office : 2015-03-12 Microsoft Corporation',
+			'office : Microsoft Corporation',
 		],
 	],
 	'okinawa' => [
 		'suffix' => 'okinawa',
 		'type' => 'ICANN',
 		'comments' => [
-			'okinawa : 2013-12-05 BRregistry, Inc.',
+			'okinawa : BRregistry, Inc.',
 		],
 	],
 	'olayan' => [
 		'suffix' => 'olayan',
 		'type' => 'ICANN',
 		'comments' => [
-			'olayan : 2015-05-14 Competrol (Luxembourg) Sarl',
+			'olayan : Competrol (Luxembourg) Sarl',
 		],
 	],
 	'olayangroup' => [
 		'suffix' => 'olayangroup',
 		'type' => 'ICANN',
 		'comments' => [
-			'olayangroup : 2015-05-14 Competrol (Luxembourg) Sarl',
+			'olayangroup : Competrol (Luxembourg) Sarl',
 		],
 	],
 	'oldnavy' => [
 		'suffix' => 'oldnavy',
 		'type' => 'ICANN',
 		'comments' => [
-			'oldnavy : 2015-07-31 The Gap, Inc.',
+			'oldnavy : The Gap, Inc.',
 		],
 	],
 	'ollo' => [
 		'suffix' => 'ollo',
 		'type' => 'ICANN',
 		'comments' => [
-			'ollo : 2015-06-04 Dish DBS Corporation',
+			'ollo : Dish DBS Corporation',
 		],
 	],
 	'omega' => [
 		'suffix' => 'omega',
 		'type' => 'ICANN',
 		'comments' => [
-			'omega : 2015-01-08 The Swatch Group Ltd',
+			'omega : The Swatch Group Ltd',
 		],
 	],
 	'one' => [
 		'suffix' => 'one',
 		'type' => 'ICANN',
 		'comments' => [
-			'one : 2014-11-07 One.com A/S',
+			'one : One.com A/S',
 		],
 	],
 	'ong' => [
 		'suffix' => 'ong',
 		'type' => 'ICANN',
 		'comments' => [
-			'ong : 2014-03-06 Public Interest Registry',
+			'ong : Public Interest Registry',
 		],
 	],
 	'onl' => [
 		'suffix' => 'onl',
 		'type' => 'ICANN',
 		'comments' => [
-			'onl : 2013-09-16 iRegistry GmbH',
+			'onl : iRegistry GmbH',
 		],
 	],
 	'online' => [
 		'suffix' => 'online',
 		'type' => 'ICANN',
 		'comments' => [
-			'online : 2015-01-15 Radix FZC',
+			'online : Radix FZC',
 		],
 	],
 	'ooo' => [
 		'suffix' => 'ooo',
 		'type' => 'ICANN',
 		'comments' => [
-			'ooo : 2014-01-09 INFIBEAM AVENUES LIMITED',
+			'ooo : INFIBEAM AVENUES LIMITED',
 		],
 	],
 	'open' => [
 		'suffix' => 'open',
 		'type' => 'ICANN',
 		'comments' => [
-			'open : 2015-07-31 American Express Travel Related Services Company, Inc.',
+			'open : American Express Travel Related Services Company, Inc.',
 		],
 	],
 	'oracle' => [
 		'suffix' => 'oracle',
 		'type' => 'ICANN',
 		'comments' => [
-			'oracle : 2014-06-19 Oracle Corporation',
+			'oracle : Oracle Corporation',
 		],
 	],
 	'orange' => [
 		'suffix' => 'orange',
 		'type' => 'ICANN',
 		'comments' => [
-			'orange : 2015-03-12 Orange Brand Services Limited',
+			'orange : Orange Brand Services Limited',
 		],
 	],
 	'organic' => [
 		'suffix' => 'organic',
 		'type' => 'ICANN',
 		'comments' => [
-			'organic : 2014-03-27 Identity Digital Limited',
+			'organic : Identity Digital Limited',
 		],
 	],
 	'origins' => [
 		'suffix' => 'origins',
 		'type' => 'ICANN',
 		'comments' => [
-			'origins : 2015-10-01 The Estée Lauder Companies Inc.',
+			'origins : The Estée Lauder Companies Inc.',
 		],
 	],
 	'osaka' => [
 		'suffix' => 'osaka',
 		'type' => 'ICANN',
 		'comments' => [
-			'osaka : 2014-09-04 Osaka Registry Co., Ltd.',
+			'osaka : Osaka Registry Co., Ltd.',
 		],
 	],
 	'otsuka' => [
 		'suffix' => 'otsuka',
 		'type' => 'ICANN',
 		'comments' => [
-			'otsuka : 2013-10-11 Otsuka Holdings Co., Ltd.',
+			'otsuka : Otsuka Holdings Co., Ltd.',
 		],
 	],
 	'ott' => [
 		'suffix' => 'ott',
 		'type' => 'ICANN',
 		'comments' => [
-			'ott : 2015-06-04 Dish DBS Corporation',
+			'ott : Dish DBS Corporation',
 		],
 	],
 	'ovh' => [
 		'suffix' => 'ovh',
 		'type' => 'ICANN',
 		'comments' => [
-			'ovh : 2014-01-16 MédiaBC',
+			'ovh : MédiaBC',
 		],
 	],
 	'page' => [
 		'suffix' => 'page',
 		'type' => 'ICANN',
 		'comments' => [
-			'page : 2014-12-04 Charleston Road Registry Inc.',
+			'page : Charleston Road Registry Inc.',
 		],
 	],
 	'panasonic' => [
 		'suffix' => 'panasonic',
 		'type' => 'ICANN',
 		'comments' => [
-			'panasonic : 2015-07-30 Panasonic Holdings Corporation',
+			'panasonic : Panasonic Holdings Corporation',
 		],
 	],
 	'paris' => [
 		'suffix' => 'paris',
 		'type' => 'ICANN',
 		'comments' => [
-			'paris : 2014-01-30 City of Paris',
+			'paris : City of Paris',
 		],
 	],
 	'pars' => [
 		'suffix' => 'pars',
 		'type' => 'ICANN',
 		'comments' => [
-			'pars : 2014-09-04 Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'pars : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
 		],
 	],
 	'partners' => [
 		'suffix' => 'partners',
 		'type' => 'ICANN',
 		'comments' => [
-			'partners : 2013-12-05 Binky Moon, LLC',
+			'partners : Binky Moon, LLC',
 		],
 	],
 	'parts' => [
 		'suffix' => 'parts',
 		'type' => 'ICANN',
 		'comments' => [
-			'parts : 2013-12-05 Binky Moon, LLC',
+			'parts : Binky Moon, LLC',
 		],
 	],
 	'party' => [
 		'suffix' => 'party',
 		'type' => 'ICANN',
 		'comments' => [
-			'party : 2014-09-11 Blue Sky Registry Limited',
+			'party : Blue Sky Registry Limited',
 		],
 	],
 	'pay' => [
 		'suffix' => 'pay',
 		'type' => 'ICANN',
 		'comments' => [
-			'pay : 2015-08-27 Amazon Registry Services, Inc.',
+			'pay : Amazon Registry Services, Inc.',
 		],
 	],
 	'pccw' => [
 		'suffix' => 'pccw',
 		'type' => 'ICANN',
 		'comments' => [
-			'pccw : 2015-05-14 PCCW Enterprises Limited',
+			'pccw : PCCW Enterprises Limited',
 		],
 	],
 	'pet' => [
 		'suffix' => 'pet',
 		'type' => 'ICANN',
 		'comments' => [
-			'pet : 2015-05-07 Identity Digital Limited',
+			'pet : Identity Digital Limited',
 		],
 	],
 	'pfizer' => [
 		'suffix' => 'pfizer',
 		'type' => 'ICANN',
 		'comments' => [
-			'pfizer : 2015-09-11 Pfizer Inc.',
+			'pfizer : Pfizer Inc.',
 		],
 	],
 	'pharmacy' => [
 		'suffix' => 'pharmacy',
 		'type' => 'ICANN',
 		'comments' => [
-			'pharmacy : 2014-06-19 National Association of Boards of Pharmacy',
+			'pharmacy : National Association of Boards of Pharmacy',
 		],
 	],
 	'phd' => [
 		'suffix' => 'phd',
 		'type' => 'ICANN',
 		'comments' => [
-			'phd : 2016-07-28 Charleston Road Registry Inc.',
+			'phd : Charleston Road Registry Inc.',
 		],
 	],
 	'philips' => [
 		'suffix' => 'philips',
 		'type' => 'ICANN',
 		'comments' => [
-			'philips : 2014-11-07 Koninklijke Philips N.V.',
+			'philips : Koninklijke Philips N.V.',
 		],
 	],
 	'phone' => [
 		'suffix' => 'phone',
 		'type' => 'ICANN',
 		'comments' => [
-			'phone : 2016-06-02 Dish DBS Corporation',
+			'phone : Dish DBS Corporation',
 		],
 	],
 	'photo' => [
 		'suffix' => 'photo',
 		'type' => 'ICANN',
 		'comments' => [
-			'photo : 2013-11-14 Registry Services, LLC',
+			'photo : Registry Services, LLC',
 		],
 	],
 	'photography' => [
 		'suffix' => 'photography',
 		'type' => 'ICANN',
 		'comments' => [
-			'photography : 2013-09-20 Binky Moon, LLC',
+			'photography : Binky Moon, LLC',
 		],
 	],
 	'photos' => [
 		'suffix' => 'photos',
 		'type' => 'ICANN',
 		'comments' => [
-			'photos : 2013-10-17 Binky Moon, LLC',
+			'photos : Binky Moon, LLC',
 		],
 	],
 	'physio' => [
 		'suffix' => 'physio',
 		'type' => 'ICANN',
 		'comments' => [
-			'physio : 2014-05-01 PhysBiz Pty Ltd',
+			'physio : PhysBiz Pty Ltd',
 		],
 	],
 	'pics' => [
 		'suffix' => 'pics',
 		'type' => 'ICANN',
 		'comments' => [
-			'pics : 2013-11-14 XYZ.COM LLC',
+			'pics : XYZ.COM LLC',
 		],
 	],
 	'pictet' => [
 		'suffix' => 'pictet',
 		'type' => 'ICANN',
 		'comments' => [
-			'pictet : 2014-06-26 Pictet Europe S.A.',
+			'pictet : Pictet Europe S.A.',
 		],
 	],
 	'pictures' => [
 		'suffix' => 'pictures',
 		'type' => 'ICANN',
 		'comments' => [
-			'pictures : 2014-03-06 Binky Moon, LLC',
+			'pictures : Binky Moon, LLC',
 		],
 	],
 	'pid' => [
 		'suffix' => 'pid',
 		'type' => 'ICANN',
 		'comments' => [
-			'pid : 2015-01-08 Top Level Spectrum, Inc.',
+			'pid : Top Level Spectrum, Inc.',
 		],
 	],
 	'pin' => [
 		'suffix' => 'pin',
 		'type' => 'ICANN',
 		'comments' => [
-			'pin : 2014-12-18 Amazon Registry Services, Inc.',
+			'pin : Amazon Registry Services, Inc.',
 		],
 	],
 	'ping' => [
 		'suffix' => 'ping',
 		'type' => 'ICANN',
 		'comments' => [
-			'ping : 2015-06-11 Ping Registry Provider, Inc.',
+			'ping : Ping Registry Provider, Inc.',
 		],
 	],
 	'pink' => [
 		'suffix' => 'pink',
 		'type' => 'ICANN',
 		'comments' => [
-			'pink : 2013-10-01 Identity Digital Limited',
+			'pink : Identity Digital Limited',
 		],
 	],
 	'pioneer' => [
 		'suffix' => 'pioneer',
 		'type' => 'ICANN',
 		'comments' => [
-			'pioneer : 2015-07-16 Pioneer Corporation',
+			'pioneer : Pioneer Corporation',
 		],
 	],
 	'pizza' => [
 		'suffix' => 'pizza',
 		'type' => 'ICANN',
 		'comments' => [
-			'pizza : 2014-06-26 Binky Moon, LLC',
+			'pizza : Binky Moon, LLC',
 		],
 	],
 	'place' => [
 		'suffix' => 'place',
 		'type' => 'ICANN',
 		'comments' => [
-			'place : 2014-04-24 Binky Moon, LLC',
+			'place : Binky Moon, LLC',
 		],
 	],
 	'play' => [
 		'suffix' => 'play',
 		'type' => 'ICANN',
 		'comments' => [
-			'play : 2015-03-05 Charleston Road Registry Inc.',
+			'play : Charleston Road Registry Inc.',
 		],
 	],
 	'playstation' => [
 		'suffix' => 'playstation',
 		'type' => 'ICANN',
 		'comments' => [
-			'playstation : 2015-07-02 Sony Interactive Entertainment Inc.',
+			'playstation : Sony Interactive Entertainment Inc.',
 		],
 	],
 	'plumbing' => [
 		'suffix' => 'plumbing',
 		'type' => 'ICANN',
 		'comments' => [
-			'plumbing : 2013-09-10 Binky Moon, LLC',
+			'plumbing : Binky Moon, LLC',
 		],
 	],
 	'plus' => [
 		'suffix' => 'plus',
 		'type' => 'ICANN',
 		'comments' => [
-			'plus : 2015-02-05 Binky Moon, LLC',
+			'plus : Binky Moon, LLC',
 		],
 	],
 	'pnc' => [
 		'suffix' => 'pnc',
 		'type' => 'ICANN',
 		'comments' => [
-			'pnc : 2015-07-02 PNC Domain Co., LLC',
+			'pnc : PNC Domain Co., LLC',
 		],
 	],
 	'pohl' => [
 		'suffix' => 'pohl',
 		'type' => 'ICANN',
 		'comments' => [
-			'pohl : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG',
+			'pohl : Deutsche Vermögensberatung Aktiengesellschaft DVAG',
 		],
 	],
 	'poker' => [
 		'suffix' => 'poker',
 		'type' => 'ICANN',
 		'comments' => [
-			'poker : 2014-07-03 Identity Digital Limited',
+			'poker : Identity Digital Limited',
 		],
 	],
 	'politie' => [
 		'suffix' => 'politie',
 		'type' => 'ICANN',
 		'comments' => [
-			'politie : 2015-08-20 Politie Nederland',
+			'politie : Politie Nederland',
 		],
 	],
 	'porn' => [
 		'suffix' => 'porn',
 		'type' => 'ICANN',
 		'comments' => [
-			'porn : 2014-10-16 ICM Registry PN LLC',
+			'porn : ICM Registry PN LLC',
 		],
 	],
 	'pramerica' => [
 		'suffix' => 'pramerica',
 		'type' => 'ICANN',
 		'comments' => [
-			'pramerica : 2015-07-30 Prudential Financial, Inc.',
+			'pramerica : Prudential Financial, Inc.',
 		],
 	],
 	'praxi' => [
 		'suffix' => 'praxi',
 		'type' => 'ICANN',
 		'comments' => [
-			'praxi : 2013-12-05 Praxi S.p.A.',
+			'praxi : Praxi S.p.A.',
 		],
 	],
 	'press' => [
 		'suffix' => 'press',
 		'type' => 'ICANN',
 		'comments' => [
-			'press : 2014-04-03 Radix FZC',
+			'press : Radix FZC',
 		],
 	],
 	'prime' => [
 		'suffix' => 'prime',
 		'type' => 'ICANN',
 		'comments' => [
-			'prime : 2015-06-25 Amazon Registry Services, Inc.',
+			'prime : Amazon Registry Services, Inc.',
 		],
 	],
 	'prod' => [
 		'suffix' => 'prod',
 		'type' => 'ICANN',
 		'comments' => [
-			'prod : 2014-01-23 Charleston Road Registry Inc.',
+			'prod : Charleston Road Registry Inc.',
 		],
 	],
 	'productions' => [
 		'suffix' => 'productions',
 		'type' => 'ICANN',
 		'comments' => [
-			'productions : 2013-12-05 Binky Moon, LLC',
+			'productions : Binky Moon, LLC',
 		],
 	],
 	'prof' => [
 		'suffix' => 'prof',
 		'type' => 'ICANN',
 		'comments' => [
-			'prof : 2014-07-24 Charleston Road Registry Inc.',
+			'prof : Charleston Road Registry Inc.',
 		],
 	],
 	'progressive' => [
 		'suffix' => 'progressive',
 		'type' => 'ICANN',
 		'comments' => [
-			'progressive : 2015-07-23 Progressive Casualty Insurance Company',
+			'progressive : Progressive Casualty Insurance Company',
 		],
 	],
 	'promo' => [
 		'suffix' => 'promo',
 		'type' => 'ICANN',
 		'comments' => [
-			'promo : 2014-12-18 Identity Digital Limited',
+			'promo : Identity Digital Limited',
 		],
 	],
 	'properties' => [
 		'suffix' => 'properties',
 		'type' => 'ICANN',
 		'comments' => [
-			'properties : 2013-12-05 Binky Moon, LLC',
+			'properties : Binky Moon, LLC',
 		],
 	],
 	'property' => [
 		'suffix' => 'property',
 		'type' => 'ICANN',
 		'comments' => [
-			'property : 2014-05-22 Internet Naming Company LLC',
+			'property : Internet Naming Company LLC',
 		],
 	],
 	'protection' => [
 		'suffix' => 'protection',
 		'type' => 'ICANN',
 		'comments' => [
-			'protection : 2015-04-23 XYZ.COM LLC',
+			'protection : XYZ.COM LLC',
 		],
 	],
 	'pru' => [
 		'suffix' => 'pru',
 		'type' => 'ICANN',
 		'comments' => [
-			'pru : 2015-07-30 Prudential Financial, Inc.',
+			'pru : Prudential Financial, Inc.',
 		],
 	],
 	'prudential' => [
 		'suffix' => 'prudential',
 		'type' => 'ICANN',
 		'comments' => [
-			'prudential : 2015-07-30 Prudential Financial, Inc.',
+			'prudential : Prudential Financial, Inc.',
 		],
 	],
 	'pub' => [
 		'suffix' => 'pub',
 		'type' => 'ICANN',
 		'comments' => [
-			'pub : 2013-12-12 Dog Beach, LLC',
+			'pub : Dog Beach, LLC',
 		],
 	],
 	'pwc' => [
 		'suffix' => 'pwc',
 		'type' => 'ICANN',
 		'comments' => [
-			'pwc : 2015-10-29 PricewaterhouseCoopers LLP',
+			'pwc : PricewaterhouseCoopers LLP',
 		],
 	],
 	'qpon' => [
 		'suffix' => 'qpon',
 		'type' => 'ICANN',
 		'comments' => [
-			'qpon : 2013-11-14 dotQPON LLC',
+			'qpon : dotQPON LLC',
 		],
 	],
 	'quebec' => [
 		'suffix' => 'quebec',
 		'type' => 'ICANN',
 		'comments' => [
-			'quebec : 2013-12-19 PointQuébec Inc',
+			'quebec : PointQuébec Inc',
 		],
 	],
 	'quest' => [
 		'suffix' => 'quest',
 		'type' => 'ICANN',
 		'comments' => [
-			'quest : 2015-03-26 XYZ.COM LLC',
+			'quest : XYZ.COM LLC',
 		],
 	],
 	'racing' => [
 		'suffix' => 'racing',
 		'type' => 'ICANN',
 		'comments' => [
-			'racing : 2014-12-04 Premier Registry Limited',
+			'racing : Premier Registry Limited',
 		],
 	],
 	'radio' => [
 		'suffix' => 'radio',
 		'type' => 'ICANN',
 		'comments' => [
-			'radio : 2016-07-21 European Broadcasting Union (EBU)',
+			'radio : European Broadcasting Union (EBU)',
 		],
 	],
 	'read' => [
 		'suffix' => 'read',
 		'type' => 'ICANN',
 		'comments' => [
-			'read : 2014-12-18 Amazon Registry Services, Inc.',
+			'read : Amazon Registry Services, Inc.',
 		],
 	],
 	'realestate' => [
 		'suffix' => 'realestate',
 		'type' => 'ICANN',
 		'comments' => [
-			'realestate : 2015-09-11 dotRealEstate LLC',
+			'realestate : dotRealEstate LLC',
 		],
 	],
 	'realtor' => [
 		'suffix' => 'realtor',
 		'type' => 'ICANN',
 		'comments' => [
-			'realtor : 2014-05-29 Real Estate Domains LLC',
+			'realtor : Real Estate Domains LLC',
 		],
 	],
 	'realty' => [
 		'suffix' => 'realty',
 		'type' => 'ICANN',
 		'comments' => [
-			'realty : 2015-03-19 Dog Beach, LLC',
+			'realty : Dog Beach, LLC',
 		],
 	],
 	'recipes' => [
 		'suffix' => 'recipes',
 		'type' => 'ICANN',
 		'comments' => [
-			'recipes : 2013-10-17 Binky Moon, LLC',
+			'recipes : Binky Moon, LLC',
 		],
 	],
 	'red' => [
 		'suffix' => 'red',
 		'type' => 'ICANN',
 		'comments' => [
-			'red : 2013-11-07 Identity Digital Limited',
+			'red : Identity Digital Limited',
 		],
 	],
 	'redstone' => [
 		'suffix' => 'redstone',
 		'type' => 'ICANN',
 		'comments' => [
-			'redstone : 2014-10-31 Redstone Haute Couture Co., Ltd.',
+			'redstone : Redstone Haute Couture Co., Ltd.',
 		],
 	],
 	'redumbrella' => [
 		'suffix' => 'redumbrella',
 		'type' => 'ICANN',
 		'comments' => [
-			'redumbrella : 2015-03-26 Travelers TLD, LLC',
+			'redumbrella : Travelers TLD, LLC',
 		],
 	],
 	'rehab' => [
 		'suffix' => 'rehab',
 		'type' => 'ICANN',
 		'comments' => [
-			'rehab : 2014-03-06 Dog Beach, LLC',
+			'rehab : Dog Beach, LLC',
 		],
 	],
 	'reise' => [
 		'suffix' => 'reise',
 		'type' => 'ICANN',
 		'comments' => [
-			'reise : 2014-03-13 Binky Moon, LLC',
+			'reise : Binky Moon, LLC',
 		],
 	],
 	'reisen' => [
 		'suffix' => 'reisen',
 		'type' => 'ICANN',
 		'comments' => [
-			'reisen : 2014-03-06 Binky Moon, LLC',
+			'reisen : Binky Moon, LLC',
 		],
 	],
 	'reit' => [
 		'suffix' => 'reit',
 		'type' => 'ICANN',
 		'comments' => [
-			'reit : 2014-09-04 National Association of Real Estate Investment Trusts, Inc.',
+			'reit : National Association of Real Estate Investment Trusts, Inc.',
 		],
 	],
 	'reliance' => [
 		'suffix' => 'reliance',
 		'type' => 'ICANN',
 		'comments' => [
-			'reliance : 2015-04-02 Reliance Industries Limited',
+			'reliance : Reliance Industries Limited',
 		],
 	],
 	'ren' => [
 		'suffix' => 'ren',
 		'type' => 'ICANN',
 		'comments' => [
-			'ren : 2013-12-12 ZDNS International Limited',
+			'ren : ZDNS International Limited',
 		],
 	],
 	'rent' => [
 		'suffix' => 'rent',
 		'type' => 'ICANN',
 		'comments' => [
-			'rent : 2014-12-04 XYZ.COM LLC',
+			'rent : XYZ.COM LLC',
 		],
 	],
 	'rentals' => [
 		'suffix' => 'rentals',
 		'type' => 'ICANN',
 		'comments' => [
-			'rentals : 2013-12-05 Binky Moon, LLC',
+			'rentals : Binky Moon, LLC',
 		],
 	],
 	'repair' => [
 		'suffix' => 'repair',
 		'type' => 'ICANN',
 		'comments' => [
-			'repair : 2013-11-07 Binky Moon, LLC',
+			'repair : Binky Moon, LLC',
 		],
 	],
 	'report' => [
 		'suffix' => 'report',
 		'type' => 'ICANN',
 		'comments' => [
-			'report : 2013-12-05 Binky Moon, LLC',
+			'report : Binky Moon, LLC',
 		],
 	],
 	'republican' => [
 		'suffix' => 'republican',
 		'type' => 'ICANN',
 		'comments' => [
-			'republican : 2014-03-20 Dog Beach, LLC',
+			'republican : Dog Beach, LLC',
 		],
 	],
 	'rest' => [
 		'suffix' => 'rest',
 		'type' => 'ICANN',
 		'comments' => [
-			'rest : 2013-12-19 Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable',
+			'rest : Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable',
 		],
 	],
 	'restaurant' => [
 		'suffix' => 'restaurant',
 		'type' => 'ICANN',
 		'comments' => [
-			'restaurant : 2014-07-03 Binky Moon, LLC',
+			'restaurant : Binky Moon, LLC',
 		],
 	],
 	'review' => [
 		'suffix' => 'review',
 		'type' => 'ICANN',
 		'comments' => [
-			'review : 2014-11-20 dot Review Limited',
+			'review : dot Review Limited',
 		],
 	],
 	'reviews' => [
 		'suffix' => 'reviews',
 		'type' => 'ICANN',
 		'comments' => [
-			'reviews : 2013-09-13 Dog Beach, LLC',
+			'reviews : Dog Beach, LLC',
 		],
 	],
 	'rexroth' => [
 		'suffix' => 'rexroth',
 		'type' => 'ICANN',
 		'comments' => [
-			'rexroth : 2015-06-18 Robert Bosch GMBH',
+			'rexroth : Robert Bosch GMBH',
 		],
 	],
 	'rich' => [
 		'suffix' => 'rich',
 		'type' => 'ICANN',
 		'comments' => [
-			'rich : 2013-11-21 iRegistry GmbH',
+			'rich : iRegistry GmbH',
 		],
 	],
 	'richardli' => [
 		'suffix' => 'richardli',
 		'type' => 'ICANN',
 		'comments' => [
-			'richardli : 2015-05-14 Pacific Century Asset Management (HK) Limited',
+			'richardli : Pacific Century Asset Management (HK) Limited',
 		],
 	],
 	'ricoh' => [
 		'suffix' => 'ricoh',
 		'type' => 'ICANN',
 		'comments' => [
-			'ricoh : 2014-11-20 Ricoh Company, Ltd.',
+			'ricoh : Ricoh Company, Ltd.',
 		],
 	],
 	'ril' => [
 		'suffix' => 'ril',
 		'type' => 'ICANN',
 		'comments' => [
-			'ril : 2015-04-02 Reliance Industries Limited',
+			'ril : Reliance Industries Limited',
 		],
 	],
 	'rio' => [
 		'suffix' => 'rio',
 		'type' => 'ICANN',
 		'comments' => [
-			'rio : 2014-02-27 Empresa Municipal de Informática SA - IPLANRIO',
+			'rio : Empresa Municipal de Informática SA - IPLANRIO',
 		],
 	],
 	'rip' => [
 		'suffix' => 'rip',
 		'type' => 'ICANN',
 		'comments' => [
-			'rip : 2014-07-10 Dog Beach, LLC',
+			'rip : Dog Beach, LLC',
 		],
 	],
 	'rocher' => [
 		'suffix' => 'rocher',
 		'type' => 'ICANN',
 		'comments' => [
-			'rocher : 2014-12-18 Ferrero Trading Lux S.A.',
+			'rocher : Ferrero Trading Lux S.A.',
 		],
 	],
 	'rocks' => [
 		'suffix' => 'rocks',
 		'type' => 'ICANN',
 		'comments' => [
-			'rocks : 2013-11-14 Dog Beach, LLC',
+			'rocks : Dog Beach, LLC',
 		],
 	],
 	'rodeo' => [
 		'suffix' => 'rodeo',
 		'type' => 'ICANN',
 		'comments' => [
-			'rodeo : 2013-12-19 Registry Services, LLC',
+			'rodeo : Registry Services, LLC',
 		],
 	],
 	'rogers' => [
 		'suffix' => 'rogers',
 		'type' => 'ICANN',
 		'comments' => [
-			'rogers : 2015-08-06 Rogers Communications Canada Inc.',
+			'rogers : Rogers Communications Canada Inc.',
 		],
 	],
 	'room' => [
 		'suffix' => 'room',
 		'type' => 'ICANN',
 		'comments' => [
-			'room : 2014-12-18 Amazon Registry Services, Inc.',
+			'room : Amazon Registry Services, Inc.',
 		],
 	],
 	'rsvp' => [
 		'suffix' => 'rsvp',
 		'type' => 'ICANN',
 		'comments' => [
-			'rsvp : 2014-05-08 Charleston Road Registry Inc.',
+			'rsvp : Charleston Road Registry Inc.',
 		],
 	],
 	'rugby' => [
 		'suffix' => 'rugby',
 		'type' => 'ICANN',
 		'comments' => [
-			'rugby : 2016-12-15 World Rugby Strategic Developments Limited',
+			'rugby : World Rugby Strategic Developments Limited',
 		],
 	],
 	'ruhr' => [
 		'suffix' => 'ruhr',
 		'type' => 'ICANN',
 		'comments' => [
-			'ruhr : 2013-10-02 dotSaarland GmbH',
+			'ruhr : dotSaarland GmbH',
 		],
 	],
 	'run' => [
 		'suffix' => 'run',
 		'type' => 'ICANN',
 		'comments' => [
-			'run : 2015-03-19 Binky Moon, LLC',
+			'run : Binky Moon, LLC',
 		],
 	],
 	'rwe' => [
 		'suffix' => 'rwe',
 		'type' => 'ICANN',
 		'comments' => [
-			'rwe : 2015-04-02 RWE AG',
+			'rwe : RWE AG',
 		],
 	],
 	'ryukyu' => [
 		'suffix' => 'ryukyu',
 		'type' => 'ICANN',
 		'comments' => [
-			'ryukyu : 2014-01-09 BRregistry, Inc.',
+			'ryukyu : BRregistry, Inc.',
 		],
 	],
 	'saarland' => [
 		'suffix' => 'saarland',
 		'type' => 'ICANN',
 		'comments' => [
-			'saarland : 2013-12-12 dotSaarland GmbH',
+			'saarland : dotSaarland GmbH',
 		],
 	],
 	'safe' => [
 		'suffix' => 'safe',
 		'type' => 'ICANN',
 		'comments' => [
-			'safe : 2014-12-18 Amazon Registry Services, Inc.',
+			'safe : Amazon Registry Services, Inc.',
 		],
 	],
 	'safety' => [
 		'suffix' => 'safety',
 		'type' => 'ICANN',
 		'comments' => [
-			'safety : 2015-01-08 Safety Registry Services, LLC.',
+			'safety : Safety Registry Services, LLC.',
 		],
 	],
 	'sakura' => [
 		'suffix' => 'sakura',
 		'type' => 'ICANN',
 		'comments' => [
-			'sakura : 2014-12-18 SAKURA Internet Inc.',
+			'sakura : SAKURA Internet Inc.',
 		],
 	],
 	'sale' => [
 		'suffix' => 'sale',
 		'type' => 'ICANN',
 		'comments' => [
-			'sale : 2014-10-16 Dog Beach, LLC',
+			'sale : Dog Beach, LLC',
 		],
 	],
 	'salon' => [
 		'suffix' => 'salon',
 		'type' => 'ICANN',
 		'comments' => [
-			'salon : 2014-12-11 Binky Moon, LLC',
+			'salon : Binky Moon, LLC',
 		],
 	],
 	'samsclub' => [
 		'suffix' => 'samsclub',
 		'type' => 'ICANN',
 		'comments' => [
-			'samsclub : 2015-07-31 Wal-Mart Stores, Inc.',
+			'samsclub : Wal-Mart Stores, Inc.',
 		],
 	],
 	'samsung' => [
 		'suffix' => 'samsung',
 		'type' => 'ICANN',
 		'comments' => [
-			'samsung : 2014-04-03 SAMSUNG SDS CO., LTD',
+			'samsung : SAMSUNG SDS CO., LTD',
 		],
 	],
 	'sandvik' => [
 		'suffix' => 'sandvik',
 		'type' => 'ICANN',
 		'comments' => [
-			'sandvik : 2014-11-13 Sandvik AB',
+			'sandvik : Sandvik AB',
 		],
 	],
 	'sandvikcoromant' => [
 		'suffix' => 'sandvikcoromant',
 		'type' => 'ICANN',
 		'comments' => [
-			'sandvikcoromant : 2014-11-07 Sandvik AB',
+			'sandvikcoromant : Sandvik AB',
 		],
 	],
 	'sanofi' => [
 		'suffix' => 'sanofi',
 		'type' => 'ICANN',
 		'comments' => [
-			'sanofi : 2014-10-09 Sanofi',
+			'sanofi : Sanofi',
 		],
 	],
 	'sap' => [
 		'suffix' => 'sap',
 		'type' => 'ICANN',
 		'comments' => [
-			'sap : 2014-03-27 SAP AG',
+			'sap : SAP AG',
 		],
 	],
 	'sarl' => [
 		'suffix' => 'sarl',
 		'type' => 'ICANN',
 		'comments' => [
-			'sarl : 2014-07-03 Binky Moon, LLC',
+			'sarl : Binky Moon, LLC',
 		],
 	],
 	'sas' => [
 		'suffix' => 'sas',
 		'type' => 'ICANN',
 		'comments' => [
-			'sas : 2015-04-02 Research IP LLC',
+			'sas : Research IP LLC',
 		],
 	],
 	'save' => [
 		'suffix' => 'save',
 		'type' => 'ICANN',
 		'comments' => [
-			'save : 2015-06-25 Amazon Registry Services, Inc.',
+			'save : Amazon Registry Services, Inc.',
 		],
 	],
 	'saxo' => [
 		'suffix' => 'saxo',
 		'type' => 'ICANN',
 		'comments' => [
-			'saxo : 2014-10-31 Saxo Bank A/S',
+			'saxo : Saxo Bank A/S',
 		],
 	],
 	'sbi' => [
 		'suffix' => 'sbi',
 		'type' => 'ICANN',
 		'comments' => [
-			'sbi : 2015-03-12 STATE BANK OF INDIA',
+			'sbi : STATE BANK OF INDIA',
 		],
 	],
 	'sbs' => [
 		'suffix' => 'sbs',
 		'type' => 'ICANN',
 		'comments' => [
-			'sbs : 2014-11-07 ShortDot SA',
+			'sbs : ShortDot SA',
 		],
 	],
 	'sca' => [
 		'suffix' => 'sca',
 		'type' => 'ICANN',
 		'comments' => [
-			'sca : 2014-03-13 SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)',
+			'sca : SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)',
 		],
 	],
 	'scb' => [
 		'suffix' => 'scb',
 		'type' => 'ICANN',
 		'comments' => [
-			'scb : 2014-02-20 The Siam Commercial Bank Public Company Limited ("SCB")',
+			'scb : The Siam Commercial Bank Public Company Limited ("SCB")',
 		],
 	],
 	'schaeffler' => [
 		'suffix' => 'schaeffler',
 		'type' => 'ICANN',
 		'comments' => [
-			'schaeffler : 2015-08-06 Schaeffler Technologies AG & Co. KG',
+			'schaeffler : Schaeffler Technologies AG & Co. KG',
 		],
 	],
 	'schmidt' => [
 		'suffix' => 'schmidt',
 		'type' => 'ICANN',
 		'comments' => [
-			'schmidt : 2014-04-03 SCHMIDT GROUPE S.A.S.',
+			'schmidt : SCHMIDT GROUPE S.A.S.',
 		],
 	],
 	'scholarships' => [
 		'suffix' => 'scholarships',
 		'type' => 'ICANN',
 		'comments' => [
-			'scholarships : 2014-04-24 Scholarships.com, LLC',
+			'scholarships : Scholarships.com, LLC',
 		],
 	],
 	'school' => [
 		'suffix' => 'school',
 		'type' => 'ICANN',
 		'comments' => [
-			'school : 2014-12-18 Binky Moon, LLC',
+			'school : Binky Moon, LLC',
 		],
 	],
 	'schule' => [
 		'suffix' => 'schule',
 		'type' => 'ICANN',
 		'comments' => [
-			'schule : 2014-03-06 Binky Moon, LLC',
+			'schule : Binky Moon, LLC',
 		],
 	],
 	'schwarz' => [
 		'suffix' => 'schwarz',
 		'type' => 'ICANN',
 		'comments' => [
-			'schwarz : 2014-09-18 Schwarz Domains und Services GmbH & Co. KG',
+			'schwarz : Schwarz Domains und Services GmbH & Co. KG',
 		],
 	],
 	'science' => [
 		'suffix' => 'science',
 		'type' => 'ICANN',
 		'comments' => [
-			'science : 2014-09-11 dot Science Limited',
+			'science : dot Science Limited',
 		],
 	],
 	'scot' => [
 		'suffix' => 'scot',
 		'type' => 'ICANN',
 		'comments' => [
-			'scot : 2014-01-23 Dot Scot Registry Limited',
+			'scot : Dot Scot Registry Limited',
 		],
 	],
 	'search' => [
 		'suffix' => 'search',
 		'type' => 'ICANN',
 		'comments' => [
-			'search : 2016-06-09 Charleston Road Registry Inc.',
+			'search : Charleston Road Registry Inc.',
 		],
 	],
 	'seat' => [
 		'suffix' => 'seat',
 		'type' => 'ICANN',
 		'comments' => [
-			'seat : 2014-05-22 SEAT, S.A. (Sociedad Unipersonal)',
+			'seat : SEAT, S.A. (Sociedad Unipersonal)',
 		],
 	],
 	'secure' => [
 		'suffix' => 'secure',
 		'type' => 'ICANN',
 		'comments' => [
-			'secure : 2015-08-27 Amazon Registry Services, Inc.',
+			'secure : Amazon Registry Services, Inc.',
 		],
 	],
 	'security' => [
 		'suffix' => 'security',
 		'type' => 'ICANN',
 		'comments' => [
-			'security : 2015-05-14 XYZ.COM LLC',
+			'security : XYZ.COM LLC',
 		],
 	],
 	'seek' => [
 		'suffix' => 'seek',
 		'type' => 'ICANN',
 		'comments' => [
-			'seek : 2014-12-04 Seek Limited',
+			'seek : Seek Limited',
 		],
 	],
 	'select' => [
 		'suffix' => 'select',
 		'type' => 'ICANN',
 		'comments' => [
-			'select : 2015-10-08 Registry Services, LLC',
+			'select : Registry Services, LLC',
 		],
 	],
 	'sener' => [
 		'suffix' => 'sener',
 		'type' => 'ICANN',
 		'comments' => [
-			'sener : 2014-10-24 Sener Ingeniería y Sistemas, S.A.',
+			'sener : Sener Ingeniería y Sistemas, S.A.',
 		],
 	],
 	'services' => [
 		'suffix' => 'services',
 		'type' => 'ICANN',
 		'comments' => [
-			'services : 2014-02-27 Binky Moon, LLC',
+			'services : Binky Moon, LLC',
 		],
 	],
 	'seven' => [
 		'suffix' => 'seven',
 		'type' => 'ICANN',
 		'comments' => [
-			'seven : 2015-08-06 Seven West Media Ltd',
+			'seven : Seven West Media Ltd',
 		],
 	],
 	'sew' => [
 		'suffix' => 'sew',
 		'type' => 'ICANN',
 		'comments' => [
-			'sew : 2014-07-17 SEW-EURODRIVE GmbH & Co KG',
+			'sew : SEW-EURODRIVE GmbH & Co KG',
 		],
 	],
 	'sex' => [
 		'suffix' => 'sex',
 		'type' => 'ICANN',
 		'comments' => [
-			'sex : 2014-11-13 ICM Registry SX LLC',
+			'sex : ICM Registry SX LLC',
 		],
 	],
 	'sexy' => [
 		'suffix' => 'sexy',
 		'type' => 'ICANN',
 		'comments' => [
-			'sexy : 2013-09-11 Internet Naming Company LLC',
+			'sexy : Internet Naming Company LLC',
 		],
 	],
 	'sfr' => [
 		'suffix' => 'sfr',
 		'type' => 'ICANN',
 		'comments' => [
-			'sfr : 2015-08-13 Societe Francaise du Radiotelephone - SFR',
+			'sfr : Societe Francaise du Radiotelephone - SFR',
 		],
 	],
 	'shangrila' => [
 		'suffix' => 'shangrila',
 		'type' => 'ICANN',
 		'comments' => [
-			'shangrila : 2015-09-03 Shangri‐La International Hotel Management Limited',
+			'shangrila : Shangri‐La International Hotel Management Limited',
 		],
 	],
 	'sharp' => [
 		'suffix' => 'sharp',
 		'type' => 'ICANN',
 		'comments' => [
-			'sharp : 2014-05-01 Sharp Corporation',
+			'sharp : Sharp Corporation',
 		],
 	],
 	'shaw' => [
 		'suffix' => 'shaw',
 		'type' => 'ICANN',
 		'comments' => [
-			'shaw : 2015-04-23 Shaw Cablesystems G.P.',
+			'shaw : Shaw Cablesystems G.P.',
 		],
 	],
 	'shell' => [
 		'suffix' => 'shell',
 		'type' => 'ICANN',
 		'comments' => [
-			'shell : 2015-07-30 Shell Information Technology International Inc',
+			'shell : Shell Information Technology International Inc',
 		],
 	],
 	'shia' => [
 		'suffix' => 'shia',
 		'type' => 'ICANN',
 		'comments' => [
-			'shia : 2014-09-04 Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'shia : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
 		],
 	],
 	'shiksha' => [
 		'suffix' => 'shiksha',
 		'type' => 'ICANN',
 		'comments' => [
-			'shiksha : 2013-11-14 Identity Digital Limited',
+			'shiksha : Identity Digital Limited',
 		],
 	],
 	'shoes' => [
 		'suffix' => 'shoes',
 		'type' => 'ICANN',
 		'comments' => [
-			'shoes : 2013-10-02 Binky Moon, LLC',
+			'shoes : Binky Moon, LLC',
 		],
 	],
 	'shop' => [
 		'suffix' => 'shop',
 		'type' => 'ICANN',
 		'comments' => [
-			'shop : 2016-04-08 GMO Registry, Inc.',
+			'shop : GMO Registry, Inc.',
 		],
 	],
 	'shopping' => [
 		'suffix' => 'shopping',
 		'type' => 'ICANN',
 		'comments' => [
-			'shopping : 2016-03-31 Binky Moon, LLC',
+			'shopping : Binky Moon, LLC',
 		],
 	],
 	'shouji' => [
 		'suffix' => 'shouji',
 		'type' => 'ICANN',
 		'comments' => [
-			'shouji : 2015-01-08 Beijing Qihu Keji Co., Ltd.',
+			'shouji : Beijing Qihu Keji Co., Ltd.',
 		],
 	],
 	'show' => [
 		'suffix' => 'show',
 		'type' => 'ICANN',
 		'comments' => [
-			'show : 2015-03-05 Binky Moon, LLC',
+			'show : Binky Moon, LLC',
 		],
 	],
 	'showtime' => [
 		'suffix' => 'showtime',
 		'type' => 'ICANN',
 		'comments' => [
-			'showtime : 2015-08-06 CBS Domains Inc.',
+			'showtime : CBS Domains Inc.',
 		],
 	],
 	'silk' => [
 		'suffix' => 'silk',
 		'type' => 'ICANN',
 		'comments' => [
-			'silk : 2015-06-25 Amazon Registry Services, Inc.',
+			'silk : Amazon Registry Services, Inc.',
 		],
 	],
 	'sina' => [
 		'suffix' => 'sina',
 		'type' => 'ICANN',
 		'comments' => [
-			'sina : 2015-03-12 Sina Corporation',
+			'sina : Sina Corporation',
 		],
 	],
 	'singles' => [
 		'suffix' => 'singles',
 		'type' => 'ICANN',
 		'comments' => [
-			'singles : 2013-08-27 Binky Moon, LLC',
+			'singles : Binky Moon, LLC',
 		],
 	],
 	'site' => [
 		'suffix' => 'site',
 		'type' => 'ICANN',
 		'comments' => [
-			'site : 2015-01-15 Radix FZC',
+			'site : Radix FZC',
 		],
 	],
 	'ski' => [
 		'suffix' => 'ski',
 		'type' => 'ICANN',
 		'comments' => [
-			'ski : 2015-04-09 Identity Digital Limited',
+			'ski : Identity Digital Limited',
 		],
 	],
 	'skin' => [
 		'suffix' => 'skin',
 		'type' => 'ICANN',
 		'comments' => [
-			'skin : 2015-01-15 XYZ.COM LLC',
+			'skin : XYZ.COM LLC',
 		],
 	],
 	'sky' => [
 		'suffix' => 'sky',
 		'type' => 'ICANN',
 		'comments' => [
-			'sky : 2014-06-19 Sky International AG',
+			'sky : Sky International AG',
 		],
 	],
 	'skype' => [
 		'suffix' => 'skype',
 		'type' => 'ICANN',
 		'comments' => [
-			'skype : 2014-12-18 Microsoft Corporation',
+			'skype : Microsoft Corporation',
 		],
 	],
 	'sling' => [
 		'suffix' => 'sling',
 		'type' => 'ICANN',
 		'comments' => [
-			'sling : 2015-07-30 DISH Technologies L.L.C.',
+			'sling : DISH Technologies L.L.C.',
 		],
 	],
 	'smart' => [
 		'suffix' => 'smart',
 		'type' => 'ICANN',
 		'comments' => [
-			'smart : 2015-07-09 Smart Communications, Inc. (SMART)',
+			'smart : Smart Communications, Inc. (SMART)',
 		],
 	],
 	'smile' => [
 		'suffix' => 'smile',
 		'type' => 'ICANN',
 		'comments' => [
-			'smile : 2014-12-18 Amazon Registry Services, Inc.',
+			'smile : Amazon Registry Services, Inc.',
 		],
 	],
 	'sncf' => [
 		'suffix' => 'sncf',
 		'type' => 'ICANN',
 		'comments' => [
-			'sncf : 2015-02-19 Société Nationale SNCF',
+			'sncf : Société Nationale SNCF',
 		],
 	],
 	'soccer' => [
 		'suffix' => 'soccer',
 		'type' => 'ICANN',
 		'comments' => [
-			'soccer : 2015-03-26 Binky Moon, LLC',
+			'soccer : Binky Moon, LLC',
 		],
 	],
 	'social' => [
 		'suffix' => 'social',
 		'type' => 'ICANN',
 		'comments' => [
-			'social : 2013-11-07 Dog Beach, LLC',
+			'social : Dog Beach, LLC',
 		],
 	],
 	'softbank' => [
 		'suffix' => 'softbank',
 		'type' => 'ICANN',
 		'comments' => [
-			'softbank : 2015-07-02 SoftBank Group Corp.',
+			'softbank : SoftBank Group Corp.',
 		],
 	],
 	'software' => [
 		'suffix' => 'software',
 		'type' => 'ICANN',
 		'comments' => [
-			'software : 2014-03-20 Dog Beach, LLC',
+			'software : Dog Beach, LLC',
 		],
 	],
 	'sohu' => [
 		'suffix' => 'sohu',
 		'type' => 'ICANN',
 		'comments' => [
-			'sohu : 2013-12-19 Sohu.com Limited',
+			'sohu : Sohu.com Limited',
 		],
 	],
 	'solar' => [
 		'suffix' => 'solar',
 		'type' => 'ICANN',
 		'comments' => [
-			'solar : 2013-11-07 Binky Moon, LLC',
+			'solar : Binky Moon, LLC',
 		],
 	],
 	'solutions' => [
 		'suffix' => 'solutions',
 		'type' => 'ICANN',
 		'comments' => [
-			'solutions : 2013-11-07 Binky Moon, LLC',
+			'solutions : Binky Moon, LLC',
 		],
 	],
 	'song' => [
 		'suffix' => 'song',
 		'type' => 'ICANN',
 		'comments' => [
-			'song : 2015-02-26 Amazon Registry Services, Inc.',
+			'song : Amazon Registry Services, Inc.',
 		],
 	],
 	'sony' => [
 		'suffix' => 'sony',
 		'type' => 'ICANN',
 		'comments' => [
-			'sony : 2015-01-08 Sony Corporation',
+			'sony : Sony Corporation',
 		],
 	],
 	'soy' => [
 		'suffix' => 'soy',
 		'type' => 'ICANN',
 		'comments' => [
-			'soy : 2014-01-23 Charleston Road Registry Inc.',
+			'soy : Charleston Road Registry Inc.',
 		],
 	],
 	'spa' => [
 		'suffix' => 'spa',
 		'type' => 'ICANN',
 		'comments' => [
-			'spa : 2019-09-19 Asia Spa and Wellness Promotion Council Limited',
+			'spa : Asia Spa and Wellness Promotion Council Limited',
 		],
 	],
 	'space' => [
 		'suffix' => 'space',
 		'type' => 'ICANN',
 		'comments' => [
-			'space : 2014-04-03 Radix FZC',
+			'space : Radix FZC',
 		],
 	],
 	'sport' => [
 		'suffix' => 'sport',
 		'type' => 'ICANN',
 		'comments' => [
-			'sport : 2017-11-16 SportAccord',
+			'sport : SportAccord',
 		],
 	],
 	'spot' => [
 		'suffix' => 'spot',
 		'type' => 'ICANN',
 		'comments' => [
-			'spot : 2015-02-26 Amazon Registry Services, Inc.',
+			'spot : Amazon Registry Services, Inc.',
 		],
 	],
 	'srl' => [
 		'suffix' => 'srl',
 		'type' => 'ICANN',
 		'comments' => [
-			'srl : 2015-05-07 InterNetX, Corp',
+			'srl : InterNetX, Corp',
 		],
 	],
 	'stada' => [
 		'suffix' => 'stada',
 		'type' => 'ICANN',
 		'comments' => [
-			'stada : 2014-11-13 STADA Arzneimittel AG',
+			'stada : STADA Arzneimittel AG',
 		],
 	],
 	'staples' => [
 		'suffix' => 'staples',
 		'type' => 'ICANN',
 		'comments' => [
-			'staples : 2015-07-30 Staples, Inc.',
+			'staples : Staples, Inc.',
 		],
 	],
 	'star' => [
 		'suffix' => 'star',
 		'type' => 'ICANN',
 		'comments' => [
-			'star : 2015-01-08 Star India Private Limited',
+			'star : Star India Private Limited',
 		],
 	],
 	'statebank' => [
 		'suffix' => 'statebank',
 		'type' => 'ICANN',
 		'comments' => [
-			'statebank : 2015-03-12 STATE BANK OF INDIA',
+			'statebank : STATE BANK OF INDIA',
 		],
 	],
 	'statefarm' => [
 		'suffix' => 'statefarm',
 		'type' => 'ICANN',
 		'comments' => [
-			'statefarm : 2015-07-30 State Farm Mutual Automobile Insurance Company',
+			'statefarm : State Farm Mutual Automobile Insurance Company',
 		],
 	],
 	'stc' => [
 		'suffix' => 'stc',
 		'type' => 'ICANN',
 		'comments' => [
-			'stc : 2014-10-09 Saudi Telecom Company',
+			'stc : Saudi Telecom Company',
 		],
 	],
 	'stcgroup' => [
 		'suffix' => 'stcgroup',
 		'type' => 'ICANN',
 		'comments' => [
-			'stcgroup : 2014-10-09 Saudi Telecom Company',
+			'stcgroup : Saudi Telecom Company',
 		],
 	],
 	'stockholm' => [
 		'suffix' => 'stockholm',
 		'type' => 'ICANN',
 		'comments' => [
-			'stockholm : 2014-12-18 Stockholms kommun',
+			'stockholm : Stockholms kommun',
 		],
 	],
 	'storage' => [
 		'suffix' => 'storage',
 		'type' => 'ICANN',
 		'comments' => [
-			'storage : 2014-12-22 XYZ.COM LLC',
+			'storage : XYZ.COM LLC',
 		],
 	],
 	'store' => [
 		'suffix' => 'store',
 		'type' => 'ICANN',
 		'comments' => [
-			'store : 2015-04-09 Radix FZC',
+			'store : Radix FZC',
 		],
 	],
 	'stream' => [
 		'suffix' => 'stream',
 		'type' => 'ICANN',
 		'comments' => [
-			'stream : 2016-01-08 dot Stream Limited',
+			'stream : dot Stream Limited',
 		],
 	],
 	'studio' => [
 		'suffix' => 'studio',
 		'type' => 'ICANN',
 		'comments' => [
-			'studio : 2015-02-11 Dog Beach, LLC',
+			'studio : Dog Beach, LLC',
 		],
 	],
 	'study' => [
 		'suffix' => 'study',
 		'type' => 'ICANN',
 		'comments' => [
-			'study : 2014-12-11 Registry Services, LLC',
+			'study : Registry Services, LLC',
 		],
 	],
 	'style' => [
 		'suffix' => 'style',
 		'type' => 'ICANN',
 		'comments' => [
-			'style : 2014-12-04 Binky Moon, LLC',
+			'style : Binky Moon, LLC',
 		],
 	],
 	'sucks' => [
 		'suffix' => 'sucks',
 		'type' => 'ICANN',
 		'comments' => [
-			'sucks : 2014-12-22 Vox Populi Registry Ltd.',
+			'sucks : Vox Populi Registry Ltd.',
 		],
 	],
 	'supplies' => [
 		'suffix' => 'supplies',
 		'type' => 'ICANN',
 		'comments' => [
-			'supplies : 2013-12-19 Binky Moon, LLC',
+			'supplies : Binky Moon, LLC',
 		],
 	],
 	'supply' => [
 		'suffix' => 'supply',
 		'type' => 'ICANN',
 		'comments' => [
-			'supply : 2013-12-19 Binky Moon, LLC',
+			'supply : Binky Moon, LLC',
 		],
 	],
 	'support' => [
 		'suffix' => 'support',
 		'type' => 'ICANN',
 		'comments' => [
-			'support : 2013-10-24 Binky Moon, LLC',
+			'support : Binky Moon, LLC',
 		],
 	],
 	'surf' => [
 		'suffix' => 'surf',
 		'type' => 'ICANN',
 		'comments' => [
-			'surf : 2014-01-09 Registry Services, LLC',
+			'surf : Registry Services, LLC',
 		],
 	],
 	'surgery' => [
 		'suffix' => 'surgery',
 		'type' => 'ICANN',
 		'comments' => [
-			'surgery : 2014-03-20 Binky Moon, LLC',
+			'surgery : Binky Moon, LLC',
 		],
 	],
 	'suzuki' => [
 		'suffix' => 'suzuki',
 		'type' => 'ICANN',
 		'comments' => [
-			'suzuki : 2014-02-20 SUZUKI MOTOR CORPORATION',
+			'suzuki : SUZUKI MOTOR CORPORATION',
 		],
 	],
 	'swatch' => [
 		'suffix' => 'swatch',
 		'type' => 'ICANN',
 		'comments' => [
-			'swatch : 2015-01-08 The Swatch Group Ltd',
+			'swatch : The Swatch Group Ltd',
 		],
 	],
 	'swiss' => [
 		'suffix' => 'swiss',
 		'type' => 'ICANN',
 		'comments' => [
-			'swiss : 2014-10-16 Swiss Confederation',
+			'swiss : Swiss Confederation',
 		],
 	],
 	'sydney' => [
 		'suffix' => 'sydney',
 		'type' => 'ICANN',
 		'comments' => [
-			'sydney : 2014-09-18 State of New South Wales, Department of Premier and Cabinet',
+			'sydney : State of New South Wales, Department of Premier and Cabinet',
 		],
 	],
 	'systems' => [
 		'suffix' => 'systems',
 		'type' => 'ICANN',
 		'comments' => [
-			'systems : 2013-11-07 Binky Moon, LLC',
+			'systems : Binky Moon, LLC',
 		],
 	],
 	'tab' => [
 		'suffix' => 'tab',
 		'type' => 'ICANN',
 		'comments' => [
-			'tab : 2014-12-04 Tabcorp Holdings Limited',
+			'tab : Tabcorp Holdings Limited',
 		],
 	],
 	'taipei' => [
 		'suffix' => 'taipei',
 		'type' => 'ICANN',
 		'comments' => [
-			'taipei : 2014-07-10 Taipei City Government',
+			'taipei : Taipei City Government',
 		],
 	],
 	'talk' => [
 		'suffix' => 'talk',
 		'type' => 'ICANN',
 		'comments' => [
-			'talk : 2015-04-09 Amazon Registry Services, Inc.',
+			'talk : Amazon Registry Services, Inc.',
 		],
 	],
 	'taobao' => [
 		'suffix' => 'taobao',
 		'type' => 'ICANN',
 		'comments' => [
-			'taobao : 2015-01-15 Alibaba Group Holding Limited',
+			'taobao : Alibaba Group Holding Limited',
 		],
 	],
 	'target' => [
 		'suffix' => 'target',
 		'type' => 'ICANN',
 		'comments' => [
-			'target : 2015-07-31 Target Domain Holdings, LLC',
+			'target : Target Domain Holdings, LLC',
 		],
 	],
 	'tatamotors' => [
 		'suffix' => 'tatamotors',
 		'type' => 'ICANN',
 		'comments' => [
-			'tatamotors : 2015-03-12 Tata Motors Ltd',
+			'tatamotors : Tata Motors Ltd',
 		],
 	],
 	'tatar' => [
 		'suffix' => 'tatar',
 		'type' => 'ICANN',
 		'comments' => [
-			'tatar : 2014-04-24 Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"',
+			'tatar : Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"',
 		],
 	],
 	'tattoo' => [
 		'suffix' => 'tattoo',
 		'type' => 'ICANN',
 		'comments' => [
-			'tattoo : 2013-08-30 Registry Services, LLC',
+			'tattoo : Registry Services, LLC',
 		],
 	],
 	'tax' => [
 		'suffix' => 'tax',
 		'type' => 'ICANN',
 		'comments' => [
-			'tax : 2014-03-20 Binky Moon, LLC',
+			'tax : Binky Moon, LLC',
 		],
 	],
 	'taxi' => [
 		'suffix' => 'taxi',
 		'type' => 'ICANN',
 		'comments' => [
-			'taxi : 2015-03-19 Binky Moon, LLC',
+			'taxi : Binky Moon, LLC',
 		],
 	],
 	'tci' => [
 		'suffix' => 'tci',
 		'type' => 'ICANN',
 		'comments' => [
-			'tci : 2014-09-12 Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'tci : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
 		],
 	],
 	'tdk' => [
 		'suffix' => 'tdk',
 		'type' => 'ICANN',
 		'comments' => [
-			'tdk : 2015-06-11 TDK Corporation',
+			'tdk : TDK Corporation',
 		],
 	],
 	'team' => [
 		'suffix' => 'team',
 		'type' => 'ICANN',
 		'comments' => [
-			'team : 2015-03-05 Binky Moon, LLC',
+			'team : Binky Moon, LLC',
 		],
 	],
 	'tech' => [
 		'suffix' => 'tech',
 		'type' => 'ICANN',
 		'comments' => [
-			'tech : 2015-01-30 Radix FZC',
+			'tech : Radix FZC',
 		],
 	],
 	'technology' => [
 		'suffix' => 'technology',
 		'type' => 'ICANN',
 		'comments' => [
-			'technology : 2013-09-13 Binky Moon, LLC',
+			'technology : Binky Moon, LLC',
 		],
 	],
 	'temasek' => [
 		'suffix' => 'temasek',
 		'type' => 'ICANN',
 		'comments' => [
-			'temasek : 2014-08-07 Temasek Holdings (Private) Limited',
+			'temasek : Temasek Holdings (Private) Limited',
 		],
 	],
 	'tennis' => [
 		'suffix' => 'tennis',
 		'type' => 'ICANN',
 		'comments' => [
-			'tennis : 2014-12-04 Binky Moon, LLC',
+			'tennis : Binky Moon, LLC',
 		],
 	],
 	'teva' => [
 		'suffix' => 'teva',
 		'type' => 'ICANN',
 		'comments' => [
-			'teva : 2015-07-02 Teva Pharmaceutical Industries Limited',
+			'teva : Teva Pharmaceutical Industries Limited',
 		],
 	],
 	'thd' => [
 		'suffix' => 'thd',
 		'type' => 'ICANN',
 		'comments' => [
-			'thd : 2015-04-02 Home Depot Product Authority, LLC',
+			'thd : Home Depot Product Authority, LLC',
 		],
 	],
 	'theater' => [
 		'suffix' => 'theater',
 		'type' => 'ICANN',
 		'comments' => [
-			'theater : 2015-03-19 Binky Moon, LLC',
+			'theater : Binky Moon, LLC',
 		],
 	],
 	'theatre' => [
 		'suffix' => 'theatre',
 		'type' => 'ICANN',
 		'comments' => [
-			'theatre : 2015-05-07 XYZ.COM LLC',
+			'theatre : XYZ.COM LLC',
 		],
 	],
 	'tiaa' => [
 		'suffix' => 'tiaa',
 		'type' => 'ICANN',
 		'comments' => [
-			'tiaa : 2015-07-23 Teachers Insurance and Annuity Association of America',
+			'tiaa : Teachers Insurance and Annuity Association of America',
 		],
 	],
 	'tickets' => [
 		'suffix' => 'tickets',
 		'type' => 'ICANN',
 		'comments' => [
-			'tickets : 2015-02-05 XYZ.COM LLC',
+			'tickets : XYZ.COM LLC',
 		],
 	],
 	'tienda' => [
 		'suffix' => 'tienda',
 		'type' => 'ICANN',
 		'comments' => [
-			'tienda : 2013-11-14 Binky Moon, LLC',
+			'tienda : Binky Moon, LLC',
 		],
 	],
 	'tips' => [
 		'suffix' => 'tips',
 		'type' => 'ICANN',
 		'comments' => [
-			'tips : 2013-09-20 Binky Moon, LLC',
+			'tips : Binky Moon, LLC',
 		],
 	],
 	'tires' => [
 		'suffix' => 'tires',
 		'type' => 'ICANN',
 		'comments' => [
-			'tires : 2014-11-07 Binky Moon, LLC',
+			'tires : Binky Moon, LLC',
 		],
 	],
 	'tirol' => [
 		'suffix' => 'tirol',
 		'type' => 'ICANN',
 		'comments' => [
-			'tirol : 2014-04-24 punkt Tirol GmbH',
+			'tirol : punkt Tirol GmbH',
 		],
 	],
 	'tjmaxx' => [
 		'suffix' => 'tjmaxx',
 		'type' => 'ICANN',
 		'comments' => [
-			'tjmaxx : 2015-07-16 The TJX Companies, Inc.',
+			'tjmaxx : The TJX Companies, Inc.',
 		],
 	],
 	'tjx' => [
 		'suffix' => 'tjx',
 		'type' => 'ICANN',
 		'comments' => [
-			'tjx : 2015-07-16 The TJX Companies, Inc.',
+			'tjx : The TJX Companies, Inc.',
 		],
 	],
 	'tkmaxx' => [
 		'suffix' => 'tkmaxx',
 		'type' => 'ICANN',
 		'comments' => [
-			'tkmaxx : 2015-07-16 The TJX Companies, Inc.',
+			'tkmaxx : The TJX Companies, Inc.',
 		],
 	],
 	'tmall' => [
 		'suffix' => 'tmall',
 		'type' => 'ICANN',
 		'comments' => [
-			'tmall : 2015-01-15 Alibaba Group Holding Limited',
+			'tmall : Alibaba Group Holding Limited',
 		],
 	],
 	'today' => [
 		'suffix' => 'today',
 		'type' => 'ICANN',
 		'comments' => [
-			'today : 2013-09-20 Binky Moon, LLC',
+			'today : Binky Moon, LLC',
 		],
 	],
 	'tokyo' => [
 		'suffix' => 'tokyo',
 		'type' => 'ICANN',
 		'comments' => [
-			'tokyo : 2013-11-13 GMO Registry, Inc.',
+			'tokyo : GMO Registry, Inc.',
 		],
 	],
 	'tools' => [
 		'suffix' => 'tools',
 		'type' => 'ICANN',
 		'comments' => [
-			'tools : 2013-11-21 Binky Moon, LLC',
+			'tools : Binky Moon, LLC',
 		],
 	],
 	'top' => [
 		'suffix' => 'top',
 		'type' => 'ICANN',
 		'comments' => [
-			'top : 2014-03-20 .TOP Registry',
+			'top : .TOP Registry',
 		],
 	],
 	'toray' => [
 		'suffix' => 'toray',
 		'type' => 'ICANN',
 		'comments' => [
-			'toray : 2014-12-18 Toray Industries, Inc.',
+			'toray : Toray Industries, Inc.',
 		],
 	],
 	'toshiba' => [
 		'suffix' => 'toshiba',
 		'type' => 'ICANN',
 		'comments' => [
-			'toshiba : 2014-04-10 TOSHIBA Corporation',
+			'toshiba : TOSHIBA Corporation',
 		],
 	],
 	'total' => [
 		'suffix' => 'total',
 		'type' => 'ICANN',
 		'comments' => [
-			'total : 2015-08-06 TotalEnergies SE',
+			'total : TotalEnergies SE',
 		],
 	],
 	'tours' => [
 		'suffix' => 'tours',
 		'type' => 'ICANN',
 		'comments' => [
-			'tours : 2015-01-22 Binky Moon, LLC',
+			'tours : Binky Moon, LLC',
 		],
 	],
 	'town' => [
 		'suffix' => 'town',
 		'type' => 'ICANN',
 		'comments' => [
-			'town : 2014-03-06 Binky Moon, LLC',
+			'town : Binky Moon, LLC',
 		],
 	],
 	'toyota' => [
 		'suffix' => 'toyota',
 		'type' => 'ICANN',
 		'comments' => [
-			'toyota : 2015-04-23 TOYOTA MOTOR CORPORATION',
+			'toyota : TOYOTA MOTOR CORPORATION',
 		],
 	],
 	'toys' => [
 		'suffix' => 'toys',
 		'type' => 'ICANN',
 		'comments' => [
-			'toys : 2014-03-06 Binky Moon, LLC',
+			'toys : Binky Moon, LLC',
 		],
 	],
 	'trade' => [
 		'suffix' => 'trade',
 		'type' => 'ICANN',
 		'comments' => [
-			'trade : 2014-01-23 Elite Registry Limited',
+			'trade : Elite Registry Limited',
 		],
 	],
 	'trading' => [
 		'suffix' => 'trading',
 		'type' => 'ICANN',
 		'comments' => [
-			'trading : 2014-12-11 Dog Beach, LLC',
+			'trading : Dog Beach, LLC',
 		],
 	],
 	'training' => [
 		'suffix' => 'training',
 		'type' => 'ICANN',
 		'comments' => [
-			'training : 2013-11-07 Binky Moon, LLC',
+			'training : Binky Moon, LLC',
 		],
 	],
 	'travel' => [
 		'suffix' => 'travel',
 		'type' => 'ICANN',
 		'comments' => [
-			'travel : 2015-10-09 Dog Beach, LLC',
+			'travel : Dog Beach, LLC',
 		],
 	],
 	'travelers' => [
 		'suffix' => 'travelers',
 		'type' => 'ICANN',
 		'comments' => [
-			'travelers : 2015-03-26 Travelers TLD, LLC',
+			'travelers : Travelers TLD, LLC',
 		],
 	],
 	'travelersinsurance' => [
 		'suffix' => 'travelersinsurance',
 		'type' => 'ICANN',
 		'comments' => [
-			'travelersinsurance : 2015-03-26 Travelers TLD, LLC',
+			'travelersinsurance : Travelers TLD, LLC',
 		],
 	],
 	'trust' => [
 		'suffix' => 'trust',
 		'type' => 'ICANN',
 		'comments' => [
-			'trust : 2014-10-16 Internet Naming Company LLC',
+			'trust : Internet Naming Company LLC',
 		],
 	],
 	'trv' => [
 		'suffix' => 'trv',
 		'type' => 'ICANN',
 		'comments' => [
-			'trv : 2015-03-26 Travelers TLD, LLC',
+			'trv : Travelers TLD, LLC',
 		],
 	],
 	'tube' => [
 		'suffix' => 'tube',
 		'type' => 'ICANN',
 		'comments' => [
-			'tube : 2015-06-11 Latin American Telecom LLC',
+			'tube : Latin American Telecom LLC',
 		],
 	],
 	'tui' => [
 		'suffix' => 'tui',
 		'type' => 'ICANN',
 		'comments' => [
-			'tui : 2014-07-03 TUI AG',
+			'tui : TUI AG',
 		],
 	],
 	'tunes' => [
 		'suffix' => 'tunes',
 		'type' => 'ICANN',
 		'comments' => [
-			'tunes : 2015-02-26 Amazon Registry Services, Inc.',
+			'tunes : Amazon Registry Services, Inc.',
 		],
 	],
 	'tushu' => [
 		'suffix' => 'tushu',
 		'type' => 'ICANN',
 		'comments' => [
-			'tushu : 2014-12-18 Amazon Registry Services, Inc.',
+			'tushu : Amazon Registry Services, Inc.',
 		],
 	],
 	'tvs' => [
 		'suffix' => 'tvs',
 		'type' => 'ICANN',
 		'comments' => [
-			'tvs : 2015-02-19 T V SUNDRAM IYENGAR  & SONS LIMITED',
+			'tvs : T V SUNDRAM IYENGAR  & SONS LIMITED',
 		],
 	],
 	'ubank' => [
 		'suffix' => 'ubank',
 		'type' => 'ICANN',
 		'comments' => [
-			'ubank : 2015-08-20 National Australia Bank Limited',
+			'ubank : National Australia Bank Limited',
 		],
 	],
 	'ubs' => [
 		'suffix' => 'ubs',
 		'type' => 'ICANN',
 		'comments' => [
-			'ubs : 2014-12-11 UBS AG',
+			'ubs : UBS AG',
 		],
 	],
 	'unicom' => [
 		'suffix' => 'unicom',
 		'type' => 'ICANN',
 		'comments' => [
-			'unicom : 2015-10-15 China United Network Communications Corporation Limited',
+			'unicom : China United Network Communications Corporation Limited',
 		],
 	],
 	'university' => [
 		'suffix' => 'university',
 		'type' => 'ICANN',
 		'comments' => [
-			'university : 2014-03-06 Binky Moon, LLC',
+			'university : Binky Moon, LLC',
 		],
 	],
 	'uno' => [
 		'suffix' => 'uno',
 		'type' => 'ICANN',
 		'comments' => [
-			'uno : 2013-09-11 Radix FZC',
+			'uno : Radix FZC',
 		],
 	],
 	'uol' => [
 		'suffix' => 'uol',
 		'type' => 'ICANN',
 		'comments' => [
-			'uol : 2014-05-01 UBN INTERNET LTDA.',
+			'uol : UBN INTERNET LTDA.',
 		],
 	],
 	'ups' => [
 		'suffix' => 'ups',
 		'type' => 'ICANN',
 		'comments' => [
-			'ups : 2015-06-25 UPS Market Driver, Inc.',
+			'ups : UPS Market Driver, Inc.',
 		],
 	],
 	'vacations' => [
 		'suffix' => 'vacations',
 		'type' => 'ICANN',
 		'comments' => [
-			'vacations : 2013-12-05 Binky Moon, LLC',
+			'vacations : Binky Moon, LLC',
 		],
 	],
 	'vana' => [
 		'suffix' => 'vana',
 		'type' => 'ICANN',
 		'comments' => [
-			'vana : 2014-12-11 Lifestyle Domain Holdings, Inc.',
+			'vana : Lifestyle Domain Holdings, Inc.',
 		],
 	],
 	'vanguard' => [
 		'suffix' => 'vanguard',
 		'type' => 'ICANN',
 		'comments' => [
-			'vanguard : 2015-09-03 The Vanguard Group, Inc.',
+			'vanguard : The Vanguard Group, Inc.',
 		],
 	],
 	'vegas' => [
 		'suffix' => 'vegas',
 		'type' => 'ICANN',
 		'comments' => [
-			'vegas : 2014-01-16 Dot Vegas, Inc.',
+			'vegas : Dot Vegas, Inc.',
 		],
 	],
 	'ventures' => [
 		'suffix' => 'ventures',
 		'type' => 'ICANN',
 		'comments' => [
-			'ventures : 2013-08-27 Binky Moon, LLC',
+			'ventures : Binky Moon, LLC',
 		],
 	],
 	'verisign' => [
 		'suffix' => 'verisign',
 		'type' => 'ICANN',
 		'comments' => [
-			'verisign : 2015-08-13 VeriSign, Inc.',
+			'verisign : VeriSign, Inc.',
 		],
 	],
 	'versicherung' => [
 		'suffix' => 'versicherung',
 		'type' => 'ICANN',
 		'comments' => [
-			'versicherung : 2014-03-20 tldbox GmbH',
+			'versicherung : tldbox GmbH',
 		],
 	],
 	'vet' => [
 		'suffix' => 'vet',
 		'type' => 'ICANN',
 		'comments' => [
-			'vet : 2014-03-06 Dog Beach, LLC',
+			'vet : Dog Beach, LLC',
 		],
 	],
 	'viajes' => [
 		'suffix' => 'viajes',
 		'type' => 'ICANN',
 		'comments' => [
-			'viajes : 2013-10-17 Binky Moon, LLC',
+			'viajes : Binky Moon, LLC',
 		],
 	],
 	'video' => [
 		'suffix' => 'video',
 		'type' => 'ICANN',
 		'comments' => [
-			'video : 2014-10-16 Dog Beach, LLC',
+			'video : Dog Beach, LLC',
 		],
 	],
 	'vig' => [
 		'suffix' => 'vig',
 		'type' => 'ICANN',
 		'comments' => [
-			'vig : 2015-05-14 VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe',
+			'vig : VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe',
 		],
 	],
 	'viking' => [
 		'suffix' => 'viking',
 		'type' => 'ICANN',
 		'comments' => [
-			'viking : 2015-04-02 Viking River Cruises (Bermuda) Ltd.',
+			'viking : Viking River Cruises (Bermuda) Ltd.',
 		],
 	],
 	'villas' => [
 		'suffix' => 'villas',
 		'type' => 'ICANN',
 		'comments' => [
-			'villas : 2013-12-05 Binky Moon, LLC',
+			'villas : Binky Moon, LLC',
 		],
 	],
 	'vin' => [
 		'suffix' => 'vin',
 		'type' => 'ICANN',
 		'comments' => [
-			'vin : 2015-06-18 Binky Moon, LLC',
+			'vin : Binky Moon, LLC',
 		],
 	],
 	'vip' => [
 		'suffix' => 'vip',
 		'type' => 'ICANN',
 		'comments' => [
-			'vip : 2015-01-22 Registry Services, LLC',
+			'vip : Registry Services, LLC',
 		],
 	],
 	'virgin' => [
 		'suffix' => 'virgin',
 		'type' => 'ICANN',
 		'comments' => [
-			'virgin : 2014-09-25 Virgin Enterprises Limited',
+			'virgin : Virgin Enterprises Limited',
 		],
 	],
 	'visa' => [
 		'suffix' => 'visa',
 		'type' => 'ICANN',
 		'comments' => [
-			'visa : 2015-07-30 Visa Worldwide Pte. Limited',
+			'visa : Visa Worldwide Pte. Limited',
 		],
 	],
 	'vision' => [
 		'suffix' => 'vision',
 		'type' => 'ICANN',
 		'comments' => [
-			'vision : 2013-12-05 Binky Moon, LLC',
+			'vision : Binky Moon, LLC',
 		],
 	],
 	'viva' => [
 		'suffix' => 'viva',
 		'type' => 'ICANN',
 		'comments' => [
-			'viva : 2014-11-07 Saudi Telecom Company',
+			'viva : Saudi Telecom Company',
 		],
 	],
 	'vivo' => [
 		'suffix' => 'vivo',
 		'type' => 'ICANN',
 		'comments' => [
-			'vivo : 2015-07-31 Telefonica Brasil S.A.',
+			'vivo : Telefonica Brasil S.A.',
 		],
 	],
 	'vlaanderen' => [
 		'suffix' => 'vlaanderen',
 		'type' => 'ICANN',
 		'comments' => [
-			'vlaanderen : 2014-02-06 DNS.be vzw',
+			'vlaanderen : DNS.be vzw',
 		],
 	],
 	'vodka' => [
 		'suffix' => 'vodka',
 		'type' => 'ICANN',
 		'comments' => [
-			'vodka : 2013-12-19 Registry Services, LLC',
+			'vodka : Registry Services, LLC',
 		],
 	],
 	'volkswagen' => [
 		'suffix' => 'volkswagen',
 		'type' => 'ICANN',
 		'comments' => [
-			'volkswagen : 2015-05-14 Volkswagen Group of America Inc.',
+			'volkswagen : Volkswagen Group of America Inc.',
 		],
 	],
 	'volvo' => [
 		'suffix' => 'volvo',
 		'type' => 'ICANN',
 		'comments' => [
-			'volvo : 2015-11-12 Volvo Holding Sverige Aktiebolag',
+			'volvo : Volvo Holding Sverige Aktiebolag',
 		],
 	],
 	'vote' => [
 		'suffix' => 'vote',
 		'type' => 'ICANN',
 		'comments' => [
-			'vote : 2013-11-21 Monolith Registry LLC',
+			'vote : Monolith Registry LLC',
 		],
 	],
 	'voting' => [
 		'suffix' => 'voting',
 		'type' => 'ICANN',
 		'comments' => [
-			'voting : 2013-11-13 Valuetainment Corp.',
+			'voting : Valuetainment Corp.',
 		],
 	],
 	'voto' => [
 		'suffix' => 'voto',
 		'type' => 'ICANN',
 		'comments' => [
-			'voto : 2013-11-21 Monolith Registry LLC',
+			'voto : Monolith Registry LLC',
 		],
 	],
 	'voyage' => [
 		'suffix' => 'voyage',
 		'type' => 'ICANN',
 		'comments' => [
-			'voyage : 2013-08-27 Binky Moon, LLC',
+			'voyage : Binky Moon, LLC',
 		],
 	],
 	'wales' => [
 		'suffix' => 'wales',
 		'type' => 'ICANN',
 		'comments' => [
-			'wales : 2014-05-08 Nominet UK',
+			'wales : Nominet UK',
 		],
 	],
 	'walmart' => [
 		'suffix' => 'walmart',
 		'type' => 'ICANN',
 		'comments' => [
-			'walmart : 2015-07-31 Wal-Mart Stores, Inc.',
+			'walmart : Wal-Mart Stores, Inc.',
 		],
 	],
 	'walter' => [
 		'suffix' => 'walter',
 		'type' => 'ICANN',
 		'comments' => [
-			'walter : 2014-11-13 Sandvik AB',
+			'walter : Sandvik AB',
 		],
 	],
 	'wang' => [
 		'suffix' => 'wang',
 		'type' => 'ICANN',
 		'comments' => [
-			'wang : 2013-10-24 Zodiac Wang Limited',
+			'wang : Zodiac Wang Limited',
 		],
 	],
 	'wanggou' => [
 		'suffix' => 'wanggou',
 		'type' => 'ICANN',
 		'comments' => [
-			'wanggou : 2014-12-18 Amazon Registry Services, Inc.',
+			'wanggou : Amazon Registry Services, Inc.',
 		],
 	],
 	'watch' => [
 		'suffix' => 'watch',
 		'type' => 'ICANN',
 		'comments' => [
-			'watch : 2013-11-14 Binky Moon, LLC',
+			'watch : Binky Moon, LLC',
 		],
 	],
 	'watches' => [
 		'suffix' => 'watches',
 		'type' => 'ICANN',
 		'comments' => [
-			'watches : 2014-12-22 Identity Digital Limited',
+			'watches : Identity Digital Limited',
 		],
 	],
 	'weather' => [
 		'suffix' => 'weather',
 		'type' => 'ICANN',
 		'comments' => [
-			'weather : 2015-01-08 International Business Machines Corporation',
+			'weather : International Business Machines Corporation',
 		],
 	],
 	'weatherchannel' => [
 		'suffix' => 'weatherchannel',
 		'type' => 'ICANN',
 		'comments' => [
-			'weatherchannel : 2015-03-12 International Business Machines Corporation',
+			'weatherchannel : International Business Machines Corporation',
 		],
 	],
 	'webcam' => [
 		'suffix' => 'webcam',
 		'type' => 'ICANN',
 		'comments' => [
-			'webcam : 2014-01-23 dot Webcam Limited',
+			'webcam : dot Webcam Limited',
 		],
 	],
 	'weber' => [
 		'suffix' => 'weber',
 		'type' => 'ICANN',
 		'comments' => [
-			'weber : 2015-06-04 Saint-Gobain Weber SA',
+			'weber : Saint-Gobain Weber SA',
 		],
 	],
 	'website' => [
 		'suffix' => 'website',
 		'type' => 'ICANN',
 		'comments' => [
-			'website : 2014-04-03 Radix FZC',
+			'website : Radix FZC',
 		],
 	],
 	'wedding' => [
 		'suffix' => 'wedding',
 		'type' => 'ICANN',
 		'comments' => [
-			'wedding : 2014-04-24 Registry Services, LLC',
+			'wedding : Registry Services, LLC',
 		],
 	],
 	'weibo' => [
 		'suffix' => 'weibo',
 		'type' => 'ICANN',
 		'comments' => [
-			'weibo : 2015-03-05 Sina Corporation',
+			'weibo : Sina Corporation',
 		],
 	],
 	'weir' => [
 		'suffix' => 'weir',
 		'type' => 'ICANN',
 		'comments' => [
-			'weir : 2015-01-29 Weir Group IP Limited',
+			'weir : Weir Group IP Limited',
 		],
 	],
 	'whoswho' => [
 		'suffix' => 'whoswho',
 		'type' => 'ICANN',
 		'comments' => [
-			'whoswho : 2014-02-20 Who\'s Who Registry',
+			'whoswho : Who\'s Who Registry',
 		],
 	],
 	'wien' => [
 		'suffix' => 'wien',
 		'type' => 'ICANN',
 		'comments' => [
-			'wien : 2013-10-28 punkt.wien GmbH',
+			'wien : punkt.wien GmbH',
 		],
 	],
 	'wiki' => [
 		'suffix' => 'wiki',
 		'type' => 'ICANN',
 		'comments' => [
-			'wiki : 2013-11-07 Registry Services, LLC',
+			'wiki : Registry Services, LLC',
 		],
 	],
 	'williamhill' => [
 		'suffix' => 'williamhill',
 		'type' => 'ICANN',
 		'comments' => [
-			'williamhill : 2014-03-13 William Hill Organization Limited',
+			'williamhill : William Hill Organization Limited',
 		],
 	],
 	'win' => [
 		'suffix' => 'win',
 		'type' => 'ICANN',
 		'comments' => [
-			'win : 2014-11-20 First Registry Limited',
+			'win : First Registry Limited',
 		],
 	],
 	'windows' => [
 		'suffix' => 'windows',
 		'type' => 'ICANN',
 		'comments' => [
-			'windows : 2014-12-18 Microsoft Corporation',
+			'windows : Microsoft Corporation',
 		],
 	],
 	'wine' => [
 		'suffix' => 'wine',
 		'type' => 'ICANN',
 		'comments' => [
-			'wine : 2015-06-18 Binky Moon, LLC',
+			'wine : Binky Moon, LLC',
 		],
 	],
 	'winners' => [
 		'suffix' => 'winners',
 		'type' => 'ICANN',
 		'comments' => [
-			'winners : 2015-07-16 The TJX Companies, Inc.',
+			'winners : The TJX Companies, Inc.',
 		],
 	],
 	'wme' => [
 		'suffix' => 'wme',
 		'type' => 'ICANN',
 		'comments' => [
-			'wme : 2014-02-13 William Morris Endeavor Entertainment, LLC',
+			'wme : William Morris Endeavor Entertainment, LLC',
 		],
 	],
 	'wolterskluwer' => [
 		'suffix' => 'wolterskluwer',
 		'type' => 'ICANN',
 		'comments' => [
-			'wolterskluwer : 2015-08-06 Wolters Kluwer N.V.',
+			'wolterskluwer : Wolters Kluwer N.V.',
 		],
 	],
 	'woodside' => [
 		'suffix' => 'woodside',
 		'type' => 'ICANN',
 		'comments' => [
-			'woodside : 2015-07-09 Woodside Petroleum Limited',
+			'woodside : Woodside Petroleum Limited',
 		],
 	],
 	'work' => [
 		'suffix' => 'work',
 		'type' => 'ICANN',
 		'comments' => [
-			'work : 2013-12-19 Registry Services, LLC',
+			'work : Registry Services, LLC',
 		],
 	],
 	'works' => [
 		'suffix' => 'works',
 		'type' => 'ICANN',
 		'comments' => [
-			'works : 2013-11-14 Binky Moon, LLC',
+			'works : Binky Moon, LLC',
 		],
 	],
 	'world' => [
 		'suffix' => 'world',
 		'type' => 'ICANN',
 		'comments' => [
-			'world : 2014-06-12 Binky Moon, LLC',
+			'world : Binky Moon, LLC',
 		],
 	],
 	'wow' => [
 		'suffix' => 'wow',
 		'type' => 'ICANN',
 		'comments' => [
-			'wow : 2015-10-08 Amazon Registry Services, Inc.',
+			'wow : Amazon Registry Services, Inc.',
 		],
 	],
 	'wtc' => [
 		'suffix' => 'wtc',
 		'type' => 'ICANN',
 		'comments' => [
-			'wtc : 2013-12-19 World Trade Centers Association, Inc.',
+			'wtc : World Trade Centers Association, Inc.',
 		],
 	],
 	'wtf' => [
 		'suffix' => 'wtf',
 		'type' => 'ICANN',
 		'comments' => [
-			'wtf : 2014-03-06 Binky Moon, LLC',
+			'wtf : Binky Moon, LLC',
 		],
 	],
 	'xbox' => [
 		'suffix' => 'xbox',
 		'type' => 'ICANN',
 		'comments' => [
-			'xbox : 2014-12-18 Microsoft Corporation',
+			'xbox : Microsoft Corporation',
 		],
 	],
 	'xerox' => [
 		'suffix' => 'xerox',
 		'type' => 'ICANN',
 		'comments' => [
-			'xerox : 2014-10-24 Xerox DNHC LLC',
+			'xerox : Xerox DNHC LLC',
 		],
 	],
 	'xfinity' => [
 		'suffix' => 'xfinity',
 		'type' => 'ICANN',
 		'comments' => [
-			'xfinity : 2015-07-09 Comcast IP Holdings I, LLC',
+			'xfinity : Comcast IP Holdings I, LLC',
 		],
 	],
 	'xihuan' => [
 		'suffix' => 'xihuan',
 		'type' => 'ICANN',
 		'comments' => [
-			'xihuan : 2015-01-08 Beijing Qihu Keji Co., Ltd.',
+			'xihuan : Beijing Qihu Keji Co., Ltd.',
 		],
 	],
 	'xin' => [
 		'suffix' => 'xin',
 		'type' => 'ICANN',
 		'comments' => [
-			'xin : 2014-12-11 Elegant Leader Limited',
+			'xin : Elegant Leader Limited',
 		],
 	],
 	'कॉम' => [
 		'suffix' => 'कॉम',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--11b4c3d : 2015-01-15 VeriSign Sarl',
+			'xn--11b4c3d : VeriSign Sarl',
 		],
 	],
 	'セール' => [
 		'suffix' => 'セール',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--1ck2e1b : 2015-02-26 Amazon Registry Services, Inc.',
+			'xn--1ck2e1b : Amazon Registry Services, Inc.',
 		],
 	],
 	'佛山' => [
 		'suffix' => '佛山',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--1qqw23a : 2014-01-09 Guangzhou YU Wei Information Technology Co., Ltd.',
+			'xn--1qqw23a : Guangzhou YU Wei Information Technology Co., Ltd.',
 		],
 	],
 	'慈善' => [
 		'suffix' => '慈善',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--30rr7y : 2014-06-12 Excellent First Limited',
+			'xn--30rr7y : Excellent First Limited',
 		],
 	],
 	'集团' => [
 		'suffix' => '集团',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--3bst00m : 2013-09-13 Eagle Horizon Limited',
+			'xn--3bst00m : Eagle Horizon Limited',
 		],
 	],
 	'在线' => [
 		'suffix' => '在线',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--3ds443g : 2013-09-08 TLD REGISTRY LIMITED OY',
+			'xn--3ds443g : TLD REGISTRY LIMITED OY',
 		],
 	],
 	'点看' => [
 		'suffix' => '点看',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--3pxu8k : 2015-01-15 VeriSign Sarl',
+			'xn--3pxu8k : VeriSign Sarl',
 		],
 	],
 	'คอม' => [
 		'suffix' => 'คอม',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--42c2d9a : 2015-01-15 VeriSign Sarl',
+			'xn--42c2d9a : VeriSign Sarl',
 		],
 	],
 	'八卦' => [
 		'suffix' => '八卦',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--45q11c : 2013-11-21 Zodiac Gemini Ltd',
+			'xn--45q11c : Zodiac Gemini Ltd',
 		],
 	],
 	'موقع' => [
 		'suffix' => 'موقع',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--4gbrim : 2013-10-04 Helium TLDs Ltd',
+			'xn--4gbrim : Helium TLDs Ltd',
 		],
 	],
 	'公益' => [
 		'suffix' => '公益',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--55qw42g : 2013-11-08 China Organizational Name Administration Center',
+			'xn--55qw42g : China Organizational Name Administration Center',
 		],
 	],
 	'公司' => [
 		'suffix' => '公司',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--55qx5d : 2013-11-14 China Internet Network Information Center (CNNIC)',
+			'xn--55qx5d : China Internet Network Information Center (CNNIC)',
 		],
 	],
 	'香格里拉' => [
 		'suffix' => '香格里拉',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--5su34j936bgsg : 2015-09-03 Shangri‐La International Hotel Management Limited',
+			'xn--5su34j936bgsg : Shangri‐La International Hotel Management Limited',
 		],
 	],
 	'网站' => [
 		'suffix' => '网站',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--5tzm5g : 2014-12-22 Global Website TLD Asia Limited',
+			'xn--5tzm5g : Global Website TLD Asia Limited',
 		],
 	],
 	'移动' => [
 		'suffix' => '移动',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--6frz82g : 2013-09-23 Identity Digital Limited',
+			'xn--6frz82g : Identity Digital Limited',
 		],
 	],
 	'我爱你' => [
 		'suffix' => '我爱你',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--6qq986b3xl : 2013-09-13 Tycoon Treasure Limited',
+			'xn--6qq986b3xl : Tycoon Treasure Limited',
 		],
 	],
 	'москва' => [
 		'suffix' => 'москва',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--80adxhks : 2013-12-19 Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)',
+			'xn--80adxhks : Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)',
 		],
 	],
 	'католик' => [
 		'suffix' => 'католик',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--80aqecdr1a : 2015-10-21 Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
+			'xn--80aqecdr1a : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
 		],
 	],
 	'онлайн' => [
 		'suffix' => 'онлайн',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--80asehdb : 2023-07-14 CORE Association',
+			'xn--80asehdb : CORE Association',
 		],
 	],
 	'сайт' => [
 		'suffix' => 'сайт',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--80aswg : 2023-07-14 CORE Association',
+			'xn--80aswg : CORE Association',
 		],
 	],
 	'联通' => [
 		'suffix' => '联通',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--8y0a063a : 2015-03-26 China United Network Communications Corporation Limited',
+			'xn--8y0a063a : China United Network Communications Corporation Limited',
 		],
 	],
 	'קום' => [
 		'suffix' => 'קום',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--9dbq2a : 2015-01-15 VeriSign Sarl',
+			'xn--9dbq2a : VeriSign Sarl',
 		],
 	],
 	'时尚' => [
 		'suffix' => '时尚',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--9et52u : 2014-06-12 RISE VICTORY LIMITED',
+			'xn--9et52u : RISE VICTORY LIMITED',
 		],
 	],
 	'微博' => [
 		'suffix' => '微博',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--9krt00a : 2015-03-12 Sina Corporation',
+			'xn--9krt00a : Sina Corporation',
 		],
 	],
 	'淡马锡' => [
 		'suffix' => '淡马锡',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--b4w605ferd : 2014-08-07 Temasek Holdings (Private) Limited',
+			'xn--b4w605ferd : Temasek Holdings (Private) Limited',
 		],
 	],
 	'ファッション' => [
 		'suffix' => 'ファッション',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--bck1b9a5dre4c : 2015-02-26 Amazon Registry Services, Inc.',
+			'xn--bck1b9a5dre4c : Amazon Registry Services, Inc.',
 		],
 	],
 	'орг' => [
 		'suffix' => 'орг',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--c1avg : 2013-11-14 Public Interest Registry',
+			'xn--c1avg : Public Interest Registry',
 		],
 	],
 	'नेट' => [
 		'suffix' => 'नेट',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--c2br7g : 2015-01-15 VeriSign Sarl',
+			'xn--c2br7g : VeriSign Sarl',
 		],
 	],
 	'ストア' => [
 		'suffix' => 'ストア',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--cck2b3b : 2015-02-26 Amazon Registry Services, Inc.',
+			'xn--cck2b3b : Amazon Registry Services, Inc.',
 		],
 	],
 	'アマゾン' => [
 		'suffix' => 'アマゾン',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--cckwcxetd : 2019-12-19 Amazon Registry Services, Inc.',
+			'xn--cckwcxetd : Amazon Registry Services, Inc.',
 		],
 	],
 	'삼성' => [
 		'suffix' => '삼성',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--cg4bki : 2013-09-27 SAMSUNG SDS CO., LTD',
+			'xn--cg4bki : SAMSUNG SDS CO., LTD',
 		],
 	],
 	'商标' => [
 		'suffix' => '商标',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--czr694b : 2014-01-16 Internet DotTrademark Organisation Limited',
+			'xn--czr694b : Internet DotTrademark Organisation Limited',
 		],
 	],
 	'商店' => [
 		'suffix' => '商店',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--czrs0t : 2013-12-19 Binky Moon, LLC',
+			'xn--czrs0t : Binky Moon, LLC',
 		],
 	],
 	'商城' => [
 		'suffix' => '商城',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--czru2d : 2013-11-21 Zodiac Aquarius Limited',
+			'xn--czru2d : Zodiac Aquarius Limited',
 		],
 	],
 	'дети' => [
 		'suffix' => 'дети',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--d1acj3b : 2013-11-20 The Foundation for Network Initiatives “The Smart Internet”',
+			'xn--d1acj3b : The Foundation for Network Initiatives “The Smart Internet”',
 		],
 	],
 	'ポイント' => [
 		'suffix' => 'ポイント',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--eckvdtc9d : 2014-12-18 Amazon Registry Services, Inc.',
+			'xn--eckvdtc9d : Amazon Registry Services, Inc.',
 		],
 	],
 	'新闻' => [
 		'suffix' => '新闻',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--efvy88h : 2014-08-22 Guangzhou YU Wei Information Technology Co., Ltd.',
+			'xn--efvy88h : Guangzhou YU Wei Information Technology Co., Ltd.',
 		],
 	],
 	'家電' => [
 		'suffix' => '家電',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--fct429k : 2015-04-09 Amazon Registry Services, Inc.',
+			'xn--fct429k : Amazon Registry Services, Inc.',
 		],
 	],
 	'كوم' => [
 		'suffix' => 'كوم',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--fhbei : 2015-01-15 VeriSign Sarl',
+			'xn--fhbei : VeriSign Sarl',
 		],
 	],
 	'中文网' => [
 		'suffix' => '中文网',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--fiq228c5hs : 2013-09-08 TLD REGISTRY LIMITED OY',
+			'xn--fiq228c5hs : TLD REGISTRY LIMITED OY',
 		],
 	],
 	'中信' => [
 		'suffix' => '中信',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--fiq64b : 2013-10-14 CITIC Group Corporation',
+			'xn--fiq64b : CITIC Group Corporation',
 		],
 	],
 	'娱乐' => [
 		'suffix' => '娱乐',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--fjq720a : 2014-05-22 Binky Moon, LLC',
+			'xn--fjq720a : Binky Moon, LLC',
 		],
 	],
 	'谷歌' => [
 		'suffix' => '谷歌',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--flw351e : 2014-07-31 Charleston Road Registry Inc.',
+			'xn--flw351e : Charleston Road Registry Inc.',
 		],
 	],
 	'電訊盈科' => [
 		'suffix' => '電訊盈科',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--fzys8d69uvgm : 2015-05-14 PCCW Enterprises Limited',
+			'xn--fzys8d69uvgm : PCCW Enterprises Limited',
 		],
 	],
 	'购物' => [
 		'suffix' => '购物',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--g2xx48c : 2015-01-30 Nawang Heli(Xiamen) Network Service Co., LTD.',
+			'xn--g2xx48c : Nawang Heli(Xiamen) Network Service Co., LTD.',
 		],
 	],
 	'クラウド' => [
 		'suffix' => 'クラウド',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--gckr3f0f : 2015-02-26 Amazon Registry Services, Inc.',
+			'xn--gckr3f0f : Amazon Registry Services, Inc.',
 		],
 	],
 	'通販' => [
 		'suffix' => '通販',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--gk3at1e : 2015-10-08 Amazon Registry Services, Inc.',
+			'xn--gk3at1e : Amazon Registry Services, Inc.',
 		],
 	],
 	'网店' => [
 		'suffix' => '网店',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--hxt814e : 2014-05-15 Zodiac Taurus Limited',
+			'xn--hxt814e : Zodiac Taurus Limited',
 		],
 	],
 	'संगठन' => [
 		'suffix' => 'संगठन',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--i1b6b1a6a2e : 2013-11-14 Public Interest Registry',
+			'xn--i1b6b1a6a2e : Public Interest Registry',
 		],
 	],
 	'餐厅' => [
 		'suffix' => '餐厅',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--imr513n : 2014-12-11 Internet DotTrademark Organisation Limited',
+			'xn--imr513n : Internet DotTrademark Organisation Limited',
 		],
 	],
 	'网络' => [
 		'suffix' => '网络',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--io0a7i : 2013-11-14 China Internet Network Information Center (CNNIC)',
+			'xn--io0a7i : China Internet Network Information Center (CNNIC)',
 		],
 	],
 	'ком' => [
 		'suffix' => 'ком',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--j1aef : 2015-01-15 VeriSign Sarl',
+			'xn--j1aef : VeriSign Sarl',
 		],
 	],
 	'亚马逊' => [
 		'suffix' => '亚马逊',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--jlq480n2rg : 2019-12-19 Amazon Registry Services, Inc.',
+			'xn--jlq480n2rg : Amazon Registry Services, Inc.',
 		],
 	],
 	'食品' => [
 		'suffix' => '食品',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--jvr189m : 2015-02-26 Amazon Registry Services, Inc.',
+			'xn--jvr189m : Amazon Registry Services, Inc.',
 		],
 	],
 	'飞利浦' => [
 		'suffix' => '飞利浦',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--kcrx77d1x4a : 2014-11-07 Koninklijke Philips N.V.',
+			'xn--kcrx77d1x4a : Koninklijke Philips N.V.',
 		],
 	],
 	'手机' => [
 		'suffix' => '手机',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--kput3i : 2014-02-13 Beijing RITT-Net Technology Development Co., Ltd',
+			'xn--kput3i : Beijing RITT-Net Technology Development Co., Ltd',
 		],
 	],
 	'ارامكو' => [
 		'suffix' => 'ارامكو',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgba3a3ejt : 2014-11-20 Aramco Services Company',
+			'xn--mgba3a3ejt : Aramco Services Company',
 		],
 	],
 	'العليان' => [
 		'suffix' => 'العليان',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgba7c0bbn0a : 2015-05-14 Competrol (Luxembourg) Sarl',
+			'xn--mgba7c0bbn0a : Competrol (Luxembourg) Sarl',
 		],
 	],
 	'اتصالات' => [
 		'suffix' => 'اتصالات',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgbaakc7dvf : 2015-09-03 Emirates Telecommunications Corporation (trading as Etisalat)',
+			'xn--mgbaakc7dvf : Emirates Telecommunications Corporation (trading as Etisalat)',
 		],
 	],
 	'بازار' => [
 		'suffix' => 'بازار',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgbab2bd : 2013-10-31 CORE Association',
+			'xn--mgbab2bd : CORE Association',
 		],
 	],
 	'ابوظبي' => [
 		'suffix' => 'ابوظبي',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgbca7dzdo : 2015-07-30 Abu Dhabi Systems and Information Centre',
+			'xn--mgbca7dzdo : Abu Dhabi Systems and Information Centre',
 		],
 	],
 	'كاثوليك' => [
 		'suffix' => 'كاثوليك',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgbi4ecexp : 2015-10-21 Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
+			'xn--mgbi4ecexp : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
 		],
 	],
 	'همراه' => [
 		'suffix' => 'همراه',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgbt3dhd : 2014-09-04 Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'xn--mgbt3dhd : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
 		],
 	],
 	'닷컴' => [
 		'suffix' => '닷컴',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mk1bu44c : 2015-01-15 VeriSign Sarl',
+			'xn--mk1bu44c : VeriSign Sarl',
 		],
 	],
 	'政府' => [
 		'suffix' => '政府',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mxtq1m : 2014-03-06 Net-Chinese Co., Ltd.',
+			'xn--mxtq1m : Net-Chinese Co., Ltd.',
 		],
 	],
 	'شبكة' => [
 		'suffix' => 'شبكة',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--ngbc5azd : 2023-07-13 International Domain Registry Pty. Ltd.',
+			'xn--ngbc5azd : International Domain Registry Pty. Ltd.',
 		],
 	],
 	'بيتك' => [
 		'suffix' => 'بيتك',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--ngbe9e0a : 2014-12-04 Kuwait Finance House',
+			'xn--ngbe9e0a : Kuwait Finance House',
 		],
 	],
 	'عرب' => [
 		'suffix' => 'عرب',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--ngbrx : 2015-11-12 League of Arab States',
+			'xn--ngbrx : League of Arab States',
 		],
 	],
 	'机构' => [
 		'suffix' => '机构',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--nqv7f : 2013-11-14 Public Interest Registry',
+			'xn--nqv7f : Public Interest Registry',
 		],
 	],
 	'组织机构' => [
 		'suffix' => '组织机构',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--nqv7fs00ema : 2013-11-14 Public Interest Registry',
+			'xn--nqv7fs00ema : Public Interest Registry',
 		],
 	],
 	'健康' => [
 		'suffix' => '健康',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--nyqy26a : 2014-11-07 Stable Tone Limited',
+			'xn--nyqy26a : Stable Tone Limited',
 		],
 	],
 	'招聘' => [
 		'suffix' => '招聘',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--otu796d : 2017-08-06 Jiang Yu Liang Cai Technology Company Limited',
+			'xn--otu796d : Jiang Yu Liang Cai Technology Company Limited',
 		],
 	],
 	'рус' => [
 		'suffix' => 'рус',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--p1acf : 2013-12-12 Rusnames Limited',
+			'xn--p1acf : Rusnames Limited',
 		],
 	],
 	'大拿' => [
 		'suffix' => '大拿',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--pssy2u : 2015-01-15 VeriSign Sarl',
+			'xn--pssy2u : VeriSign Sarl',
 		],
 	],
 	'みんな' => [
 		'suffix' => 'みんな',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--q9jyb4c : 2013-09-17 Charleston Road Registry Inc.',
+			'xn--q9jyb4c : Charleston Road Registry Inc.',
 		],
 	],
 	'グーグル' => [
 		'suffix' => 'グーグル',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--qcka1pmc : 2014-07-31 Charleston Road Registry Inc.',
+			'xn--qcka1pmc : Charleston Road Registry Inc.',
 		],
 	],
 	'世界' => [
 		'suffix' => '世界',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--rhqv96g : 2013-09-11 Stable Tone Limited',
+			'xn--rhqv96g : Stable Tone Limited',
 		],
 	],
 	'書籍' => [
 		'suffix' => '書籍',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--rovu88b : 2015-02-26 Amazon Registry Services, Inc.',
+			'xn--rovu88b : Amazon Registry Services, Inc.',
 		],
 	],
 	'网址' => [
 		'suffix' => '网址',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--ses554g : 2014-01-16 KNET Co., Ltd.',
+			'xn--ses554g : KNET Co., Ltd.',
 		],
 	],
 	'닷넷' => [
 		'suffix' => '닷넷',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--t60b56a : 2015-01-15 VeriSign Sarl',
+			'xn--t60b56a : VeriSign Sarl',
 		],
 	],
 	'コム' => [
 		'suffix' => 'コム',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--tckwe : 2015-01-15 VeriSign Sarl',
+			'xn--tckwe : VeriSign Sarl',
 		],
 	],
 	'天主教' => [
 		'suffix' => '天主教',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--tiq49xqyj : 2015-10-21 Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
+			'xn--tiq49xqyj : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
 		],
 	],
 	'游戏' => [
 		'suffix' => '游戏',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--unup4y : 2023-07-14 Binky Moon, LLC',
+			'xn--unup4y : Binky Moon, LLC',
 		],
 	],
 	'vermögensberater' => [
 		'suffix' => 'vermögensberater',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--vermgensberater-ctb : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG',
+			'xn--vermgensberater-ctb : Deutsche Vermögensberatung Aktiengesellschaft DVAG',
 		],
 	],
 	'vermögensberatung' => [
 		'suffix' => 'vermögensberatung',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--vermgensberatung-pwb : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG',
+			'xn--vermgensberatung-pwb : Deutsche Vermögensberatung Aktiengesellschaft DVAG',
 		],
 	],
 	'企业' => [
 		'suffix' => '企业',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--vhquv : 2013-08-27 Binky Moon, LLC',
+			'xn--vhquv : Binky Moon, LLC',
 		],
 	],
 	'信息' => [
 		'suffix' => '信息',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--vuq861b : 2014-10-16 Beijing Tele-info Technology Co., Ltd.',
+			'xn--vuq861b : Beijing Tele-info Technology Co., Ltd.',
 		],
 	],
 	'嘉里大酒店' => [
 		'suffix' => '嘉里大酒店',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--w4r85el8fhu5dnra : 2015-04-30 Kerry Trading Co. Limited',
+			'xn--w4r85el8fhu5dnra : Kerry Trading Co. Limited',
 		],
 	],
 	'嘉里' => [
 		'suffix' => '嘉里',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--w4rs40l : 2015-07-30 Kerry Trading Co. Limited',
+			'xn--w4rs40l : Kerry Trading Co. Limited',
 		],
 	],
 	'广东' => [
 		'suffix' => '广东',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--xhq521b : 2013-11-14 Guangzhou YU Wei Information Technology Co., Ltd.',
+			'xn--xhq521b : Guangzhou YU Wei Information Technology Co., Ltd.',
 		],
 	],
 	'政务' => [
 		'suffix' => '政务',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--zfr164b : 2013-11-08 China Organizational Name Administration Center',
+			'xn--zfr164b : China Organizational Name Administration Center',
 		],
 	],
 	'xyz' => [
 		'suffix' => 'xyz',
 		'type' => 'ICANN',
 		'comments' => [
-			'xyz : 2013-12-05 XYZ.COM LLC',
+			'xyz : XYZ.COM LLC',
 		],
 	],
 	'yachts' => [
 		'suffix' => 'yachts',
 		'type' => 'ICANN',
 		'comments' => [
-			'yachts : 2014-01-09 XYZ.COM LLC',
+			'yachts : XYZ.COM LLC',
 		],
 	],
 	'yahoo' => [
 		'suffix' => 'yahoo',
 		'type' => 'ICANN',
 		'comments' => [
-			'yahoo : 2015-04-02 Oath Inc.',
+			'yahoo : Oath Inc.',
 		],
 	],
 	'yamaxun' => [
 		'suffix' => 'yamaxun',
 		'type' => 'ICANN',
 		'comments' => [
-			'yamaxun : 2014-12-18 Amazon Registry Services, Inc.',
+			'yamaxun : Amazon Registry Services, Inc.',
 		],
 	],
 	'yandex' => [
 		'suffix' => 'yandex',
 		'type' => 'ICANN',
 		'comments' => [
-			'yandex : 2014-04-10 Yandex Europe B.V.',
+			'yandex : Yandex Europe B.V.',
 		],
 	],
 	'yodobashi' => [
 		'suffix' => 'yodobashi',
 		'type' => 'ICANN',
 		'comments' => [
-			'yodobashi : 2014-11-20 YODOBASHI CAMERA CO.,LTD.',
+			'yodobashi : YODOBASHI CAMERA CO.,LTD.',
 		],
 	],
 	'yoga' => [
 		'suffix' => 'yoga',
 		'type' => 'ICANN',
 		'comments' => [
-			'yoga : 2014-05-29 Registry Services, LLC',
+			'yoga : Registry Services, LLC',
 		],
 	],
 	'yokohama' => [
 		'suffix' => 'yokohama',
 		'type' => 'ICANN',
 		'comments' => [
-			'yokohama : 2013-12-12 GMO Registry, Inc.',
+			'yokohama : GMO Registry, Inc.',
 		],
 	],
 	'you' => [
 		'suffix' => 'you',
 		'type' => 'ICANN',
 		'comments' => [
-			'you : 2015-04-09 Amazon Registry Services, Inc.',
+			'you : Amazon Registry Services, Inc.',
 		],
 	],
 	'youtube' => [
 		'suffix' => 'youtube',
 		'type' => 'ICANN',
 		'comments' => [
-			'youtube : 2014-05-01 Charleston Road Registry Inc.',
+			'youtube : Charleston Road Registry Inc.',
 		],
 	],
 	'yun' => [
 		'suffix' => 'yun',
 		'type' => 'ICANN',
 		'comments' => [
-			'yun : 2015-01-08 Beijing Qihu Keji Co., Ltd.',
+			'yun : Beijing Qihu Keji Co., Ltd.',
 		],
 	],
 	'zappos' => [
 		'suffix' => 'zappos',
 		'type' => 'ICANN',
 		'comments' => [
-			'zappos : 2015-06-25 Amazon Registry Services, Inc.',
+			'zappos : Amazon Registry Services, Inc.',
 		],
 	],
 	'zara' => [
 		'suffix' => 'zara',
 		'type' => 'ICANN',
 		'comments' => [
-			'zara : 2014-11-07 Industria de Diseño Textil, S.A. (INDITEX, S.A.)',
+			'zara : Industria de Diseño Textil, S.A. (INDITEX, S.A.)',
 		],
 	],
 	'zero' => [
 		'suffix' => 'zero',
 		'type' => 'ICANN',
 		'comments' => [
-			'zero : 2014-12-18 Amazon Registry Services, Inc.',
+			'zero : Amazon Registry Services, Inc.',
 		],
 	],
 	'zip' => [
 		'suffix' => 'zip',
 		'type' => 'ICANN',
 		'comments' => [
-			'zip : 2014-05-08 Charleston Road Registry Inc.',
+			'zip : Charleston Road Registry Inc.',
 		],
 	],
 	'zone' => [
 		'suffix' => 'zone',
 		'type' => 'ICANN',
 		'comments' => [
-			'zone : 2013-11-14 Binky Moon, LLC',
+			'zone : Binky Moon, LLC',
 		],
 	],
 	'zuerich' => [
 		'suffix' => 'zuerich',
 		'type' => 'ICANN',
 		'comments' => [
-			'zuerich : 2014-11-07 Kanton Zürich (Canton of Zurich)',
+			'zuerich : Kanton Zürich (Canton of Zurich)',
 		],
 	],
 	'cc.ua' => [
