@@ -35170,7 +35170,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-02T15:12:00Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-05T15:11:20Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 		],
@@ -40457,7 +40457,7 @@ return [
 		'suffix' => 'realty',
 		'type' => 'ICANN',
 		'comments' => [
-			'realty : Dog Beach, LLC',
+			'realty : Internet Naming Company LLC',
 		],
 	],
 	'recipes' => [
