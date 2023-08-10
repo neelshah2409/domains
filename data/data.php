@@ -35170,9 +35170,10 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-05T15:11:20Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-09T15:14:39Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
+			'https://www.iana.org/domains/root/db/aaa.html',
 		],
 	],
 	'aarp' => [
@@ -35180,6 +35181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aarp : AARP',
+			'https://www.iana.org/domains/root/db/aarp.html',
 		],
 	],
 	'abb' => [
@@ -35187,6 +35189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'abb : ABB Ltd',
+			'https://www.iana.org/domains/root/db/abb.html',
 		],
 	],
 	'abbott' => [
@@ -35194,6 +35197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'abbott : Abbott Laboratories, Inc.',
+			'https://www.iana.org/domains/root/db/abbott.html',
 		],
 	],
 	'abbvie' => [
@@ -35201,6 +35205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'abbvie : AbbVie Inc.',
+			'https://www.iana.org/domains/root/db/abbvie.html',
 		],
 	],
 	'abc' => [
@@ -35208,6 +35213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'abc : Disney Enterprises, Inc.',
+			'https://www.iana.org/domains/root/db/abc.html',
 		],
 	],
 	'able' => [
@@ -35215,6 +35221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'able : Able Inc.',
+			'https://www.iana.org/domains/root/db/able.html',
 		],
 	],
 	'abogado' => [
@@ -35222,6 +35229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'abogado : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/abogado.html',
 		],
 	],
 	'abudhabi' => [
@@ -35229,6 +35237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'abudhabi : Abu Dhabi Systems and Information Centre',
+			'https://www.iana.org/domains/root/db/abudhabi.html',
 		],
 	],
 	'academy' => [
@@ -35236,6 +35245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'academy : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/academy.html',
 		],
 	],
 	'accenture' => [
@@ -35243,6 +35253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'accenture : Accenture plc',
+			'https://www.iana.org/domains/root/db/accenture.html',
 		],
 	],
 	'accountant' => [
@@ -35250,6 +35261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'accountant : dot Accountant Limited',
+			'https://www.iana.org/domains/root/db/accountant.html',
 		],
 	],
 	'accountants' => [
@@ -35257,6 +35269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'accountants : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/accountants.html',
 		],
 	],
 	'aco' => [
@@ -35264,6 +35277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aco : ACO Severin Ahlmann GmbH & Co. KG',
+			'https://www.iana.org/domains/root/db/aco.html',
 		],
 	],
 	'actor' => [
@@ -35271,6 +35285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'actor : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/actor.html',
 		],
 	],
 	'ads' => [
@@ -35278,6 +35293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ads : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/ads.html',
 		],
 	],
 	'adult' => [
@@ -35285,6 +35301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'adult : ICM Registry AD LLC',
+			'https://www.iana.org/domains/root/db/adult.html',
 		],
 	],
 	'aeg' => [
@@ -35292,6 +35309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aeg : Aktiebolaget Electrolux',
+			'https://www.iana.org/domains/root/db/aeg.html',
 		],
 	],
 	'aetna' => [
@@ -35299,6 +35317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aetna : Aetna Life Insurance Company',
+			'https://www.iana.org/domains/root/db/aetna.html',
 		],
 	],
 	'afl' => [
@@ -35306,6 +35325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'afl : Australian Football League',
+			'https://www.iana.org/domains/root/db/afl.html',
 		],
 	],
 	'africa' => [
@@ -35313,6 +35333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'africa : ZA Central Registry NPC trading as Registry.Africa',
+			'https://www.iana.org/domains/root/db/africa.html',
 		],
 	],
 	'agakhan' => [
@@ -35320,6 +35341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'agakhan : Fondation Aga Khan (Aga Khan Foundation)',
+			'https://www.iana.org/domains/root/db/agakhan.html',
 		],
 	],
 	'agency' => [
@@ -35327,6 +35349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'agency : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/agency.html',
 		],
 	],
 	'aig' => [
@@ -35334,6 +35357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aig : American International Group, Inc.',
+			'https://www.iana.org/domains/root/db/aig.html',
 		],
 	],
 	'airbus' => [
@@ -35341,6 +35365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'airbus : Airbus S.A.S.',
+			'https://www.iana.org/domains/root/db/airbus.html',
 		],
 	],
 	'airforce' => [
@@ -35348,6 +35373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'airforce : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/airforce.html',
 		],
 	],
 	'airtel' => [
@@ -35355,6 +35381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'airtel : Bharti Airtel Limited',
+			'https://www.iana.org/domains/root/db/airtel.html',
 		],
 	],
 	'akdn' => [
@@ -35362,6 +35389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'akdn : Fondation Aga Khan (Aga Khan Foundation)',
+			'https://www.iana.org/domains/root/db/akdn.html',
 		],
 	],
 	'alibaba' => [
@@ -35369,6 +35397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'alibaba : Alibaba Group Holding Limited',
+			'https://www.iana.org/domains/root/db/alibaba.html',
 		],
 	],
 	'alipay' => [
@@ -35376,6 +35405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'alipay : Alibaba Group Holding Limited',
+			'https://www.iana.org/domains/root/db/alipay.html',
 		],
 	],
 	'allfinanz' => [
@@ -35383,6 +35413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'allfinanz : Allfinanz Deutsche Vermögensberatung Aktiengesellschaft',
+			'https://www.iana.org/domains/root/db/allfinanz.html',
 		],
 	],
 	'allstate' => [
@@ -35390,6 +35421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'allstate : Allstate Fire and Casualty Insurance Company',
+			'https://www.iana.org/domains/root/db/allstate.html',
 		],
 	],
 	'ally' => [
@@ -35397,6 +35429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ally : Ally Financial Inc.',
+			'https://www.iana.org/domains/root/db/ally.html',
 		],
 	],
 	'alsace' => [
@@ -35404,6 +35437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'alsace : Region Grand Est',
+			'https://www.iana.org/domains/root/db/alsace.html',
 		],
 	],
 	'alstom' => [
@@ -35411,6 +35445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'alstom : ALSTOM',
+			'https://www.iana.org/domains/root/db/alstom.html',
 		],
 	],
 	'amazon' => [
@@ -35418,6 +35453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'amazon : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/amazon.html',
 		],
 	],
 	'americanexpress' => [
@@ -35425,6 +35461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'americanexpress : American Express Travel Related Services Company, Inc.',
+			'https://www.iana.org/domains/root/db/americanexpress.html',
 		],
 	],
 	'americanfamily' => [
@@ -35432,6 +35469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'americanfamily : AmFam, Inc.',
+			'https://www.iana.org/domains/root/db/americanfamily.html',
 		],
 	],
 	'amex' => [
@@ -35439,6 +35477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'amex : American Express Travel Related Services Company, Inc.',
+			'https://www.iana.org/domains/root/db/amex.html',
 		],
 	],
 	'amfam' => [
@@ -35446,6 +35485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'amfam : AmFam, Inc.',
+			'https://www.iana.org/domains/root/db/amfam.html',
 		],
 	],
 	'amica' => [
@@ -35453,6 +35493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'amica : Amica Mutual Insurance Company',
+			'https://www.iana.org/domains/root/db/amica.html',
 		],
 	],
 	'amsterdam' => [
@@ -35460,6 +35501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'amsterdam : Gemeente Amsterdam',
+			'https://www.iana.org/domains/root/db/amsterdam.html',
 		],
 	],
 	'analytics' => [
@@ -35467,6 +35509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'analytics : Campus IP LLC',
+			'https://www.iana.org/domains/root/db/analytics.html',
 		],
 	],
 	'android' => [
@@ -35474,6 +35517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'android : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/android.html',
 		],
 	],
 	'anquan' => [
@@ -35481,6 +35525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'anquan : Beijing Qihu Keji Co., Ltd.',
+			'https://www.iana.org/domains/root/db/anquan.html',
 		],
 	],
 	'anz' => [
@@ -35488,6 +35533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'anz : Australia and New Zealand Banking Group Limited',
+			'https://www.iana.org/domains/root/db/anz.html',
 		],
 	],
 	'aol' => [
@@ -35495,6 +35541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aol : Oath Inc.',
+			'https://www.iana.org/domains/root/db/aol.html',
 		],
 	],
 	'apartments' => [
@@ -35502,6 +35549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'apartments : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/apartments.html',
 		],
 	],
 	'app' => [
@@ -35509,6 +35557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'app : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/app.html',
 		],
 	],
 	'apple' => [
@@ -35516,6 +35565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'apple : Apple Inc.',
+			'https://www.iana.org/domains/root/db/apple.html',
 		],
 	],
 	'aquarelle' => [
@@ -35523,6 +35573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aquarelle : Aquarelle.com',
+			'https://www.iana.org/domains/root/db/aquarelle.html',
 		],
 	],
 	'arab' => [
@@ -35530,6 +35581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'arab : League of Arab States',
+			'https://www.iana.org/domains/root/db/arab.html',
 		],
 	],
 	'aramco' => [
@@ -35537,6 +35589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aramco : Aramco Services Company',
+			'https://www.iana.org/domains/root/db/aramco.html',
 		],
 	],
 	'archi' => [
@@ -35544,6 +35597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'archi : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/archi.html',
 		],
 	],
 	'army' => [
@@ -35551,6 +35605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'army : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/army.html',
 		],
 	],
 	'art' => [
@@ -35558,6 +35613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'art : UK Creative Ideas Limited',
+			'https://www.iana.org/domains/root/db/art.html',
 		],
 	],
 	'arte' => [
@@ -35565,6 +35621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'arte : Association Relative à la Télévision Européenne G.E.I.E.',
+			'https://www.iana.org/domains/root/db/arte.html',
 		],
 	],
 	'asda' => [
@@ -35572,6 +35629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'asda : Wal-Mart Stores, Inc.',
+			'https://www.iana.org/domains/root/db/asda.html',
 		],
 	],
 	'associates' => [
@@ -35579,6 +35637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'associates : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/associates.html',
 		],
 	],
 	'athleta' => [
@@ -35586,6 +35645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'athleta : The Gap, Inc.',
+			'https://www.iana.org/domains/root/db/athleta.html',
 		],
 	],
 	'attorney' => [
@@ -35593,6 +35653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'attorney : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/attorney.html',
 		],
 	],
 	'auction' => [
@@ -35600,6 +35661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'auction : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/auction.html',
 		],
 	],
 	'audi' => [
@@ -35607,6 +35669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'audi : AUDI Aktiengesellschaft',
+			'https://www.iana.org/domains/root/db/audi.html',
 		],
 	],
 	'audible' => [
@@ -35614,6 +35677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'audible : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/audible.html',
 		],
 	],
 	'audio' => [
@@ -35621,6 +35685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'audio : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/audio.html',
 		],
 	],
 	'auspost' => [
@@ -35628,6 +35693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'auspost : Australian Postal Corporation',
+			'https://www.iana.org/domains/root/db/auspost.html',
 		],
 	],
 	'author' => [
@@ -35635,6 +35701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'author : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/author.html',
 		],
 	],
 	'auto' => [
@@ -35642,6 +35709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'auto : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/auto.html',
 		],
 	],
 	'autos' => [
@@ -35649,6 +35717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'autos : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/autos.html',
 		],
 	],
 	'avianca' => [
@@ -35656,6 +35725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'avianca : Avianca Inc.',
+			'https://www.iana.org/domains/root/db/avianca.html',
 		],
 	],
 	'aws' => [
@@ -35663,6 +35733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'aws : AWS Registry LLC',
+			'https://www.iana.org/domains/root/db/aws.html',
 		],
 	],
 	'axa' => [
@@ -35670,6 +35741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'axa : AXA Group Operations SAS',
+			'https://www.iana.org/domains/root/db/axa.html',
 		],
 	],
 	'azure' => [
@@ -35677,6 +35749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'azure : Microsoft Corporation',
+			'https://www.iana.org/domains/root/db/azure.html',
 		],
 	],
 	'baby' => [
@@ -35684,6 +35757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'baby : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/baby.html',
 		],
 	],
 	'baidu' => [
@@ -35691,6 +35765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'baidu : Baidu, Inc.',
+			'https://www.iana.org/domains/root/db/baidu.html',
 		],
 	],
 	'banamex' => [
@@ -35698,6 +35773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'banamex : Citigroup Inc.',
+			'https://www.iana.org/domains/root/db/banamex.html',
 		],
 	],
 	'bananarepublic' => [
@@ -35705,6 +35781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bananarepublic : The Gap, Inc.',
+			'https://www.iana.org/domains/root/db/bananarepublic.html',
 		],
 	],
 	'band' => [
@@ -35712,6 +35789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'band : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/band.html',
 		],
 	],
 	'bank' => [
@@ -35719,6 +35797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bank : fTLD Registry Services LLC',
+			'https://www.iana.org/domains/root/db/bank.html',
 		],
 	],
 	'bar' => [
@@ -35726,6 +35805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bar : Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable',
+			'https://www.iana.org/domains/root/db/bar.html',
 		],
 	],
 	'barcelona' => [
@@ -35733,6 +35813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'barcelona : Municipi de Barcelona',
+			'https://www.iana.org/domains/root/db/barcelona.html',
 		],
 	],
 	'barclaycard' => [
@@ -35740,6 +35821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'barclaycard : Barclays Bank PLC',
+			'https://www.iana.org/domains/root/db/barclaycard.html',
 		],
 	],
 	'barclays' => [
@@ -35747,6 +35829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'barclays : Barclays Bank PLC',
+			'https://www.iana.org/domains/root/db/barclays.html',
 		],
 	],
 	'barefoot' => [
@@ -35754,6 +35837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'barefoot : Gallo Vineyards, Inc.',
+			'https://www.iana.org/domains/root/db/barefoot.html',
 		],
 	],
 	'bargains' => [
@@ -35761,6 +35845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bargains : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/bargains.html',
 		],
 	],
 	'baseball' => [
@@ -35768,6 +35853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'baseball : MLB Advanced Media DH, LLC',
+			'https://www.iana.org/domains/root/db/baseball.html',
 		],
 	],
 	'basketball' => [
@@ -35775,6 +35861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'basketball : Fédération Internationale de Basketball (FIBA)',
+			'https://www.iana.org/domains/root/db/basketball.html',
 		],
 	],
 	'bauhaus' => [
@@ -35782,6 +35869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bauhaus : Werkhaus GmbH',
+			'https://www.iana.org/domains/root/db/bauhaus.html',
 		],
 	],
 	'bayern' => [
@@ -35789,6 +35877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bayern : Bayern Connect GmbH',
+			'https://www.iana.org/domains/root/db/bayern.html',
 		],
 	],
 	'bbc' => [
@@ -35796,6 +35885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bbc : British Broadcasting Corporation',
+			'https://www.iana.org/domains/root/db/bbc.html',
 		],
 	],
 	'bbt' => [
@@ -35803,6 +35893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bbt : BB&T Corporation',
+			'https://www.iana.org/domains/root/db/bbt.html',
 		],
 	],
 	'bbva' => [
@@ -35810,6 +35901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bbva : BANCO BILBAO VIZCAYA ARGENTARIA, S.A.',
+			'https://www.iana.org/domains/root/db/bbva.html',
 		],
 	],
 	'bcg' => [
@@ -35817,6 +35909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bcg : The Boston Consulting Group, Inc.',
+			'https://www.iana.org/domains/root/db/bcg.html',
 		],
 	],
 	'bcn' => [
@@ -35824,6 +35917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bcn : Municipi de Barcelona',
+			'https://www.iana.org/domains/root/db/bcn.html',
 		],
 	],
 	'beats' => [
@@ -35831,6 +35925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'beats : Beats Electronics, LLC',
+			'https://www.iana.org/domains/root/db/beats.html',
 		],
 	],
 	'beauty' => [
@@ -35838,6 +35933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'beauty : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/beauty.html',
 		],
 	],
 	'beer' => [
@@ -35845,6 +35941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'beer : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/beer.html',
 		],
 	],
 	'bentley' => [
@@ -35852,6 +35949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bentley : Bentley Motors Limited',
+			'https://www.iana.org/domains/root/db/bentley.html',
 		],
 	],
 	'berlin' => [
@@ -35859,6 +35957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'berlin : dotBERLIN GmbH & Co. KG',
+			'https://www.iana.org/domains/root/db/berlin.html',
 		],
 	],
 	'best' => [
@@ -35866,6 +35965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'best : BestTLD Pty Ltd',
+			'https://www.iana.org/domains/root/db/best.html',
 		],
 	],
 	'bestbuy' => [
@@ -35873,6 +35973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bestbuy : BBY Solutions, Inc.',
+			'https://www.iana.org/domains/root/db/bestbuy.html',
 		],
 	],
 	'bet' => [
@@ -35880,6 +35981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bet : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/bet.html',
 		],
 	],
 	'bharti' => [
@@ -35887,6 +35989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bharti : Bharti Enterprises (Holding) Private Limited',
+			'https://www.iana.org/domains/root/db/bharti.html',
 		],
 	],
 	'bible' => [
@@ -35894,6 +35997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bible : American Bible Society',
+			'https://www.iana.org/domains/root/db/bible.html',
 		],
 	],
 	'bid' => [
@@ -35901,6 +36005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bid : dot Bid Limited',
+			'https://www.iana.org/domains/root/db/bid.html',
 		],
 	],
 	'bike' => [
@@ -35908,6 +36013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bike : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/bike.html',
 		],
 	],
 	'bing' => [
@@ -35915,6 +36021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bing : Microsoft Corporation',
+			'https://www.iana.org/domains/root/db/bing.html',
 		],
 	],
 	'bingo' => [
@@ -35922,6 +36029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bingo : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/bingo.html',
 		],
 	],
 	'bio' => [
@@ -35929,6 +36037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bio : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/bio.html',
 		],
 	],
 	'black' => [
@@ -35936,6 +36045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'black : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/black.html',
 		],
 	],
 	'blackfriday' => [
@@ -35943,6 +36053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'blackfriday : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/blackfriday.html',
 		],
 	],
 	'blockbuster' => [
@@ -35950,6 +36061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'blockbuster : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/blockbuster.html',
 		],
 	],
 	'blog' => [
@@ -35957,6 +36069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'blog : Knock Knock WHOIS There, LLC',
+			'https://www.iana.org/domains/root/db/blog.html',
 		],
 	],
 	'bloomberg' => [
@@ -35964,6 +36077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bloomberg : Bloomberg IP Holdings LLC',
+			'https://www.iana.org/domains/root/db/bloomberg.html',
 		],
 	],
 	'blue' => [
@@ -35971,6 +36085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'blue : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/blue.html',
 		],
 	],
 	'bms' => [
@@ -35978,6 +36093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bms : Bristol-Myers Squibb Company',
+			'https://www.iana.org/domains/root/db/bms.html',
 		],
 	],
 	'bmw' => [
@@ -35985,6 +36101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bmw : Bayerische Motoren Werke Aktiengesellschaft',
+			'https://www.iana.org/domains/root/db/bmw.html',
 		],
 	],
 	'bnpparibas' => [
@@ -35992,6 +36109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bnpparibas : BNP Paribas',
+			'https://www.iana.org/domains/root/db/bnpparibas.html',
 		],
 	],
 	'boats' => [
@@ -35999,6 +36117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'boats : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/boats.html',
 		],
 	],
 	'boehringer' => [
@@ -36006,6 +36125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'boehringer : Boehringer Ingelheim International GmbH',
+			'https://www.iana.org/domains/root/db/boehringer.html',
 		],
 	],
 	'bofa' => [
@@ -36013,6 +36133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bofa : Bank of America Corporation',
+			'https://www.iana.org/domains/root/db/bofa.html',
 		],
 	],
 	'bom' => [
@@ -36020,6 +36141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bom : Núcleo de Informação e Coordenação do Ponto BR - NIC.br',
+			'https://www.iana.org/domains/root/db/bom.html',
 		],
 	],
 	'bond' => [
@@ -36027,6 +36149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bond : ShortDot SA',
+			'https://www.iana.org/domains/root/db/bond.html',
 		],
 	],
 	'boo' => [
@@ -36034,6 +36157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'boo : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/boo.html',
 		],
 	],
 	'book' => [
@@ -36041,6 +36165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'book : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/book.html',
 		],
 	],
 	'booking' => [
@@ -36048,6 +36173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'booking : Booking.com B.V.',
+			'https://www.iana.org/domains/root/db/booking.html',
 		],
 	],
 	'bosch' => [
@@ -36055,6 +36181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bosch : Robert Bosch GMBH',
+			'https://www.iana.org/domains/root/db/bosch.html',
 		],
 	],
 	'bostik' => [
@@ -36062,6 +36189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bostik : Bostik SA',
+			'https://www.iana.org/domains/root/db/bostik.html',
 		],
 	],
 	'boston' => [
@@ -36069,6 +36197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'boston : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/boston.html',
 		],
 	],
 	'bot' => [
@@ -36076,6 +36205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bot : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/bot.html',
 		],
 	],
 	'boutique' => [
@@ -36083,6 +36213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'boutique : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/boutique.html',
 		],
 	],
 	'box' => [
@@ -36090,6 +36221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'box : Intercap Registry Inc.',
+			'https://www.iana.org/domains/root/db/box.html',
 		],
 	],
 	'bradesco' => [
@@ -36097,6 +36229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bradesco : Banco Bradesco S.A.',
+			'https://www.iana.org/domains/root/db/bradesco.html',
 		],
 	],
 	'bridgestone' => [
@@ -36104,6 +36237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bridgestone : Bridgestone Corporation',
+			'https://www.iana.org/domains/root/db/bridgestone.html',
 		],
 	],
 	'broadway' => [
@@ -36111,6 +36245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'broadway : Celebrate Broadway, Inc.',
+			'https://www.iana.org/domains/root/db/broadway.html',
 		],
 	],
 	'broker' => [
@@ -36118,6 +36253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'broker : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/broker.html',
 		],
 	],
 	'brother' => [
@@ -36125,6 +36261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'brother : Brother Industries, Ltd.',
+			'https://www.iana.org/domains/root/db/brother.html',
 		],
 	],
 	'brussels' => [
@@ -36132,6 +36269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'brussels : DNS.be vzw',
+			'https://www.iana.org/domains/root/db/brussels.html',
 		],
 	],
 	'build' => [
@@ -36139,6 +36277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'build : Plan Bee LLC',
+			'https://www.iana.org/domains/root/db/build.html',
 		],
 	],
 	'builders' => [
@@ -36146,6 +36285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'builders : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/builders.html',
 		],
 	],
 	'business' => [
@@ -36153,6 +36293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'business : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/business.html',
 		],
 	],
 	'buy' => [
@@ -36160,6 +36301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'buy : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/buy.html',
 		],
 	],
 	'buzz' => [
@@ -36167,6 +36309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'buzz : DOTSTRATEGY CO.',
+			'https://www.iana.org/domains/root/db/buzz.html',
 		],
 	],
 	'bzh' => [
@@ -36174,6 +36317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bzh : Association www.bzh',
+			'https://www.iana.org/domains/root/db/bzh.html',
 		],
 	],
 	'cab' => [
@@ -36181,6 +36325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cab : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/cab.html',
 		],
 	],
 	'cafe' => [
@@ -36188,6 +36333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cafe : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/cafe.html',
 		],
 	],
 	'cal' => [
@@ -36195,6 +36341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cal : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/cal.html',
 		],
 	],
 	'call' => [
@@ -36202,6 +36349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'call : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/call.html',
 		],
 	],
 	'calvinklein' => [
@@ -36209,6 +36357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'calvinklein : PVH gTLD Holdings LLC',
+			'https://www.iana.org/domains/root/db/calvinklein.html',
 		],
 	],
 	'cam' => [
@@ -36216,6 +36365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cam : Cam Connecting SARL',
+			'https://www.iana.org/domains/root/db/cam.html',
 		],
 	],
 	'camera' => [
@@ -36223,6 +36373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'camera : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/camera.html',
 		],
 	],
 	'camp' => [
@@ -36230,6 +36381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'camp : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/camp.html',
 		],
 	],
 	'canon' => [
@@ -36237,6 +36389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'canon : Canon Inc.',
+			'https://www.iana.org/domains/root/db/canon.html',
 		],
 	],
 	'capetown' => [
@@ -36244,6 +36397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'capetown : ZA Central Registry NPC trading as ZA Central Registry',
+			'https://www.iana.org/domains/root/db/capetown.html',
 		],
 	],
 	'capital' => [
@@ -36251,6 +36405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'capital : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/capital.html',
 		],
 	],
 	'capitalone' => [
@@ -36258,6 +36413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'capitalone : Capital One Financial Corporation',
+			'https://www.iana.org/domains/root/db/capitalone.html',
 		],
 	],
 	'car' => [
@@ -36265,6 +36421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'car : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/car.html',
 		],
 	],
 	'caravan' => [
@@ -36272,6 +36429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'caravan : Caravan International, Inc.',
+			'https://www.iana.org/domains/root/db/caravan.html',
 		],
 	],
 	'cards' => [
@@ -36279,6 +36437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cards : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/cards.html',
 		],
 	],
 	'care' => [
@@ -36286,6 +36445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'care : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/care.html',
 		],
 	],
 	'career' => [
@@ -36293,6 +36453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'career : dotCareer LLC',
+			'https://www.iana.org/domains/root/db/career.html',
 		],
 	],
 	'careers' => [
@@ -36300,6 +36461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'careers : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/careers.html',
 		],
 	],
 	'cars' => [
@@ -36307,6 +36469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cars : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/cars.html',
 		],
 	],
 	'casa' => [
@@ -36314,6 +36477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'casa : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/casa.html',
 		],
 	],
 	'case' => [
@@ -36321,6 +36485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'case : Digity, LLC',
+			'https://www.iana.org/domains/root/db/case.html',
 		],
 	],
 	'cash' => [
@@ -36328,6 +36493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cash : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/cash.html',
 		],
 	],
 	'casino' => [
@@ -36335,6 +36501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'casino : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/casino.html',
 		],
 	],
 	'catering' => [
@@ -36342,6 +36509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'catering : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/catering.html',
 		],
 	],
 	'catholic' => [
@@ -36349,6 +36517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'catholic : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
+			'https://www.iana.org/domains/root/db/catholic.html',
 		],
 	],
 	'cba' => [
@@ -36356,6 +36525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cba : COMMONWEALTH BANK OF AUSTRALIA',
+			'https://www.iana.org/domains/root/db/cba.html',
 		],
 	],
 	'cbn' => [
@@ -36363,6 +36533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cbn : The Christian Broadcasting Network, Inc.',
+			'https://www.iana.org/domains/root/db/cbn.html',
 		],
 	],
 	'cbre' => [
@@ -36370,6 +36541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cbre : CBRE, Inc.',
+			'https://www.iana.org/domains/root/db/cbre.html',
 		],
 	],
 	'cbs' => [
@@ -36377,6 +36549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cbs : CBS Domains Inc.',
+			'https://www.iana.org/domains/root/db/cbs.html',
 		],
 	],
 	'center' => [
@@ -36384,6 +36557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'center : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/center.html',
 		],
 	],
 	'ceo' => [
@@ -36391,6 +36565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ceo : CEOTLD Pty Ltd',
+			'https://www.iana.org/domains/root/db/ceo.html',
 		],
 	],
 	'cern' => [
@@ -36398,6 +36573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cern : European Organization for Nuclear Research ("CERN")',
+			'https://www.iana.org/domains/root/db/cern.html',
 		],
 	],
 	'cfa' => [
@@ -36405,6 +36581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cfa : CFA Institute',
+			'https://www.iana.org/domains/root/db/cfa.html',
 		],
 	],
 	'cfd' => [
@@ -36412,6 +36589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cfd : ShortDot SA',
+			'https://www.iana.org/domains/root/db/cfd.html',
 		],
 	],
 	'chanel' => [
@@ -36419,6 +36597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'chanel : Chanel International B.V.',
+			'https://www.iana.org/domains/root/db/chanel.html',
 		],
 	],
 	'channel' => [
@@ -36426,6 +36605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'channel : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/channel.html',
 		],
 	],
 	'charity' => [
@@ -36433,6 +36613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'charity : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/charity.html',
 		],
 	],
 	'chase' => [
@@ -36440,6 +36621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'chase : JPMorgan Chase Bank, National Association',
+			'https://www.iana.org/domains/root/db/chase.html',
 		],
 	],
 	'chat' => [
@@ -36447,6 +36629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'chat : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/chat.html',
 		],
 	],
 	'cheap' => [
@@ -36454,6 +36637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cheap : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/cheap.html',
 		],
 	],
 	'chintai' => [
@@ -36461,6 +36645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'chintai : CHINTAI Corporation',
+			'https://www.iana.org/domains/root/db/chintai.html',
 		],
 	],
 	'christmas' => [
@@ -36468,6 +36653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'christmas : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/christmas.html',
 		],
 	],
 	'chrome' => [
@@ -36475,6 +36661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'chrome : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/chrome.html',
 		],
 	],
 	'church' => [
@@ -36482,6 +36669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'church : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/church.html',
 		],
 	],
 	'cipriani' => [
@@ -36489,6 +36677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cipriani : Hotel Cipriani Srl',
+			'https://www.iana.org/domains/root/db/cipriani.html',
 		],
 	],
 	'circle' => [
@@ -36496,6 +36685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'circle : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/circle.html',
 		],
 	],
 	'cisco' => [
@@ -36503,6 +36693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cisco : Cisco Technology, Inc.',
+			'https://www.iana.org/domains/root/db/cisco.html',
 		],
 	],
 	'citadel' => [
@@ -36510,6 +36701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'citadel : Citadel Domain LLC',
+			'https://www.iana.org/domains/root/db/citadel.html',
 		],
 	],
 	'citi' => [
@@ -36517,6 +36709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'citi : Citigroup Inc.',
+			'https://www.iana.org/domains/root/db/citi.html',
 		],
 	],
 	'citic' => [
@@ -36524,6 +36717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'citic : CITIC Group Corporation',
+			'https://www.iana.org/domains/root/db/citic.html',
 		],
 	],
 	'city' => [
@@ -36531,6 +36725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'city : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/city.html',
 		],
 	],
 	'cityeats' => [
@@ -36538,6 +36733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cityeats : Lifestyle Domain Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/cityeats.html',
 		],
 	],
 	'claims' => [
@@ -36545,6 +36741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'claims : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/claims.html',
 		],
 	],
 	'cleaning' => [
@@ -36552,6 +36749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cleaning : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/cleaning.html',
 		],
 	],
 	'click' => [
@@ -36559,6 +36757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'click : Internet Naming Company LLC',
+			'https://www.iana.org/domains/root/db/click.html',
 		],
 	],
 	'clinic' => [
@@ -36566,6 +36765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'clinic : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/clinic.html',
 		],
 	],
 	'clinique' => [
@@ -36573,6 +36773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'clinique : The Estée Lauder Companies Inc.',
+			'https://www.iana.org/domains/root/db/clinique.html',
 		],
 	],
 	'clothing' => [
@@ -36580,6 +36781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'clothing : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/clothing.html',
 		],
 	],
 	'cloud' => [
@@ -36587,6 +36789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cloud : Aruba PEC S.p.A.',
+			'https://www.iana.org/domains/root/db/cloud.html',
 		],
 	],
 	'club' => [
@@ -36594,6 +36797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'club : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/club.html',
 		],
 	],
 	'clubmed' => [
@@ -36601,6 +36805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'clubmed : Club Méditerranée S.A.',
+			'https://www.iana.org/domains/root/db/clubmed.html',
 		],
 	],
 	'coach' => [
@@ -36608,6 +36813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'coach : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/coach.html',
 		],
 	],
 	'codes' => [
@@ -36615,6 +36821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'codes : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/codes.html',
 		],
 	],
 	'coffee' => [
@@ -36622,6 +36829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'coffee : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/coffee.html',
 		],
 	],
 	'college' => [
@@ -36629,6 +36837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'college : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/college.html',
 		],
 	],
 	'cologne' => [
@@ -36636,6 +36845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cologne : dotKoeln GmbH',
+			'https://www.iana.org/domains/root/db/cologne.html',
 		],
 	],
 	'comcast' => [
@@ -36643,6 +36853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'comcast : Comcast IP Holdings I, LLC',
+			'https://www.iana.org/domains/root/db/comcast.html',
 		],
 	],
 	'commbank' => [
@@ -36650,6 +36861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'commbank : COMMONWEALTH BANK OF AUSTRALIA',
+			'https://www.iana.org/domains/root/db/commbank.html',
 		],
 	],
 	'community' => [
@@ -36657,6 +36869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'community : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/community.html',
 		],
 	],
 	'company' => [
@@ -36664,6 +36877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'company : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/company.html',
 		],
 	],
 	'compare' => [
@@ -36671,6 +36885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'compare : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/compare.html',
 		],
 	],
 	'computer' => [
@@ -36678,6 +36893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'computer : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/computer.html',
 		],
 	],
 	'comsec' => [
@@ -36685,6 +36901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'comsec : VeriSign, Inc.',
+			'https://www.iana.org/domains/root/db/comsec.html',
 		],
 	],
 	'condos' => [
@@ -36692,6 +36909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'condos : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/condos.html',
 		],
 	],
 	'construction' => [
@@ -36699,6 +36917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'construction : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/construction.html',
 		],
 	],
 	'consulting' => [
@@ -36706,6 +36925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'consulting : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/consulting.html',
 		],
 	],
 	'contact' => [
@@ -36713,6 +36933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'contact : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/contact.html',
 		],
 	],
 	'contractors' => [
@@ -36720,6 +36941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'contractors : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/contractors.html',
 		],
 	],
 	'cooking' => [
@@ -36727,6 +36949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cooking : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/cooking.html',
 		],
 	],
 	'cool' => [
@@ -36734,6 +36957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cool : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/cool.html',
 		],
 	],
 	'corsica' => [
@@ -36741,6 +36965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'corsica : Collectivité de Corse',
+			'https://www.iana.org/domains/root/db/corsica.html',
 		],
 	],
 	'country' => [
@@ -36748,6 +36973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'country : Internet Naming Company LLC',
+			'https://www.iana.org/domains/root/db/country.html',
 		],
 	],
 	'coupon' => [
@@ -36755,6 +36981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'coupon : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/coupon.html',
 		],
 	],
 	'coupons' => [
@@ -36762,6 +36989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'coupons : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/coupons.html',
 		],
 	],
 	'courses' => [
@@ -36769,6 +36997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'courses : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/courses.html',
 		],
 	],
 	'cpa' => [
@@ -36776,6 +37005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cpa : American Institute of Certified Public Accountants',
+			'https://www.iana.org/domains/root/db/cpa.html',
 		],
 	],
 	'credit' => [
@@ -36783,6 +37013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'credit : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/credit.html',
 		],
 	],
 	'creditcard' => [
@@ -36790,6 +37021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'creditcard : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/creditcard.html',
 		],
 	],
 	'creditunion' => [
@@ -36797,6 +37029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'creditunion : DotCooperation LLC',
+			'https://www.iana.org/domains/root/db/creditunion.html',
 		],
 	],
 	'cricket' => [
@@ -36804,6 +37037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cricket : dot Cricket Limited',
+			'https://www.iana.org/domains/root/db/cricket.html',
 		],
 	],
 	'crown' => [
@@ -36811,6 +37045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'crown : Crown Equipment Corporation',
+			'https://www.iana.org/domains/root/db/crown.html',
 		],
 	],
 	'crs' => [
@@ -36818,6 +37053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'crs : Federated Co-operatives Limited',
+			'https://www.iana.org/domains/root/db/crs.html',
 		],
 	],
 	'cruise' => [
@@ -36825,6 +37061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cruise : Viking River Cruises (Bermuda) Ltd.',
+			'https://www.iana.org/domains/root/db/cruise.html',
 		],
 	],
 	'cruises' => [
@@ -36832,6 +37069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cruises : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/cruises.html',
 		],
 	],
 	'cuisinella' => [
@@ -36839,6 +37077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cuisinella : SCHMIDT GROUPE S.A.S.',
+			'https://www.iana.org/domains/root/db/cuisinella.html',
 		],
 	],
 	'cymru' => [
@@ -36846,6 +37085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cymru : Nominet UK',
+			'https://www.iana.org/domains/root/db/cymru.html',
 		],
 	],
 	'cyou' => [
@@ -36853,6 +37093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cyou : ShortDot SA',
+			'https://www.iana.org/domains/root/db/cyou.html',
 		],
 	],
 	'dabur' => [
@@ -36860,6 +37101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dabur : Dabur India Limited',
+			'https://www.iana.org/domains/root/db/dabur.html',
 		],
 	],
 	'dad' => [
@@ -36867,6 +37109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dad : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/dad.html',
 		],
 	],
 	'dance' => [
@@ -36874,6 +37117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dance : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/dance.html',
 		],
 	],
 	'data' => [
@@ -36881,6 +37125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'data : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/data.html',
 		],
 	],
 	'date' => [
@@ -36888,6 +37133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'date : dot Date Limited',
+			'https://www.iana.org/domains/root/db/date.html',
 		],
 	],
 	'dating' => [
@@ -36895,6 +37141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dating : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/dating.html',
 		],
 	],
 	'datsun' => [
@@ -36902,6 +37149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'datsun : NISSAN MOTOR CO., LTD.',
+			'https://www.iana.org/domains/root/db/datsun.html',
 		],
 	],
 	'day' => [
@@ -36909,6 +37157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'day : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/day.html',
 		],
 	],
 	'dclk' => [
@@ -36916,6 +37165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dclk : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/dclk.html',
 		],
 	],
 	'dds' => [
@@ -36923,6 +37173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dds : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/dds.html',
 		],
 	],
 	'deal' => [
@@ -36930,6 +37181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'deal : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/deal.html',
 		],
 	],
 	'dealer' => [
@@ -36937,6 +37189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dealer : Intercap Registry Inc.',
+			'https://www.iana.org/domains/root/db/dealer.html',
 		],
 	],
 	'deals' => [
@@ -36944,6 +37197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'deals : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/deals.html',
 		],
 	],
 	'degree' => [
@@ -36951,6 +37205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'degree : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/degree.html',
 		],
 	],
 	'delivery' => [
@@ -36958,6 +37213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'delivery : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/delivery.html',
 		],
 	],
 	'dell' => [
@@ -36965,6 +37221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dell : Dell Inc.',
+			'https://www.iana.org/domains/root/db/dell.html',
 		],
 	],
 	'deloitte' => [
@@ -36972,6 +37229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'deloitte : Deloitte Touche Tohmatsu',
+			'https://www.iana.org/domains/root/db/deloitte.html',
 		],
 	],
 	'delta' => [
@@ -36979,6 +37237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'delta : Delta Air Lines, Inc.',
+			'https://www.iana.org/domains/root/db/delta.html',
 		],
 	],
 	'democrat' => [
@@ -36986,6 +37245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'democrat : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/democrat.html',
 		],
 	],
 	'dental' => [
@@ -36993,6 +37253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dental : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/dental.html',
 		],
 	],
 	'dentist' => [
@@ -37000,6 +37261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dentist : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/dentist.html',
 		],
 	],
 	'desi' => [
@@ -37007,6 +37269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'desi : Desi Networks LLC',
+			'https://www.iana.org/domains/root/db/desi.html',
 		],
 	],
 	'design' => [
@@ -37014,6 +37277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'design : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/design.html',
 		],
 	],
 	'dev' => [
@@ -37021,6 +37285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dev : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/dev.html',
 		],
 	],
 	'dhl' => [
@@ -37028,6 +37293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dhl : Deutsche Post AG',
+			'https://www.iana.org/domains/root/db/dhl.html',
 		],
 	],
 	'diamonds' => [
@@ -37035,6 +37301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'diamonds : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/diamonds.html',
 		],
 	],
 	'diet' => [
@@ -37042,6 +37309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'diet : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/diet.html',
 		],
 	],
 	'digital' => [
@@ -37049,6 +37317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'digital : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/digital.html',
 		],
 	],
 	'direct' => [
@@ -37056,6 +37325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'direct : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/direct.html',
 		],
 	],
 	'directory' => [
@@ -37063,6 +37333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'directory : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/directory.html',
 		],
 	],
 	'discount' => [
@@ -37070,6 +37341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'discount : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/discount.html',
 		],
 	],
 	'discover' => [
@@ -37077,6 +37349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'discover : Discover Financial Services',
+			'https://www.iana.org/domains/root/db/discover.html',
 		],
 	],
 	'dish' => [
@@ -37084,6 +37357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dish : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/dish.html',
 		],
 	],
 	'diy' => [
@@ -37091,6 +37365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'diy : Lifestyle Domain Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/diy.html',
 		],
 	],
 	'dnp' => [
@@ -37098,6 +37373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dnp : Dai Nippon Printing Co., Ltd.',
+			'https://www.iana.org/domains/root/db/dnp.html',
 		],
 	],
 	'docs' => [
@@ -37105,6 +37381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'docs : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/docs.html',
 		],
 	],
 	'doctor' => [
@@ -37112,6 +37389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'doctor : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/doctor.html',
 		],
 	],
 	'dog' => [
@@ -37119,6 +37397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dog : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/dog.html',
 		],
 	],
 	'domains' => [
@@ -37126,6 +37405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'domains : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/domains.html',
 		],
 	],
 	'dot' => [
@@ -37133,6 +37413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dot : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/dot.html',
 		],
 	],
 	'download' => [
@@ -37140,6 +37421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'download : dot Support Limited',
+			'https://www.iana.org/domains/root/db/download.html',
 		],
 	],
 	'drive' => [
@@ -37147,6 +37429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'drive : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/drive.html',
 		],
 	],
 	'dtv' => [
@@ -37154,6 +37437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dtv : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/dtv.html',
 		],
 	],
 	'dubai' => [
@@ -37161,6 +37445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dubai : Dubai Smart Government Department',
+			'https://www.iana.org/domains/root/db/dubai.html',
 		],
 	],
 	'dunlop' => [
@@ -37168,6 +37453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dunlop : The Goodyear Tire & Rubber Company',
+			'https://www.iana.org/domains/root/db/dunlop.html',
 		],
 	],
 	'dupont' => [
@@ -37175,6 +37461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dupont : DuPont Specialty Products USA, LLC',
+			'https://www.iana.org/domains/root/db/dupont.html',
 		],
 	],
 	'durban' => [
@@ -37182,6 +37469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'durban : ZA Central Registry NPC trading as ZA Central Registry',
+			'https://www.iana.org/domains/root/db/durban.html',
 		],
 	],
 	'dvag' => [
@@ -37189,6 +37477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dvag : Deutsche Vermögensberatung Aktiengesellschaft DVAG',
+			'https://www.iana.org/domains/root/db/dvag.html',
 		],
 	],
 	'dvr' => [
@@ -37196,6 +37485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dvr : DISH Technologies L.L.C.',
+			'https://www.iana.org/domains/root/db/dvr.html',
 		],
 	],
 	'earth' => [
@@ -37203,6 +37493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'earth : Interlink Systems Innovation Institute K.K.',
+			'https://www.iana.org/domains/root/db/earth.html',
 		],
 	],
 	'eat' => [
@@ -37210,6 +37501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'eat : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/eat.html',
 		],
 	],
 	'eco' => [
@@ -37217,6 +37509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'eco : Big Room Inc.',
+			'https://www.iana.org/domains/root/db/eco.html',
 		],
 	],
 	'edeka' => [
@@ -37224,6 +37517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'edeka : EDEKA Verband kaufmännischer Genossenschaften e.V.',
+			'https://www.iana.org/domains/root/db/edeka.html',
 		],
 	],
 	'education' => [
@@ -37231,6 +37525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'education : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/education.html',
 		],
 	],
 	'email' => [
@@ -37238,6 +37533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'email : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/email.html',
 		],
 	],
 	'emerck' => [
@@ -37245,6 +37541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'emerck : Merck KGaA',
+			'https://www.iana.org/domains/root/db/emerck.html',
 		],
 	],
 	'energy' => [
@@ -37252,6 +37549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'energy : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/energy.html',
 		],
 	],
 	'engineer' => [
@@ -37259,6 +37557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'engineer : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/engineer.html',
 		],
 	],
 	'engineering' => [
@@ -37266,6 +37565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'engineering : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/engineering.html',
 		],
 	],
 	'enterprises' => [
@@ -37273,6 +37573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'enterprises : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/enterprises.html',
 		],
 	],
 	'epson' => [
@@ -37280,6 +37581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'epson : Seiko Epson Corporation',
+			'https://www.iana.org/domains/root/db/epson.html',
 		],
 	],
 	'equipment' => [
@@ -37287,6 +37589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'equipment : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/equipment.html',
 		],
 	],
 	'ericsson' => [
@@ -37294,6 +37597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ericsson : Telefonaktiebolaget L M Ericsson',
+			'https://www.iana.org/domains/root/db/ericsson.html',
 		],
 	],
 	'erni' => [
@@ -37301,6 +37605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'erni : ERNI Group Holding AG',
+			'https://www.iana.org/domains/root/db/erni.html',
 		],
 	],
 	'esq' => [
@@ -37308,6 +37613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'esq : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/esq.html',
 		],
 	],
 	'estate' => [
@@ -37315,6 +37621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'estate : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/estate.html',
 		],
 	],
 	'etisalat' => [
@@ -37322,6 +37629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'etisalat : Emirates Telecommunications Corporation (trading as Etisalat)',
+			'https://www.iana.org/domains/root/db/etisalat.html',
 		],
 	],
 	'eurovision' => [
@@ -37329,6 +37637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'eurovision : European Broadcasting Union (EBU)',
+			'https://www.iana.org/domains/root/db/eurovision.html',
 		],
 	],
 	'eus' => [
@@ -37336,6 +37645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'eus : Puntueus Fundazioa',
+			'https://www.iana.org/domains/root/db/eus.html',
 		],
 	],
 	'events' => [
@@ -37343,6 +37653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'events : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/events.html',
 		],
 	],
 	'exchange' => [
@@ -37350,6 +37661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'exchange : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/exchange.html',
 		],
 	],
 	'expert' => [
@@ -37357,6 +37669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'expert : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/expert.html',
 		],
 	],
 	'exposed' => [
@@ -37364,6 +37677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'exposed : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/exposed.html',
 		],
 	],
 	'express' => [
@@ -37371,6 +37685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'express : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/express.html',
 		],
 	],
 	'extraspace' => [
@@ -37378,6 +37693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'extraspace : Extra Space Storage LLC',
+			'https://www.iana.org/domains/root/db/extraspace.html',
 		],
 	],
 	'fage' => [
@@ -37385,6 +37701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fage : Fage International S.A.',
+			'https://www.iana.org/domains/root/db/fage.html',
 		],
 	],
 	'fail' => [
@@ -37392,6 +37709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fail : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/fail.html',
 		],
 	],
 	'fairwinds' => [
@@ -37399,6 +37717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fairwinds : FairWinds Partners, LLC',
+			'https://www.iana.org/domains/root/db/fairwinds.html',
 		],
 	],
 	'faith' => [
@@ -37406,6 +37725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'faith : dot Faith Limited',
+			'https://www.iana.org/domains/root/db/faith.html',
 		],
 	],
 	'family' => [
@@ -37413,6 +37733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'family : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/family.html',
 		],
 	],
 	'fan' => [
@@ -37420,6 +37741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fan : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/fan.html',
 		],
 	],
 	'fans' => [
@@ -37427,6 +37749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fans : ZDNS International Limited',
+			'https://www.iana.org/domains/root/db/fans.html',
 		],
 	],
 	'farm' => [
@@ -37434,6 +37757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'farm : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/farm.html',
 		],
 	],
 	'farmers' => [
@@ -37441,6 +37765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'farmers : Farmers Insurance Exchange',
+			'https://www.iana.org/domains/root/db/farmers.html',
 		],
 	],
 	'fashion' => [
@@ -37448,6 +37773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fashion : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/fashion.html',
 		],
 	],
 	'fast' => [
@@ -37455,6 +37781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fast : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/fast.html',
 		],
 	],
 	'fedex' => [
@@ -37462,6 +37789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fedex : Federal Express Corporation',
+			'https://www.iana.org/domains/root/db/fedex.html',
 		],
 	],
 	'feedback' => [
@@ -37469,6 +37797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'feedback : Top Level Spectrum, Inc.',
+			'https://www.iana.org/domains/root/db/feedback.html',
 		],
 	],
 	'ferrari' => [
@@ -37476,6 +37805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ferrari : Fiat Chrysler Automobiles N.V.',
+			'https://www.iana.org/domains/root/db/ferrari.html',
 		],
 	],
 	'ferrero' => [
@@ -37483,6 +37813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ferrero : Ferrero Trading Lux S.A.',
+			'https://www.iana.org/domains/root/db/ferrero.html',
 		],
 	],
 	'fidelity' => [
@@ -37490,6 +37821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fidelity : Fidelity Brokerage Services LLC',
+			'https://www.iana.org/domains/root/db/fidelity.html',
 		],
 	],
 	'fido' => [
@@ -37497,6 +37829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fido : Rogers Communications Canada Inc.',
+			'https://www.iana.org/domains/root/db/fido.html',
 		],
 	],
 	'film' => [
@@ -37504,6 +37837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'film : Motion Picture Domain Registry Pty Ltd',
+			'https://www.iana.org/domains/root/db/film.html',
 		],
 	],
 	'final' => [
@@ -37511,6 +37845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'final : Núcleo de Informação e Coordenação do Ponto BR - NIC.br',
+			'https://www.iana.org/domains/root/db/final.html',
 		],
 	],
 	'finance' => [
@@ -37518,6 +37853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'finance : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/finance.html',
 		],
 	],
 	'financial' => [
@@ -37525,6 +37861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'financial : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/financial.html',
 		],
 	],
 	'fire' => [
@@ -37532,6 +37869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fire : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/fire.html',
 		],
 	],
 	'firestone' => [
@@ -37539,6 +37877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'firestone : Bridgestone Licensing Services, Inc',
+			'https://www.iana.org/domains/root/db/firestone.html',
 		],
 	],
 	'firmdale' => [
@@ -37546,6 +37885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'firmdale : Firmdale Holdings Limited',
+			'https://www.iana.org/domains/root/db/firmdale.html',
 		],
 	],
 	'fish' => [
@@ -37553,6 +37893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fish : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/fish.html',
 		],
 	],
 	'fishing' => [
@@ -37560,6 +37901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fishing : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/fishing.html',
 		],
 	],
 	'fit' => [
@@ -37567,6 +37909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fit : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/fit.html',
 		],
 	],
 	'fitness' => [
@@ -37574,6 +37917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fitness : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/fitness.html',
 		],
 	],
 	'flickr' => [
@@ -37581,6 +37925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'flickr : Flickr, Inc.',
+			'https://www.iana.org/domains/root/db/flickr.html',
 		],
 	],
 	'flights' => [
@@ -37588,6 +37933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'flights : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/flights.html',
 		],
 	],
 	'flir' => [
@@ -37595,6 +37941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'flir : FLIR Systems, Inc.',
+			'https://www.iana.org/domains/root/db/flir.html',
 		],
 	],
 	'florist' => [
@@ -37602,6 +37949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'florist : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/florist.html',
 		],
 	],
 	'flowers' => [
@@ -37609,6 +37957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'flowers : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/flowers.html',
 		],
 	],
 	'fly' => [
@@ -37616,6 +37965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fly : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/fly.html',
 		],
 	],
 	'foo' => [
@@ -37623,6 +37973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'foo : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/foo.html',
 		],
 	],
 	'food' => [
@@ -37630,6 +37981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'food : Lifestyle Domain Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/food.html',
 		],
 	],
 	'football' => [
@@ -37637,6 +37989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'football : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/football.html',
 		],
 	],
 	'ford' => [
@@ -37644,6 +37997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ford : Ford Motor Company',
+			'https://www.iana.org/domains/root/db/ford.html',
 		],
 	],
 	'forex' => [
@@ -37651,6 +38005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'forex : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/forex.html',
 		],
 	],
 	'forsale' => [
@@ -37658,6 +38013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'forsale : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/forsale.html',
 		],
 	],
 	'forum' => [
@@ -37665,6 +38021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'forum : Fegistry, LLC',
+			'https://www.iana.org/domains/root/db/forum.html',
 		],
 	],
 	'foundation' => [
@@ -37672,6 +38029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'foundation : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/foundation.html',
 		],
 	],
 	'fox' => [
@@ -37679,6 +38037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fox : FOX Registry, LLC',
+			'https://www.iana.org/domains/root/db/fox.html',
 		],
 	],
 	'free' => [
@@ -37686,6 +38045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'free : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/free.html',
 		],
 	],
 	'fresenius' => [
@@ -37693,6 +38053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fresenius : Fresenius Immobilien-Verwaltungs-GmbH',
+			'https://www.iana.org/domains/root/db/fresenius.html',
 		],
 	],
 	'frl' => [
@@ -37700,6 +38061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'frl : FRLregistry B.V.',
+			'https://www.iana.org/domains/root/db/frl.html',
 		],
 	],
 	'frogans' => [
@@ -37707,6 +38069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'frogans : OP3FT',
+			'https://www.iana.org/domains/root/db/frogans.html',
 		],
 	],
 	'frontdoor' => [
@@ -37714,6 +38077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'frontdoor : Lifestyle Domain Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/frontdoor.html',
 		],
 	],
 	'frontier' => [
@@ -37721,6 +38085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'frontier : Frontier Communications Corporation',
+			'https://www.iana.org/domains/root/db/frontier.html',
 		],
 	],
 	'ftr' => [
@@ -37728,6 +38093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ftr : Frontier Communications Corporation',
+			'https://www.iana.org/domains/root/db/ftr.html',
 		],
 	],
 	'fujitsu' => [
@@ -37735,6 +38101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fujitsu : Fujitsu Limited',
+			'https://www.iana.org/domains/root/db/fujitsu.html',
 		],
 	],
 	'fun' => [
@@ -37742,6 +38109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fun : Radix FZC',
+			'https://www.iana.org/domains/root/db/fun.html',
 		],
 	],
 	'fund' => [
@@ -37749,6 +38117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fund : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/fund.html',
 		],
 	],
 	'furniture' => [
@@ -37756,6 +38125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'furniture : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/furniture.html',
 		],
 	],
 	'futbol' => [
@@ -37763,6 +38133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'futbol : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/futbol.html',
 		],
 	],
 	'fyi' => [
@@ -37770,6 +38141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'fyi : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/fyi.html',
 		],
 	],
 	'gal' => [
@@ -37777,6 +38149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gal : Asociación puntoGAL',
+			'https://www.iana.org/domains/root/db/gal.html',
 		],
 	],
 	'gallery' => [
@@ -37784,6 +38157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gallery : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/gallery.html',
 		],
 	],
 	'gallo' => [
@@ -37791,6 +38165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gallo : Gallo Vineyards, Inc.',
+			'https://www.iana.org/domains/root/db/gallo.html',
 		],
 	],
 	'gallup' => [
@@ -37798,6 +38173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gallup : Gallup, Inc.',
+			'https://www.iana.org/domains/root/db/gallup.html',
 		],
 	],
 	'game' => [
@@ -37805,6 +38181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'game : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/game.html',
 		],
 	],
 	'games' => [
@@ -37812,6 +38189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'games : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/games.html',
 		],
 	],
 	'gap' => [
@@ -37819,6 +38197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gap : The Gap, Inc.',
+			'https://www.iana.org/domains/root/db/gap.html',
 		],
 	],
 	'garden' => [
@@ -37826,6 +38205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'garden : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/garden.html',
 		],
 	],
 	'gay' => [
@@ -37833,6 +38213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gay : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/gay.html',
 		],
 	],
 	'gbiz' => [
@@ -37840,6 +38221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gbiz : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/gbiz.html',
 		],
 	],
 	'gdn' => [
@@ -37847,6 +38229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gdn : Joint Stock Company "Navigation-information systems"',
+			'https://www.iana.org/domains/root/db/gdn.html',
 		],
 	],
 	'gea' => [
@@ -37854,6 +38237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gea : GEA Group Aktiengesellschaft',
+			'https://www.iana.org/domains/root/db/gea.html',
 		],
 	],
 	'gent' => [
@@ -37861,6 +38245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gent : Easyhost BV',
+			'https://www.iana.org/domains/root/db/gent.html',
 		],
 	],
 	'genting' => [
@@ -37868,6 +38253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'genting : Resorts World Inc Pte. Ltd.',
+			'https://www.iana.org/domains/root/db/genting.html',
 		],
 	],
 	'george' => [
@@ -37875,6 +38261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'george : Wal-Mart Stores, Inc.',
+			'https://www.iana.org/domains/root/db/george.html',
 		],
 	],
 	'ggee' => [
@@ -37882,6 +38269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ggee : GMO Internet, Inc.',
+			'https://www.iana.org/domains/root/db/ggee.html',
 		],
 	],
 	'gift' => [
@@ -37889,6 +38277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gift : DotGift, LLC',
+			'https://www.iana.org/domains/root/db/gift.html',
 		],
 	],
 	'gifts' => [
@@ -37896,6 +38285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gifts : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/gifts.html',
 		],
 	],
 	'gives' => [
@@ -37903,6 +38293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gives : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/gives.html',
 		],
 	],
 	'giving' => [
@@ -37910,6 +38301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'giving : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/giving.html',
 		],
 	],
 	'glass' => [
@@ -37917,6 +38309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'glass : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/glass.html',
 		],
 	],
 	'gle' => [
@@ -37924,6 +38317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gle : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/gle.html',
 		],
 	],
 	'global' => [
@@ -37931,6 +38325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'global : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/global.html',
 		],
 	],
 	'globo' => [
@@ -37938,6 +38333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'globo : Globo Comunicação e Participações S.A',
+			'https://www.iana.org/domains/root/db/globo.html',
 		],
 	],
 	'gmail' => [
@@ -37945,6 +38341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gmail : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/gmail.html',
 		],
 	],
 	'gmbh' => [
@@ -37952,6 +38349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gmbh : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/gmbh.html',
 		],
 	],
 	'gmo' => [
@@ -37959,6 +38357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gmo : GMO Internet, Inc.',
+			'https://www.iana.org/domains/root/db/gmo.html',
 		],
 	],
 	'gmx' => [
@@ -37966,6 +38365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gmx : 1&1 Mail & Media GmbH',
+			'https://www.iana.org/domains/root/db/gmx.html',
 		],
 	],
 	'godaddy' => [
@@ -37973,6 +38373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'godaddy : Go Daddy East, LLC',
+			'https://www.iana.org/domains/root/db/godaddy.html',
 		],
 	],
 	'gold' => [
@@ -37980,6 +38381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gold : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/gold.html',
 		],
 	],
 	'goldpoint' => [
@@ -37987,6 +38389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'goldpoint : YODOBASHI CAMERA CO.,LTD.',
+			'https://www.iana.org/domains/root/db/goldpoint.html',
 		],
 	],
 	'golf' => [
@@ -37994,6 +38397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'golf : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/golf.html',
 		],
 	],
 	'goo' => [
@@ -38001,6 +38405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'goo : NTT Resonant Inc.',
+			'https://www.iana.org/domains/root/db/goo.html',
 		],
 	],
 	'goodyear' => [
@@ -38008,6 +38413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'goodyear : The Goodyear Tire & Rubber Company',
+			'https://www.iana.org/domains/root/db/goodyear.html',
 		],
 	],
 	'goog' => [
@@ -38015,6 +38421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'goog : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/goog.html',
 		],
 	],
 	'google' => [
@@ -38022,6 +38429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'google : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/google.html',
 		],
 	],
 	'gop' => [
@@ -38029,6 +38437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gop : Republican State Leadership Committee, Inc.',
+			'https://www.iana.org/domains/root/db/gop.html',
 		],
 	],
 	'got' => [
@@ -38036,6 +38445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'got : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/got.html',
 		],
 	],
 	'grainger' => [
@@ -38043,6 +38453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'grainger : Grainger Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/grainger.html',
 		],
 	],
 	'graphics' => [
@@ -38050,6 +38461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'graphics : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/graphics.html',
 		],
 	],
 	'gratis' => [
@@ -38057,6 +38469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gratis : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/gratis.html',
 		],
 	],
 	'green' => [
@@ -38064,6 +38477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'green : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/green.html',
 		],
 	],
 	'gripe' => [
@@ -38071,6 +38485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gripe : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/gripe.html',
 		],
 	],
 	'grocery' => [
@@ -38078,6 +38493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'grocery : Wal-Mart Stores, Inc.',
+			'https://www.iana.org/domains/root/db/grocery.html',
 		],
 	],
 	'group' => [
@@ -38085,6 +38501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'group : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/group.html',
 		],
 	],
 	'guardian' => [
@@ -38092,6 +38509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'guardian : The Guardian Life Insurance Company of America',
+			'https://www.iana.org/domains/root/db/guardian.html',
 		],
 	],
 	'gucci' => [
@@ -38099,6 +38517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gucci : Guccio Gucci S.p.a.',
+			'https://www.iana.org/domains/root/db/gucci.html',
 		],
 	],
 	'guge' => [
@@ -38106,6 +38525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'guge : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/guge.html',
 		],
 	],
 	'guide' => [
@@ -38113,6 +38533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'guide : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/guide.html',
 		],
 	],
 	'guitars' => [
@@ -38120,6 +38541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'guitars : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/guitars.html',
 		],
 	],
 	'guru' => [
@@ -38127,6 +38549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'guru : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/guru.html',
 		],
 	],
 	'hair' => [
@@ -38134,6 +38557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hair : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/hair.html',
 		],
 	],
 	'hamburg' => [
@@ -38141,6 +38565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hamburg : Hamburg Top-Level-Domain GmbH',
+			'https://www.iana.org/domains/root/db/hamburg.html',
 		],
 	],
 	'hangout' => [
@@ -38148,6 +38573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hangout : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/hangout.html',
 		],
 	],
 	'haus' => [
@@ -38155,6 +38581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'haus : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/haus.html',
 		],
 	],
 	'hbo' => [
@@ -38162,6 +38589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hbo : HBO Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/hbo.html',
 		],
 	],
 	'hdfc' => [
@@ -38169,6 +38597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hdfc : HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED',
+			'https://www.iana.org/domains/root/db/hdfc.html',
 		],
 	],
 	'hdfcbank' => [
@@ -38176,6 +38605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hdfcbank : HDFC Bank Limited',
+			'https://www.iana.org/domains/root/db/hdfcbank.html',
 		],
 	],
 	'health' => [
@@ -38183,6 +38613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'health : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/health.html',
 		],
 	],
 	'healthcare' => [
@@ -38190,6 +38621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'healthcare : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/healthcare.html',
 		],
 	],
 	'help' => [
@@ -38197,6 +38629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'help : Innovation service Limited',
+			'https://www.iana.org/domains/root/db/help.html',
 		],
 	],
 	'helsinki' => [
@@ -38204,6 +38637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'helsinki : City of Helsinki',
+			'https://www.iana.org/domains/root/db/helsinki.html',
 		],
 	],
 	'here' => [
@@ -38211,6 +38645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'here : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/here.html',
 		],
 	],
 	'hermes' => [
@@ -38218,6 +38653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hermes : HERMES INTERNATIONAL',
+			'https://www.iana.org/domains/root/db/hermes.html',
 		],
 	],
 	'hiphop' => [
@@ -38225,6 +38661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hiphop : Dot Hip Hop, LLC',
+			'https://www.iana.org/domains/root/db/hiphop.html',
 		],
 	],
 	'hisamitsu' => [
@@ -38232,6 +38669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hisamitsu : Hisamitsu Pharmaceutical Co.,Inc.',
+			'https://www.iana.org/domains/root/db/hisamitsu.html',
 		],
 	],
 	'hitachi' => [
@@ -38239,6 +38677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hitachi : Hitachi, Ltd.',
+			'https://www.iana.org/domains/root/db/hitachi.html',
 		],
 	],
 	'hiv' => [
@@ -38246,6 +38685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hiv : Internet Naming Company LLC',
+			'https://www.iana.org/domains/root/db/hiv.html',
 		],
 	],
 	'hkt' => [
@@ -38253,6 +38693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hkt : PCCW-HKT DataCom Services Limited',
+			'https://www.iana.org/domains/root/db/hkt.html',
 		],
 	],
 	'hockey' => [
@@ -38260,6 +38701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hockey : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/hockey.html',
 		],
 	],
 	'holdings' => [
@@ -38267,6 +38709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'holdings : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/holdings.html',
 		],
 	],
 	'holiday' => [
@@ -38274,6 +38717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'holiday : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/holiday.html',
 		],
 	],
 	'homedepot' => [
@@ -38281,6 +38725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'homedepot : Home Depot Product Authority, LLC',
+			'https://www.iana.org/domains/root/db/homedepot.html',
 		],
 	],
 	'homegoods' => [
@@ -38288,6 +38733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'homegoods : The TJX Companies, Inc.',
+			'https://www.iana.org/domains/root/db/homegoods.html',
 		],
 	],
 	'homes' => [
@@ -38295,6 +38741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'homes : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/homes.html',
 		],
 	],
 	'homesense' => [
@@ -38302,6 +38749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'homesense : The TJX Companies, Inc.',
+			'https://www.iana.org/domains/root/db/homesense.html',
 		],
 	],
 	'honda' => [
@@ -38309,6 +38757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'honda : Honda Motor Co., Ltd.',
+			'https://www.iana.org/domains/root/db/honda.html',
 		],
 	],
 	'horse' => [
@@ -38316,6 +38765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'horse : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/horse.html',
 		],
 	],
 	'hospital' => [
@@ -38323,6 +38773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hospital : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/hospital.html',
 		],
 	],
 	'host' => [
@@ -38330,6 +38781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'host : Radix FZC',
+			'https://www.iana.org/domains/root/db/host.html',
 		],
 	],
 	'hosting' => [
@@ -38337,6 +38789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hosting : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/hosting.html',
 		],
 	],
 	'hot' => [
@@ -38344,6 +38797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hot : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/hot.html',
 		],
 	],
 	'hotels' => [
@@ -38351,6 +38805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hotels : Booking.com B.V.',
+			'https://www.iana.org/domains/root/db/hotels.html',
 		],
 	],
 	'hotmail' => [
@@ -38358,6 +38813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hotmail : Microsoft Corporation',
+			'https://www.iana.org/domains/root/db/hotmail.html',
 		],
 	],
 	'house' => [
@@ -38365,6 +38821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'house : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/house.html',
 		],
 	],
 	'how' => [
@@ -38372,6 +38829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'how : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/how.html',
 		],
 	],
 	'hsbc' => [
@@ -38379,6 +38837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hsbc : HSBC Global Services (UK) Limited',
+			'https://www.iana.org/domains/root/db/hsbc.html',
 		],
 	],
 	'hughes' => [
@@ -38386,6 +38845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hughes : Hughes Satellite Systems Corporation',
+			'https://www.iana.org/domains/root/db/hughes.html',
 		],
 	],
 	'hyatt' => [
@@ -38393,6 +38853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hyatt : Hyatt GTLD, L.L.C.',
+			'https://www.iana.org/domains/root/db/hyatt.html',
 		],
 	],
 	'hyundai' => [
@@ -38400,6 +38861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'hyundai : Hyundai Motor Company',
+			'https://www.iana.org/domains/root/db/hyundai.html',
 		],
 	],
 	'ibm' => [
@@ -38407,6 +38869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ibm : International Business Machines Corporation',
+			'https://www.iana.org/domains/root/db/ibm.html',
 		],
 	],
 	'icbc' => [
@@ -38414,6 +38877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'icbc : Industrial and Commercial Bank of China Limited',
+			'https://www.iana.org/domains/root/db/icbc.html',
 		],
 	],
 	'ice' => [
@@ -38421,6 +38885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ice : IntercontinentalExchange, Inc.',
+			'https://www.iana.org/domains/root/db/ice.html',
 		],
 	],
 	'icu' => [
@@ -38428,6 +38893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'icu : ShortDot SA',
+			'https://www.iana.org/domains/root/db/icu.html',
 		],
 	],
 	'ieee' => [
@@ -38435,6 +38901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ieee : IEEE Global LLC',
+			'https://www.iana.org/domains/root/db/ieee.html',
 		],
 	],
 	'ifm' => [
@@ -38442,6 +38909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ifm : ifm electronic gmbh',
+			'https://www.iana.org/domains/root/db/ifm.html',
 		],
 	],
 	'ikano' => [
@@ -38449,6 +38917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ikano : Ikano S.A.',
+			'https://www.iana.org/domains/root/db/ikano.html',
 		],
 	],
 	'imamat' => [
@@ -38456,6 +38925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'imamat : Fondation Aga Khan (Aga Khan Foundation)',
+			'https://www.iana.org/domains/root/db/imamat.html',
 		],
 	],
 	'imdb' => [
@@ -38463,6 +38933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'imdb : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/imdb.html',
 		],
 	],
 	'immo' => [
@@ -38470,6 +38941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'immo : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/immo.html',
 		],
 	],
 	'immobilien' => [
@@ -38477,6 +38949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'immobilien : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/immobilien.html',
 		],
 	],
 	'inc' => [
@@ -38484,6 +38957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'inc : Intercap Registry Inc.',
+			'https://www.iana.org/domains/root/db/inc.html',
 		],
 	],
 	'industries' => [
@@ -38491,6 +38965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'industries : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/industries.html',
 		],
 	],
 	'infiniti' => [
@@ -38498,6 +38973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'infiniti : NISSAN MOTOR CO., LTD.',
+			'https://www.iana.org/domains/root/db/infiniti.html',
 		],
 	],
 	'ing' => [
@@ -38505,6 +38981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ing : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/ing.html',
 		],
 	],
 	'ink' => [
@@ -38512,6 +38989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ink : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/ink.html',
 		],
 	],
 	'institute' => [
@@ -38519,6 +38997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'institute : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/institute.html',
 		],
 	],
 	'insurance' => [
@@ -38526,6 +39005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'insurance : fTLD Registry Services LLC',
+			'https://www.iana.org/domains/root/db/insurance.html',
 		],
 	],
 	'insure' => [
@@ -38533,6 +39013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'insure : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/insure.html',
 		],
 	],
 	'international' => [
@@ -38540,6 +39021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'international : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/international.html',
 		],
 	],
 	'intuit' => [
@@ -38547,6 +39029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'intuit : Intuit Administrative Services, Inc.',
+			'https://www.iana.org/domains/root/db/intuit.html',
 		],
 	],
 	'investments' => [
@@ -38554,6 +39037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'investments : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/investments.html',
 		],
 	],
 	'ipiranga' => [
@@ -38561,6 +39045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ipiranga : Ipiranga Produtos de Petroleo S.A.',
+			'https://www.iana.org/domains/root/db/ipiranga.html',
 		],
 	],
 	'irish' => [
@@ -38568,6 +39053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'irish : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/irish.html',
 		],
 	],
 	'ismaili' => [
@@ -38575,6 +39061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ismaili : Fondation Aga Khan (Aga Khan Foundation)',
+			'https://www.iana.org/domains/root/db/ismaili.html',
 		],
 	],
 	'ist' => [
@@ -38582,6 +39069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ist : Istanbul Metropolitan Municipality',
+			'https://www.iana.org/domains/root/db/ist.html',
 		],
 	],
 	'istanbul' => [
@@ -38589,6 +39077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'istanbul : Istanbul Metropolitan Municipality',
+			'https://www.iana.org/domains/root/db/istanbul.html',
 		],
 	],
 	'itau' => [
@@ -38596,6 +39085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'itau : Itau Unibanco Holding S.A.',
+			'https://www.iana.org/domains/root/db/itau.html',
 		],
 	],
 	'itv' => [
@@ -38603,6 +39093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'itv : ITV Services Limited',
+			'https://www.iana.org/domains/root/db/itv.html',
 		],
 	],
 	'jaguar' => [
@@ -38610,6 +39101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jaguar : Jaguar Land Rover Ltd',
+			'https://www.iana.org/domains/root/db/jaguar.html',
 		],
 	],
 	'java' => [
@@ -38617,6 +39109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'java : Oracle Corporation',
+			'https://www.iana.org/domains/root/db/java.html',
 		],
 	],
 	'jcb' => [
@@ -38624,6 +39117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jcb : JCB Co., Ltd.',
+			'https://www.iana.org/domains/root/db/jcb.html',
 		],
 	],
 	'jeep' => [
@@ -38631,6 +39125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jeep : FCA US LLC.',
+			'https://www.iana.org/domains/root/db/jeep.html',
 		],
 	],
 	'jetzt' => [
@@ -38638,6 +39133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jetzt : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/jetzt.html',
 		],
 	],
 	'jewelry' => [
@@ -38645,6 +39141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jewelry : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/jewelry.html',
 		],
 	],
 	'jio' => [
@@ -38652,6 +39149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jio : Reliance Industries Limited',
+			'https://www.iana.org/domains/root/db/jio.html',
 		],
 	],
 	'jll' => [
@@ -38659,6 +39157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jll : Jones Lang LaSalle Incorporated',
+			'https://www.iana.org/domains/root/db/jll.html',
 		],
 	],
 	'jmp' => [
@@ -38666,6 +39165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jmp : Matrix IP LLC',
+			'https://www.iana.org/domains/root/db/jmp.html',
 		],
 	],
 	'jnj' => [
@@ -38673,6 +39173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jnj : Johnson & Johnson Services, Inc.',
+			'https://www.iana.org/domains/root/db/jnj.html',
 		],
 	],
 	'joburg' => [
@@ -38680,6 +39181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'joburg : ZA Central Registry NPC trading as ZA Central Registry',
+			'https://www.iana.org/domains/root/db/joburg.html',
 		],
 	],
 	'jot' => [
@@ -38687,6 +39189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jot : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/jot.html',
 		],
 	],
 	'joy' => [
@@ -38694,6 +39197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'joy : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/joy.html',
 		],
 	],
 	'jpmorgan' => [
@@ -38701,6 +39205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jpmorgan : JPMorgan Chase Bank, National Association',
+			'https://www.iana.org/domains/root/db/jpmorgan.html',
 		],
 	],
 	'jprs' => [
@@ -38708,6 +39213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jprs : Japan Registry Services Co., Ltd.',
+			'https://www.iana.org/domains/root/db/jprs.html',
 		],
 	],
 	'juegos' => [
@@ -38715,6 +39221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'juegos : Internet Naming Company LLC',
+			'https://www.iana.org/domains/root/db/juegos.html',
 		],
 	],
 	'juniper' => [
@@ -38722,6 +39229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'juniper : JUNIPER NETWORKS, INC.',
+			'https://www.iana.org/domains/root/db/juniper.html',
 		],
 	],
 	'kaufen' => [
@@ -38729,6 +39237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kaufen : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/kaufen.html',
 		],
 	],
 	'kddi' => [
@@ -38736,6 +39245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kddi : KDDI CORPORATION',
+			'https://www.iana.org/domains/root/db/kddi.html',
 		],
 	],
 	'kerryhotels' => [
@@ -38743,6 +39253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kerryhotels : Kerry Trading Co. Limited',
+			'https://www.iana.org/domains/root/db/kerryhotels.html',
 		],
 	],
 	'kerrylogistics' => [
@@ -38750,6 +39261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kerrylogistics : Kerry Trading Co. Limited',
+			'https://www.iana.org/domains/root/db/kerrylogistics.html',
 		],
 	],
 	'kerryproperties' => [
@@ -38757,6 +39269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kerryproperties : Kerry Trading Co. Limited',
+			'https://www.iana.org/domains/root/db/kerryproperties.html',
 		],
 	],
 	'kfh' => [
@@ -38764,6 +39277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kfh : Kuwait Finance House',
+			'https://www.iana.org/domains/root/db/kfh.html',
 		],
 	],
 	'kia' => [
@@ -38771,6 +39285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kia : KIA MOTORS CORPORATION',
+			'https://www.iana.org/domains/root/db/kia.html',
 		],
 	],
 	'kids' => [
@@ -38778,6 +39293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kids : DotKids Foundation Limited',
+			'https://www.iana.org/domains/root/db/kids.html',
 		],
 	],
 	'kim' => [
@@ -38785,6 +39301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kim : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/kim.html',
 		],
 	],
 	'kinder' => [
@@ -38792,6 +39309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kinder : Ferrero Trading Lux S.A.',
+			'https://www.iana.org/domains/root/db/kinder.html',
 		],
 	],
 	'kindle' => [
@@ -38799,6 +39317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kindle : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/kindle.html',
 		],
 	],
 	'kitchen' => [
@@ -38806,6 +39325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kitchen : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/kitchen.html',
 		],
 	],
 	'kiwi' => [
@@ -38813,6 +39333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kiwi : DOT KIWI LIMITED',
+			'https://www.iana.org/domains/root/db/kiwi.html',
 		],
 	],
 	'koeln' => [
@@ -38820,6 +39341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'koeln : dotKoeln GmbH',
+			'https://www.iana.org/domains/root/db/koeln.html',
 		],
 	],
 	'komatsu' => [
@@ -38827,6 +39349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'komatsu : Komatsu Ltd.',
+			'https://www.iana.org/domains/root/db/komatsu.html',
 		],
 	],
 	'kosher' => [
@@ -38834,6 +39357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kosher : Kosher Marketing Assets LLC',
+			'https://www.iana.org/domains/root/db/kosher.html',
 		],
 	],
 	'kpmg' => [
@@ -38841,6 +39365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kpmg : KPMG International Cooperative (KPMG International Genossenschaft)',
+			'https://www.iana.org/domains/root/db/kpmg.html',
 		],
 	],
 	'kpn' => [
@@ -38848,6 +39373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kpn : Koninklijke KPN N.V.',
+			'https://www.iana.org/domains/root/db/kpn.html',
 		],
 	],
 	'krd' => [
@@ -38855,6 +39381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'krd : KRG Department of Information Technology',
+			'https://www.iana.org/domains/root/db/krd.html',
 		],
 	],
 	'kred' => [
@@ -38862,6 +39389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kred : KredTLD Pty Ltd',
+			'https://www.iana.org/domains/root/db/kred.html',
 		],
 	],
 	'kuokgroup' => [
@@ -38869,6 +39397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kuokgroup : Kerry Trading Co. Limited',
+			'https://www.iana.org/domains/root/db/kuokgroup.html',
 		],
 	],
 	'kyoto' => [
@@ -38876,6 +39405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kyoto : Academic Institution: Kyoto Jyoho Gakuen',
+			'https://www.iana.org/domains/root/db/kyoto.html',
 		],
 	],
 	'lacaixa' => [
@@ -38883,6 +39413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lacaixa : Fundación Bancaria Caixa d’Estalvis i Pensions de Barcelona, “la Caixa”',
+			'https://www.iana.org/domains/root/db/lacaixa.html',
 		],
 	],
 	'lamborghini' => [
@@ -38890,6 +39421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lamborghini : Automobili Lamborghini S.p.A.',
+			'https://www.iana.org/domains/root/db/lamborghini.html',
 		],
 	],
 	'lamer' => [
@@ -38897,6 +39429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lamer : The Estée Lauder Companies Inc.',
+			'https://www.iana.org/domains/root/db/lamer.html',
 		],
 	],
 	'lancaster' => [
@@ -38904,6 +39437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lancaster : LANCASTER',
+			'https://www.iana.org/domains/root/db/lancaster.html',
 		],
 	],
 	'land' => [
@@ -38911,6 +39445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'land : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/land.html',
 		],
 	],
 	'landrover' => [
@@ -38918,6 +39453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'landrover : Jaguar Land Rover Ltd',
+			'https://www.iana.org/domains/root/db/landrover.html',
 		],
 	],
 	'lanxess' => [
@@ -38925,6 +39461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lanxess : LANXESS Corporation',
+			'https://www.iana.org/domains/root/db/lanxess.html',
 		],
 	],
 	'lasalle' => [
@@ -38932,6 +39469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lasalle : Jones Lang LaSalle Incorporated',
+			'https://www.iana.org/domains/root/db/lasalle.html',
 		],
 	],
 	'lat' => [
@@ -38939,6 +39477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lat : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/lat.html',
 		],
 	],
 	'latino' => [
@@ -38946,6 +39485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'latino : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/latino.html',
 		],
 	],
 	'latrobe' => [
@@ -38953,6 +39493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'latrobe : La Trobe University',
+			'https://www.iana.org/domains/root/db/latrobe.html',
 		],
 	],
 	'law' => [
@@ -38960,6 +39501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'law : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/law.html',
 		],
 	],
 	'lawyer' => [
@@ -38967,6 +39509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lawyer : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/lawyer.html',
 		],
 	],
 	'lds' => [
@@ -38974,6 +39517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lds : IRI Domain Management, LLC',
+			'https://www.iana.org/domains/root/db/lds.html',
 		],
 	],
 	'lease' => [
@@ -38981,6 +39525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lease : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/lease.html',
 		],
 	],
 	'leclerc' => [
@@ -38988,6 +39533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'leclerc : A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc',
+			'https://www.iana.org/domains/root/db/leclerc.html',
 		],
 	],
 	'lefrak' => [
@@ -38995,6 +39541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lefrak : LeFrak Organization, Inc.',
+			'https://www.iana.org/domains/root/db/lefrak.html',
 		],
 	],
 	'legal' => [
@@ -39002,6 +39549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'legal : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/legal.html',
 		],
 	],
 	'lego' => [
@@ -39009,6 +39557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lego : LEGO Juris A/S',
+			'https://www.iana.org/domains/root/db/lego.html',
 		],
 	],
 	'lexus' => [
@@ -39016,6 +39565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lexus : TOYOTA MOTOR CORPORATION',
+			'https://www.iana.org/domains/root/db/lexus.html',
 		],
 	],
 	'lgbt' => [
@@ -39023,6 +39573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lgbt : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/lgbt.html',
 		],
 	],
 	'lidl' => [
@@ -39030,6 +39581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lidl : Schwarz Domains und Services GmbH & Co. KG',
+			'https://www.iana.org/domains/root/db/lidl.html',
 		],
 	],
 	'life' => [
@@ -39037,6 +39589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'life : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/life.html',
 		],
 	],
 	'lifeinsurance' => [
@@ -39044,6 +39597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lifeinsurance : American Council of Life Insurers',
+			'https://www.iana.org/domains/root/db/lifeinsurance.html',
 		],
 	],
 	'lifestyle' => [
@@ -39051,6 +39605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lifestyle : Lifestyle Domain Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/lifestyle.html',
 		],
 	],
 	'lighting' => [
@@ -39058,6 +39613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lighting : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/lighting.html',
 		],
 	],
 	'like' => [
@@ -39065,6 +39621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'like : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/like.html',
 		],
 	],
 	'lilly' => [
@@ -39072,6 +39629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lilly : Eli Lilly and Company',
+			'https://www.iana.org/domains/root/db/lilly.html',
 		],
 	],
 	'limited' => [
@@ -39079,6 +39637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'limited : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/limited.html',
 		],
 	],
 	'limo' => [
@@ -39086,6 +39645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'limo : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/limo.html',
 		],
 	],
 	'lincoln' => [
@@ -39093,6 +39653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lincoln : Ford Motor Company',
+			'https://www.iana.org/domains/root/db/lincoln.html',
 		],
 	],
 	'link' => [
@@ -39100,6 +39661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'link : Nova Registry Ltd',
+			'https://www.iana.org/domains/root/db/link.html',
 		],
 	],
 	'lipsy' => [
@@ -39107,6 +39669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lipsy : Lipsy Ltd',
+			'https://www.iana.org/domains/root/db/lipsy.html',
 		],
 	],
 	'live' => [
@@ -39114,6 +39677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'live : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/live.html',
 		],
 	],
 	'living' => [
@@ -39121,6 +39685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'living : Lifestyle Domain Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/living.html',
 		],
 	],
 	'llc' => [
@@ -39128,6 +39693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'llc : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/llc.html',
 		],
 	],
 	'llp' => [
@@ -39135,6 +39701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'llp : Intercap Registry Inc.',
+			'https://www.iana.org/domains/root/db/llp.html',
 		],
 	],
 	'loan' => [
@@ -39142,6 +39709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'loan : dot Loan Limited',
+			'https://www.iana.org/domains/root/db/loan.html',
 		],
 	],
 	'loans' => [
@@ -39149,6 +39717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'loans : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/loans.html',
 		],
 	],
 	'locker' => [
@@ -39156,6 +39725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'locker : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/locker.html',
 		],
 	],
 	'locus' => [
@@ -39163,6 +39733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'locus : Locus Analytics LLC',
+			'https://www.iana.org/domains/root/db/locus.html',
 		],
 	],
 	'lol' => [
@@ -39170,6 +39741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lol : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/lol.html',
 		],
 	],
 	'london' => [
@@ -39177,6 +39749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'london : Dot London Domains Limited',
+			'https://www.iana.org/domains/root/db/london.html',
 		],
 	],
 	'lotte' => [
@@ -39184,6 +39757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lotte : Lotte Holdings Co., Ltd.',
+			'https://www.iana.org/domains/root/db/lotte.html',
 		],
 	],
 	'lotto' => [
@@ -39191,6 +39765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lotto : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/lotto.html',
 		],
 	],
 	'love' => [
@@ -39198,6 +39773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'love : Merchant Law Group LLP',
+			'https://www.iana.org/domains/root/db/love.html',
 		],
 	],
 	'lpl' => [
@@ -39205,6 +39781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lpl : LPL Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/lpl.html',
 		],
 	],
 	'lplfinancial' => [
@@ -39212,6 +39789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lplfinancial : LPL Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/lplfinancial.html',
 		],
 	],
 	'ltd' => [
@@ -39219,6 +39797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ltd : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/ltd.html',
 		],
 	],
 	'ltda' => [
@@ -39226,6 +39805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ltda : InterNetX, Corp',
+			'https://www.iana.org/domains/root/db/ltda.html',
 		],
 	],
 	'lundbeck' => [
@@ -39233,6 +39813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'lundbeck : H. Lundbeck A/S',
+			'https://www.iana.org/domains/root/db/lundbeck.html',
 		],
 	],
 	'luxe' => [
@@ -39240,6 +39821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'luxe : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/luxe.html',
 		],
 	],
 	'luxury' => [
@@ -39247,6 +39829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'luxury : Luxury Partners, LLC',
+			'https://www.iana.org/domains/root/db/luxury.html',
 		],
 	],
 	'madrid' => [
@@ -39254,6 +39837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'madrid : Comunidad de Madrid',
+			'https://www.iana.org/domains/root/db/madrid.html',
 		],
 	],
 	'maif' => [
@@ -39261,6 +39845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'maif : Mutuelle Assurance Instituteur France (MAIF)',
+			'https://www.iana.org/domains/root/db/maif.html',
 		],
 	],
 	'maison' => [
@@ -39268,6 +39853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'maison : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/maison.html',
 		],
 	],
 	'makeup' => [
@@ -39275,6 +39861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'makeup : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/makeup.html',
 		],
 	],
 	'man' => [
@@ -39282,6 +39869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'man : MAN SE',
+			'https://www.iana.org/domains/root/db/man.html',
 		],
 	],
 	'management' => [
@@ -39289,6 +39877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'management : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/management.html',
 		],
 	],
 	'mango' => [
@@ -39296,6 +39885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mango : PUNTO FA S.L.',
+			'https://www.iana.org/domains/root/db/mango.html',
 		],
 	],
 	'map' => [
@@ -39303,6 +39893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'map : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/map.html',
 		],
 	],
 	'market' => [
@@ -39310,6 +39901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'market : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/market.html',
 		],
 	],
 	'marketing' => [
@@ -39317,6 +39909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'marketing : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/marketing.html',
 		],
 	],
 	'markets' => [
@@ -39324,6 +39917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'markets : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/markets.html',
 		],
 	],
 	'marriott' => [
@@ -39331,6 +39925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'marriott : Marriott Worldwide Corporation',
+			'https://www.iana.org/domains/root/db/marriott.html',
 		],
 	],
 	'marshalls' => [
@@ -39338,6 +39933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'marshalls : The TJX Companies, Inc.',
+			'https://www.iana.org/domains/root/db/marshalls.html',
 		],
 	],
 	'mattel' => [
@@ -39345,6 +39941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mattel : Mattel Sites, Inc.',
+			'https://www.iana.org/domains/root/db/mattel.html',
 		],
 	],
 	'mba' => [
@@ -39352,6 +39949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mba : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/mba.html',
 		],
 	],
 	'mckinsey' => [
@@ -39359,6 +39957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mckinsey : McKinsey Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/mckinsey.html',
 		],
 	],
 	'med' => [
@@ -39366,6 +39965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'med : Medistry LLC',
+			'https://www.iana.org/domains/root/db/med.html',
 		],
 	],
 	'media' => [
@@ -39373,6 +39973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'media : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/media.html',
 		],
 	],
 	'meet' => [
@@ -39380,6 +39981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'meet : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/meet.html',
 		],
 	],
 	'melbourne' => [
@@ -39387,6 +39989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'melbourne : The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation',
+			'https://www.iana.org/domains/root/db/melbourne.html',
 		],
 	],
 	'meme' => [
@@ -39394,6 +39997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'meme : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/meme.html',
 		],
 	],
 	'memorial' => [
@@ -39401,6 +40005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'memorial : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/memorial.html',
 		],
 	],
 	'men' => [
@@ -39408,6 +40013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'men : Exclusive Registry Limited',
+			'https://www.iana.org/domains/root/db/men.html',
 		],
 	],
 	'menu' => [
@@ -39415,6 +40021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'menu : Dot Menu Registry, LLC',
+			'https://www.iana.org/domains/root/db/menu.html',
 		],
 	],
 	'merckmsd' => [
@@ -39422,6 +40029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'merckmsd : MSD Registry Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/merckmsd.html',
 		],
 	],
 	'miami' => [
@@ -39429,6 +40037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'miami : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/miami.html',
 		],
 	],
 	'microsoft' => [
@@ -39436,6 +40045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'microsoft : Microsoft Corporation',
+			'https://www.iana.org/domains/root/db/microsoft.html',
 		],
 	],
 	'mini' => [
@@ -39443,6 +40053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mini : Bayerische Motoren Werke Aktiengesellschaft',
+			'https://www.iana.org/domains/root/db/mini.html',
 		],
 	],
 	'mint' => [
@@ -39450,6 +40061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mint : Intuit Administrative Services, Inc.',
+			'https://www.iana.org/domains/root/db/mint.html',
 		],
 	],
 	'mit' => [
@@ -39457,6 +40069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mit : Massachusetts Institute of Technology',
+			'https://www.iana.org/domains/root/db/mit.html',
 		],
 	],
 	'mitsubishi' => [
@@ -39464,6 +40077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mitsubishi : Mitsubishi Corporation',
+			'https://www.iana.org/domains/root/db/mitsubishi.html',
 		],
 	],
 	'mlb' => [
@@ -39471,6 +40085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mlb : MLB Advanced Media DH, LLC',
+			'https://www.iana.org/domains/root/db/mlb.html',
 		],
 	],
 	'mls' => [
@@ -39478,6 +40093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mls : The Canadian Real Estate Association',
+			'https://www.iana.org/domains/root/db/mls.html',
 		],
 	],
 	'mma' => [
@@ -39485,6 +40101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mma : MMA IARD',
+			'https://www.iana.org/domains/root/db/mma.html',
 		],
 	],
 	'mobile' => [
@@ -39492,6 +40109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mobile : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/mobile.html',
 		],
 	],
 	'moda' => [
@@ -39499,6 +40117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'moda : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/moda.html',
 		],
 	],
 	'moe' => [
@@ -39506,6 +40125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'moe : Interlink Systems Innovation Institute K.K.',
+			'https://www.iana.org/domains/root/db/moe.html',
 		],
 	],
 	'moi' => [
@@ -39513,6 +40133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'moi : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/moi.html',
 		],
 	],
 	'mom' => [
@@ -39520,6 +40141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mom : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/mom.html',
 		],
 	],
 	'monash' => [
@@ -39527,6 +40149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'monash : Monash University',
+			'https://www.iana.org/domains/root/db/monash.html',
 		],
 	],
 	'money' => [
@@ -39534,6 +40157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'money : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/money.html',
 		],
 	],
 	'monster' => [
@@ -39541,6 +40165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'monster : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/monster.html',
 		],
 	],
 	'mormon' => [
@@ -39548,6 +40173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mormon : IRI Domain Management, LLC',
+			'https://www.iana.org/domains/root/db/mormon.html',
 		],
 	],
 	'mortgage' => [
@@ -39555,6 +40181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mortgage : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/mortgage.html',
 		],
 	],
 	'moscow' => [
@@ -39562,6 +40189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'moscow : Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)',
+			'https://www.iana.org/domains/root/db/moscow.html',
 		],
 	],
 	'moto' => [
@@ -39569,6 +40197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'moto : Motorola Trademark Holdings, LLC',
+			'https://www.iana.org/domains/root/db/moto.html',
 		],
 	],
 	'motorcycles' => [
@@ -39576,6 +40205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'motorcycles : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/motorcycles.html',
 		],
 	],
 	'mov' => [
@@ -39583,6 +40213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mov : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/mov.html',
 		],
 	],
 	'movie' => [
@@ -39590,6 +40221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'movie : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/movie.html',
 		],
 	],
 	'msd' => [
@@ -39597,6 +40229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'msd : MSD Registry Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/msd.html',
 		],
 	],
 	'mtn' => [
@@ -39604,6 +40237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mtn : MTN Dubai Limited',
+			'https://www.iana.org/domains/root/db/mtn.html',
 		],
 	],
 	'mtr' => [
@@ -39611,6 +40245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'mtr : MTR Corporation Limited',
+			'https://www.iana.org/domains/root/db/mtr.html',
 		],
 	],
 	'music' => [
@@ -39618,6 +40253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'music : DotMusic Limited',
+			'https://www.iana.org/domains/root/db/music.html',
 		],
 	],
 	'nab' => [
@@ -39625,6 +40261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nab : National Australia Bank Limited',
+			'https://www.iana.org/domains/root/db/nab.html',
 		],
 	],
 	'nagoya' => [
@@ -39632,6 +40269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nagoya : GMO Registry, Inc.',
+			'https://www.iana.org/domains/root/db/nagoya.html',
 		],
 	],
 	'natura' => [
@@ -39639,6 +40277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'natura : NATURA COSMÉTICOS S.A.',
+			'https://www.iana.org/domains/root/db/natura.html',
 		],
 	],
 	'navy' => [
@@ -39646,6 +40285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'navy : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/navy.html',
 		],
 	],
 	'nba' => [
@@ -39653,6 +40293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nba : NBA REGISTRY, LLC',
+			'https://www.iana.org/domains/root/db/nba.html',
 		],
 	],
 	'nec' => [
@@ -39660,6 +40301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nec : NEC Corporation',
+			'https://www.iana.org/domains/root/db/nec.html',
 		],
 	],
 	'netbank' => [
@@ -39667,6 +40309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'netbank : COMMONWEALTH BANK OF AUSTRALIA',
+			'https://www.iana.org/domains/root/db/netbank.html',
 		],
 	],
 	'netflix' => [
@@ -39674,6 +40317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'netflix : Netflix, Inc.',
+			'https://www.iana.org/domains/root/db/netflix.html',
 		],
 	],
 	'network' => [
@@ -39681,6 +40325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'network : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/network.html',
 		],
 	],
 	'neustar' => [
@@ -39688,6 +40333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'neustar : NeuStar, Inc.',
+			'https://www.iana.org/domains/root/db/neustar.html',
 		],
 	],
 	'new' => [
@@ -39695,6 +40341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'new : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/new.html',
 		],
 	],
 	'news' => [
@@ -39702,6 +40349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'news : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/news.html',
 		],
 	],
 	'next' => [
@@ -39709,6 +40357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'next : Next plc',
+			'https://www.iana.org/domains/root/db/next.html',
 		],
 	],
 	'nextdirect' => [
@@ -39716,6 +40365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nextdirect : Next plc',
+			'https://www.iana.org/domains/root/db/nextdirect.html',
 		],
 	],
 	'nexus' => [
@@ -39723,6 +40373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nexus : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/nexus.html',
 		],
 	],
 	'nfl' => [
@@ -39730,6 +40381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nfl : NFL Reg Ops LLC',
+			'https://www.iana.org/domains/root/db/nfl.html',
 		],
 	],
 	'ngo' => [
@@ -39737,6 +40389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ngo : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/ngo.html',
 		],
 	],
 	'nhk' => [
@@ -39744,6 +40397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nhk : Japan Broadcasting Corporation (NHK)',
+			'https://www.iana.org/domains/root/db/nhk.html',
 		],
 	],
 	'nico' => [
@@ -39751,6 +40405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nico : DWANGO Co., Ltd.',
+			'https://www.iana.org/domains/root/db/nico.html',
 		],
 	],
 	'nike' => [
@@ -39758,6 +40413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nike : NIKE, Inc.',
+			'https://www.iana.org/domains/root/db/nike.html',
 		],
 	],
 	'nikon' => [
@@ -39765,6 +40421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nikon : NIKON CORPORATION',
+			'https://www.iana.org/domains/root/db/nikon.html',
 		],
 	],
 	'ninja' => [
@@ -39772,6 +40429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ninja : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/ninja.html',
 		],
 	],
 	'nissan' => [
@@ -39779,6 +40437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nissan : NISSAN MOTOR CO., LTD.',
+			'https://www.iana.org/domains/root/db/nissan.html',
 		],
 	],
 	'nissay' => [
@@ -39786,6 +40445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nissay : Nippon Life Insurance Company',
+			'https://www.iana.org/domains/root/db/nissay.html',
 		],
 	],
 	'nokia' => [
@@ -39793,13 +40453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nokia : Nokia Corporation',
-		],
-	],
-	'northwesternmutual' => [
-		'suffix' => 'northwesternmutual',
-		'type' => 'ICANN',
-		'comments' => [
-			'northwesternmutual : Northwestern Mutual Registry, LLC',
+			'https://www.iana.org/domains/root/db/nokia.html',
 		],
 	],
 	'norton' => [
@@ -39807,6 +40461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'norton : NortonLifeLock Inc.',
+			'https://www.iana.org/domains/root/db/norton.html',
 		],
 	],
 	'now' => [
@@ -39814,6 +40469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'now : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/now.html',
 		],
 	],
 	'nowruz' => [
@@ -39821,6 +40477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nowruz : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'https://www.iana.org/domains/root/db/nowruz.html',
 		],
 	],
 	'nowtv' => [
@@ -39828,6 +40485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nowtv : Starbucks (HK) Limited',
+			'https://www.iana.org/domains/root/db/nowtv.html',
 		],
 	],
 	'nra' => [
@@ -39835,6 +40493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nra : NRA Holdings Company, INC.',
+			'https://www.iana.org/domains/root/db/nra.html',
 		],
 	],
 	'nrw' => [
@@ -39842,6 +40501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nrw : Minds + Machines GmbH',
+			'https://www.iana.org/domains/root/db/nrw.html',
 		],
 	],
 	'ntt' => [
@@ -39849,6 +40509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ntt : NIPPON TELEGRAPH AND TELEPHONE CORPORATION',
+			'https://www.iana.org/domains/root/db/ntt.html',
 		],
 	],
 	'nyc' => [
@@ -39856,6 +40517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nyc : The City of New York by and through the New York City Department of Information Technology & Telecommunications',
+			'https://www.iana.org/domains/root/db/nyc.html',
 		],
 	],
 	'obi' => [
@@ -39863,6 +40525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'obi : OBI Group Holding SE & Co. KGaA',
+			'https://www.iana.org/domains/root/db/obi.html',
 		],
 	],
 	'observer' => [
@@ -39870,6 +40533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'observer : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/observer.html',
 		],
 	],
 	'office' => [
@@ -39877,6 +40541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'office : Microsoft Corporation',
+			'https://www.iana.org/domains/root/db/office.html',
 		],
 	],
 	'okinawa' => [
@@ -39884,6 +40549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'okinawa : BRregistry, Inc.',
+			'https://www.iana.org/domains/root/db/okinawa.html',
 		],
 	],
 	'olayan' => [
@@ -39891,6 +40557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'olayan : Competrol (Luxembourg) Sarl',
+			'https://www.iana.org/domains/root/db/olayan.html',
 		],
 	],
 	'olayangroup' => [
@@ -39898,6 +40565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'olayangroup : Competrol (Luxembourg) Sarl',
+			'https://www.iana.org/domains/root/db/olayangroup.html',
 		],
 	],
 	'oldnavy' => [
@@ -39905,6 +40573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'oldnavy : The Gap, Inc.',
+			'https://www.iana.org/domains/root/db/oldnavy.html',
 		],
 	],
 	'ollo' => [
@@ -39912,6 +40581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ollo : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/ollo.html',
 		],
 	],
 	'omega' => [
@@ -39919,6 +40589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'omega : The Swatch Group Ltd',
+			'https://www.iana.org/domains/root/db/omega.html',
 		],
 	],
 	'one' => [
@@ -39926,6 +40597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'one : One.com A/S',
+			'https://www.iana.org/domains/root/db/one.html',
 		],
 	],
 	'ong' => [
@@ -39933,6 +40605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ong : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/ong.html',
 		],
 	],
 	'onl' => [
@@ -39940,6 +40613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'onl : iRegistry GmbH',
+			'https://www.iana.org/domains/root/db/onl.html',
 		],
 	],
 	'online' => [
@@ -39947,6 +40621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'online : Radix FZC',
+			'https://www.iana.org/domains/root/db/online.html',
 		],
 	],
 	'ooo' => [
@@ -39954,6 +40629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ooo : INFIBEAM AVENUES LIMITED',
+			'https://www.iana.org/domains/root/db/ooo.html',
 		],
 	],
 	'open' => [
@@ -39961,6 +40637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'open : American Express Travel Related Services Company, Inc.',
+			'https://www.iana.org/domains/root/db/open.html',
 		],
 	],
 	'oracle' => [
@@ -39968,6 +40645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'oracle : Oracle Corporation',
+			'https://www.iana.org/domains/root/db/oracle.html',
 		],
 	],
 	'orange' => [
@@ -39975,6 +40653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'orange : Orange Brand Services Limited',
+			'https://www.iana.org/domains/root/db/orange.html',
 		],
 	],
 	'organic' => [
@@ -39982,6 +40661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'organic : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/organic.html',
 		],
 	],
 	'origins' => [
@@ -39989,6 +40669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'origins : The Estée Lauder Companies Inc.',
+			'https://www.iana.org/domains/root/db/origins.html',
 		],
 	],
 	'osaka' => [
@@ -39996,6 +40677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'osaka : Osaka Registry Co., Ltd.',
+			'https://www.iana.org/domains/root/db/osaka.html',
 		],
 	],
 	'otsuka' => [
@@ -40003,6 +40685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'otsuka : Otsuka Holdings Co., Ltd.',
+			'https://www.iana.org/domains/root/db/otsuka.html',
 		],
 	],
 	'ott' => [
@@ -40010,6 +40693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ott : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/ott.html',
 		],
 	],
 	'ovh' => [
@@ -40017,6 +40701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ovh : MédiaBC',
+			'https://www.iana.org/domains/root/db/ovh.html',
 		],
 	],
 	'page' => [
@@ -40024,6 +40709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'page : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/page.html',
 		],
 	],
 	'panasonic' => [
@@ -40031,6 +40717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'panasonic : Panasonic Holdings Corporation',
+			'https://www.iana.org/domains/root/db/panasonic.html',
 		],
 	],
 	'paris' => [
@@ -40038,6 +40725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'paris : City of Paris',
+			'https://www.iana.org/domains/root/db/paris.html',
 		],
 	],
 	'pars' => [
@@ -40045,6 +40733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pars : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'https://www.iana.org/domains/root/db/pars.html',
 		],
 	],
 	'partners' => [
@@ -40052,6 +40741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'partners : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/partners.html',
 		],
 	],
 	'parts' => [
@@ -40059,6 +40749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'parts : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/parts.html',
 		],
 	],
 	'party' => [
@@ -40066,6 +40757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'party : Blue Sky Registry Limited',
+			'https://www.iana.org/domains/root/db/party.html',
 		],
 	],
 	'pay' => [
@@ -40073,6 +40765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pay : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/pay.html',
 		],
 	],
 	'pccw' => [
@@ -40080,6 +40773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pccw : PCCW Enterprises Limited',
+			'https://www.iana.org/domains/root/db/pccw.html',
 		],
 	],
 	'pet' => [
@@ -40087,6 +40781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pet : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/pet.html',
 		],
 	],
 	'pfizer' => [
@@ -40094,6 +40789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pfizer : Pfizer Inc.',
+			'https://www.iana.org/domains/root/db/pfizer.html',
 		],
 	],
 	'pharmacy' => [
@@ -40101,6 +40797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pharmacy : National Association of Boards of Pharmacy',
+			'https://www.iana.org/domains/root/db/pharmacy.html',
 		],
 	],
 	'phd' => [
@@ -40108,6 +40805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'phd : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/phd.html',
 		],
 	],
 	'philips' => [
@@ -40115,6 +40813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'philips : Koninklijke Philips N.V.',
+			'https://www.iana.org/domains/root/db/philips.html',
 		],
 	],
 	'phone' => [
@@ -40122,6 +40821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'phone : Dish DBS Corporation',
+			'https://www.iana.org/domains/root/db/phone.html',
 		],
 	],
 	'photo' => [
@@ -40129,6 +40829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'photo : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/photo.html',
 		],
 	],
 	'photography' => [
@@ -40136,6 +40837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'photography : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/photography.html',
 		],
 	],
 	'photos' => [
@@ -40143,6 +40845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'photos : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/photos.html',
 		],
 	],
 	'physio' => [
@@ -40150,6 +40853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'physio : PhysBiz Pty Ltd',
+			'https://www.iana.org/domains/root/db/physio.html',
 		],
 	],
 	'pics' => [
@@ -40157,6 +40861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pics : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/pics.html',
 		],
 	],
 	'pictet' => [
@@ -40164,6 +40869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pictet : Pictet Europe S.A.',
+			'https://www.iana.org/domains/root/db/pictet.html',
 		],
 	],
 	'pictures' => [
@@ -40171,6 +40877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pictures : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/pictures.html',
 		],
 	],
 	'pid' => [
@@ -40178,6 +40885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pid : Top Level Spectrum, Inc.',
+			'https://www.iana.org/domains/root/db/pid.html',
 		],
 	],
 	'pin' => [
@@ -40185,6 +40893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pin : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/pin.html',
 		],
 	],
 	'ping' => [
@@ -40192,6 +40901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ping : Ping Registry Provider, Inc.',
+			'https://www.iana.org/domains/root/db/ping.html',
 		],
 	],
 	'pink' => [
@@ -40199,6 +40909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pink : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/pink.html',
 		],
 	],
 	'pioneer' => [
@@ -40206,6 +40917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pioneer : Pioneer Corporation',
+			'https://www.iana.org/domains/root/db/pioneer.html',
 		],
 	],
 	'pizza' => [
@@ -40213,6 +40925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pizza : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/pizza.html',
 		],
 	],
 	'place' => [
@@ -40220,6 +40933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'place : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/place.html',
 		],
 	],
 	'play' => [
@@ -40227,6 +40941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'play : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/play.html',
 		],
 	],
 	'playstation' => [
@@ -40234,6 +40949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'playstation : Sony Interactive Entertainment Inc.',
+			'https://www.iana.org/domains/root/db/playstation.html',
 		],
 	],
 	'plumbing' => [
@@ -40241,6 +40957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'plumbing : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/plumbing.html',
 		],
 	],
 	'plus' => [
@@ -40248,6 +40965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'plus : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/plus.html',
 		],
 	],
 	'pnc' => [
@@ -40255,6 +40973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pnc : PNC Domain Co., LLC',
+			'https://www.iana.org/domains/root/db/pnc.html',
 		],
 	],
 	'pohl' => [
@@ -40262,6 +40981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pohl : Deutsche Vermögensberatung Aktiengesellschaft DVAG',
+			'https://www.iana.org/domains/root/db/pohl.html',
 		],
 	],
 	'poker' => [
@@ -40269,6 +40989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'poker : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/poker.html',
 		],
 	],
 	'politie' => [
@@ -40276,6 +40997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'politie : Politie Nederland',
+			'https://www.iana.org/domains/root/db/politie.html',
 		],
 	],
 	'porn' => [
@@ -40283,6 +41005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'porn : ICM Registry PN LLC',
+			'https://www.iana.org/domains/root/db/porn.html',
 		],
 	],
 	'pramerica' => [
@@ -40290,6 +41013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pramerica : Prudential Financial, Inc.',
+			'https://www.iana.org/domains/root/db/pramerica.html',
 		],
 	],
 	'praxi' => [
@@ -40297,6 +41021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'praxi : Praxi S.p.A.',
+			'https://www.iana.org/domains/root/db/praxi.html',
 		],
 	],
 	'press' => [
@@ -40304,6 +41029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'press : Radix FZC',
+			'https://www.iana.org/domains/root/db/press.html',
 		],
 	],
 	'prime' => [
@@ -40311,6 +41037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'prime : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/prime.html',
 		],
 	],
 	'prod' => [
@@ -40318,6 +41045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'prod : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/prod.html',
 		],
 	],
 	'productions' => [
@@ -40325,6 +41053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'productions : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/productions.html',
 		],
 	],
 	'prof' => [
@@ -40332,6 +41061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'prof : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/prof.html',
 		],
 	],
 	'progressive' => [
@@ -40339,6 +41069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'progressive : Progressive Casualty Insurance Company',
+			'https://www.iana.org/domains/root/db/progressive.html',
 		],
 	],
 	'promo' => [
@@ -40346,6 +41077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'promo : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/promo.html',
 		],
 	],
 	'properties' => [
@@ -40353,6 +41085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'properties : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/properties.html',
 		],
 	],
 	'property' => [
@@ -40360,6 +41093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'property : Internet Naming Company LLC',
+			'https://www.iana.org/domains/root/db/property.html',
 		],
 	],
 	'protection' => [
@@ -40367,6 +41101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'protection : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/protection.html',
 		],
 	],
 	'pru' => [
@@ -40374,6 +41109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pru : Prudential Financial, Inc.',
+			'https://www.iana.org/domains/root/db/pru.html',
 		],
 	],
 	'prudential' => [
@@ -40381,6 +41117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'prudential : Prudential Financial, Inc.',
+			'https://www.iana.org/domains/root/db/prudential.html',
 		],
 	],
 	'pub' => [
@@ -40388,6 +41125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pub : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/pub.html',
 		],
 	],
 	'pwc' => [
@@ -40395,6 +41133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pwc : PricewaterhouseCoopers LLP',
+			'https://www.iana.org/domains/root/db/pwc.html',
 		],
 	],
 	'qpon' => [
@@ -40402,6 +41141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'qpon : dotQPON LLC',
+			'https://www.iana.org/domains/root/db/qpon.html',
 		],
 	],
 	'quebec' => [
@@ -40409,6 +41149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'quebec : PointQuébec Inc',
+			'https://www.iana.org/domains/root/db/quebec.html',
 		],
 	],
 	'quest' => [
@@ -40416,6 +41157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'quest : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/quest.html',
 		],
 	],
 	'racing' => [
@@ -40423,6 +41165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'racing : Premier Registry Limited',
+			'https://www.iana.org/domains/root/db/racing.html',
 		],
 	],
 	'radio' => [
@@ -40430,6 +41173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'radio : European Broadcasting Union (EBU)',
+			'https://www.iana.org/domains/root/db/radio.html',
 		],
 	],
 	'read' => [
@@ -40437,6 +41181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'read : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/read.html',
 		],
 	],
 	'realestate' => [
@@ -40444,6 +41189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'realestate : dotRealEstate LLC',
+			'https://www.iana.org/domains/root/db/realestate.html',
 		],
 	],
 	'realtor' => [
@@ -40451,6 +41197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'realtor : Real Estate Domains LLC',
+			'https://www.iana.org/domains/root/db/realtor.html',
 		],
 	],
 	'realty' => [
@@ -40458,6 +41205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'realty : Internet Naming Company LLC',
+			'https://www.iana.org/domains/root/db/realty.html',
 		],
 	],
 	'recipes' => [
@@ -40465,6 +41213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'recipes : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/recipes.html',
 		],
 	],
 	'red' => [
@@ -40472,6 +41221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'red : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/red.html',
 		],
 	],
 	'redstone' => [
@@ -40479,6 +41229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'redstone : Redstone Haute Couture Co., Ltd.',
+			'https://www.iana.org/domains/root/db/redstone.html',
 		],
 	],
 	'redumbrella' => [
@@ -40486,6 +41237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'redumbrella : Travelers TLD, LLC',
+			'https://www.iana.org/domains/root/db/redumbrella.html',
 		],
 	],
 	'rehab' => [
@@ -40493,6 +41245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rehab : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/rehab.html',
 		],
 	],
 	'reise' => [
@@ -40500,6 +41253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'reise : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/reise.html',
 		],
 	],
 	'reisen' => [
@@ -40507,6 +41261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'reisen : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/reisen.html',
 		],
 	],
 	'reit' => [
@@ -40514,6 +41269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'reit : National Association of Real Estate Investment Trusts, Inc.',
+			'https://www.iana.org/domains/root/db/reit.html',
 		],
 	],
 	'reliance' => [
@@ -40521,6 +41277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'reliance : Reliance Industries Limited',
+			'https://www.iana.org/domains/root/db/reliance.html',
 		],
 	],
 	'ren' => [
@@ -40528,6 +41285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ren : ZDNS International Limited',
+			'https://www.iana.org/domains/root/db/ren.html',
 		],
 	],
 	'rent' => [
@@ -40535,6 +41293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rent : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/rent.html',
 		],
 	],
 	'rentals' => [
@@ -40542,6 +41301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rentals : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/rentals.html',
 		],
 	],
 	'repair' => [
@@ -40549,6 +41309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'repair : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/repair.html',
 		],
 	],
 	'report' => [
@@ -40556,6 +41317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'report : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/report.html',
 		],
 	],
 	'republican' => [
@@ -40563,6 +41325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'republican : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/republican.html',
 		],
 	],
 	'rest' => [
@@ -40570,6 +41333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rest : Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable',
+			'https://www.iana.org/domains/root/db/rest.html',
 		],
 	],
 	'restaurant' => [
@@ -40577,6 +41341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'restaurant : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/restaurant.html',
 		],
 	],
 	'review' => [
@@ -40584,6 +41349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'review : dot Review Limited',
+			'https://www.iana.org/domains/root/db/review.html',
 		],
 	],
 	'reviews' => [
@@ -40591,6 +41357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'reviews : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/reviews.html',
 		],
 	],
 	'rexroth' => [
@@ -40598,6 +41365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rexroth : Robert Bosch GMBH',
+			'https://www.iana.org/domains/root/db/rexroth.html',
 		],
 	],
 	'rich' => [
@@ -40605,6 +41373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rich : iRegistry GmbH',
+			'https://www.iana.org/domains/root/db/rich.html',
 		],
 	],
 	'richardli' => [
@@ -40612,6 +41381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'richardli : Pacific Century Asset Management (HK) Limited',
+			'https://www.iana.org/domains/root/db/richardli.html',
 		],
 	],
 	'ricoh' => [
@@ -40619,6 +41389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ricoh : Ricoh Company, Ltd.',
+			'https://www.iana.org/domains/root/db/ricoh.html',
 		],
 	],
 	'ril' => [
@@ -40626,6 +41397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ril : Reliance Industries Limited',
+			'https://www.iana.org/domains/root/db/ril.html',
 		],
 	],
 	'rio' => [
@@ -40633,6 +41405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rio : Empresa Municipal de Informática SA - IPLANRIO',
+			'https://www.iana.org/domains/root/db/rio.html',
 		],
 	],
 	'rip' => [
@@ -40640,6 +41413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rip : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/rip.html',
 		],
 	],
 	'rocher' => [
@@ -40647,6 +41421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rocher : Ferrero Trading Lux S.A.',
+			'https://www.iana.org/domains/root/db/rocher.html',
 		],
 	],
 	'rocks' => [
@@ -40654,6 +41429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rocks : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/rocks.html',
 		],
 	],
 	'rodeo' => [
@@ -40661,6 +41437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rodeo : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/rodeo.html',
 		],
 	],
 	'rogers' => [
@@ -40668,6 +41445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rogers : Rogers Communications Canada Inc.',
+			'https://www.iana.org/domains/root/db/rogers.html',
 		],
 	],
 	'room' => [
@@ -40675,6 +41453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'room : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/room.html',
 		],
 	],
 	'rsvp' => [
@@ -40682,6 +41461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rsvp : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/rsvp.html',
 		],
 	],
 	'rugby' => [
@@ -40689,6 +41469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rugby : World Rugby Strategic Developments Limited',
+			'https://www.iana.org/domains/root/db/rugby.html',
 		],
 	],
 	'ruhr' => [
@@ -40696,6 +41477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ruhr : dotSaarland GmbH',
+			'https://www.iana.org/domains/root/db/ruhr.html',
 		],
 	],
 	'run' => [
@@ -40703,6 +41485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'run : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/run.html',
 		],
 	],
 	'rwe' => [
@@ -40710,6 +41493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'rwe : RWE AG',
+			'https://www.iana.org/domains/root/db/rwe.html',
 		],
 	],
 	'ryukyu' => [
@@ -40717,6 +41501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ryukyu : BRregistry, Inc.',
+			'https://www.iana.org/domains/root/db/ryukyu.html',
 		],
 	],
 	'saarland' => [
@@ -40724,6 +41509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'saarland : dotSaarland GmbH',
+			'https://www.iana.org/domains/root/db/saarland.html',
 		],
 	],
 	'safe' => [
@@ -40731,6 +41517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'safe : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/safe.html',
 		],
 	],
 	'safety' => [
@@ -40738,6 +41525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'safety : Safety Registry Services, LLC.',
+			'https://www.iana.org/domains/root/db/safety.html',
 		],
 	],
 	'sakura' => [
@@ -40745,6 +41533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sakura : SAKURA Internet Inc.',
+			'https://www.iana.org/domains/root/db/sakura.html',
 		],
 	],
 	'sale' => [
@@ -40752,6 +41541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sale : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/sale.html',
 		],
 	],
 	'salon' => [
@@ -40759,6 +41549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'salon : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/salon.html',
 		],
 	],
 	'samsclub' => [
@@ -40766,6 +41557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'samsclub : Wal-Mart Stores, Inc.',
+			'https://www.iana.org/domains/root/db/samsclub.html',
 		],
 	],
 	'samsung' => [
@@ -40773,6 +41565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'samsung : SAMSUNG SDS CO., LTD',
+			'https://www.iana.org/domains/root/db/samsung.html',
 		],
 	],
 	'sandvik' => [
@@ -40780,6 +41573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sandvik : Sandvik AB',
+			'https://www.iana.org/domains/root/db/sandvik.html',
 		],
 	],
 	'sandvikcoromant' => [
@@ -40787,6 +41581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sandvikcoromant : Sandvik AB',
+			'https://www.iana.org/domains/root/db/sandvikcoromant.html',
 		],
 	],
 	'sanofi' => [
@@ -40794,6 +41589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sanofi : Sanofi',
+			'https://www.iana.org/domains/root/db/sanofi.html',
 		],
 	],
 	'sap' => [
@@ -40801,6 +41597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sap : SAP AG',
+			'https://www.iana.org/domains/root/db/sap.html',
 		],
 	],
 	'sarl' => [
@@ -40808,6 +41605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sarl : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/sarl.html',
 		],
 	],
 	'sas' => [
@@ -40815,6 +41613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sas : Research IP LLC',
+			'https://www.iana.org/domains/root/db/sas.html',
 		],
 	],
 	'save' => [
@@ -40822,6 +41621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'save : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/save.html',
 		],
 	],
 	'saxo' => [
@@ -40829,6 +41629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'saxo : Saxo Bank A/S',
+			'https://www.iana.org/domains/root/db/saxo.html',
 		],
 	],
 	'sbi' => [
@@ -40836,6 +41637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sbi : STATE BANK OF INDIA',
+			'https://www.iana.org/domains/root/db/sbi.html',
 		],
 	],
 	'sbs' => [
@@ -40843,6 +41645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sbs : ShortDot SA',
+			'https://www.iana.org/domains/root/db/sbs.html',
 		],
 	],
 	'sca' => [
@@ -40850,6 +41653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sca : SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)',
+			'https://www.iana.org/domains/root/db/sca.html',
 		],
 	],
 	'scb' => [
@@ -40857,6 +41661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'scb : The Siam Commercial Bank Public Company Limited ("SCB")',
+			'https://www.iana.org/domains/root/db/scb.html',
 		],
 	],
 	'schaeffler' => [
@@ -40864,6 +41669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'schaeffler : Schaeffler Technologies AG & Co. KG',
+			'https://www.iana.org/domains/root/db/schaeffler.html',
 		],
 	],
 	'schmidt' => [
@@ -40871,6 +41677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'schmidt : SCHMIDT GROUPE S.A.S.',
+			'https://www.iana.org/domains/root/db/schmidt.html',
 		],
 	],
 	'scholarships' => [
@@ -40878,6 +41685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'scholarships : Scholarships.com, LLC',
+			'https://www.iana.org/domains/root/db/scholarships.html',
 		],
 	],
 	'school' => [
@@ -40885,6 +41693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'school : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/school.html',
 		],
 	],
 	'schule' => [
@@ -40892,6 +41701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'schule : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/schule.html',
 		],
 	],
 	'schwarz' => [
@@ -40899,6 +41709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'schwarz : Schwarz Domains und Services GmbH & Co. KG',
+			'https://www.iana.org/domains/root/db/schwarz.html',
 		],
 	],
 	'science' => [
@@ -40906,6 +41717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'science : dot Science Limited',
+			'https://www.iana.org/domains/root/db/science.html',
 		],
 	],
 	'scot' => [
@@ -40913,6 +41725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'scot : Dot Scot Registry Limited',
+			'https://www.iana.org/domains/root/db/scot.html',
 		],
 	],
 	'search' => [
@@ -40920,6 +41733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'search : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/search.html',
 		],
 	],
 	'seat' => [
@@ -40927,6 +41741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'seat : SEAT, S.A. (Sociedad Unipersonal)',
+			'https://www.iana.org/domains/root/db/seat.html',
 		],
 	],
 	'secure' => [
@@ -40934,6 +41749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'secure : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/secure.html',
 		],
 	],
 	'security' => [
@@ -40941,6 +41757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'security : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/security.html',
 		],
 	],
 	'seek' => [
@@ -40948,6 +41765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'seek : Seek Limited',
+			'https://www.iana.org/domains/root/db/seek.html',
 		],
 	],
 	'select' => [
@@ -40955,6 +41773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'select : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/select.html',
 		],
 	],
 	'sener' => [
@@ -40962,6 +41781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sener : Sener Ingeniería y Sistemas, S.A.',
+			'https://www.iana.org/domains/root/db/sener.html',
 		],
 	],
 	'services' => [
@@ -40969,6 +41789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'services : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/services.html',
 		],
 	],
 	'seven' => [
@@ -40976,6 +41797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'seven : Seven West Media Ltd',
+			'https://www.iana.org/domains/root/db/seven.html',
 		],
 	],
 	'sew' => [
@@ -40983,6 +41805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sew : SEW-EURODRIVE GmbH & Co KG',
+			'https://www.iana.org/domains/root/db/sew.html',
 		],
 	],
 	'sex' => [
@@ -40990,6 +41813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sex : ICM Registry SX LLC',
+			'https://www.iana.org/domains/root/db/sex.html',
 		],
 	],
 	'sexy' => [
@@ -40997,6 +41821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sexy : Internet Naming Company LLC',
+			'https://www.iana.org/domains/root/db/sexy.html',
 		],
 	],
 	'sfr' => [
@@ -41004,6 +41829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sfr : Societe Francaise du Radiotelephone - SFR',
+			'https://www.iana.org/domains/root/db/sfr.html',
 		],
 	],
 	'shangrila' => [
@@ -41011,6 +41837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shangrila : Shangri‐La International Hotel Management Limited',
+			'https://www.iana.org/domains/root/db/shangrila.html',
 		],
 	],
 	'sharp' => [
@@ -41018,6 +41845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sharp : Sharp Corporation',
+			'https://www.iana.org/domains/root/db/sharp.html',
 		],
 	],
 	'shaw' => [
@@ -41025,6 +41853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shaw : Shaw Cablesystems G.P.',
+			'https://www.iana.org/domains/root/db/shaw.html',
 		],
 	],
 	'shell' => [
@@ -41032,6 +41861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shell : Shell Information Technology International Inc',
+			'https://www.iana.org/domains/root/db/shell.html',
 		],
 	],
 	'shia' => [
@@ -41039,6 +41869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shia : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'https://www.iana.org/domains/root/db/shia.html',
 		],
 	],
 	'shiksha' => [
@@ -41046,6 +41877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shiksha : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/shiksha.html',
 		],
 	],
 	'shoes' => [
@@ -41053,6 +41885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shoes : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/shoes.html',
 		],
 	],
 	'shop' => [
@@ -41060,6 +41893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shop : GMO Registry, Inc.',
+			'https://www.iana.org/domains/root/db/shop.html',
 		],
 	],
 	'shopping' => [
@@ -41067,6 +41901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shopping : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/shopping.html',
 		],
 	],
 	'shouji' => [
@@ -41074,6 +41909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'shouji : Beijing Qihu Keji Co., Ltd.',
+			'https://www.iana.org/domains/root/db/shouji.html',
 		],
 	],
 	'show' => [
@@ -41081,6 +41917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'show : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/show.html',
 		],
 	],
 	'showtime' => [
@@ -41088,6 +41925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'showtime : CBS Domains Inc.',
+			'https://www.iana.org/domains/root/db/showtime.html',
 		],
 	],
 	'silk' => [
@@ -41095,6 +41933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'silk : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/silk.html',
 		],
 	],
 	'sina' => [
@@ -41102,6 +41941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sina : Sina Corporation',
+			'https://www.iana.org/domains/root/db/sina.html',
 		],
 	],
 	'singles' => [
@@ -41109,6 +41949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'singles : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/singles.html',
 		],
 	],
 	'site' => [
@@ -41116,6 +41957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'site : Radix FZC',
+			'https://www.iana.org/domains/root/db/site.html',
 		],
 	],
 	'ski' => [
@@ -41123,6 +41965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ski : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/ski.html',
 		],
 	],
 	'skin' => [
@@ -41130,6 +41973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'skin : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/skin.html',
 		],
 	],
 	'sky' => [
@@ -41137,6 +41981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sky : Sky International AG',
+			'https://www.iana.org/domains/root/db/sky.html',
 		],
 	],
 	'skype' => [
@@ -41144,6 +41989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'skype : Microsoft Corporation',
+			'https://www.iana.org/domains/root/db/skype.html',
 		],
 	],
 	'sling' => [
@@ -41151,6 +41997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sling : DISH Technologies L.L.C.',
+			'https://www.iana.org/domains/root/db/sling.html',
 		],
 	],
 	'smart' => [
@@ -41158,6 +42005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'smart : Smart Communications, Inc. (SMART)',
+			'https://www.iana.org/domains/root/db/smart.html',
 		],
 	],
 	'smile' => [
@@ -41165,6 +42013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'smile : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/smile.html',
 		],
 	],
 	'sncf' => [
@@ -41172,6 +42021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sncf : Société Nationale SNCF',
+			'https://www.iana.org/domains/root/db/sncf.html',
 		],
 	],
 	'soccer' => [
@@ -41179,6 +42029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'soccer : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/soccer.html',
 		],
 	],
 	'social' => [
@@ -41186,6 +42037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'social : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/social.html',
 		],
 	],
 	'softbank' => [
@@ -41193,6 +42045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'softbank : SoftBank Group Corp.',
+			'https://www.iana.org/domains/root/db/softbank.html',
 		],
 	],
 	'software' => [
@@ -41200,6 +42053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'software : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/software.html',
 		],
 	],
 	'sohu' => [
@@ -41207,6 +42061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sohu : Sohu.com Limited',
+			'https://www.iana.org/domains/root/db/sohu.html',
 		],
 	],
 	'solar' => [
@@ -41214,6 +42069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'solar : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/solar.html',
 		],
 	],
 	'solutions' => [
@@ -41221,6 +42077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'solutions : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/solutions.html',
 		],
 	],
 	'song' => [
@@ -41228,6 +42085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'song : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/song.html',
 		],
 	],
 	'sony' => [
@@ -41235,6 +42093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sony : Sony Corporation',
+			'https://www.iana.org/domains/root/db/sony.html',
 		],
 	],
 	'soy' => [
@@ -41242,6 +42101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'soy : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/soy.html',
 		],
 	],
 	'spa' => [
@@ -41249,6 +42109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'spa : Asia Spa and Wellness Promotion Council Limited',
+			'https://www.iana.org/domains/root/db/spa.html',
 		],
 	],
 	'space' => [
@@ -41256,6 +42117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'space : Radix FZC',
+			'https://www.iana.org/domains/root/db/space.html',
 		],
 	],
 	'sport' => [
@@ -41263,6 +42125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sport : SportAccord',
+			'https://www.iana.org/domains/root/db/sport.html',
 		],
 	],
 	'spot' => [
@@ -41270,6 +42133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'spot : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/spot.html',
 		],
 	],
 	'srl' => [
@@ -41277,6 +42141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'srl : InterNetX, Corp',
+			'https://www.iana.org/domains/root/db/srl.html',
 		],
 	],
 	'stada' => [
@@ -41284,6 +42149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'stada : STADA Arzneimittel AG',
+			'https://www.iana.org/domains/root/db/stada.html',
 		],
 	],
 	'staples' => [
@@ -41291,6 +42157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'staples : Staples, Inc.',
+			'https://www.iana.org/domains/root/db/staples.html',
 		],
 	],
 	'star' => [
@@ -41298,6 +42165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'star : Star India Private Limited',
+			'https://www.iana.org/domains/root/db/star.html',
 		],
 	],
 	'statebank' => [
@@ -41305,6 +42173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'statebank : STATE BANK OF INDIA',
+			'https://www.iana.org/domains/root/db/statebank.html',
 		],
 	],
 	'statefarm' => [
@@ -41312,6 +42181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'statefarm : State Farm Mutual Automobile Insurance Company',
+			'https://www.iana.org/domains/root/db/statefarm.html',
 		],
 	],
 	'stc' => [
@@ -41319,6 +42189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'stc : Saudi Telecom Company',
+			'https://www.iana.org/domains/root/db/stc.html',
 		],
 	],
 	'stcgroup' => [
@@ -41326,6 +42197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'stcgroup : Saudi Telecom Company',
+			'https://www.iana.org/domains/root/db/stcgroup.html',
 		],
 	],
 	'stockholm' => [
@@ -41333,6 +42205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'stockholm : Stockholms kommun',
+			'https://www.iana.org/domains/root/db/stockholm.html',
 		],
 	],
 	'storage' => [
@@ -41340,6 +42213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'storage : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/storage.html',
 		],
 	],
 	'store' => [
@@ -41347,6 +42221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'store : Radix FZC',
+			'https://www.iana.org/domains/root/db/store.html',
 		],
 	],
 	'stream' => [
@@ -41354,6 +42229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'stream : dot Stream Limited',
+			'https://www.iana.org/domains/root/db/stream.html',
 		],
 	],
 	'studio' => [
@@ -41361,6 +42237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'studio : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/studio.html',
 		],
 	],
 	'study' => [
@@ -41368,6 +42245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'study : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/study.html',
 		],
 	],
 	'style' => [
@@ -41375,6 +42253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'style : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/style.html',
 		],
 	],
 	'sucks' => [
@@ -41382,6 +42261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sucks : Vox Populi Registry Ltd.',
+			'https://www.iana.org/domains/root/db/sucks.html',
 		],
 	],
 	'supplies' => [
@@ -41389,6 +42269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'supplies : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/supplies.html',
 		],
 	],
 	'supply' => [
@@ -41396,6 +42277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'supply : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/supply.html',
 		],
 	],
 	'support' => [
@@ -41403,6 +42285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'support : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/support.html',
 		],
 	],
 	'surf' => [
@@ -41410,6 +42293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'surf : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/surf.html',
 		],
 	],
 	'surgery' => [
@@ -41417,6 +42301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'surgery : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/surgery.html',
 		],
 	],
 	'suzuki' => [
@@ -41424,6 +42309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'suzuki : SUZUKI MOTOR CORPORATION',
+			'https://www.iana.org/domains/root/db/suzuki.html',
 		],
 	],
 	'swatch' => [
@@ -41431,6 +42317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'swatch : The Swatch Group Ltd',
+			'https://www.iana.org/domains/root/db/swatch.html',
 		],
 	],
 	'swiss' => [
@@ -41438,6 +42325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'swiss : Swiss Confederation',
+			'https://www.iana.org/domains/root/db/swiss.html',
 		],
 	],
 	'sydney' => [
@@ -41445,6 +42333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sydney : State of New South Wales, Department of Premier and Cabinet',
+			'https://www.iana.org/domains/root/db/sydney.html',
 		],
 	],
 	'systems' => [
@@ -41452,6 +42341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'systems : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/systems.html',
 		],
 	],
 	'tab' => [
@@ -41459,6 +42349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tab : Tabcorp Holdings Limited',
+			'https://www.iana.org/domains/root/db/tab.html',
 		],
 	],
 	'taipei' => [
@@ -41466,6 +42357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'taipei : Taipei City Government',
+			'https://www.iana.org/domains/root/db/taipei.html',
 		],
 	],
 	'talk' => [
@@ -41473,6 +42365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'talk : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/talk.html',
 		],
 	],
 	'taobao' => [
@@ -41480,6 +42373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'taobao : Alibaba Group Holding Limited',
+			'https://www.iana.org/domains/root/db/taobao.html',
 		],
 	],
 	'target' => [
@@ -41487,6 +42381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'target : Target Domain Holdings, LLC',
+			'https://www.iana.org/domains/root/db/target.html',
 		],
 	],
 	'tatamotors' => [
@@ -41494,6 +42389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tatamotors : Tata Motors Ltd',
+			'https://www.iana.org/domains/root/db/tatamotors.html',
 		],
 	],
 	'tatar' => [
@@ -41501,6 +42397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tatar : Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"',
+			'https://www.iana.org/domains/root/db/tatar.html',
 		],
 	],
 	'tattoo' => [
@@ -41508,6 +42405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tattoo : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/tattoo.html',
 		],
 	],
 	'tax' => [
@@ -41515,6 +42413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tax : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/tax.html',
 		],
 	],
 	'taxi' => [
@@ -41522,6 +42421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'taxi : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/taxi.html',
 		],
 	],
 	'tci' => [
@@ -41529,6 +42429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tci : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'https://www.iana.org/domains/root/db/tci.html',
 		],
 	],
 	'tdk' => [
@@ -41536,6 +42437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tdk : TDK Corporation',
+			'https://www.iana.org/domains/root/db/tdk.html',
 		],
 	],
 	'team' => [
@@ -41543,6 +42445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'team : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/team.html',
 		],
 	],
 	'tech' => [
@@ -41550,6 +42453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tech : Radix FZC',
+			'https://www.iana.org/domains/root/db/tech.html',
 		],
 	],
 	'technology' => [
@@ -41557,6 +42461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'technology : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/technology.html',
 		],
 	],
 	'temasek' => [
@@ -41564,6 +42469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'temasek : Temasek Holdings (Private) Limited',
+			'https://www.iana.org/domains/root/db/temasek.html',
 		],
 	],
 	'tennis' => [
@@ -41571,6 +42477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tennis : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/tennis.html',
 		],
 	],
 	'teva' => [
@@ -41578,6 +42485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'teva : Teva Pharmaceutical Industries Limited',
+			'https://www.iana.org/domains/root/db/teva.html',
 		],
 	],
 	'thd' => [
@@ -41585,6 +42493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'thd : Home Depot Product Authority, LLC',
+			'https://www.iana.org/domains/root/db/thd.html',
 		],
 	],
 	'theater' => [
@@ -41592,6 +42501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'theater : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/theater.html',
 		],
 	],
 	'theatre' => [
@@ -41599,6 +42509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'theatre : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/theatre.html',
 		],
 	],
 	'tiaa' => [
@@ -41606,6 +42517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tiaa : Teachers Insurance and Annuity Association of America',
+			'https://www.iana.org/domains/root/db/tiaa.html',
 		],
 	],
 	'tickets' => [
@@ -41613,6 +42525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tickets : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/tickets.html',
 		],
 	],
 	'tienda' => [
@@ -41620,6 +42533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tienda : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/tienda.html',
 		],
 	],
 	'tips' => [
@@ -41627,6 +42541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tips : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/tips.html',
 		],
 	],
 	'tires' => [
@@ -41634,6 +42549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tires : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/tires.html',
 		],
 	],
 	'tirol' => [
@@ -41641,6 +42557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tirol : punkt Tirol GmbH',
+			'https://www.iana.org/domains/root/db/tirol.html',
 		],
 	],
 	'tjmaxx' => [
@@ -41648,6 +42565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tjmaxx : The TJX Companies, Inc.',
+			'https://www.iana.org/domains/root/db/tjmaxx.html',
 		],
 	],
 	'tjx' => [
@@ -41655,6 +42573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tjx : The TJX Companies, Inc.',
+			'https://www.iana.org/domains/root/db/tjx.html',
 		],
 	],
 	'tkmaxx' => [
@@ -41662,6 +42581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tkmaxx : The TJX Companies, Inc.',
+			'https://www.iana.org/domains/root/db/tkmaxx.html',
 		],
 	],
 	'tmall' => [
@@ -41669,6 +42589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tmall : Alibaba Group Holding Limited',
+			'https://www.iana.org/domains/root/db/tmall.html',
 		],
 	],
 	'today' => [
@@ -41676,6 +42597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'today : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/today.html',
 		],
 	],
 	'tokyo' => [
@@ -41683,6 +42605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tokyo : GMO Registry, Inc.',
+			'https://www.iana.org/domains/root/db/tokyo.html',
 		],
 	],
 	'tools' => [
@@ -41690,6 +42613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tools : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/tools.html',
 		],
 	],
 	'top' => [
@@ -41697,6 +42621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'top : .TOP Registry',
+			'https://www.iana.org/domains/root/db/top.html',
 		],
 	],
 	'toray' => [
@@ -41704,6 +42629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'toray : Toray Industries, Inc.',
+			'https://www.iana.org/domains/root/db/toray.html',
 		],
 	],
 	'toshiba' => [
@@ -41711,6 +42637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'toshiba : TOSHIBA Corporation',
+			'https://www.iana.org/domains/root/db/toshiba.html',
 		],
 	],
 	'total' => [
@@ -41718,6 +42645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'total : TotalEnergies SE',
+			'https://www.iana.org/domains/root/db/total.html',
 		],
 	],
 	'tours' => [
@@ -41725,6 +42653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tours : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/tours.html',
 		],
 	],
 	'town' => [
@@ -41732,6 +42661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'town : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/town.html',
 		],
 	],
 	'toyota' => [
@@ -41739,6 +42669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'toyota : TOYOTA MOTOR CORPORATION',
+			'https://www.iana.org/domains/root/db/toyota.html',
 		],
 	],
 	'toys' => [
@@ -41746,6 +42677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'toys : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/toys.html',
 		],
 	],
 	'trade' => [
@@ -41753,6 +42685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'trade : Elite Registry Limited',
+			'https://www.iana.org/domains/root/db/trade.html',
 		],
 	],
 	'trading' => [
@@ -41760,6 +42693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'trading : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/trading.html',
 		],
 	],
 	'training' => [
@@ -41767,6 +42701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'training : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/training.html',
 		],
 	],
 	'travel' => [
@@ -41774,6 +42709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'travel : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/travel.html',
 		],
 	],
 	'travelers' => [
@@ -41781,6 +42717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'travelers : Travelers TLD, LLC',
+			'https://www.iana.org/domains/root/db/travelers.html',
 		],
 	],
 	'travelersinsurance' => [
@@ -41788,6 +42725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'travelersinsurance : Travelers TLD, LLC',
+			'https://www.iana.org/domains/root/db/travelersinsurance.html',
 		],
 	],
 	'trust' => [
@@ -41795,6 +42733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'trust : Internet Naming Company LLC',
+			'https://www.iana.org/domains/root/db/trust.html',
 		],
 	],
 	'trv' => [
@@ -41802,6 +42741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'trv : Travelers TLD, LLC',
+			'https://www.iana.org/domains/root/db/trv.html',
 		],
 	],
 	'tube' => [
@@ -41809,6 +42749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tube : Latin American Telecom LLC',
+			'https://www.iana.org/domains/root/db/tube.html',
 		],
 	],
 	'tui' => [
@@ -41816,6 +42757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tui : TUI AG',
+			'https://www.iana.org/domains/root/db/tui.html',
 		],
 	],
 	'tunes' => [
@@ -41823,6 +42765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tunes : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/tunes.html',
 		],
 	],
 	'tushu' => [
@@ -41830,6 +42773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tushu : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/tushu.html',
 		],
 	],
 	'tvs' => [
@@ -41837,6 +42781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tvs : T V SUNDRAM IYENGAR  & SONS LIMITED',
+			'https://www.iana.org/domains/root/db/tvs.html',
 		],
 	],
 	'ubank' => [
@@ -41844,6 +42789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ubank : National Australia Bank Limited',
+			'https://www.iana.org/domains/root/db/ubank.html',
 		],
 	],
 	'ubs' => [
@@ -41851,6 +42797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ubs : UBS AG',
+			'https://www.iana.org/domains/root/db/ubs.html',
 		],
 	],
 	'unicom' => [
@@ -41858,6 +42805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'unicom : China United Network Communications Corporation Limited',
+			'https://www.iana.org/domains/root/db/unicom.html',
 		],
 	],
 	'university' => [
@@ -41865,6 +42813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'university : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/university.html',
 		],
 	],
 	'uno' => [
@@ -41872,6 +42821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'uno : Radix FZC',
+			'https://www.iana.org/domains/root/db/uno.html',
 		],
 	],
 	'uol' => [
@@ -41879,6 +42829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'uol : UBN INTERNET LTDA.',
+			'https://www.iana.org/domains/root/db/uol.html',
 		],
 	],
 	'ups' => [
@@ -41886,6 +42837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ups : UPS Market Driver, Inc.',
+			'https://www.iana.org/domains/root/db/ups.html',
 		],
 	],
 	'vacations' => [
@@ -41893,6 +42845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vacations : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/vacations.html',
 		],
 	],
 	'vana' => [
@@ -41900,6 +42853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vana : Lifestyle Domain Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/vana.html',
 		],
 	],
 	'vanguard' => [
@@ -41907,6 +42861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vanguard : The Vanguard Group, Inc.',
+			'https://www.iana.org/domains/root/db/vanguard.html',
 		],
 	],
 	'vegas' => [
@@ -41914,6 +42869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vegas : Dot Vegas, Inc.',
+			'https://www.iana.org/domains/root/db/vegas.html',
 		],
 	],
 	'ventures' => [
@@ -41921,6 +42877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ventures : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/ventures.html',
 		],
 	],
 	'verisign' => [
@@ -41928,6 +42885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'verisign : VeriSign, Inc.',
+			'https://www.iana.org/domains/root/db/verisign.html',
 		],
 	],
 	'versicherung' => [
@@ -41935,6 +42893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'versicherung : tldbox GmbH',
+			'https://www.iana.org/domains/root/db/versicherung.html',
 		],
 	],
 	'vet' => [
@@ -41942,6 +42901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vet : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/vet.html',
 		],
 	],
 	'viajes' => [
@@ -41949,6 +42909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'viajes : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/viajes.html',
 		],
 	],
 	'video' => [
@@ -41956,6 +42917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'video : Dog Beach, LLC',
+			'https://www.iana.org/domains/root/db/video.html',
 		],
 	],
 	'vig' => [
@@ -41963,6 +42925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vig : VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe',
+			'https://www.iana.org/domains/root/db/vig.html',
 		],
 	],
 	'viking' => [
@@ -41970,6 +42933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'viking : Viking River Cruises (Bermuda) Ltd.',
+			'https://www.iana.org/domains/root/db/viking.html',
 		],
 	],
 	'villas' => [
@@ -41977,6 +42941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'villas : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/villas.html',
 		],
 	],
 	'vin' => [
@@ -41984,6 +42949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vin : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/vin.html',
 		],
 	],
 	'vip' => [
@@ -41991,6 +42957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vip : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/vip.html',
 		],
 	],
 	'virgin' => [
@@ -41998,6 +42965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'virgin : Virgin Enterprises Limited',
+			'https://www.iana.org/domains/root/db/virgin.html',
 		],
 	],
 	'visa' => [
@@ -42005,6 +42973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'visa : Visa Worldwide Pte. Limited',
+			'https://www.iana.org/domains/root/db/visa.html',
 		],
 	],
 	'vision' => [
@@ -42012,6 +42981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vision : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/vision.html',
 		],
 	],
 	'viva' => [
@@ -42019,6 +42989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'viva : Saudi Telecom Company',
+			'https://www.iana.org/domains/root/db/viva.html',
 		],
 	],
 	'vivo' => [
@@ -42026,6 +42997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vivo : Telefonica Brasil S.A.',
+			'https://www.iana.org/domains/root/db/vivo.html',
 		],
 	],
 	'vlaanderen' => [
@@ -42033,6 +43005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vlaanderen : DNS.be vzw',
+			'https://www.iana.org/domains/root/db/vlaanderen.html',
 		],
 	],
 	'vodka' => [
@@ -42040,6 +43013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vodka : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/vodka.html',
 		],
 	],
 	'volkswagen' => [
@@ -42047,6 +43021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'volkswagen : Volkswagen Group of America Inc.',
+			'https://www.iana.org/domains/root/db/volkswagen.html',
 		],
 	],
 	'volvo' => [
@@ -42054,6 +43029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'volvo : Volvo Holding Sverige Aktiebolag',
+			'https://www.iana.org/domains/root/db/volvo.html',
 		],
 	],
 	'vote' => [
@@ -42061,6 +43037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vote : Monolith Registry LLC',
+			'https://www.iana.org/domains/root/db/vote.html',
 		],
 	],
 	'voting' => [
@@ -42068,6 +43045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'voting : Valuetainment Corp.',
+			'https://www.iana.org/domains/root/db/voting.html',
 		],
 	],
 	'voto' => [
@@ -42075,6 +43053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'voto : Monolith Registry LLC',
+			'https://www.iana.org/domains/root/db/voto.html',
 		],
 	],
 	'voyage' => [
@@ -42082,6 +43061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'voyage : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/voyage.html',
 		],
 	],
 	'wales' => [
@@ -42089,6 +43069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wales : Nominet UK',
+			'https://www.iana.org/domains/root/db/wales.html',
 		],
 	],
 	'walmart' => [
@@ -42096,6 +43077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'walmart : Wal-Mart Stores, Inc.',
+			'https://www.iana.org/domains/root/db/walmart.html',
 		],
 	],
 	'walter' => [
@@ -42103,6 +43085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'walter : Sandvik AB',
+			'https://www.iana.org/domains/root/db/walter.html',
 		],
 	],
 	'wang' => [
@@ -42110,6 +43093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wang : Zodiac Wang Limited',
+			'https://www.iana.org/domains/root/db/wang.html',
 		],
 	],
 	'wanggou' => [
@@ -42117,6 +43101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wanggou : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/wanggou.html',
 		],
 	],
 	'watch' => [
@@ -42124,6 +43109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'watch : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/watch.html',
 		],
 	],
 	'watches' => [
@@ -42131,6 +43117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'watches : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/watches.html',
 		],
 	],
 	'weather' => [
@@ -42138,6 +43125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'weather : International Business Machines Corporation',
+			'https://www.iana.org/domains/root/db/weather.html',
 		],
 	],
 	'weatherchannel' => [
@@ -42145,6 +43133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'weatherchannel : International Business Machines Corporation',
+			'https://www.iana.org/domains/root/db/weatherchannel.html',
 		],
 	],
 	'webcam' => [
@@ -42152,6 +43141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'webcam : dot Webcam Limited',
+			'https://www.iana.org/domains/root/db/webcam.html',
 		],
 	],
 	'weber' => [
@@ -42159,6 +43149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'weber : Saint-Gobain Weber SA',
+			'https://www.iana.org/domains/root/db/weber.html',
 		],
 	],
 	'website' => [
@@ -42166,6 +43157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'website : Radix FZC',
+			'https://www.iana.org/domains/root/db/website.html',
 		],
 	],
 	'wedding' => [
@@ -42173,6 +43165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wedding : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/wedding.html',
 		],
 	],
 	'weibo' => [
@@ -42180,6 +43173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'weibo : Sina Corporation',
+			'https://www.iana.org/domains/root/db/weibo.html',
 		],
 	],
 	'weir' => [
@@ -42187,6 +43181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'weir : Weir Group IP Limited',
+			'https://www.iana.org/domains/root/db/weir.html',
 		],
 	],
 	'whoswho' => [
@@ -42194,6 +43189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'whoswho : Who\'s Who Registry',
+			'https://www.iana.org/domains/root/db/whoswho.html',
 		],
 	],
 	'wien' => [
@@ -42201,6 +43197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wien : punkt.wien GmbH',
+			'https://www.iana.org/domains/root/db/wien.html',
 		],
 	],
 	'wiki' => [
@@ -42208,6 +43205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wiki : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/wiki.html',
 		],
 	],
 	'williamhill' => [
@@ -42215,6 +43213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'williamhill : William Hill Organization Limited',
+			'https://www.iana.org/domains/root/db/williamhill.html',
 		],
 	],
 	'win' => [
@@ -42222,6 +43221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'win : First Registry Limited',
+			'https://www.iana.org/domains/root/db/win.html',
 		],
 	],
 	'windows' => [
@@ -42229,6 +43229,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'windows : Microsoft Corporation',
+			'https://www.iana.org/domains/root/db/windows.html',
 		],
 	],
 	'wine' => [
@@ -42236,6 +43237,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wine : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/wine.html',
 		],
 	],
 	'winners' => [
@@ -42243,6 +43245,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'winners : The TJX Companies, Inc.',
+			'https://www.iana.org/domains/root/db/winners.html',
 		],
 	],
 	'wme' => [
@@ -42250,6 +43253,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wme : William Morris Endeavor Entertainment, LLC',
+			'https://www.iana.org/domains/root/db/wme.html',
 		],
 	],
 	'wolterskluwer' => [
@@ -42257,6 +43261,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wolterskluwer : Wolters Kluwer N.V.',
+			'https://www.iana.org/domains/root/db/wolterskluwer.html',
 		],
 	],
 	'woodside' => [
@@ -42264,6 +43269,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'woodside : Woodside Petroleum Limited',
+			'https://www.iana.org/domains/root/db/woodside.html',
 		],
 	],
 	'work' => [
@@ -42271,6 +43277,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'work : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/work.html',
 		],
 	],
 	'works' => [
@@ -42278,6 +43285,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'works : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/works.html',
 		],
 	],
 	'world' => [
@@ -42285,6 +43293,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'world : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/world.html',
 		],
 	],
 	'wow' => [
@@ -42292,6 +43301,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wow : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/wow.html',
 		],
 	],
 	'wtc' => [
@@ -42299,6 +43309,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wtc : World Trade Centers Association, Inc.',
+			'https://www.iana.org/domains/root/db/wtc.html',
 		],
 	],
 	'wtf' => [
@@ -42306,6 +43317,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'wtf : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/wtf.html',
 		],
 	],
 	'xbox' => [
@@ -42313,6 +43325,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xbox : Microsoft Corporation',
+			'https://www.iana.org/domains/root/db/xbox.html',
 		],
 	],
 	'xerox' => [
@@ -42320,6 +43333,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xerox : Xerox DNHC LLC',
+			'https://www.iana.org/domains/root/db/xerox.html',
 		],
 	],
 	'xfinity' => [
@@ -42327,6 +43341,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xfinity : Comcast IP Holdings I, LLC',
+			'https://www.iana.org/domains/root/db/xfinity.html',
 		],
 	],
 	'xihuan' => [
@@ -42334,6 +43349,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xihuan : Beijing Qihu Keji Co., Ltd.',
+			'https://www.iana.org/domains/root/db/xihuan.html',
 		],
 	],
 	'xin' => [
@@ -42341,6 +43357,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xin : Elegant Leader Limited',
+			'https://www.iana.org/domains/root/db/xin.html',
 		],
 	],
 	'कॉम' => [
@@ -42348,6 +43365,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--11b4c3d : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--11b4c3d.html',
 		],
 	],
 	'セール' => [
@@ -42355,6 +43373,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--1ck2e1b : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--1ck2e1b.html',
 		],
 	],
 	'佛山' => [
@@ -42362,6 +43381,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--1qqw23a : Guangzhou YU Wei Information Technology Co., Ltd.',
+			'https://www.iana.org/domains/root/db/xn--1qqw23a.html',
 		],
 	],
 	'慈善' => [
@@ -42369,6 +43389,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--30rr7y : Excellent First Limited',
+			'https://www.iana.org/domains/root/db/xn--30rr7y.html',
 		],
 	],
 	'集团' => [
@@ -42376,6 +43397,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--3bst00m : Eagle Horizon Limited',
+			'https://www.iana.org/domains/root/db/xn--3bst00m.html',
 		],
 	],
 	'在线' => [
@@ -42383,6 +43405,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--3ds443g : TLD REGISTRY LIMITED OY',
+			'https://www.iana.org/domains/root/db/xn--3ds443g.html',
 		],
 	],
 	'点看' => [
@@ -42390,6 +43413,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--3pxu8k : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--3pxu8k.html',
 		],
 	],
 	'คอม' => [
@@ -42397,6 +43421,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--42c2d9a : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--42c2d9a.html',
 		],
 	],
 	'八卦' => [
@@ -42404,6 +43429,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--45q11c : Zodiac Gemini Ltd',
+			'https://www.iana.org/domains/root/db/xn--45q11c.html',
 		],
 	],
 	'موقع' => [
@@ -42411,6 +43437,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--4gbrim : Helium TLDs Ltd',
+			'https://www.iana.org/domains/root/db/xn--4gbrim.html',
 		],
 	],
 	'公益' => [
@@ -42418,6 +43445,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--55qw42g : China Organizational Name Administration Center',
+			'https://www.iana.org/domains/root/db/xn--55qw42g.html',
 		],
 	],
 	'公司' => [
@@ -42425,6 +43453,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--55qx5d : China Internet Network Information Center (CNNIC)',
+			'https://www.iana.org/domains/root/db/xn--55qx5d.html',
 		],
 	],
 	'香格里拉' => [
@@ -42432,6 +43461,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--5su34j936bgsg : Shangri‐La International Hotel Management Limited',
+			'https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html',
 		],
 	],
 	'网站' => [
@@ -42439,6 +43469,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--5tzm5g : Global Website TLD Asia Limited',
+			'https://www.iana.org/domains/root/db/xn--5tzm5g.html',
 		],
 	],
 	'移动' => [
@@ -42446,6 +43477,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--6frz82g : Identity Digital Limited',
+			'https://www.iana.org/domains/root/db/xn--6frz82g.html',
 		],
 	],
 	'我爱你' => [
@@ -42453,6 +43485,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--6qq986b3xl : Tycoon Treasure Limited',
+			'https://www.iana.org/domains/root/db/xn--6qq986b3xl.html',
 		],
 	],
 	'москва' => [
@@ -42460,6 +43493,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--80adxhks : Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)',
+			'https://www.iana.org/domains/root/db/xn--80adxhks.html',
 		],
 	],
 	'католик' => [
@@ -42467,6 +43501,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--80aqecdr1a : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
+			'https://www.iana.org/domains/root/db/xn--80aqecdr1a.html',
 		],
 	],
 	'онлайн' => [
@@ -42474,6 +43509,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--80asehdb : CORE Association',
+			'https://www.iana.org/domains/root/db/xn--80asehdb.html',
 		],
 	],
 	'сайт' => [
@@ -42481,6 +43517,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--80aswg : CORE Association',
+			'https://www.iana.org/domains/root/db/xn--80aswg.html',
 		],
 	],
 	'联通' => [
@@ -42488,6 +43525,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--8y0a063a : China United Network Communications Corporation Limited',
+			'https://www.iana.org/domains/root/db/xn--8y0a063a.html',
 		],
 	],
 	'קום' => [
@@ -42495,6 +43533,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--9dbq2a : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--9dbq2a.html',
 		],
 	],
 	'时尚' => [
@@ -42502,6 +43541,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--9et52u : RISE VICTORY LIMITED',
+			'https://www.iana.org/domains/root/db/xn--9et52u.html',
 		],
 	],
 	'微博' => [
@@ -42509,6 +43549,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--9krt00a : Sina Corporation',
+			'https://www.iana.org/domains/root/db/xn--9krt00a.html',
 		],
 	],
 	'淡马锡' => [
@@ -42516,6 +43557,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--b4w605ferd : Temasek Holdings (Private) Limited',
+			'https://www.iana.org/domains/root/db/xn--b4w605ferd.html',
 		],
 	],
 	'ファッション' => [
@@ -42523,6 +43565,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--bck1b9a5dre4c : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--bck1b9a5dre4c.html',
 		],
 	],
 	'орг' => [
@@ -42530,6 +43573,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--c1avg : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/xn--c1avg.html',
 		],
 	],
 	'नेट' => [
@@ -42537,6 +43581,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--c2br7g : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--c2br7g.html',
 		],
 	],
 	'ストア' => [
@@ -42544,6 +43589,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--cck2b3b : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--cck2b3b.html',
 		],
 	],
 	'アマゾン' => [
@@ -42551,6 +43597,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--cckwcxetd : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--cckwcxetd.html',
 		],
 	],
 	'삼성' => [
@@ -42558,6 +43605,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--cg4bki : SAMSUNG SDS CO., LTD',
+			'https://www.iana.org/domains/root/db/xn--cg4bki.html',
 		],
 	],
 	'商标' => [
@@ -42565,6 +43613,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--czr694b : Internet DotTrademark Organisation Limited',
+			'https://www.iana.org/domains/root/db/xn--czr694b.html',
 		],
 	],
 	'商店' => [
@@ -42572,6 +43621,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--czrs0t : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/xn--czrs0t.html',
 		],
 	],
 	'商城' => [
@@ -42579,6 +43629,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--czru2d : Zodiac Aquarius Limited',
+			'https://www.iana.org/domains/root/db/xn--czru2d.html',
 		],
 	],
 	'дети' => [
@@ -42586,6 +43637,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--d1acj3b : The Foundation for Network Initiatives “The Smart Internet”',
+			'https://www.iana.org/domains/root/db/xn--d1acj3b.html',
 		],
 	],
 	'ポイント' => [
@@ -42593,6 +43645,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--eckvdtc9d : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--eckvdtc9d.html',
 		],
 	],
 	'新闻' => [
@@ -42600,6 +43653,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--efvy88h : Guangzhou YU Wei Information Technology Co., Ltd.',
+			'https://www.iana.org/domains/root/db/xn--efvy88h.html',
 		],
 	],
 	'家電' => [
@@ -42607,6 +43661,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--fct429k : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--fct429k.html',
 		],
 	],
 	'كوم' => [
@@ -42614,6 +43669,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--fhbei : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--fhbei.html',
 		],
 	],
 	'中文网' => [
@@ -42621,6 +43677,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--fiq228c5hs : TLD REGISTRY LIMITED OY',
+			'https://www.iana.org/domains/root/db/xn--fiq228c5hs.html',
 		],
 	],
 	'中信' => [
@@ -42628,6 +43685,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--fiq64b : CITIC Group Corporation',
+			'https://www.iana.org/domains/root/db/xn--fiq64b.html',
 		],
 	],
 	'娱乐' => [
@@ -42635,6 +43693,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--fjq720a : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/xn--fjq720a.html',
 		],
 	],
 	'谷歌' => [
@@ -42642,6 +43701,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--flw351e : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/xn--flw351e.html',
 		],
 	],
 	'電訊盈科' => [
@@ -42649,6 +43709,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--fzys8d69uvgm : PCCW Enterprises Limited',
+			'https://www.iana.org/domains/root/db/xn--fzys8d69uvgm.html',
 		],
 	],
 	'购物' => [
@@ -42656,6 +43717,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--g2xx48c : Nawang Heli(Xiamen) Network Service Co., LTD.',
+			'https://www.iana.org/domains/root/db/xn--g2xx48c.html',
 		],
 	],
 	'クラウド' => [
@@ -42663,6 +43725,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--gckr3f0f : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--gckr3f0f.html',
 		],
 	],
 	'通販' => [
@@ -42670,6 +43733,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--gk3at1e : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--gk3at1e.html',
 		],
 	],
 	'网店' => [
@@ -42677,6 +43741,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--hxt814e : Zodiac Taurus Limited',
+			'https://www.iana.org/domains/root/db/xn--hxt814e.html',
 		],
 	],
 	'संगठन' => [
@@ -42684,6 +43749,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--i1b6b1a6a2e : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/xn--i1b6b1a6a2e.html',
 		],
 	],
 	'餐厅' => [
@@ -42691,6 +43757,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--imr513n : Internet DotTrademark Organisation Limited',
+			'https://www.iana.org/domains/root/db/xn--imr513n.html',
 		],
 	],
 	'网络' => [
@@ -42698,6 +43765,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--io0a7i : China Internet Network Information Center (CNNIC)',
+			'https://www.iana.org/domains/root/db/xn--io0a7i.html',
 		],
 	],
 	'ком' => [
@@ -42705,6 +43773,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--j1aef : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--j1aef.html',
 		],
 	],
 	'亚马逊' => [
@@ -42712,6 +43781,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--jlq480n2rg : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--jlq480n2rg.html',
 		],
 	],
 	'食品' => [
@@ -42719,6 +43789,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--jvr189m : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--jvr189m.html',
 		],
 	],
 	'飞利浦' => [
@@ -42726,6 +43797,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--kcrx77d1x4a : Koninklijke Philips N.V.',
+			'https://www.iana.org/domains/root/db/xn--kcrx77d1x4a.html',
 		],
 	],
 	'手机' => [
@@ -42733,6 +43805,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--kput3i : Beijing RITT-Net Technology Development Co., Ltd',
+			'https://www.iana.org/domains/root/db/xn--kput3i.html',
 		],
 	],
 	'ارامكو' => [
@@ -42740,6 +43813,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mgba3a3ejt : Aramco Services Company',
+			'https://www.iana.org/domains/root/db/xn--mgba3a3ejt.html',
 		],
 	],
 	'العليان' => [
@@ -42747,6 +43821,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mgba7c0bbn0a : Competrol (Luxembourg) Sarl',
+			'https://www.iana.org/domains/root/db/xn--mgba7c0bbn0a.html',
 		],
 	],
 	'اتصالات' => [
@@ -42754,6 +43829,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mgbaakc7dvf : Emirates Telecommunications Corporation (trading as Etisalat)',
+			'https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html',
 		],
 	],
 	'بازار' => [
@@ -42761,6 +43837,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mgbab2bd : CORE Association',
+			'https://www.iana.org/domains/root/db/xn--mgbab2bd.html',
 		],
 	],
 	'ابوظبي' => [
@@ -42768,6 +43845,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mgbca7dzdo : Abu Dhabi Systems and Information Centre',
+			'https://www.iana.org/domains/root/db/xn--mgbca7dzdo.html',
 		],
 	],
 	'كاثوليك' => [
@@ -42775,6 +43853,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mgbi4ecexp : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
+			'https://www.iana.org/domains/root/db/xn--mgbi4ecexp.html',
 		],
 	],
 	'همراه' => [
@@ -42782,6 +43861,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mgbt3dhd : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'https://www.iana.org/domains/root/db/xn--mgbt3dhd.html',
 		],
 	],
 	'닷컴' => [
@@ -42789,6 +43869,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mk1bu44c : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--mk1bu44c.html',
 		],
 	],
 	'政府' => [
@@ -42796,6 +43877,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--mxtq1m : Net-Chinese Co., Ltd.',
+			'https://www.iana.org/domains/root/db/xn--mxtq1m.html',
 		],
 	],
 	'شبكة' => [
@@ -42803,6 +43885,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--ngbc5azd : International Domain Registry Pty. Ltd.',
+			'https://www.iana.org/domains/root/db/xn--ngbc5azd.html',
 		],
 	],
 	'بيتك' => [
@@ -42810,6 +43893,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--ngbe9e0a : Kuwait Finance House',
+			'https://www.iana.org/domains/root/db/xn--ngbe9e0a.html',
 		],
 	],
 	'عرب' => [
@@ -42817,6 +43901,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--ngbrx : League of Arab States',
+			'https://www.iana.org/domains/root/db/xn--ngbrx.html',
 		],
 	],
 	'机构' => [
@@ -42824,6 +43909,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--nqv7f : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/xn--nqv7f.html',
 		],
 	],
 	'组织机构' => [
@@ -42831,6 +43917,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--nqv7fs00ema : Public Interest Registry',
+			'https://www.iana.org/domains/root/db/xn--nqv7fs00ema.html',
 		],
 	],
 	'健康' => [
@@ -42838,6 +43925,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--nyqy26a : Stable Tone Limited',
+			'https://www.iana.org/domains/root/db/xn--nyqy26a.html',
 		],
 	],
 	'招聘' => [
@@ -42845,6 +43933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--otu796d : Jiang Yu Liang Cai Technology Company Limited',
+			'https://www.iana.org/domains/root/db/xn--otu796d.html',
 		],
 	],
 	'рус' => [
@@ -42852,6 +43941,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--p1acf : Rusnames Limited',
+			'https://www.iana.org/domains/root/db/xn--p1acf.html',
 		],
 	],
 	'大拿' => [
@@ -42859,6 +43949,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--pssy2u : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--pssy2u.html',
 		],
 	],
 	'みんな' => [
@@ -42866,6 +43957,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--q9jyb4c : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/xn--q9jyb4c.html',
 		],
 	],
 	'グーグル' => [
@@ -42873,6 +43965,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--qcka1pmc : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/xn--qcka1pmc.html',
 		],
 	],
 	'世界' => [
@@ -42880,6 +43973,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--rhqv96g : Stable Tone Limited',
+			'https://www.iana.org/domains/root/db/xn--rhqv96g.html',
 		],
 	],
 	'書籍' => [
@@ -42887,6 +43981,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--rovu88b : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/xn--rovu88b.html',
 		],
 	],
 	'网址' => [
@@ -42894,6 +43989,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--ses554g : KNET Co., Ltd.',
+			'https://www.iana.org/domains/root/db/xn--ses554g.html',
 		],
 	],
 	'닷넷' => [
@@ -42901,6 +43997,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--t60b56a : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--t60b56a.html',
 		],
 	],
 	'コム' => [
@@ -42908,6 +44005,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--tckwe : VeriSign Sarl',
+			'https://www.iana.org/domains/root/db/xn--tckwe.html',
 		],
 	],
 	'天主教' => [
@@ -42915,6 +44013,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--tiq49xqyj : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)',
+			'https://www.iana.org/domains/root/db/xn--tiq49xqyj.html',
 		],
 	],
 	'游戏' => [
@@ -42922,6 +44021,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--unup4y : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/xn--unup4y.html',
 		],
 	],
 	'vermögensberater' => [
@@ -42929,6 +44029,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--vermgensberater-ctb : Deutsche Vermögensberatung Aktiengesellschaft DVAG',
+			'https://www.iana.org/domains/root/db/xn--vermgensberater-ctb.html',
 		],
 	],
 	'vermögensberatung' => [
@@ -42936,6 +44037,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--vermgensberatung-pwb : Deutsche Vermögensberatung Aktiengesellschaft DVAG',
+			'https://www.iana.org/domains/root/db/xn--vermgensberatung-pwb.html',
 		],
 	],
 	'企业' => [
@@ -42943,6 +44045,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--vhquv : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/xn--vhquv.html',
 		],
 	],
 	'信息' => [
@@ -42950,6 +44053,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--vuq861b : Beijing Tele-info Technology Co., Ltd.',
+			'https://www.iana.org/domains/root/db/xn--vuq861b.html',
 		],
 	],
 	'嘉里大酒店' => [
@@ -42957,6 +44061,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--w4r85el8fhu5dnra : Kerry Trading Co. Limited',
+			'https://www.iana.org/domains/root/db/xn--w4r85el8fhu5dnra.html',
 		],
 	],
 	'嘉里' => [
@@ -42964,6 +44069,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--w4rs40l : Kerry Trading Co. Limited',
+			'https://www.iana.org/domains/root/db/xn--w4rs40l.html',
 		],
 	],
 	'广东' => [
@@ -42971,6 +44077,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--xhq521b : Guangzhou YU Wei Information Technology Co., Ltd.',
+			'https://www.iana.org/domains/root/db/xn--xhq521b.html',
 		],
 	],
 	'政务' => [
@@ -42978,6 +44085,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--zfr164b : China Organizational Name Administration Center',
+			'https://www.iana.org/domains/root/db/xn--zfr164b.html',
 		],
 	],
 	'xyz' => [
@@ -42985,6 +44093,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xyz : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/xyz.html',
 		],
 	],
 	'yachts' => [
@@ -42992,6 +44101,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'yachts : XYZ.COM LLC',
+			'https://www.iana.org/domains/root/db/yachts.html',
 		],
 	],
 	'yahoo' => [
@@ -42999,6 +44109,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'yahoo : Oath Inc.',
+			'https://www.iana.org/domains/root/db/yahoo.html',
 		],
 	],
 	'yamaxun' => [
@@ -43006,6 +44117,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'yamaxun : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/yamaxun.html',
 		],
 	],
 	'yandex' => [
@@ -43013,6 +44125,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'yandex : Yandex Europe B.V.',
+			'https://www.iana.org/domains/root/db/yandex.html',
 		],
 	],
 	'yodobashi' => [
@@ -43020,6 +44133,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'yodobashi : YODOBASHI CAMERA CO.,LTD.',
+			'https://www.iana.org/domains/root/db/yodobashi.html',
 		],
 	],
 	'yoga' => [
@@ -43027,6 +44141,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'yoga : Registry Services, LLC',
+			'https://www.iana.org/domains/root/db/yoga.html',
 		],
 	],
 	'yokohama' => [
@@ -43034,6 +44149,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'yokohama : GMO Registry, Inc.',
+			'https://www.iana.org/domains/root/db/yokohama.html',
 		],
 	],
 	'you' => [
@@ -43041,6 +44157,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'you : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/you.html',
 		],
 	],
 	'youtube' => [
@@ -43048,6 +44165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'youtube : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/youtube.html',
 		],
 	],
 	'yun' => [
@@ -43055,6 +44173,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'yun : Beijing Qihu Keji Co., Ltd.',
+			'https://www.iana.org/domains/root/db/yun.html',
 		],
 	],
 	'zappos' => [
@@ -43062,6 +44181,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'zappos : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/zappos.html',
 		],
 	],
 	'zara' => [
@@ -43069,6 +44189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'zara : Industria de Diseño Textil, S.A. (INDITEX, S.A.)',
+			'https://www.iana.org/domains/root/db/zara.html',
 		],
 	],
 	'zero' => [
@@ -43076,6 +44197,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'zero : Amazon Registry Services, Inc.',
+			'https://www.iana.org/domains/root/db/zero.html',
 		],
 	],
 	'zip' => [
@@ -43083,6 +44205,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'zip : Charleston Road Registry Inc.',
+			'https://www.iana.org/domains/root/db/zip.html',
 		],
 	],
 	'zone' => [
@@ -43090,6 +44213,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'zone : Binky Moon, LLC',
+			'https://www.iana.org/domains/root/db/zone.html',
 		],
 	],
 	'zuerich' => [
@@ -43097,6 +44221,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'zuerich : Kanton Zürich (Canton of Zurich)',
+			'https://www.iana.org/domains/root/db/zuerich.html',
 		],
 	],
 	'cc.ua' => [
