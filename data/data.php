@@ -35170,7 +35170,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-12T15:10:58Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-23T15:12:42Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39724,7 +39724,7 @@ return [
 		'suffix' => 'locker',
 		'type' => 'ICANN',
 		'comments' => [
-			'locker : Dish DBS Corporation',
+			'locker : Orange Domains LLC',
 			'https://www.iana.org/domains/root/db/locker.html',
 		],
 	],
