@@ -35170,7 +35170,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-23T15:12:42Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-26T15:11:08Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -40532,7 +40532,7 @@ return [
 		'suffix' => 'observer',
 		'type' => 'ICANN',
 		'comments' => [
-			'observer : Dog Beach, LLC',
+			'observer : Fegistry, LLC',
 			'https://www.iana.org/domains/root/db/observer.html',
 		],
 	],
