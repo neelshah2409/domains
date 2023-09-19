@@ -32414,12 +32414,6 @@ return [
 		'comments' => [
 		],
 	],
-	'k12.de.us' => [
-		'suffix' => 'k12.de.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'k12.fl.us' => [
 		'suffix' => 'k12.fl.us',
 		'type' => 'ICANN',
@@ -58301,6 +58295,18 @@ return [
 	],
 	'editorx.io' => [
 		'suffix' => 'editorx.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wixstudio.io' => [
+		'suffix' => 'wixstudio.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wix.run' => [
+		'suffix' => 'wix.run',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
