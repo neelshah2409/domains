@@ -5124,51 +5124,15 @@ return [
 		'comments' => [
 		],
 	],
-	'aeroport.fr' => [
-		'suffix' => 'aeroport.fr',
-		'type' => 'ICANN',
-		'comments' => [
-			'Former "domaines sectoriels", still registration suffixes',
-		],
-	],
-	'avocat.fr' => [
-		'suffix' => 'avocat.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'avoues.fr' => [
 		'suffix' => 'avoues.fr',
 		'type' => 'ICANN',
 		'comments' => [
+			'Other SLDs now selfmanaged out of AFNIC range. Former "domaines sectoriels", still registration suffixes',
 		],
 	],
 	'cci.fr' => [
 		'suffix' => 'cci.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'chambagri.fr' => [
-		'suffix' => 'chambagri.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'chirurgiens-dentistes.fr' => [
-		'suffix' => 'chirurgiens-dentistes.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'experts-comptables.fr' => [
-		'suffix' => 'experts-comptables.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'geometre-expert.fr' => [
-		'suffix' => 'geometre-expert.fr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5181,36 +5145,6 @@ return [
 	],
 	'huissier-justice.fr' => [
 		'suffix' => 'huissier-justice.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'medecin.fr' => [
-		'suffix' => 'medecin.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'notaires.fr' => [
-		'suffix' => 'notaires.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'pharmacien.fr' => [
-		'suffix' => 'pharmacien.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'port.fr' => [
-		'suffix' => 'port.fr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'veterinaire.fr' => [
-		'suffix' => 'veterinaire.fr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -56683,6 +56617,69 @@ return [
 	],
 	'beta.bounty-full.com' => [
 		'suffix' => 'beta.bounty-full.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'aeroport.fr' => [
+		'suffix' => 'aeroport.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Smallregistry by Promopixel SARL: https://www.smallregistry.net',
+			'Former AFNIC\'s SLDs ',
+			'Submitted by Jérôme Lipowicz <support@promopixel.com>',
+		],
+	],
+	'avocat.fr' => [
+		'suffix' => 'avocat.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'chambagri.fr' => [
+		'suffix' => 'chambagri.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'chirurgiens-dentistes.fr' => [
+		'suffix' => 'chirurgiens-dentistes.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'experts-comptables.fr' => [
+		'suffix' => 'experts-comptables.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'medecin.fr' => [
+		'suffix' => 'medecin.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notaires.fr' => [
+		'suffix' => 'notaires.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'pharmacien.fr' => [
+		'suffix' => 'pharmacien.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'port.fr' => [
+		'suffix' => 'port.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'veterinaire.fr' => [
+		'suffix' => 'veterinaire.fr',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
