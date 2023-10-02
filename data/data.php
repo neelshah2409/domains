@@ -31587,6 +31587,12 @@ return [
 		'comments' => [
 		],
 	],
+	'luhansk.ua' => [
+		'suffix' => 'luhansk.ua',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'lutsk.ua' => [
 		'suffix' => 'lutsk.ua',
 		'type' => 'ICANN',
@@ -31725,6 +31731,12 @@ return [
 		'comments' => [
 		],
 	],
+	'uzhhorod.ua' => [
+		'suffix' => 'uzhhorod.ua',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'vinnica.ua' => [
 		'suffix' => 'vinnica.ua',
 		'type' => 'ICANN',
@@ -31751,6 +31763,12 @@ return [
 	],
 	'yalta.ua' => [
 		'suffix' => 'yalta.ua',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'zakarpattia.ua' => [
+		'suffix' => 'zakarpattia.ua',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -35098,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-26T15:11:08Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-09-30T15:11:25Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -36492,7 +36510,7 @@ return [
 		'suffix' => 'ceo',
 		'type' => 'ICANN',
 		'comments' => [
-			'ceo : CEOTLD Pty Ltd',
+			'ceo : XYZ.COM LLC',
 			'https://www.iana.org/domains/root/db/ceo.html',
 		],
 	],
