@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-09-30T15:11:25Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-10-18T15:13:37Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -41038,7 +41038,7 @@ return [
 		'suffix' => 'property',
 		'type' => 'ICANN',
 		'comments' => [
-			'property : Internet Naming Company LLC',
+			'property : Digital Property Infrastructure Limited',
 			'https://www.iana.org/domains/root/db/property.html',
 		],
 	],
