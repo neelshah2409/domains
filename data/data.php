@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-10-18T15:13:37Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-10-20T15:11:50Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -36674,14 +36674,6 @@ return [
 			'https://www.iana.org/domains/root/db/city.html',
 		],
 	],
-	'cityeats' => [
-		'suffix' => 'cityeats',
-		'type' => 'ICANN',
-		'comments' => [
-			'cityeats : Lifestyle Domain Holdings, Inc.',
-			'https://www.iana.org/domains/root/db/cityeats.html',
-		],
-	],
 	'claims' => [
 		'suffix' => 'claims',
 		'type' => 'ICANN',
@@ -38016,14 +38008,6 @@ return [
 		'comments' => [
 			'frogans : OP3FT',
 			'https://www.iana.org/domains/root/db/frogans.html',
-		],
-	],
-	'frontdoor' => [
-		'suffix' => 'frontdoor',
-		'type' => 'ICANN',
-		'comments' => [
-			'frontdoor : Lifestyle Domain Holdings, Inc.',
-			'https://www.iana.org/domains/root/db/frontdoor.html',
 		],
 	],
 	'frontier' => [
