@@ -44448,16 +44448,376 @@ return [
 			'Submitted by Domain Admin <domainadmin@amaze.co>',
 		],
 	],
-	'cloudfront.net' => [
-		'suffix' => 'cloudfront.net',
+	'execute-api.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 'execute-api.cn-north-1.amazonaws.com.cn',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Amazon : https://www.amazon.com/',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
 			'Subsections of Amazon/subsidiaries will appear until "concludes" tag',
+			'Amazon API Gateway',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 4d863337-ff98-4501-a6f2-361eba8445d6',
+		],
+	],
+	'execute-api.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 'execute-api.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.af-south-1.amazonaws.com' => [
+		'suffix' => 'execute-api.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-east-1.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-south-1.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-south-2.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ca-central-1.amazonaws.com' => [
+		'suffix' => 'execute-api.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.eu-central-1.amazonaws.com' => [
+		'suffix' => 'execute-api.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.eu-central-2.amazonaws.com' => [
+		'suffix' => 'execute-api.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.eu-north-1.amazonaws.com' => [
+		'suffix' => 'execute-api.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.eu-south-1.amazonaws.com' => [
+		'suffix' => 'execute-api.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.eu-south-2.amazonaws.com' => [
+		'suffix' => 'execute-api.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.eu-west-1.amazonaws.com' => [
+		'suffix' => 'execute-api.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.eu-west-2.amazonaws.com' => [
+		'suffix' => 'execute-api.eu-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.eu-west-3.amazonaws.com' => [
+		'suffix' => 'execute-api.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.il-central-1.amazonaws.com' => [
+		'suffix' => 'execute-api.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.me-central-1.amazonaws.com' => [
+		'suffix' => 'execute-api.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.me-south-1.amazonaws.com' => [
+		'suffix' => 'execute-api.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.sa-east-1.amazonaws.com' => [
+		'suffix' => 'execute-api.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.us-east-1.amazonaws.com' => [
+		'suffix' => 'execute-api.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.us-east-2.amazonaws.com' => [
+		'suffix' => 'execute-api.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 'execute-api.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 'execute-api.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.us-west-1.amazonaws.com' => [
+		'suffix' => 'execute-api.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.us-west-2.amazonaws.com' => [
+		'suffix' => 'execute-api.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudfront.net' => [
+		'suffix' => 'cloudfront.net',
+		'type' => 'PRIVATE',
+		'comments' => [
 			'Amazon CloudFront',
 			'Submitted by Donavan Miller <donavanm@amazon.com>',
 			'Reference: 54144616-fd49-4435-8535-19c6a601bdb3',
+		],
+	],
+	'auth.af-south-1.amazoncognito.com' => [
+		'suffix' => 'auth.af-south-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon Cognito',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 7bee1013-f456-47df-bfe8-03c78d946d61',
+		],
+	],
+	'auth.ap-northeast-1.amazoncognito.com' => [
+		'suffix' => 'auth.ap-northeast-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-northeast-2.amazoncognito.com' => [
+		'suffix' => 'auth.ap-northeast-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-northeast-3.amazoncognito.com' => [
+		'suffix' => 'auth.ap-northeast-3.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-south-1.amazoncognito.com' => [
+		'suffix' => 'auth.ap-south-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-southeast-1.amazoncognito.com' => [
+		'suffix' => 'auth.ap-southeast-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-southeast-2.amazoncognito.com' => [
+		'suffix' => 'auth.ap-southeast-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-southeast-3.amazoncognito.com' => [
+		'suffix' => 'auth.ap-southeast-3.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ca-central-1.amazoncognito.com' => [
+		'suffix' => 'auth.ca-central-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.eu-central-1.amazoncognito.com' => [
+		'suffix' => 'auth.eu-central-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.eu-north-1.amazoncognito.com' => [
+		'suffix' => 'auth.eu-north-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.eu-south-1.amazoncognito.com' => [
+		'suffix' => 'auth.eu-south-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.eu-west-1.amazoncognito.com' => [
+		'suffix' => 'auth.eu-west-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.eu-west-2.amazoncognito.com' => [
+		'suffix' => 'auth.eu-west-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.eu-west-3.amazoncognito.com' => [
+		'suffix' => 'auth.eu-west-3.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.il-central-1.amazoncognito.com' => [
+		'suffix' => 'auth.il-central-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.me-south-1.amazoncognito.com' => [
+		'suffix' => 'auth.me-south-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.sa-east-1.amazoncognito.com' => [
+		'suffix' => 'auth.sa-east-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.us-east-1.amazoncognito.com' => [
+		'suffix' => 'auth.us-east-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth-fips.us-east-1.amazoncognito.com' => [
+		'suffix' => 'auth-fips.us-east-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.us-east-2.amazoncognito.com' => [
+		'suffix' => 'auth.us-east-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth-fips.us-east-2.amazoncognito.com' => [
+		'suffix' => 'auth-fips.us-east-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth-fips.us-gov-west-1.amazoncognito.com' => [
+		'suffix' => 'auth-fips.us-gov-west-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.us-west-1.amazoncognito.com' => [
+		'suffix' => 'auth.us-west-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth-fips.us-west-1.amazoncognito.com' => [
+		'suffix' => 'auth-fips.us-west-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.us-west-2.amazoncognito.com' => [
+		'suffix' => 'auth.us-west-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth-fips.us-west-2.amazoncognito.com' => [
+		'suffix' => 'auth-fips.us-west-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.compute.amazonaws.com' => [
@@ -44487,17 +44847,803 @@ return [
 		'comments' => [
 		],
 	],
+	'emrappui-prod.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 'emrappui-prod.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon EMR',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 597f3f8e-9283-4e48-8e32-7ee25a1ff6ab',
+		],
+	],
+	'emrnotebooks-prod.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 'emrnotebooks-prod.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 'emrstudio-prod.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 'emrappui-prod.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 'emrnotebooks-prod.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 'emrstudio-prod.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.af-south-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.af-south-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.af-south-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ap-east-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-east-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-east-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ap-south-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-south-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-south-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.ca-central-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ca-central-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ca-central-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.eu-central-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.eu-central-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.eu-central-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.eu-north-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.eu-north-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.eu-north-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.eu-south-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.eu-south-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.eu-south-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.eu-west-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.eu-west-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.eu-west-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.eu-west-2.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.eu-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.eu-west-2.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.eu-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.eu-west-2.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.eu-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.eu-west-3.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.eu-west-3.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.eu-west-3.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.me-central-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.me-central-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.me-central-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.me-south-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.me-south-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.me-south-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.sa-east-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.sa-east-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.sa-east-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.us-east-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.us-east-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.us-east-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.us-east-2.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.us-east-2.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.us-east-2.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.us-west-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.us-west-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.us-west-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.us-west-2.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.us-west-2.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.us-west-2.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.cn-north-1.airflow.amazonaws.com.cn' => [
+		'suffix' => '*.cn-north-1.airflow.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon Managed Workflows for Apache Airflow',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 4ab55e6f-90c0-4a8d-b6a0-52ca5dbb1c2e',
+		],
+	],
+	'*.cn-northwest-1.airflow.amazonaws.com.cn' => [
+		'suffix' => '*.cn-northwest-1.airflow.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-northeast-1.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-northeast-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-northeast-2.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-northeast-2.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-south-1.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-south-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-southeast-1.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-southeast-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-southeast-2.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-southeast-2.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ca-central-1.airflow.amazonaws.com' => [
+		'suffix' => '*.ca-central-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-central-1.airflow.amazonaws.com' => [
+		'suffix' => '*.eu-central-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-north-1.airflow.amazonaws.com' => [
+		'suffix' => '*.eu-north-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-west-1.airflow.amazonaws.com' => [
+		'suffix' => '*.eu-west-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-west-2.airflow.amazonaws.com' => [
+		'suffix' => '*.eu-west-2.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-west-3.airflow.amazonaws.com' => [
+		'suffix' => '*.eu-west-3.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.sa-east-1.airflow.amazonaws.com' => [
+		'suffix' => '*.sa-east-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-east-1.airflow.amazonaws.com' => [
+		'suffix' => '*.us-east-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-east-2.airflow.amazonaws.com' => [
+		'suffix' => '*.us-east-2.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-2.airflow.amazonaws.com' => [
+		'suffix' => '*.us-west-2.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 's3.dualstack.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon S3',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 0e801048-08f2-4064-9cb8-e7373e0b57f4',
+		],
+	],
+	's3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 's3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 's3-website.dualstack.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.cn-north-1.amazonaws.com.cn' => [
 		'suffix' => 's3.cn-north-1.amazonaws.com.cn',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Amazon S3',
-			'Submitted by Luke Wells <psl-maintainers@amazon.com>',
-			'Reference: d068bd97-f0a9-4838-a6d8-954b622ef4ae',
+		],
+	],
+	's3-accesspoint.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 's3-accesspoint.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-deprecated.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 's3-deprecated.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 's3-object-lambda.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.cn-north-1.amazonaws.com.cn' => [
+		'suffix' => 's3-website.cn-north-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 's3.dualstack.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 's3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 's3.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 's3-accesspoint.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 's3-object-lambda.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.cn-northwest-1.amazonaws.com.cn' => [
+		'suffix' => 's3-website.cn-northwest-1.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.af-south-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.af-south-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.af-south-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.af-south-1.amazonaws.com' => [
+		'suffix' => 's3.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.af-south-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.af-south-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.af-south-1.amazonaws.com' => [
+		'suffix' => 's3-website.af-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.ap-east-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-east-1.amazonaws.com' => [
+		'suffix' => 's3.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-east-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-east-1.amazonaws.com' => [
+		'suffix' => 's3-website.ap-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	's3.dualstack.ap-northeast-1.amazonaws.com' => [
 		'suffix' => 's3.dualstack.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 's3.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 's3-website.ap-northeast-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44508,8 +45654,32 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.dualstack.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.ap-northeast-2.amazonaws.com' => [
 		'suffix' => 's3.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-northeast-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44520,8 +45690,62 @@ return [
 		'comments' => [
 		],
 	],
+	's3.dualstack.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 's3.dualstack.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 's3.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-northeast-3.amazonaws.com' => [
+		'suffix' => 's3-website.ap-northeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.dualstack.ap-south-1.amazonaws.com' => [
 		'suffix' => 's3.dualstack.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-south-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ap-south-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-south-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44532,8 +45756,56 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.ap-south-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-south-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3-website.ap-south-1.amazonaws.com' => [
 		'suffix' => 's3-website.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.ap-south-2.amazonaws.com' => [
+		'suffix' => 's3.dualstack.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-south-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-south-2.amazonaws.com' => [
+		'suffix' => 's3.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-south-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-south-2.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-south-2.amazonaws.com' => [
+		'suffix' => 's3-website.ap-south-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44544,8 +45816,152 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.dualstack.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 's3.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 's3-website.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.dualstack.ap-southeast-2.amazonaws.com' => [
 		'suffix' => 's3.dualstack.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 's3.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 's3-website.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 's3.dualstack.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 's3.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 's3-website.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 's3.dualstack.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 's3.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 's3-website.ap-southeast-4.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44556,8 +45972,56 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.dualstack.ca-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.dualstack.ca-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.dualstack.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.dualstack.ca-central-1.amazonaws.com' => [
+		'suffix' => 's3-fips.dualstack.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ca-central-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.ca-central-1.amazonaws.com' => [
 		'suffix' => 's3.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ca-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.ca-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.ca-central-1.amazonaws.com' => [
+		'suffix' => 's3-fips.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ca-central-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ca-central-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44574,8 +46038,32 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.dualstack.eu-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.eu-central-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.eu-central-1.amazonaws.com' => [
 		'suffix' => 's3.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.eu-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.eu-central-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.eu-central-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44586,8 +46074,200 @@ return [
 		'comments' => [
 		],
 	],
+	's3.dualstack.eu-central-2.amazonaws.com' => [
+		'suffix' => 's3.dualstack.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.eu-central-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.eu-central-2.amazonaws.com' => [
+		'suffix' => 's3.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.eu-central-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.eu-central-2.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.eu-central-2.amazonaws.com' => [
+		'suffix' => 's3-website.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.eu-north-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.eu-north-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.eu-north-1.amazonaws.com' => [
+		'suffix' => 's3.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.eu-north-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.eu-north-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.eu-north-1.amazonaws.com' => [
+		'suffix' => 's3-website.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.eu-south-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.eu-south-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.eu-south-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.eu-south-1.amazonaws.com' => [
+		'suffix' => 's3.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.eu-south-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.eu-south-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.eu-south-1.amazonaws.com' => [
+		'suffix' => 's3-website.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.eu-south-2.amazonaws.com' => [
+		'suffix' => 's3.dualstack.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.eu-south-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.eu-south-2.amazonaws.com' => [
+		'suffix' => 's3.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.eu-south-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.eu-south-2.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.eu-south-2.amazonaws.com' => [
+		'suffix' => 's3-website.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.dualstack.eu-west-1.amazonaws.com' => [
 		'suffix' => 's3.dualstack.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.eu-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.eu-west-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.eu-west-1.amazonaws.com' => [
+		'suffix' => 's3.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.eu-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-deprecated.eu-west-1.amazonaws.com' => [
+		'suffix' => 's3-deprecated.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.eu-west-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.eu-west-1.amazonaws.com' => [
+		'suffix' => 's3-website.eu-west-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44598,8 +46278,26 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.dualstack.eu-west-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.eu-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.eu-west-2.amazonaws.com' => [
 		'suffix' => 's3.eu-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.eu-west-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.eu-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.eu-west-2.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.eu-west-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44616,8 +46314,32 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.dualstack.eu-west-3.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.eu-west-3.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.eu-west-3.amazonaws.com' => [
 		'suffix' => 's3.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.eu-west-3.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.eu-west-3.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.eu-west-3.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44628,8 +46350,128 @@ return [
 		'comments' => [
 		],
 	],
+	's3.dualstack.il-central-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.il-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.il-central-1.amazonaws.com' => [
+		'suffix' => 's3.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.il-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.il-central-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.il-central-1.amazonaws.com' => [
+		'suffix' => 's3-website.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.me-central-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.me-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.me-central-1.amazonaws.com' => [
+		'suffix' => 's3.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.me-central-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.me-central-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.me-central-1.amazonaws.com' => [
+		'suffix' => 's3-website.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.me-south-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.me-south-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.me-south-1.amazonaws.com' => [
+		'suffix' => 's3.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.me-south-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.me-south-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.me-south-1.amazonaws.com' => [
+		'suffix' => 's3-website.me-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.amazonaws.com' => [
 		'suffix' => 's3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-1.amazonaws.com' => [
+		'suffix' => 's3-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-ap-east-1.amazonaws.com' => [
+		'suffix' => 's3-ap-east-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44642,6 +46484,12 @@ return [
 	],
 	's3-ap-northeast-2.amazonaws.com' => [
 		'suffix' => 's3-ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-ap-northeast-3.amazonaws.com' => [
+		'suffix' => 's3-ap-northeast-3.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44676,6 +46524,12 @@ return [
 		'comments' => [
 		],
 	],
+	's3-eu-north-1.amazonaws.com' => [
+		'suffix' => 's3-eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3-eu-west-1.amazonaws.com' => [
 		'suffix' => 's3-eu-west-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -44700,8 +46554,26 @@ return [
 		'comments' => [
 		],
 	],
+	's3-fips-us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-fips-us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3-fips-us-gov-west-1.amazonaws.com' => [
 		'suffix' => 's3-fips-us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mrap.accesspoint.s3-global.amazonaws.com' => [
+		'suffix' => 'mrap.accesspoint.s3-global.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-me-south-1.amazonaws.com' => [
+		'suffix' => 's3-me-south-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44714,6 +46586,12 @@ return [
 	],
 	's3-us-east-2.amazonaws.com' => [
 		'suffix' => 's3-us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-us-gov-east-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44772,6 +46650,12 @@ return [
 		'comments' => [
 		],
 	],
+	's3-website-us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-website-us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3-website-us-west-1.amazonaws.com' => [
 		'suffix' => 's3-website-us-west-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -44790,8 +46674,110 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.dualstack.sa-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.sa-east-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.sa-east-1.amazonaws.com' => [
+		'suffix' => 's3.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.sa-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.sa-east-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.sa-east-1.amazonaws.com' => [
+		'suffix' => 's3-website.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.dualstack.us-east-1.amazonaws.com' => [
 		'suffix' => 's3.dualstack.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.dualstack.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.dualstack.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.dualstack.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-fips.dualstack.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.us-east-1.amazonaws.com' => [
+		'suffix' => 's3.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-deprecated.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-deprecated.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-fips.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.us-east-1.amazonaws.com' => [
+		'suffix' => 's3-website.us-east-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44802,8 +46788,56 @@ return [
 		'comments' => [
 		],
 	],
+	's3-accesspoint.dualstack.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.dualstack.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.dualstack.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.dualstack.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-fips.dualstack.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.us-east-2.amazonaws.com' => [
 		'suffix' => 's3.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-deprecated.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-deprecated.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-fips.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.us-east-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44814,13 +46848,709 @@ return [
 		'comments' => [
 		],
 	],
+	's3.dualstack.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.dualstack.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-fips.dualstack.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-fips.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-website.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.dualstack.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-fips.dualstack.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-fips.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-website.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.us-west-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.dualstack.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.dualstack.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.dualstack.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-fips.dualstack.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.us-west-1.amazonaws.com' => [
+		'suffix' => 's3.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-fips.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.us-west-1.amazonaws.com' => [
+		'suffix' => 's3-website.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.us-west-2.amazonaws.com' => [
+		'suffix' => 's3.dualstack.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.dualstack.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.dualstack.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.dualstack.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-fips.dualstack.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.us-west-2.amazonaws.com' => [
+		'suffix' => 's3.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-deprecated.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-deprecated.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-fips.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.us-west-2.amazonaws.com' => [
+		'suffix' => 's3-website.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.af-south-1.sagemaker.aws' => [
+		'suffix' => 'notebook.af-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon SageMaker Notebook Instances',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: fe8c9e94-5a22-486d-8750-991a3a9b13c6',
+		],
+	],
+	'notebook.ap-east-1.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-northeast-1.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-northeast-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-northeast-2.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-northeast-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-northeast-3.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-northeast-3.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-south-1.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-south-2.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-south-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-southeast-1.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-southeast-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-southeast-2.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-southeast-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-southeast-3.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-southeast-3.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ap-southeast-4.sagemaker.aws' => [
+		'suffix' => 'notebook.ap-southeast-4.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ca-central-1.sagemaker.aws' => [
+		'suffix' => 'notebook.ca-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.eu-central-1.sagemaker.aws' => [
+		'suffix' => 'notebook.eu-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.eu-central-2.sagemaker.aws' => [
+		'suffix' => 'notebook.eu-central-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.eu-north-1.sagemaker.aws' => [
+		'suffix' => 'notebook.eu-north-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.eu-south-1.sagemaker.aws' => [
+		'suffix' => 'notebook.eu-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.eu-south-2.sagemaker.aws' => [
+		'suffix' => 'notebook.eu-south-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.eu-west-1.sagemaker.aws' => [
+		'suffix' => 'notebook.eu-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.eu-west-2.sagemaker.aws' => [
+		'suffix' => 'notebook.eu-west-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.eu-west-3.sagemaker.aws' => [
+		'suffix' => 'notebook.eu-west-3.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.il-central-1.sagemaker.aws' => [
+		'suffix' => 'notebook.il-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.me-central-1.sagemaker.aws' => [
+		'suffix' => 'notebook.me-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.me-south-1.sagemaker.aws' => [
+		'suffix' => 'notebook.me-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.sa-east-1.sagemaker.aws' => [
+		'suffix' => 'notebook.sa-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.us-east-1.sagemaker.aws' => [
+		'suffix' => 'notebook.us-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook-fips.us-east-1.sagemaker.aws' => [
+		'suffix' => 'notebook-fips.us-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.us-east-2.sagemaker.aws' => [
+		'suffix' => 'notebook.us-east-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook-fips.us-east-2.sagemaker.aws' => [
+		'suffix' => 'notebook-fips.us-east-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.us-gov-east-1.sagemaker.aws' => [
+		'suffix' => 'notebook.us-gov-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook-fips.us-gov-east-1.sagemaker.aws' => [
+		'suffix' => 'notebook-fips.us-gov-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.us-gov-west-1.sagemaker.aws' => [
+		'suffix' => 'notebook.us-gov-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook-fips.us-gov-west-1.sagemaker.aws' => [
+		'suffix' => 'notebook-fips.us-gov-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.us-west-1.sagemaker.aws' => [
+		'suffix' => 'notebook.us-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.us-west-2.sagemaker.aws' => [
+		'suffix' => 'notebook.us-west-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook-fips.us-west-2.sagemaker.aws' => [
+		'suffix' => 'notebook-fips.us-west-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.cn-north-1.sagemaker.com.cn' => [
+		'suffix' => 'notebook.cn-north-1.sagemaker.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.cn-northwest-1.sagemaker.com.cn' => [
+		'suffix' => 'notebook.cn-northwest-1.sagemaker.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.af-south-1.sagemaker.aws' => [
+		'suffix' => 'studio.af-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon SageMaker Studio',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 057ee397-6bf8-4f20-b807-d7bc145ac980',
+		],
+	],
+	'studio.ap-east-1.sagemaker.aws' => [
+		'suffix' => 'studio.ap-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.ap-northeast-1.sagemaker.aws' => [
+		'suffix' => 'studio.ap-northeast-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.ap-northeast-2.sagemaker.aws' => [
+		'suffix' => 'studio.ap-northeast-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.ap-northeast-3.sagemaker.aws' => [
+		'suffix' => 'studio.ap-northeast-3.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.ap-south-1.sagemaker.aws' => [
+		'suffix' => 'studio.ap-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.ap-southeast-1.sagemaker.aws' => [
+		'suffix' => 'studio.ap-southeast-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.ap-southeast-2.sagemaker.aws' => [
+		'suffix' => 'studio.ap-southeast-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.ap-southeast-3.sagemaker.aws' => [
+		'suffix' => 'studio.ap-southeast-3.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.ca-central-1.sagemaker.aws' => [
+		'suffix' => 'studio.ca-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.eu-central-1.sagemaker.aws' => [
+		'suffix' => 'studio.eu-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.eu-north-1.sagemaker.aws' => [
+		'suffix' => 'studio.eu-north-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.eu-south-1.sagemaker.aws' => [
+		'suffix' => 'studio.eu-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.eu-west-1.sagemaker.aws' => [
+		'suffix' => 'studio.eu-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.eu-west-2.sagemaker.aws' => [
+		'suffix' => 'studio.eu-west-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.eu-west-3.sagemaker.aws' => [
+		'suffix' => 'studio.eu-west-3.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.il-central-1.sagemaker.aws' => [
+		'suffix' => 'studio.il-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.me-central-1.sagemaker.aws' => [
+		'suffix' => 'studio.me-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.me-south-1.sagemaker.aws' => [
+		'suffix' => 'studio.me-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.sa-east-1.sagemaker.aws' => [
+		'suffix' => 'studio.sa-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.us-east-1.sagemaker.aws' => [
+		'suffix' => 'studio.us-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.us-east-2.sagemaker.aws' => [
+		'suffix' => 'studio.us-east-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.us-gov-east-1.sagemaker.aws' => [
+		'suffix' => 'studio.us-gov-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio-fips.us-gov-east-1.sagemaker.aws' => [
+		'suffix' => 'studio-fips.us-gov-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.us-gov-west-1.sagemaker.aws' => [
+		'suffix' => 'studio.us-gov-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio-fips.us-gov-west-1.sagemaker.aws' => [
+		'suffix' => 'studio-fips.us-gov-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.us-west-1.sagemaker.aws' => [
+		'suffix' => 'studio.us-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.us-west-2.sagemaker.aws' => [
+		'suffix' => 'studio.us-west-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.cn-north-1.sagemaker.com.cn' => [
+		'suffix' => 'studio.cn-north-1.sagemaker.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.cn-northwest-1.sagemaker.com.cn' => [
+		'suffix' => 'studio.cn-northwest-1.sagemaker.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'analytics-gateway.ap-northeast-1.amazonaws.com' => [
 		'suffix' => 'analytics-gateway.ap-northeast-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Analytics on AWS',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: c02c3a80-f8a0-4fd2-b719-48ea8b7c28de',
+			'Reference: 955f9f40-a495-4e73-ae85-67b77ac9cadd',
+		],
+	],
+	'analytics-gateway.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 'analytics-gateway.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'analytics-gateway.ap-south-1.amazonaws.com' => [
+		'suffix' => 'analytics-gateway.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'analytics-gateway.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 'analytics-gateway.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'analytics-gateway.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 'analytics-gateway.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'analytics-gateway.eu-central-1.amazonaws.com' => [
+		'suffix' => 'analytics-gateway.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'analytics-gateway.eu-west-1.amazonaws.com' => [
@@ -44845,6 +47575,24 @@ return [
 		'suffix' => 'analytics-gateway.us-west-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'*.amplifyapp.com' => [
+		'suffix' => '*.amplifyapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AWS Amplify',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 5ecce854-c033-4fc4-a755-1a9916d9a9bb',
+		],
+	],
+	'*.awsapprunner.com' => [
+		'suffix' => '*.awsapprunner.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AWS App Runner',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 6828c008-ba5d-442f-ade5-48da4e7c2316',
 		],
 	],
 	'webview-assets.aws-cloud9.af-south-1.amazonaws.com' => [
@@ -45233,8 +47981,8 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'AWS Elastic Beanstalk',
-			'Submitted by Luke Wells <psl-maintainers@amazon.com>',
-			'Reference: aa202394-43a0-4857-b245-8db04549137e',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: bb5a965c-dec3-4967-aa22-e306ad064797',
 		],
 	],
 	'cn-northwest-1.eb.amazonaws.com.cn' => [
@@ -45245,6 +47993,18 @@ return [
 	],
 	'elasticbeanstalk.com' => [
 		'suffix' => 'elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'af-south-1.elasticbeanstalk.com' => [
+		'suffix' => 'af-south-1.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ap-east-1.elasticbeanstalk.com' => [
+		'suffix' => 'ap-east-1.elasticbeanstalk.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45285,6 +48045,12 @@ return [
 		'comments' => [
 		],
 	],
+	'ap-southeast-3.elasticbeanstalk.com' => [
+		'suffix' => 'ap-southeast-3.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'ca-central-1.elasticbeanstalk.com' => [
 		'suffix' => 'ca-central-1.elasticbeanstalk.com',
 		'type' => 'PRIVATE',
@@ -45293,6 +48059,18 @@ return [
 	],
 	'eu-central-1.elasticbeanstalk.com' => [
 		'suffix' => 'eu-central-1.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eu-north-1.elasticbeanstalk.com' => [
+		'suffix' => 'eu-north-1.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eu-south-1.elasticbeanstalk.com' => [
+		'suffix' => 'eu-south-1.elasticbeanstalk.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45315,6 +48093,18 @@ return [
 		'comments' => [
 		],
 	],
+	'il-central-1.elasticbeanstalk.com' => [
+		'suffix' => 'il-central-1.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'me-south-1.elasticbeanstalk.com' => [
+		'suffix' => 'me-south-1.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'sa-east-1.elasticbeanstalk.com' => [
 		'suffix' => 'sa-east-1.elasticbeanstalk.com',
 		'type' => 'PRIVATE',
@@ -45329,6 +48119,12 @@ return [
 	],
 	'us-east-2.elasticbeanstalk.com' => [
 		'suffix' => 'us-east-2.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us-gov-east-1.elasticbeanstalk.com' => [
+		'suffix' => 'us-gov-east-1.elasticbeanstalk.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53798,6 +56594,30 @@ return [
 	],
 	'3.azurestaticapps.net' => [
 		'suffix' => '3.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'4.azurestaticapps.net' => [
+		'suffix' => '4.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'5.azurestaticapps.net' => [
+		'suffix' => '5.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'6.azurestaticapps.net' => [
+		'suffix' => '6.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'7.azurestaticapps.net' => [
+		'suffix' => '7.azurestaticapps.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
