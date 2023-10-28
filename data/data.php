@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-10-20T15:11:50Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-10-26T15:13:10Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -36488,14 +36488,6 @@ return [
 		'comments' => [
 			'cbre : CBRE, Inc.',
 			'https://www.iana.org/domains/root/db/cbre.html',
-		],
-	],
-	'cbs' => [
-		'suffix' => 'cbs',
-		'type' => 'ICANN',
-		'comments' => [
-			'cbs : CBS Domains Inc.',
-			'https://www.iana.org/domains/root/db/cbs.html',
 		],
 	],
 	'center' => [
@@ -41848,14 +41840,6 @@ return [
 		'comments' => [
 			'show : Binky Moon, LLC',
 			'https://www.iana.org/domains/root/db/show.html',
-		],
-	],
-	'showtime' => [
-		'suffix' => 'showtime',
-		'type' => 'ICANN',
-		'comments' => [
-			'showtime : CBS Domains Inc.',
-			'https://www.iana.org/domains/root/db/showtime.html',
 		],
 	],
 	'silk' => [
