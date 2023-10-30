@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-10-26T15:13:10Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-10-28T15:12:17Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37192,14 +37192,6 @@ return [
 		'comments' => [
 			'dentist : Dog Beach, LLC',
 			'https://www.iana.org/domains/root/db/dentist.html',
-		],
-	],
-	'desi' => [
-		'suffix' => 'desi',
-		'type' => 'ICANN',
-		'comments' => [
-			'desi : Desi Networks LLC',
-			'https://www.iana.org/domains/root/db/desi.html',
 		],
 	],
 	'design' => [
