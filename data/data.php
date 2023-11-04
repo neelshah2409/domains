@@ -56880,6 +56880,13 @@ return [
 		'comments' => [
 		],
 	],
+	'torun.pl' => [
+		'suffix' => 'torun.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Nicolaus Copernicus University in Torun - MSK TORMAN (https://www.man.torun.pl)',
+		],
+	],
 	'nh-serv.co.uk' => [
 		'suffix' => 'nh-serv.co.uk',
 		'type' => 'PRIVATE',
