@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-10-28T15:12:17Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-11-03T15:13:18Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39218,14 +39218,6 @@ return [
 			'https://www.iana.org/domains/root/db/kim.html',
 		],
 	],
-	'kinder' => [
-		'suffix' => 'kinder',
-		'type' => 'ICANN',
-		'comments' => [
-			'kinder : Ferrero Trading Lux S.A.',
-			'https://www.iana.org/domains/root/db/kinder.html',
-		],
-	],
 	'kindle' => [
 		'suffix' => 'kindle',
 		'type' => 'ICANN',
@@ -41328,14 +41320,6 @@ return [
 		'comments' => [
 			'rip : Dog Beach, LLC',
 			'https://www.iana.org/domains/root/db/rip.html',
-		],
-	],
-	'rocher' => [
-		'suffix' => 'rocher',
-		'type' => 'ICANN',
-		'comments' => [
-			'rocher : Ferrero Trading Lux S.A.',
-			'https://www.iana.org/domains/root/db/rocher.html',
 		],
 	],
 	'rocks' => [
