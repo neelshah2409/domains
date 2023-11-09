@@ -53099,7 +53099,7 @@ return [
 		'suffix' => '*.futurecms.at',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Futureweb OG : http://www.futureweb.at',
+			'Futureweb GmbH : https://www.futureweb.at',
 			'Submitted by Andreas Schnederle-Wagner <schnederle@futureweb.at>',
 		],
 	],
