@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-11-03T15:13:18Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-11-18T15:11:52Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37544,14 +37544,6 @@ return [
 		'comments' => [
 			'estate : Binky Moon, LLC',
 			'https://www.iana.org/domains/root/db/estate.html',
-		],
-	],
-	'etisalat' => [
-		'suffix' => 'etisalat',
-		'type' => 'ICANN',
-		'comments' => [
-			'etisalat : Emirates Telecommunications Corporation (trading as Etisalat)',
-			'https://www.iana.org/domains/root/db/etisalat.html',
 		],
 	],
 	'eurovision' => [
@@ -43712,14 +43704,6 @@ return [
 		'comments' => [
 			'xn--mgba7c0bbn0a : Competrol (Luxembourg) Sarl',
 			'https://www.iana.org/domains/root/db/xn--mgba7c0bbn0a.html',
-		],
-	],
-	'اتصالات' => [
-		'suffix' => 'اتصالات',
-		'type' => 'ICANN',
-		'comments' => [
-			'xn--mgbaakc7dvf : Emirates Telecommunications Corporation (trading as Etisalat)',
-			'https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html',
 		],
 	],
 	'بازار' => [
