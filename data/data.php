@@ -37194,6 +37194,14 @@ return [
 			'https://www.iana.org/domains/root/db/dentist.html',
 		],
 	],
+	'desi' => [
+		'suffix' => 'desi',
+		'type' => 'ICANN',
+		'comments' => [
+			'desi',
+			'https://www.iana.org/domains/root/db/desi.html',
+		],
+	],
 	'design' => [
 		'suffix' => 'design',
 		'type' => 'ICANN',
@@ -43040,6 +43048,14 @@ return [
 		'comments' => [
 			'website : Radix FZC DMCC',
 			'https://www.iana.org/domains/root/db/website.html',
+		],
+	],
+	'wed' => [
+		'suffix' => 'wed',
+		'type' => 'ICANN',
+		'comments' => [
+			'wed',
+			'https://www.iana.org/domains/root/db/wed.html',
 		],
 	],
 	'wedding' => [
@@ -52945,7 +52961,7 @@ return [
 		'suffix' => 'forgeblocks.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Forgerock : https://www.forgerock.com',
+			'Forgerock : https://www.forgerock.com',
 			'Submitted by Roderick Parr <roderick.parr@forgerock.com>',
 		],
 	],
@@ -59399,7 +59415,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Smallregistry by Promopixel SARL: https://www.smallregistry.net',
-			'Former AFNIC\'s SLDs ',
+			'Former AFNIC\'s SLDs',
 			'Submitted by Jérôme Lipowicz <support@promopixel.com>',
 		],
 	],
