@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-11-18T15:11:52Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-11-21T15:13:47Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -42904,14 +42904,6 @@ return [
 		'comments' => [
 			'vodka : Registry Services, LLC',
 			'https://www.iana.org/domains/root/db/vodka.html',
-		],
-	],
-	'volkswagen' => [
-		'suffix' => 'volkswagen',
-		'type' => 'ICANN',
-		'comments' => [
-			'volkswagen : Volkswagen Group of America Inc.',
-			'https://www.iana.org/domains/root/db/volkswagen.html',
 		],
 	],
 	'volvo' => [
