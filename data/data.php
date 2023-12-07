@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-11-21T15:13:47Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-12-06T15:14:09Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37294,7 +37294,7 @@ return [
 		'suffix' => 'diy',
 		'type' => 'ICANN',
 		'comments' => [
-			'diy : Lifestyle Domain Holdings, Inc.',
+			'diy : Internet Naming Company LLC',
 			'https://www.iana.org/domains/root/db/diy.html',
 		],
 	],
@@ -37902,7 +37902,7 @@ return [
 		'suffix' => 'food',
 		'type' => 'ICANN',
 		'comments' => [
-			'food : Lifestyle Domain Holdings, Inc.',
+			'food : Internet Naming Company LLC',
 			'https://www.iana.org/domains/root/db/food.html',
 		],
 	],
@@ -38318,7 +38318,7 @@ return [
 		'suffix' => 'goo',
 		'type' => 'ICANN',
 		'comments' => [
-			'goo : NTT Resonant Inc.',
+			'goo : NTT DOCOMO, INC.',
 			'https://www.iana.org/domains/root/db/goo.html',
 		],
 	],
@@ -39510,7 +39510,7 @@ return [
 		'suffix' => 'lifestyle',
 		'type' => 'ICANN',
 		'comments' => [
-			'lifestyle : Lifestyle Domain Holdings, Inc.',
+			'lifestyle : Internet Naming Company LLC',
 			'https://www.iana.org/domains/root/db/lifestyle.html',
 		],
 	],
@@ -39590,7 +39590,7 @@ return [
 		'suffix' => 'living',
 		'type' => 'ICANN',
 		'comments' => [
-			'living : Lifestyle Domain Holdings, Inc.',
+			'living : Internet Naming Company LLC',
 			'https://www.iana.org/domains/root/db/living.html',
 		],
 	],
@@ -42742,7 +42742,7 @@ return [
 		'suffix' => 'vana',
 		'type' => 'ICANN',
 		'comments' => [
-			'vana : Lifestyle Domain Holdings, Inc.',
+			'vana : Internet Naming Company LLC',
 			'https://www.iana.org/domains/root/db/vana.html',
 		],
 	],
