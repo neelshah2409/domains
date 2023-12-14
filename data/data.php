@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-12-06T15:14:09Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-12-12T15:13:54Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -41544,14 +41544,6 @@ return [
 		'comments' => [
 			'sbs : ShortDot SA',
 			'https://www.iana.org/domains/root/db/sbs.html',
-		],
-	],
-	'sca' => [
-		'suffix' => 'sca',
-		'type' => 'ICANN',
-		'comments' => [
-			'sca : SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)',
-			'https://www.iana.org/domains/root/db/sca.html',
 		],
 	],
 	'scb' => [
