@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-12-12T15:13:54Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-01-06T15:12:04Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39134,7 +39134,7 @@ return [
 		'suffix' => 'juegos',
 		'type' => 'ICANN',
 		'comments' => [
-			'juegos : Internet Naming Company LLC',
+			'juegos : Dog Beach, LLC',
 			'https://www.iana.org/domains/root/db/juegos.html',
 		],
 	],
@@ -53985,14 +53985,6 @@ return [
 		'comments' => [
 			'GOV.UK Pay : https://www.payments.service.gov.uk/',
 			'Submitted by Richard Baker <richard.baker@digital.cabinet-office.gov.uk>',
-		],
-	],
-	'homeoffice.gov.uk' => [
-		'suffix' => 'homeoffice.gov.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'UKHomeOffice : https://www.gov.uk/government/organisations/home-office',
-			'Submitted by Jon Shanks <jon.shanks@digital.homeoffice.gov.uk>',
 		],
 	],
 	'ro.im' => [
