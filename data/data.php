@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-01-06T15:12:04Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-01-23T15:14:10Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -35720,14 +35720,6 @@ return [
 		'comments' => [
 			'banamex : Citigroup Inc.',
 			'https://www.iana.org/domains/root/db/banamex.html',
-		],
-	],
-	'bananarepublic' => [
-		'suffix' => 'bananarepublic',
-		'type' => 'ICANN',
-		'comments' => [
-			'bananarepublic : The Gap, Inc.',
-			'https://www.iana.org/domains/root/db/bananarepublic.html',
 		],
 	],
 	'band' => [
@@ -40472,14 +40464,6 @@ return [
 		'comments' => [
 			'olayangroup : Competrol (Luxembourg) Sarl',
 			'https://www.iana.org/domains/root/db/olayangroup.html',
-		],
-	],
-	'oldnavy' => [
-		'suffix' => 'oldnavy',
-		'type' => 'ICANN',
-		'comments' => [
-			'oldnavy : The Gap, Inc.',
-			'https://www.iana.org/domains/root/db/oldnavy.html',
 		],
 	],
 	'ollo' => [
