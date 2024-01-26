@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-01-23T15:14:10Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-01-24T15:14:29Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -38014,7 +38014,7 @@ return [
 		'suffix' => 'fun',
 		'type' => 'ICANN',
 		'comments' => [
-			'fun : Radix FZC DMCC',
+			'fun : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/fun.html',
 		],
 	],
@@ -38686,7 +38686,7 @@ return [
 		'suffix' => 'host',
 		'type' => 'ICANN',
 		'comments' => [
-			'host : Radix FZC DMCC',
+			'host : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/host.html',
 		],
 	],
@@ -40510,7 +40510,7 @@ return [
 		'suffix' => 'online',
 		'type' => 'ICANN',
 		'comments' => [
-			'online : Radix FZC DMCC',
+			'online : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/online.html',
 		],
 	],
@@ -40918,7 +40918,7 @@ return [
 		'suffix' => 'press',
 		'type' => 'ICANN',
 		'comments' => [
-			'press : Radix FZC DMCC',
+			'press : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/press.html',
 		],
 	],
@@ -41822,7 +41822,7 @@ return [
 		'suffix' => 'site',
 		'type' => 'ICANN',
 		'comments' => [
-			'site : Radix FZC DMCC',
+			'site : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/site.html',
 		],
 	],
@@ -41982,7 +41982,7 @@ return [
 		'suffix' => 'space',
 		'type' => 'ICANN',
 		'comments' => [
-			'space : Radix FZC DMCC',
+			'space : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/space.html',
 		],
 	],
@@ -42086,7 +42086,7 @@ return [
 		'suffix' => 'store',
 		'type' => 'ICANN',
 		'comments' => [
-			'store : Radix FZC DMCC',
+			'store : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/store.html',
 		],
 	],
@@ -42318,7 +42318,7 @@ return [
 		'suffix' => 'tech',
 		'type' => 'ICANN',
 		'comments' => [
-			'tech : Radix FZC DMCC',
+			'tech : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/tech.html',
 		],
 	],
@@ -42686,7 +42686,7 @@ return [
 		'suffix' => 'uno',
 		'type' => 'ICANN',
 		'comments' => [
-			'uno : Radix FZC DMCC',
+			'uno : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/uno.html',
 		],
 	],
@@ -43014,7 +43014,7 @@ return [
 		'suffix' => 'website',
 		'type' => 'ICANN',
 		'comments' => [
-			'website : Radix FZC DMCC',
+			'website : Radix Technologies Inc.',
 			'https://www.iana.org/domains/root/db/website.html',
 		],
 	],
