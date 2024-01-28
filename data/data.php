@@ -44156,6 +44156,12 @@ return [
 		'comments' => [
 		],
 	],
+	'aem.live' => [
+		'suffix' => 'aem.live',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'hlx.live' => [
 		'suffix' => 'hlx.live',
 		'type' => 'PRIVATE',
@@ -44164,6 +44170,12 @@ return [
 	],
 	'adobeaemcloud.net' => [
 		'suffix' => 'adobeaemcloud.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'aem.page' => [
+		'suffix' => 'aem.page',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -52176,14 +52188,6 @@ return [
 			'Submitted by Eric Jiang <eric@fabrica.dev>',
 		],
 	],
-	'apps.fbsbx.com' => [
-		'suffix' => 'apps.fbsbx.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Facebook, Inc.',
-			'Submitted by Peter Ruibal <public-suffix@fb.com>',
-		],
-	],
 	'ru.net' => [
 		'suffix' => 'ru.net',
 		'type' => 'PRIVATE',
@@ -56419,6 +56423,20 @@ return [
 			'Submitted by Ruben Schmidmeister <psl-maintainers@messerli.ch>',
 		],
 	],
+	'atmeta.com' => [
+		'suffix' => 'atmeta.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Meta Platforms, Inc. : https://meta.com/',
+			'Submitted by Jacob Cordero <public-suffix@meta.com>',
+		],
+	],
+	'apps.fbsbx.com' => [
+		'suffix' => 'apps.fbsbx.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.cloud.metacentrum.cz' => [
 		'suffix' => '*.cloud.metacentrum.cz',
 		'type' => 'PRIVATE',
@@ -58907,7 +58925,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Salesforce.com, Inc. https://salesforce.com/',
-			'Submitted by Michael Biven <mbiven@salesforce.com>',
+			'Submitted by Michael Biven <mbiven@salesforce.com> and Aaron Romeo <aaron.romeo@salesforce.com>',
 		],
 	],
 	'*.dev-builder.code.com' => [
@@ -58918,6 +58936,12 @@ return [
 	],
 	'*.stg-builder.code.com' => [
 		'suffix' => '*.stg-builder.code.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.001.test.code-builder-stg.platform.salesforce.com' => [
+		'suffix' => '*.001.test.code-builder-stg.platform.salesforce.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
