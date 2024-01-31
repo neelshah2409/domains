@@ -48442,6 +48442,14 @@ return [
 			'Submitted by Lev Nekrasov <lnekrasov@beget.com>',
 		],
 	],
+	'pages.gay' => [
+		'suffix' => 'pages.gay',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Besties : https://besties.house',
+			'Submitted by Hazel Cora <hazy@besties.house>',
+		],
+	],
 	'betainabox.com' => [
 		'suffix' => 'betainabox.com',
 		'type' => 'PRIVATE',
@@ -58052,12 +58060,18 @@ return [
 			'Submitted by Frédéric VANNIÈRE <f.vanniere@planet-work.com>',
 		],
 	],
-	'bc.platform.sh' => [
-		'suffix' => 'bc.platform.sh',
+	'*.upsun.app' => [
+		'suffix' => '*.upsun.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Platform.sh : https://platform.sh',
 			'Submitted by Nikola Kotur <nikola@platform.sh>',
+		],
+	],
+	'upsunapp.com' => [
+		'suffix' => 'upsunapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'ent.platform.sh' => [
