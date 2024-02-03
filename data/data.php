@@ -44082,11 +44082,31 @@ return [
 			'https://www.iana.org/domains/root/db/zuerich.html',
 		],
 	],
+	'12chars.dev' => [
+		'suffix' => '12chars.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'(Note: these are in alphabetical order by company name)',
+			'12CHARS: https://12chars.com',
+			'Submitted by Kenny Niehage <psl@12chars.com>',
+		],
+	],
+	'12chars.it' => [
+		'suffix' => '12chars.it',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'12chars.pro' => [
+		'suffix' => '12chars.pro',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cc.ua' => [
 		'suffix' => 'cc.ua',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'(Note: these are in alphabetical order by company name)',
 			'1GB LLC : https://www.1gb.ua/',
 			'Submitted by 1GB LLC <noc@1gb.com.ua>',
 		],
@@ -44108,6 +44128,20 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'611coin : https://611project.org/',
+		],
+	],
+	'a2hosted.com' => [
+		'suffix' => 'a2hosted.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'A2 Hosting',
+			'Submitted by Tyler Hall <sysadmin@a2hosting.com>',
+		],
+	],
+	'cpserver.com' => [
+		'suffix' => 'cpserver.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'graphox.us' => [
@@ -44397,7 +44431,7 @@ return [
 			'Subsections of Amazon/subsidiaries will appear until "concludes" tag',
 			'Amazon API Gateway',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 4d863337-ff98-4501-a6f2-361eba8445d6',
+			'Reference: 9e37648f-a66c-4655-9ab1-5981f8737197',
 		],
 	],
 	'execute-api.cn-northwest-1.amazonaws.com.cn' => [
@@ -44474,6 +44508,12 @@ return [
 	],
 	'execute-api.ca-central-1.amazonaws.com' => [
 		'suffix' => 'execute-api.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ca-west-1.amazonaws.com' => [
+		'suffix' => 'execute-api.ca-west-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45387,7 +45427,7 @@ return [
 		'comments' => [
 			'Amazon S3',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 0e801048-08f2-4064-9cb8-e7373e0b57f4',
+			'Reference: cd5c8b3a-67b7-4b40-9236-c87ce81a3d10',
 		],
 	],
 	's3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn' => [
@@ -45968,6 +46008,66 @@ return [
 	],
 	's3-website.ca-central-1.amazonaws.com' => [
 		'suffix' => 's3-website.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3.dualstack.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.dualstack.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-fips.dualstack.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint-fips.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-accesspoint-fips.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-fips.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-fips.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-website.ca-west-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -47052,7 +47152,7 @@ return [
 		'comments' => [
 			'Amazon SageMaker Notebook Instances',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: fe8c9e94-5a22-486d-8750-991a3a9b13c6',
+			'Reference: ce8ae0b1-0070-496d-be88-37c31837af9d',
 		],
 	],
 	'notebook.ap-east-1.sagemaker.aws' => [
@@ -47117,6 +47217,24 @@ return [
 	],
 	'notebook.ca-central-1.sagemaker.aws' => [
 		'suffix' => 'notebook.ca-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook-fips.ca-central-1.sagemaker.aws' => [
+		'suffix' => 'notebook-fips.ca-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook.ca-west-1.sagemaker.aws' => [
+		'suffix' => 'notebook.ca-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'notebook-fips.ca-west-1.sagemaker.aws' => [
+		'suffix' => 'notebook-fips.ca-west-1.sagemaker.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -47541,7 +47659,7 @@ return [
 		'comments' => [
 			'AWS Cloud9',
 			'Submitted by: AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 05c44955-977c-4b57-938a-f2af92733f9f',
+			'Reference: 30717f72-4007-4f0f-8ed4-864c6f2efec9',
 		],
 	],
 	'vfs.cloud9.af-south-1.amazonaws.com' => [
@@ -47804,6 +47922,18 @@ return [
 	],
 	'webview-assets.cloud9.eu-west-3.amazonaws.com' => [
 		'suffix' => 'webview-assets.cloud9.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'webview-assets.aws-cloud9.il-central-1.amazonaws.com' => [
+		'suffix' => 'webview-assets.aws-cloud9.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'vfs.cloud9.il-central-1.amazonaws.com' => [
+		'suffix' => 'vfs.cloud9.il-central-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -48111,6 +48241,15 @@ return [
 			'Reference: d916759d-a08b-4241-b536-4db887383a6a',
 		],
 	],
+	'*.private.repost.aws' => [
+		'suffix' => '*.private.repost.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AWS re:Post Private',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 83385945-225f-416e-9aa0-ad0632bfdcee',
+		],
+	],
 	'eero.online' => [
 		'suffix' => 'eero.online',
 		'type' => 'PRIVATE',
@@ -48147,6 +48286,14 @@ return [
 		'comments' => [
 			'Apigee : https://apigee.com/',
 			'Submitted by Apigee Security Team <security@apigee.com>',
+		],
+	],
+	'panel.dev' => [
+		'suffix' => 'panel.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Apis Networks: https://apisnetworks.com',
+			'Submitted by Matt Saladna <matt@apisnetworks.com>',
 		],
 	],
 	'siiites.com' => [
@@ -48558,6 +48705,14 @@ return [
 		'suffix' => 'square7.net',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'*.s.brave.io' => [
+		'suffix' => '*.s.brave.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Brave : https://brave.com',
+			'Submitted by Andrea Brancaleoni <abrancaleoni@brave.com>',
 		],
 	],
 	'shop.brendly.rs' => [
@@ -52909,6 +53064,14 @@ return [
 		'comments' => [
 		],
 	],
+	'flutterflow.app' => [
+		'suffix' => 'flutterflow.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'FlutterFlow : https://flutterflow.io',
+			'Submitted by Anton Emelyanov <anton@flutterflow.io>',
+		],
+	],
 	'fly.dev' => [
 		'suffix' => 'fly.dev',
 		'type' => 'PRIVATE',
@@ -53123,6 +53286,14 @@ return [
 		'suffix' => '*.statics.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'aliases121.com' => [
+		'suffix' => 'aliases121.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'GCom Internet : https://www.gcom.net.au',
+			'Submitted by Leo Julius <support@gcom.net.au>',
 		],
 	],
 	'independent-commission.uk' => [
@@ -53999,18 +54170,12 @@ return [
 			'Submitted by Christian Poulter <milchstrasse@goip.de>',
 		],
 	],
-	'run.app' => [
-		'suffix' => 'run.app',
+	'*.run.app' => [
+		'suffix' => '*.run.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Google, Inc.',
 			'Submitted by Eduardo Vela <evn@google.com>',
-		],
-	],
-	'a.run.app' => [
-		'suffix' => 'a.run.app',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'web.app' => [
@@ -54726,6 +54891,26 @@ return [
 		'comments' => [
 			'home.pl S.A.: https://home.pl',
 			'Submitted by Krzysztof Wolski <krzysztof.wolski@home.eu>',
+		],
+	],
+	'*.kin.one' => [
+		'suffix' => '*.kin.one',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Homebase : https://homebase.id/',
+			'Submitted by Jason Babo <info@homebase.id>',
+		],
+	],
+	'*.id.pub' => [
+		'suffix' => '*.id.pub',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.kin.pub' => [
+		'suffix' => '*.kin.pub',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'secaas.hk' => [
@@ -56500,6 +56685,32 @@ return [
 		'comments' => [
 			'Microsoft Corporation : http://microsoft.com',
 			'Submitted by Public Suffix List Admin <msftpsladmin@microsoft.com>',
+			'Managed by Corporate Domains',
+			'Microsoft Azure : https://home.azure',
+		],
+	],
+	'*.cloudapp.azure.com' => [
+		'suffix' => '*.cloudapp.azure.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'azure-api.net' => [
+		'suffix' => 'azure-api.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'azureedge.net' => [
+		'suffix' => 'azureedge.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'azurefd.net' => [
+		'suffix' => 'azurefd.net',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'azurewebsites.net' => [
@@ -56510,12 +56721,6 @@ return [
 	],
 	'azure-mobile.net' => [
 		'suffix' => 'azure-mobile.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'cloudapp.net' => [
-		'suffix' => 'cloudapp.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56594,6 +56799,30 @@ return [
 	],
 	'westus2.azurestaticapps.net' => [
 		'suffix' => 'westus2.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudapp.net' => [
+		'suffix' => 'cloudapp.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'trafficmanager.net' => [
+		'suffix' => 'trafficmanager.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blob.core.windows.net' => [
+		'suffix' => 'blob.core.windows.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'servicebus.windows.net' => [
+		'suffix' => 'servicebus.windows.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58142,6 +58371,14 @@ return [
 		'suffix' => 'pleskns.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'pley.games' => [
+		'suffix' => 'pley.games',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Pley AB : https://www.pley.com/',
+			'Submitted by Henning Pohl <infra@pley.com>',
 		],
 	],
 	'dyn53.io' => [
@@ -60734,12 +60971,6 @@ return [
 		'comments' => [
 		],
 	],
-	'blog.kg' => [
-		'suffix' => 'blog.kg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'io.kg' => [
 		'suffix' => 'io.kg',
 		'type' => 'PRIVATE',
@@ -61255,6 +61486,14 @@ return [
 		'suffix' => 'za.org',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'zap.cloud' => [
+		'suffix' => 'zap.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ZAP-Hosting GmbH & Co. KG : https://zap-hosting.com',
+			'Submitted by Julian Alker <security@zap-hosting.com>',
 		],
 	],
 	'bss.design' => [
