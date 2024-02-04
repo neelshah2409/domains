@@ -59239,6 +59239,12 @@ return [
 		'comments' => [
 		],
 	],
+	'cockpit.fr-par.scw.cloud' => [
+		'suffix' => 'cockpit.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'fnc.fr-par.scw.cloud' => [
 		'suffix' => 'fnc.fr-par.scw.cloud',
 		'type' => 'PRIVATE',
@@ -59299,6 +59305,12 @@ return [
 		'comments' => [
 		],
 	],
+	'cockpit.nl-ams.scw.cloud' => [
+		'suffix' => 'cockpit.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'k8s.nl-ams.scw.cloud' => [
 		'suffix' => 'k8s.nl-ams.scw.cloud',
 		'type' => 'PRIVATE',
@@ -59325,6 +59337,12 @@ return [
 	],
 	'whm.nl-ams.scw.cloud' => [
 		'suffix' => 'whm.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cockpit.pl-waw.scw.cloud' => [
+		'suffix' => 'cockpit.pl-waw.scw.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
