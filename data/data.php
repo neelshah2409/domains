@@ -49577,6 +49577,32 @@ return [
 		'comments' => [
 		],
 	],
+	'cyclic.app' => [
+		'suffix' => 'cyclic.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Cyclic Software : https://www.cyclic.sh',
+			'Submitted by Kam Lasater <dns-admin@cyclic.sh>',
+		],
+	],
+	'cyclic.cloud' => [
+		'suffix' => 'cyclic.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cyclic-app.com' => [
+		'suffix' => 'cyclic-app.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cyclic.co.in' => [
+		'suffix' => 'cyclic.co.in',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cyon.link' => [
 		'suffix' => 'cyon.link',
 		'type' => 'PRIVATE',
