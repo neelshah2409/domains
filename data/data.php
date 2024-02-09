@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-01-24T15:14:29Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-02-08T15:13:14Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -36768,14 +36768,6 @@ return [
 		'comments' => [
 			'cologne : dotKoeln GmbH',
 			'https://www.iana.org/domains/root/db/cologne.html',
-		],
-	],
-	'comcast' => [
-		'suffix' => 'comcast',
-		'type' => 'ICANN',
-		'comments' => [
-			'comcast : Comcast IP Holdings I, LLC',
-			'https://www.iana.org/domains/root/db/comcast.html',
 		],
 	],
 	'commbank' => [
@@ -43200,14 +43192,6 @@ return [
 		'comments' => [
 			'xerox : Xerox DNHC LLC',
 			'https://www.iana.org/domains/root/db/xerox.html',
-		],
-	],
-	'xfinity' => [
-		'suffix' => 'xfinity',
-		'type' => 'ICANN',
-		'comments' => [
-			'xfinity : Comcast IP Holdings I, LLC',
-			'https://www.iana.org/domains/root/db/xfinity.html',
 		],
 	],
 	'xihuan' => [
