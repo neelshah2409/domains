@@ -49502,6 +49502,14 @@ return [
 		'comments' => [
 		],
 	],
+	'*.cprapid.com' => [
+		'suffix' => '*.cprapid.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'cPanel L.L.C. : https://www.cpanel.net/',
+			'Submitted by Dustin Scherer <public.suffix@cpanel.net>',
+		],
+	],
 	'realm.cz' => [
 		'suffix' => 'realm.cz',
 		'type' => 'PRIVATE',
