@@ -44160,6 +44160,14 @@ return [
 			'Submitted by Ofer Kalaora <postmaster@activetrail.com>',
 		],
 	],
+	'adaptable.app' => [
+		'suffix' => 'adaptable.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Adaptable.io : https://adaptable.io',
+			'Submitted by Mark Terrel <support@adaptable.io>',
+		],
+	],
 	'adobeaemcloud.com' => [
 		'suffix' => 'adobeaemcloud.com',
 		'type' => 'PRIVATE',
@@ -48318,6 +48326,14 @@ return [
 			'Submitted by Thomas Orozco <thomas@aptible.com>',
 		],
 	],
+	'f5.si' => [
+		'suffix' => 'f5.si',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Aquapal : https://aquapal.net/',
+			'Submitted by Aki Ueno <admin@aquapal.net>',
+		],
+	],
 	'user.aseinet.ne.jp' => [
 		'suffix' => 'user.aseinet.ne.jp',
 		'type' => 'PRIVATE',
@@ -49408,6 +49424,14 @@ return [
 		'comments' => [
 		],
 	],
+	'convex.site' => [
+		'suffix' => 'convex.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Convex : https://convex.dev/',
+			'Submitted by James Cowling <security@convex.dev>',
+		],
+	],
 	'ac.ru' => [
 		'suffix' => 'ac.ru',
 		'type' => 'PRIVATE',
@@ -49516,6 +49540,14 @@ return [
 		'comments' => [
 			'Craynic, s.r.o. : http://www.craynic.com/',
 			'Submitted by Ales Krajnik <ales.krajnik@craynic.com>',
+		],
+	],
+	'on.crisp.email' => [
+		'suffix' => 'on.crisp.email',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Crisp IM SAS : https://crisp.chat/',
+			'Submitted by Baptiste Jamin <hostmaster@crisp.chat>',
 		],
 	],
 	'*.cryptonomic.net' => [
@@ -51859,6 +51891,14 @@ return [
 		'suffix' => 'easypanel.host',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'*.ewp.live' => [
+		'suffix' => '*.ewp.live',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'EasyWP : https://www.easywp.com',
+			'Submitted by <infracloudteam@namecheap.com>',
 		],
 	],
 	'elementor.cloud' => [
@@ -56869,6 +56909,14 @@ return [
 			'Submitted by Grayson Martin <grayson.martin@mobileeducation.us>',
 		],
 	],
+	'modx.dev' => [
+		'suffix' => 'modx.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MODX Systems LLC : https://modx.com',
+			'Submitted by Elizabeth Southwell <elizabeth@modx.com>',
+		],
+	],
 	'mozilla-iot.org' => [
 		'suffix' => 'mozilla-iot.org',
 		'type' => 'PRIVATE',
@@ -57093,6 +57141,12 @@ return [
 	],
 	'ngrok.pizza' => [
 		'suffix' => 'ngrok.pizza',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ngrok.pro' => [
+		'suffix' => 'ngrok.pro',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58583,6 +58637,18 @@ return [
 			'Submitted by Scott Claeys <s.claeys@radwebhosting.com>',
 		],
 	],
+	'myradweb.net' => [
+		'suffix' => 'myradweb.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'servername.us' => [
+		'suffix' => 'servername.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'instances.spawn.cc' => [
 		'suffix' => 'instances.spawn.cc',
 		'type' => 'PRIVATE',
@@ -58743,12 +58809,24 @@ return [
 		'comments' => [
 		],
 	],
+	'replit.app' => [
+		'suffix' => 'replit.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Repl.it : https://repl.it',
+			'Submitted by Lincoln Bergeson <psl@repl.it>',
+		],
+	],
+	'id.replit.app' => [
+		'suffix' => 'id.replit.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'firewalledreplit.co' => [
 		'suffix' => 'firewalledreplit.co',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Repl.it : https://repl.it',
-			'Submitted by Lincoln Bergeson <lincoln@replit.com>',
 		],
 	],
 	'id.firewalledreplit.co' => [
@@ -58765,6 +58843,168 @@ return [
 	],
 	'id.repl.co' => [
 		'suffix' => 'id.repl.co',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'replit.dev' => [
+		'suffix' => 'replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'archer.replit.dev' => [
+		'suffix' => 'archer.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'bones.replit.dev' => [
+		'suffix' => 'bones.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'canary.replit.dev' => [
+		'suffix' => 'canary.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'global.replit.dev' => [
+		'suffix' => 'global.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hacker.replit.dev' => [
+		'suffix' => 'hacker.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'id.replit.dev' => [
+		'suffix' => 'id.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'janeway.replit.dev' => [
+		'suffix' => 'janeway.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kim.replit.dev' => [
+		'suffix' => 'kim.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kira.replit.dev' => [
+		'suffix' => 'kira.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kirk.replit.dev' => [
+		'suffix' => 'kirk.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'odo.replit.dev' => [
+		'suffix' => 'odo.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'paris.replit.dev' => [
+		'suffix' => 'paris.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'picard.replit.dev' => [
+		'suffix' => 'picard.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'pike.replit.dev' => [
+		'suffix' => 'pike.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'prerelease.replit.dev' => [
+		'suffix' => 'prerelease.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'reed.replit.dev' => [
+		'suffix' => 'reed.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'riker.replit.dev' => [
+		'suffix' => 'riker.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sisko.replit.dev' => [
+		'suffix' => 'sisko.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'spock.replit.dev' => [
+		'suffix' => 'spock.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'staging.replit.dev' => [
+		'suffix' => 'staging.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sulu.replit.dev' => [
+		'suffix' => 'sulu.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'tarpit.replit.dev' => [
+		'suffix' => 'tarpit.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'teams.replit.dev' => [
+		'suffix' => 'teams.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'tucker.replit.dev' => [
+		'suffix' => 'tucker.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wesley.replit.dev' => [
+		'suffix' => 'wesley.replit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'worf.replit.dev' => [
+		'suffix' => 'worf.replit.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59810,6 +60050,38 @@ return [
 			'Submitted by Adrien Gillon <adrien+public-suffix-list@stackhero.io>',
 		],
 	],
+	'runs.onstackit.cloud' => [
+		'suffix' => 'runs.onstackit.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'STACKIT : https://www.stackit.de/en/',
+			'Submitted by STACKIT-DNS Team (Simon Stier) <stackit-dns@mail.schwarz>',
+		],
+	],
+	'stackit.gg' => [
+		'suffix' => 'stackit.gg',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'stackit.rocks' => [
+		'suffix' => 'stackit.rocks',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'stackit.run' => [
+		'suffix' => 'stackit.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'stackit.zone' => [
+		'suffix' => 'stackit.zone',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'musician.io' => [
 		'suffix' => 'musician.io',
 		'type' => 'PRIVATE',
@@ -60041,6 +60313,68 @@ return [
 			'Submitted by Jacob Lee <jacob@stdlib.com>',
 		],
 	],
+	'feedback.ac' => [
+		'suffix' => 'feedback.ac',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'stereosense GmbH : https://www.involve.me',
+			'Submitted by Florian Burmann <publicsuffix@involve.me>',
+		],
+	],
+	'forms.ac' => [
+		'suffix' => 'forms.ac',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'assessments.cx' => [
+		'suffix' => 'assessments.cx',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'calculators.cx' => [
+		'suffix' => 'calculators.cx',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'funnels.cx' => [
+		'suffix' => 'funnels.cx',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'paynow.cx' => [
+		'suffix' => 'paynow.cx',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'quizzes.cx' => [
+		'suffix' => 'quizzes.cx',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'researched.cx' => [
+		'suffix' => 'researched.cx',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'tests.cx' => [
+		'suffix' => 'tests.cx',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'surveys.so' => [
+		'suffix' => 'surveys.so',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'storipress.app' => [
 		'suffix' => 'storipress.app',
 		'type' => 'PRIVATE',
@@ -60055,6 +60389,26 @@ return [
 		'comments' => [
 			'Storj Labs Inc. : https://storj.io/',
 			'Submitted by Philip Hutchins <hostmaster@storj.io>',
+		],
+	],
+	'streak-link.com' => [
+		'suffix' => 'streak-link.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Streak : https://streak.com',
+			'Submitted by Blake Kadatz <eng@streak.com>',
+		],
+	],
+	'streaklinks.com' => [
+		'suffix' => 'streaklinks.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'streakusercontent.com' => [
+		'suffix' => 'streakusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'utwente.io' => [
@@ -60271,6 +60625,12 @@ return [
 	],
 	'ts.net' => [
 		'suffix' => 'ts.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.c.ts.net' => [
+		'suffix' => '*.c.ts.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61149,6 +61509,20 @@ return [
 		'comments' => [
 			'Waffle Computer Inc., Ltd. : https://docs.waffleinfo.com',
 			'Submitted by Masayuki Note <masa@blade.wafflecell.com>',
+		],
+	],
+	'webflow.io' => [
+		'suffix' => 'webflow.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Webflow, Inc. : https://www.webflow.com',
+			'Submitted by Webflow Security Team <security@webflow.com>',
+		],
+	],
+	'webflowtest.io' => [
+		'suffix' => 'webflowtest.io',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.webhare.dev' => [
