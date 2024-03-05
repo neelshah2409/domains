@@ -48775,8 +48775,20 @@ return [
 			'Submitted by Joel Aquilina <publicsuffixlist@canva.com>',
 		],
 	],
+	'*.my.canvasite.cn' => [
+		'suffix' => '*.my.canvasite.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'canva-apps.com' => [
 		'suffix' => 'canva-apps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.my.canva.site' => [
+		'suffix' => '*.my.canva.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
