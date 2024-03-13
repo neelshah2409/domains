@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-02-08T15:13:14Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-03-06T15:14:58Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -38400,14 +38400,6 @@ return [
 		'comments' => [
 			'group : Binky Moon, LLC',
 			'https://www.iana.org/domains/root/db/group.html',
-		],
-	],
-	'guardian' => [
-		'suffix' => 'guardian',
-		'type' => 'ICANN',
-		'comments' => [
-			'guardian : The Guardian Life Insurance Company of America',
-			'https://www.iana.org/domains/root/db/guardian.html',
 		],
 	],
 	'gucci' => [
