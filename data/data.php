@@ -54194,6 +54194,14 @@ return [
 		'comments' => [
 		],
 	],
+	'graphic.design' => [
+		'suffix' => 'graphic.design',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'GoDaddy Registry : https://registry.godaddy',
+			'Submitted by Rohan Durrant <tldns@registry.godaddy>',
+		],
+	],
 	'cloudapps.digital' => [
 		'suffix' => 'cloudapps.digital',
 		'type' => 'PRIVATE',
@@ -55232,7 +55240,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'info.cx : http://info.cx',
-			'Submitted by Jacob Slater <whois@igloo.to>',
+			'Submitted by June Slater <whois@igloo.to>',
 		],
 	],
 	'ac.leg.br' => [
@@ -55429,6 +55437,14 @@ return [
 		'comments' => [
 			'IPiFony Systems, Inc. : https://www.ipifony.com/',
 			'Submitted by Matthew Hardeman <mhardeman@ipifony.com>',
+		],
+	],
+	'ir.md' => [
+		'suffix' => 'ir.md',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ir.md : https://nic.ir.md',
+			'Submitted by Ali Soizi <info@nic.ir.md>',
 		],
 	],
 	'iservschule.de' => [
@@ -56751,8 +56767,8 @@ return [
 			'Microsoft Azure : https://home.azure',
 		],
 	],
-	'*.cloudapp.azure.com' => [
-		'suffix' => '*.cloudapp.azure.com',
+	'cloudapp.azure.com' => [
+		'suffix' => 'cloudapp.azure.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57176,6 +57192,14 @@ return [
 		'comments' => [
 			'NFSN, Inc. : https://www.NearlyFreeSpeech.NET/',
 			'Submitted by Jeff Wheelhouse <support@nearlyfreespeech.net>',
+		],
+	],
+	'ipfs.nftstorage.link' => [
+		'suffix' => 'ipfs.nftstorage.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'NFT.Storage : https://nft.storage/',
+			'Submitted by Vasco Santos <vasco.santos@protocol.ai> or <support@nft.storage>',
 		],
 	],
 	'*.developer.app' => [
