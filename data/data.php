@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-03-06T15:14:58Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-03-28T15:13:37Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -35664,14 +35664,6 @@ return [
 		'comments' => [
 			'autos : XYZ.COM LLC',
 			'https://www.iana.org/domains/root/db/autos.html',
-		],
-	],
-	'avianca' => [
-		'suffix' => 'avianca',
-		'type' => 'ICANN',
-		'comments' => [
-			'avianca : Avianca Inc.',
-			'https://www.iana.org/domains/root/db/avianca.html',
 		],
 	],
 	'aws' => [
