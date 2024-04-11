@@ -48404,12 +48404,18 @@ return [
 			'Submitted by Jacob Lee <jacob@autocode.com>',
 		],
 	],
-	'myfritz.net' => [
-		'suffix' => 'myfritz.net',
+	'myfritz.link' => [
+		'suffix' => 'myfritz.link',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'AVM : https://avm.de',
 			'Submitted by Andreas Weise <a.weise@avm.de>',
+		],
+	],
+	'myfritz.net' => [
+		'suffix' => 'myfritz.net',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'onavstack.net' => [
@@ -49277,12 +49283,18 @@ return [
 			'Submitted by Martin Semrad <semrad@i-registry.cz>',
 		],
 	],
-	'c.cdn77.org' => [
-		'suffix' => 'c.cdn77.org',
+	'cdn77-storage.com' => [
+		'suffix' => 'cdn77-storage.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'CDN77.com : http://www.cdn77.com',
 			'Submitted by Jan Krpes <jan.krpes@cdn77.com>',
+		],
+	],
+	'rsc.contentproxy9.cz' => [
+		'suffix' => 'rsc.contentproxy9.cz',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'cdn77-ssl.net' => [
@@ -49297,14 +49309,20 @@ return [
 		'comments' => [
 		],
 	],
-	'rsc.cdn77.org' => [
-		'suffix' => 'rsc.cdn77.org',
+	'ssl.origin.cdn77-secure.org' => [
+		'suffix' => 'ssl.origin.cdn77-secure.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'ssl.origin.cdn77-secure.org' => [
-		'suffix' => 'ssl.origin.cdn77-secure.org',
+	'c.cdn77.org' => [
+		'suffix' => 'c.cdn77.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rsc.cdn77.org' => [
+		'suffix' => 'rsc.cdn77.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49314,11 +49332,35 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Cloud DNS Ltd : http://www.cloudns.net',
-			'Submitted by Aleksander Hristov <noc@cloudns.net>',
+			'Submitted by Aleksander Hristov <noc@cloudns.net> & Boyan Peychev <boyan@cloudns.net>',
+		],
+	],
+	'cloudns.be' => [
+		'suffix' => 'cloudns.be',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'cloudns.biz' => [
 		'suffix' => 'cloudns.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudns.cc' => [
+		'suffix' => 'cloudns.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudns.ch' => [
+		'suffix' => 'cloudns.ch',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudns.cl' => [
+		'suffix' => 'cloudns.cl',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49329,8 +49371,14 @@ return [
 		'comments' => [
 		],
 	],
-	'cloudns.cc' => [
-		'suffix' => 'cloudns.cc',
+	'dnsabr.com' => [
+		'suffix' => 'dnsabr.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudns.cx' => [
+		'suffix' => 'cloudns.cx',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49353,8 +49401,32 @@ return [
 		'comments' => [
 		],
 	],
+	'dns-cloud.net' => [
+		'suffix' => 'dns-cloud.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dns-dynamic.net' => [
+		'suffix' => 'dns-dynamic.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudns.nz' => [
+		'suffix' => 'cloudns.nz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cloudns.org' => [
 		'suffix' => 'cloudns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudns.ph' => [
+		'suffix' => 'cloudns.ph',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49391,6 +49463,20 @@ return [
 		'comments' => [
 			'Codeberg e. V. : https://codeberg.org',
 			'Submitted by Moritz Marquardt <git@momar.de>',
+		],
+	],
+	'csb.app' => [
+		'suffix' => 'csb.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'CodeSandbox B.V. : https://codesandbox.io',
+			'Submitted by Ives van Hoorne <abuse@codesandbox.io>',
+		],
+	],
+	'preview.csb.app' => [
+		'suffix' => 'preview.csb.app',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'co.nl' => [
@@ -49769,6 +49855,12 @@ return [
 		'comments' => [
 			'Dark, Inc. : https://darklang.com',
 			'Submitted by Paul Biggar <ops@darklang.com>',
+		],
+	],
+	'darklang.io' => [
+		'suffix' => 'darklang.io',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'demo.datadetect.com' => [
@@ -51897,6 +51989,14 @@ return [
 			'Submitted by <infracloudteam@namecheap.com>',
 		],
 	],
+	'at.emf.camp' => [
+		'suffix' => 'at.emf.camp',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Electromagnetic Field : https://www.emfcamp.org',
+			'Submitted by <noc@emfcamp.org>',
+		],
+	],
 	'elementor.cloud' => [
 		'suffix' => 'elementor.cloud',
 		'type' => 'PRIVATE',
@@ -53168,12 +53268,18 @@ return [
 		'comments' => [
 		],
 	],
+	'framer.ai' => [
+		'suffix' => 'framer.ai',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Framer : https://www.framer.com',
+			'Submitted by Koen Rouwhorst <security@framer.com>',
+		],
+	],
 	'framer.app' => [
 		'suffix' => 'framer.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Framer : https://www.framer.com',
-			'Submitted by Koen Rouwhorst <koenrh@framer.com>',
 		],
 	],
 	'framercanvas.com' => [
@@ -53290,6 +53396,98 @@ return [
 		'comments' => [
 			'FunkFeuer - Verein zur Förderung freier Netze : https://www.funkfeuer.at',
 			'Submitted by Daniel A. Maierhofer <vorstand@funkfeuer.at>',
+		],
+	],
+	'daemon.asia' => [
+		'suffix' => 'daemon.asia',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Future Versatile Group. ：https://www.fvg-on.net/',
+			'T.Kabu <webmaster@fvg-on.net>',
+		],
+	],
+	'dix.asia' => [
+		'suffix' => 'dix.asia',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mydns.bz' => [
+		'suffix' => 'mydns.bz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'0am.jp' => [
+		'suffix' => '0am.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'0g0.jp' => [
+		'suffix' => '0g0.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'0j0.jp' => [
+		'suffix' => '0j0.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'0t0.jp' => [
+		'suffix' => '0t0.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mydns.jp' => [
+		'suffix' => 'mydns.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'pgw.jp' => [
+		'suffix' => 'pgw.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wjg.jp' => [
+		'suffix' => 'wjg.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'keyword-on.net' => [
+		'suffix' => 'keyword-on.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'live-on.net' => [
+		'suffix' => 'live-on.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'server-on.net' => [
+		'suffix' => 'server-on.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mydns.tw' => [
+		'suffix' => 'mydns.tw',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mydns.vc' => [
+		'suffix' => 'mydns.vc',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.futurecms.at' => [
@@ -53450,6 +53648,26 @@ return [
 	],
 	'cdn-edges.net' => [
 		'suffix' => 'cdn-edges.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'localcert.net' => [
+		'suffix' => 'localcert.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Getlocalcert: https://www.getlocalcert.net',
+			'Submitted by Robert Alexander <support@getlocalcert.net>',
+		],
+	],
+	'localhostcert.net' => [
+		'suffix' => 'localhostcert.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'corpnet.work' => [
+		'suffix' => 'corpnet.work',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -54796,6 +55014,14 @@ return [
 			'Submitted by <domeinnaam@minaz.nl>',
 		],
 	],
+	'grayjayleagues.com' => [
+		'suffix' => 'grayjayleagues.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'GrayJay Web Solutions Inc. : https://grayjaysports.ca',
+			'Submitted by Matt Yamkowy <info@grayjaysports.ca>',
+		],
+	],
 	'awsmppl.com' => [
 		'suffix' => 'awsmppl.com',
 		'type' => 'PRIVATE',
@@ -54893,6 +55119,20 @@ return [
 			'Submitted by Richard Zowalla <mi-admin@hs-heilbronn.de>',
 		],
 	],
+	'helioho.st' => [
+		'suffix' => 'helioho.st',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Helio Networks : https://heliohost.org',
+			'Submitted by Ben Frede <admin@heliohost.org>',
+		],
+	],
+	'heliohost.us' => [
+		'suffix' => 'heliohost.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'hepforge.org' => [
 		'suffix' => 'hepforge.org',
 		'type' => 'PRIVATE',
@@ -54925,12 +55165,6 @@ return [
 	],
 	'ravendb.community' => [
 		'suffix' => 'ravendb.community',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ravendb.me' => [
-		'suffix' => 'ravendb.me',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55429,6 +55663,14 @@ return [
 		'comments' => [
 			'IPiFony Systems, Inc. : https://www.ipifony.com/',
 			'Submitted by Matthew Hardeman <mhardeman@ipifony.com>',
+		],
+	],
+	'is-a.dev' => [
+		'suffix' => 'is-a.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'is-a.dev : https://www.is-a.dev',
+			'Submitted by William Harrison <admin@maintainers.is-a.dev>',
 		],
 	],
 	'ir.md' => [
@@ -56192,6 +56434,14 @@ return [
 		'comments' => [
 			'Lelux.fi : https://lelux.fi/',
 			'Submitted by Lelux Admin <publisuffix@lelux.site>',
+		],
+	],
+	'runcontainers.dev' => [
+		'suffix' => 'runcontainers.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Libre IT Ltd : https://libre.nz',
+			'Submitted by Tomas Maggio <support@libre.nz>',
 		],
 	],
 	'co.business' => [
@@ -57175,7 +57425,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Nimbus Hosting Ltd. : https://www.nimbushosting.co.uk/',
-			'Submitted by Nicholas Ford <nick@nimbushosting.co.uk>',
+			'Submitted by Nicholas Ford <dev@nimbushosting.co.uk>',
+		],
+	],
+	'nimsite.uk' => [
+		'suffix' => 'nimsite.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'nfshost.com' => [
@@ -58034,12 +58290,6 @@ return [
 		'comments' => [
 		],
 	],
-	'123sait.ru' => [
-		'suffix' => '123sait.ru',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'123siteweb.fr' => [
 		'suffix' => '123siteweb.fr',
 		'type' => 'PRIVATE',
@@ -58120,6 +58370,32 @@ return [
 			'Submitted by Eddie Jones <eddie@onefoldmedia.com>',
 		],
 	],
+	'is-cool.dev' => [
+		'suffix' => 'is-cool.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Open Domains : https://open-domains.net',
+			'Submitted by William Harrison <admin@open-domains.net>',
+		],
+	],
+	'is-not-a.dev' => [
+		'suffix' => 'is-not-a.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'localplayer.dev' => [
+		'suffix' => 'localplayer.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-local.org' => [
+		'suffix' => 'is-local.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'opensocial.site' => [
 		'suffix' => 'opensocial.site',
 		'type' => 'PRIVATE',
@@ -58158,6 +58434,15 @@ return [
 		'comments' => [
 			'Orange : https://www.orange.com',
 			'Submitted by Alexandre Linte <alexandre.linte@orange.com>',
+		],
+	],
+	'can.re' => [
+		'suffix' => 'can.re',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'OsSav Technology Ltd. : https://ossav.com/',
+			'TLD Nic: http://nic.can.re - TLD Whois Server: whois.can.re',
+			'Submitted by OsSav Technology Ltd. <support@ossav.com>',
 		],
 	],
 	'authgear-staging.com' => [
@@ -58272,12 +58557,18 @@ return [
 			'Submitted by Daniel Netzer <dan@paywhirl.com>',
 		],
 	],
-	'bar0.net' => [
-		'suffix' => 'bar0.net',
+	'*.xmit.co' => [
+		'suffix' => '*.xmit.co',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'pcarrier.ca Software Inc: https://pcarrier.ca/',
 			'Submitted by Pierre Carrier <pc@rrier.ca>',
+		],
+	],
+	'bar0.net' => [
+		'suffix' => 'bar0.net',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'bar1.net' => [
@@ -58294,6 +58585,24 @@ return [
 	],
 	'rdv.to' => [
 		'suffix' => 'rdv.to',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'srv.us' => [
+		'suffix' => 'srv.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gh.srv.us' => [
+		'suffix' => 'gh.srv.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gl.srv.us' => [
+		'suffix' => 'gl.srv.us',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59697,6 +60006,14 @@ return [
 			'Submitted by Shante Adam <shante@skyhat.io>',
 		],
 	],
+	'client.scrypted.io' => [
+		'suffix' => 'client.scrypted.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Scrypted : https://scrypted.app',
+			'Submitted by Koushik Dutta <public-suffix-list@scrypted.app>',
+		],
+	],
 	'firewall-gateway.com' => [
 		'suffix' => 'firewall-gateway.com',
 		'type' => 'PRIVATE',
@@ -60020,16 +60337,16 @@ return [
 			'Submitted by Dan Kozak <dan@smoove.io>',
 		],
 	],
-	'snowflake.app' => [
-		'suffix' => 'snowflake.app',
+	'*.snowflake.app' => [
+		'suffix' => '*.snowflake.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Snowflake Inc : https://www.snowflake.com/',
-			'Submitted by Faith Olapade <faith.olapade@snowflake.com>',
+			'Submitted by Sam Haar <psl@snowflake.com>',
 		],
 	],
-	'privatelink.snowflake.app' => [
-		'suffix' => 'privatelink.snowflake.app',
+	'*.privatelink.snowflake.app' => [
+		'suffix' => '*.privatelink.snowflake.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60060,6 +60377,26 @@ return [
 		'comments' => [
 			'SourceHut : https://sourcehut.org',
 			'Submitted by Drew DeVault <sir@cmpwn.com>',
+		],
+	],
+	'w-corp-staticblitz.com' => [
+		'suffix' => 'w-corp-staticblitz.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'StackBlitz : https://stackblitz.com',
+			'Submitted by Dominic Elm <hello@stackblitz.com>',
+		],
+	],
+	'w-credentialless-staticblitz.com' => [
+		'suffix' => 'w-credentialless-staticblitz.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'w-staticblitz.com' => [
+		'suffix' => 'w-staticblitz.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'stackhero-network.com' => [
@@ -61148,6 +61485,14 @@ return [
 			'Submitted by ITComdomains <to@it.com>',
 		],
 	],
+	'unison-services.cloud' => [
+		'suffix' => 'unison-services.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Unison Computing, PBC : https://unison.cloud',
+			'Submitted by Simon Højberg <security@unison.cloud>',
+		],
+	],
 	'name.pm' => [
 		'suffix' => 'name.pm',
 		'type' => 'PRIVATE',
@@ -61577,6 +61922,14 @@ return [
 		'suffix' => 'hotelwithflight.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'*.wadl.top' => [
+		'suffix' => '*.wadl.top',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'WebWaddle Ltd: https://webwaddle.com/',
+			'Submitted by Merlin Glander <hostmaster@webwaddle.com>',
 		],
 	],
 	'wedeploy.io' => [
