@@ -49252,6 +49252,26 @@ return [
 		'comments' => [
 		],
 	],
+	'cust.cloudscale.ch' => [
+		'suffix' => 'cust.cloudscale.ch',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'cloudscale.ch AG : https://www.cloudscale.ch/',
+			'Submitted by Gaudenz Steinlin <support@cloudscale.ch>',
+		],
+	],
+	'objects.lpg.cloudscale.ch' => [
+		'suffix' => 'objects.lpg.cloudscale.ch',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'objects.rma.cloudscale.ch' => [
+		'suffix' => 'objects.rma.cloudscale.ch',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'wnext.app' => [
 		'suffix' => 'wnext.app',
 		'type' => 'PRIVATE',
@@ -51995,6 +52015,14 @@ return [
 		'comments' => [
 			'Electromagnetic Field : https://www.emfcamp.org',
 			'Submitted by <noc@emfcamp.org>',
+		],
+	],
+	'rt.ht' => [
+		'suffix' => 'rt.ht',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Elefunc, Inc. : https://elefunc.com',
+			'Submitted by Cetin Sert <domains@elefunc.com>',
 		],
 	],
 	'elementor.cloud' => [
