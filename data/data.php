@@ -51859,6 +51859,14 @@ return [
 			'Submitted by Robin H. Johnson <psl-maintainers@digitalocean.com>',
 		],
 	],
+	'us.kg' => [
+		'suffix' => 'us.kg',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'DigitalPlat : https://www.digitalplat.org/',
+			'Submitted by Edward Hsing <contact@digitalplat.org>',
+		],
+	],
 	'bci.dnstrace.pro' => [
 		'suffix' => 'bci.dnstrace.pro',
 		'type' => 'PRIVATE',
@@ -56277,6 +56285,20 @@ return [
 			'Submitted by Daniel Fariña <ingenieria@jotelulu.com>',
 		],
 	],
+	'jouwweb.site' => [
+		'suffix' => 'jouwweb.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'JouwWeb B.V. : https://www.jouwweb.nl',
+			'Submitted by Camilo Sperberg <tech@webador.com>',
+		],
+	],
+	'webadorsite.com' => [
+		'suffix' => 'webadorsite.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.triton.zone' => [
 		'suffix' => '*.triton.zone',
 		'type' => 'PRIVATE',
@@ -58591,30 +58613,6 @@ return [
 		'comments' => [
 			'pcarrier.ca Software Inc: https://pcarrier.ca/',
 			'Submitted by Pierre Carrier <pc@rrier.ca>',
-		],
-	],
-	'bar0.net' => [
-		'suffix' => 'bar0.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'bar1.net' => [
-		'suffix' => 'bar1.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'bar2.net' => [
-		'suffix' => 'bar2.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'rdv.to' => [
-		'suffix' => 'rdv.to',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'srv.us' => [
@@ -61648,236 +61646,6 @@ return [
 		'comments' => [
 			'Voorloper.com: https://voorloper.com',
 			'Submitted by Nathan van Bakel <info@voorloper.com>',
-		],
-	],
-	'neko.am' => [
-		'suffix' => 'neko.am',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Voxel.sh DNS : https://voxel.sh/dns/',
-			'Submitted by Mia Rehlinger <dns@voxel.sh>',
-		],
-	],
-	'nyaa.am' => [
-		'suffix' => 'nyaa.am',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'be.ax' => [
-		'suffix' => 'be.ax',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'cat.ax' => [
-		'suffix' => 'cat.ax',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'es.ax' => [
-		'suffix' => 'es.ax',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'eu.ax' => [
-		'suffix' => 'eu.ax',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'gg.ax' => [
-		'suffix' => 'gg.ax',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mc.ax' => [
-		'suffix' => 'mc.ax',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'us.ax' => [
-		'suffix' => 'us.ax',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'xy.ax' => [
-		'suffix' => 'xy.ax',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'nl.ci' => [
-		'suffix' => 'nl.ci',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'xx.gl' => [
-		'suffix' => 'xx.gl',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'app.gp' => [
-		'suffix' => 'app.gp',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blog.gt' => [
-		'suffix' => 'blog.gt',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'de.gt' => [
-		'suffix' => 'de.gt',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'to.gt' => [
-		'suffix' => 'to.gt',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'be.gy' => [
-		'suffix' => 'be.gy',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'cc.hn' => [
-		'suffix' => 'cc.hn',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'io.kg' => [
-		'suffix' => 'io.kg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'jp.kg' => [
-		'suffix' => 'jp.kg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'tv.kg' => [
-		'suffix' => 'tv.kg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'uk.kg' => [
-		'suffix' => 'uk.kg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'us.kg' => [
-		'suffix' => 'us.kg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'de.ls' => [
-		'suffix' => 'de.ls',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'at.md' => [
-		'suffix' => 'at.md',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'de.md' => [
-		'suffix' => 'de.md',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'jp.md' => [
-		'suffix' => 'jp.md',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'to.md' => [
-		'suffix' => 'to.md',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'indie.porn' => [
-		'suffix' => 'indie.porn',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'vxl.sh' => [
-		'suffix' => 'vxl.sh',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ch.tc' => [
-		'suffix' => 'ch.tc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'me.tc' => [
-		'suffix' => 'me.tc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'we.tc' => [
-		'suffix' => 'we.tc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'nyan.to' => [
-		'suffix' => 'nyan.to',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'at.vg' => [
-		'suffix' => 'at.vg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blog.vu' => [
-		'suffix' => 'blog.vu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dev.vu' => [
-		'suffix' => 'dev.vu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'me.vu' => [
-		'suffix' => 'me.vu',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'v.ua' => [
