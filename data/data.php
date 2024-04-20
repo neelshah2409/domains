@@ -57059,12 +57059,6 @@ return [
 			'Microsoft Azure : https://home.azure',
 		],
 	],
-	'cloudapp.azure.com' => [
-		'suffix' => 'cloudapp.azure.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'azure-api.net' => [
 		'suffix' => 'azure-api.net',
 		'type' => 'PRIVATE',
