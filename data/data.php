@@ -59044,16 +59044,34 @@ return [
 		'comments' => [
 		],
 	],
-	'dev-myqnapcloud.com' => [
-		'suffix' => 'dev-myqnapcloud.com',
+	'myqnapcloud.cn' => [
+		'suffix' => 'myqnapcloud.cn',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'QNAP System Inc : https://www.qnap.com',
-			'Submitted by Nick Chang <nickchang@qnap.com>',
+			'Submitted by Nick Chang <cloudadmin@qnap.com>',
 		],
 	],
 	'alpha-myqnapcloud.com' => [
 		'suffix' => 'alpha-myqnapcloud.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dev-myqnapcloud.com' => [
+		'suffix' => 'dev-myqnapcloud.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mycloudnas.com' => [
+		'suffix' => 'mycloudnas.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mynascloud.com' => [
+		'suffix' => 'mynascloud.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
