@@ -48705,12 +48705,18 @@ return [
 			'Submitted by Andrea Brancaleoni <abrancaleoni@brave.com>',
 		],
 	],
+	'shop.brendly.hr' => [
+		'suffix' => 'shop.brendly.hr',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Brendly : https://brendly.rs',
+			'Submitted by Dusan Radovanovic <administracija@brendly.rs>',
+		],
+	],
 	'shop.brendly.rs' => [
 		'suffix' => 'shop.brendly.rs',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Brendly : https://brendly.rs',
-			'Submitted by Dusan Radovanovic <dusan.radovanovic@brendly.rs>',
 		],
 	],
 	'browsersafetymark.io' => [
