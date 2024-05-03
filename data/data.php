@@ -44098,6 +44098,14 @@ return [
 			'611coin : https://611project.org/',
 		],
 	],
+	'aaa.vodka' => [
+		'suffix' => 'aaa.vodka',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AAA workspace : https://aaa.vodka',
+			'Submitted by Kirill Rezraf <admin@aaa.vodka>',
+		],
+	],
 	'a2hosted.com' => [
 		'suffix' => 'a2hosted.com',
 		'type' => 'PRIVATE',
@@ -44617,7 +44625,7 @@ return [
 		'comments' => [
 			'Amazon Cognito',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 7bee1013-f456-47df-bfe8-03c78d946d61',
+			'Reference: 09588633-91fe-49d8-b4e7-ec36496d11f3',
 		],
 	],
 	'auth.ap-northeast-1.amazoncognito.com' => [
@@ -44644,6 +44652,12 @@ return [
 		'comments' => [
 		],
 	],
+	'auth.ap-south-2.amazoncognito.com' => [
+		'suffix' => 'auth.ap-south-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'auth.ap-southeast-1.amazoncognito.com' => [
 		'suffix' => 'auth.ap-southeast-1.amazoncognito.com',
 		'type' => 'PRIVATE',
@@ -44662,6 +44676,12 @@ return [
 		'comments' => [
 		],
 	],
+	'auth.ap-southeast-4.amazoncognito.com' => [
+		'suffix' => 'auth.ap-southeast-4.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'auth.ca-central-1.amazoncognito.com' => [
 		'suffix' => 'auth.ca-central-1.amazoncognito.com',
 		'type' => 'PRIVATE',
@@ -44674,6 +44694,12 @@ return [
 		'comments' => [
 		],
 	],
+	'auth.eu-central-2.amazoncognito.com' => [
+		'suffix' => 'auth.eu-central-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'auth.eu-north-1.amazoncognito.com' => [
 		'suffix' => 'auth.eu-north-1.amazoncognito.com',
 		'type' => 'PRIVATE',
@@ -44682,6 +44708,12 @@ return [
 	],
 	'auth.eu-south-1.amazoncognito.com' => [
 		'suffix' => 'auth.eu-south-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.eu-south-2.amazoncognito.com' => [
+		'suffix' => 'auth.eu-south-2.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44706,6 +44738,12 @@ return [
 	],
 	'auth.il-central-1.amazoncognito.com' => [
 		'suffix' => 'auth.il-central-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.me-central-1.amazoncognito.com' => [
+		'suffix' => 'auth.me-central-1.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44809,7 +44847,7 @@ return [
 		'comments' => [
 			'Amazon EMR',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 597f3f8e-9283-4e48-8e32-7ee25a1ff6ab',
+			'Reference: 82f43f9f-bbb8-400e-8349-854f5a62f20d',
 		],
 	],
 	'emrnotebooks-prod.cn-north-1.amazonaws.com.cn' => [
@@ -44950,6 +44988,24 @@ return [
 		'comments' => [
 		],
 	],
+	'emrappui-prod.ap-south-2.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-south-2.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-south-2.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'emrappui-prod.ap-southeast-1.amazonaws.com' => [
 		'suffix' => 'emrappui-prod.ap-southeast-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -45004,6 +45060,24 @@ return [
 		'comments' => [
 		],
 	],
+	'emrappui-prod.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'emrappui-prod.ca-central-1.amazonaws.com' => [
 		'suffix' => 'emrappui-prod.ca-central-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -45022,6 +45096,24 @@ return [
 		'comments' => [
 		],
 	],
+	'emrappui-prod.ca-west-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.ca-west-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.ca-west-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'emrappui-prod.eu-central-1.amazonaws.com' => [
 		'suffix' => 'emrappui-prod.eu-central-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -45036,6 +45128,24 @@ return [
 	],
 	'emrstudio-prod.eu-central-1.amazonaws.com' => [
 		'suffix' => 'emrstudio-prod.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.eu-central-2.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.eu-central-2.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.eu-central-2.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.eu-central-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45072,6 +45182,24 @@ return [
 	],
 	'emrstudio-prod.eu-south-1.amazonaws.com' => [
 		'suffix' => 'emrstudio-prod.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.eu-south-2.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.eu-south-2.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.eu-south-2.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.eu-south-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45126,6 +45254,24 @@ return [
 	],
 	'emrstudio-prod.eu-west-3.amazonaws.com' => [
 		'suffix' => 'emrstudio-prod.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrappui-prod.il-central-1.amazonaws.com' => [
+		'suffix' => 'emrappui-prod.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrnotebooks-prod.il-central-1.amazonaws.com' => [
+		'suffix' => 'emrnotebooks-prod.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'emrstudio-prod.il-central-1.amazonaws.com' => [
+		'suffix' => 'emrstudio-prod.il-central-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45298,11 +45444,23 @@ return [
 		'comments' => [
 			'Amazon Managed Workflows for Apache Airflow',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 4ab55e6f-90c0-4a8d-b6a0-52ca5dbb1c2e',
+			'Reference: 87f24ece-a77e-40e8-bb4a-f6b74fe9f975',
 		],
 	],
 	'*.cn-northwest-1.airflow.amazonaws.com.cn' => [
 		'suffix' => '*.cn-northwest-1.airflow.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.af-south-1.airflow.amazonaws.com' => [
+		'suffix' => '*.af-south-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-east-1.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-east-1.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45355,6 +45513,12 @@ return [
 		'comments' => [
 		],
 	],
+	'*.eu-south-1.airflow.amazonaws.com' => [
+		'suffix' => '*.eu-south-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.eu-west-1.airflow.amazonaws.com' => [
 		'suffix' => '*.eu-west-1.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -45373,6 +45537,12 @@ return [
 		'comments' => [
 		],
 	],
+	'*.me-south-1.airflow.amazonaws.com' => [
+		'suffix' => '*.me-south-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.sa-east-1.airflow.amazonaws.com' => [
 		'suffix' => '*.sa-east-1.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -45387,6 +45557,12 @@ return [
 	],
 	'*.us-east-2.airflow.amazonaws.com' => [
 		'suffix' => '*.us-east-2.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-1.airflow.amazonaws.com' => [
+		'suffix' => '*.us-west-1.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -47122,13 +47298,88 @@ return [
 		'comments' => [
 		],
 	],
+	'labeling.ap-northeast-1.sagemaker.aws' => [
+		'suffix' => 'labeling.ap-northeast-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon SageMaker Ground Truth',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 98dbfde4-7802-48c3-8751-b60f204e0d9c',
+		],
+	],
+	'labeling.ap-northeast-2.sagemaker.aws' => [
+		'suffix' => 'labeling.ap-northeast-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.ap-south-1.sagemaker.aws' => [
+		'suffix' => 'labeling.ap-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.ap-southeast-1.sagemaker.aws' => [
+		'suffix' => 'labeling.ap-southeast-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.ap-southeast-2.sagemaker.aws' => [
+		'suffix' => 'labeling.ap-southeast-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.ca-central-1.sagemaker.aws' => [
+		'suffix' => 'labeling.ca-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.eu-central-1.sagemaker.aws' => [
+		'suffix' => 'labeling.eu-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.eu-west-1.sagemaker.aws' => [
+		'suffix' => 'labeling.eu-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.eu-west-2.sagemaker.aws' => [
+		'suffix' => 'labeling.eu-west-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.us-east-1.sagemaker.aws' => [
+		'suffix' => 'labeling.us-east-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.us-east-2.sagemaker.aws' => [
+		'suffix' => 'labeling.us-east-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'labeling.us-west-2.sagemaker.aws' => [
+		'suffix' => 'labeling.us-west-2.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'notebook.af-south-1.sagemaker.aws' => [
 		'suffix' => 'notebook.af-south-1.sagemaker.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Amazon SageMaker Notebook Instances',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: ce8ae0b1-0070-496d-be88-37c31837af9d',
+			'Reference: b5ea56df-669e-43cc-9537-14aa172f5dfc',
 		],
 	],
 	'notebook.ap-east-1.sagemaker.aws' => [
@@ -47341,6 +47592,12 @@ return [
 		'comments' => [
 		],
 	],
+	'notebook-fips.us-west-1.sagemaker.aws' => [
+		'suffix' => 'notebook-fips.us-west-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'notebook.us-west-2.sagemaker.aws' => [
 		'suffix' => 'notebook.us-west-2.sagemaker.aws',
 		'type' => 'PRIVATE',
@@ -47371,7 +47628,7 @@ return [
 		'comments' => [
 			'Amazon SageMaker Studio',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 057ee397-6bf8-4f20-b807-d7bc145ac980',
+			'Reference: 69c723d9-6e1a-4bff-a203-48eecd203183',
 		],
 	],
 	'studio.ap-east-1.sagemaker.aws' => [
@@ -47442,6 +47699,12 @@ return [
 	],
 	'studio.eu-south-1.sagemaker.aws' => [
 		'suffix' => 'studio.eu-south-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.eu-south-2.sagemaker.aws' => [
+		'suffix' => 'studio.eu-south-2.sagemaker.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -48022,6 +48285,15 @@ return [
 		'comments' => [
 		],
 	],
+	'awsapps.com' => [
+		'suffix' => 'awsapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AWS Directory Service',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: a13203e8-42dc-4045-a0d2-2ee67bed1068',
+		],
+	],
 	'cn-north-1.eb.amazonaws.com.cn' => [
 		'suffix' => 'cn-north-1.eb.amazonaws.com.cn',
 		'type' => 'PRIVATE',
@@ -48593,6 +48865,14 @@ return [
 		'comments' => [
 			'BetaInABox',
 			'Submitted by Adrian <adrian@betainabox.com>',
+		],
+	],
+	'bielsko.pl' => [
+		'suffix' => 'bielsko.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'University of Bielsko-Biala regional domain: http://dns.bielsko.pl/',
+			'Submitted by Marcin <dns@ath.bielsko.pl>',
 		],
 	],
 	'bnr.la' => [
@@ -53714,14 +53994,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ghost.io' => [
-		'suffix' => 'ghost.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Ghost Foundation : https://ghost.org',
-			'Submitted by Matt Hanley <security@ghost.org>',
-		],
-	],
 	'gsj.bz' => [
 		'suffix' => 'gsj.bz',
 		'type' => 'PRIVATE',
@@ -56544,14 +56816,6 @@ return [
 		'comments' => [
 		],
 	],
-	'app.lmpm.com' => [
-		'suffix' => 'app.lmpm.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Lightmaker Property Manager, Inc. : https://app.lmpm.com/',
-			'Submitted by Greg Holland <greg.holland@lmpm.com>',
-		],
-	],
 	'linkyard.cloud' => [
 		'suffix' => 'linkyard.cloud',
 		'type' => 'PRIVATE',
@@ -57375,6 +57639,14 @@ return [
 		'comments' => [
 			'Neustar Inc.',
 			'Submitted by Trung Tran <Trung.Tran@neustar.biz>',
+		],
+	],
+	'ngo.us' => [
+		'suffix' => 'ngo.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'NGO.US Registry : https://nic.ngo.us',
+			'Submitted by Alstra Solutions Ltd. Networking Team <admin@alstra.org>',
 		],
 	],
 	'ngrok.app' => [
@@ -58256,6 +58528,14 @@ return [
 			'Submitted by Matthew Brown <mattbrown@nyc.mn>',
 		],
 	],
+	'prvcy.page' => [
+		'suffix' => 'prvcy.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'O3O.Foundation : https://o3o.foundation/',
+			'Submitted by the prvcy.page Registry Team <psl@registry.prvcy.page>',
+		],
+	],
 	'static.observableusercontent.com' => [
 		'suffix' => 'static.observableusercontent.com',
 		'type' => 'PRIVATE',
@@ -58615,6 +58895,12 @@ return [
 			'Submitted by Pierre Carrier <pc@rrier.ca>',
 		],
 	],
+	'xmit.dev' => [
+		'suffix' => 'xmit.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'srv.us' => [
 		'suffix' => 'srv.us',
 		'type' => 'PRIVATE',
@@ -58890,14 +59176,6 @@ return [
 		'comments' => [
 			'priv.at : http://www.nic.priv.at/',
 			'Submitted by registry <lendl@nic.at>',
-		],
-	],
-	'prvcy.page' => [
-		'suffix' => 'prvcy.page',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'privacytools.io : https://www.privacytools.io/',
-			'Submitted by Jonah Aragon <jonah@privacytools.io>',
 		],
 	],
 	'*.dweb.link' => [
