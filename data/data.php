@@ -60458,6 +60458,14 @@ return [
 		'comments' => [
 		],
 	],
+	'sheezy.games' => [
+		'suffix' => 'sheezy.games',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Sheezy.Art : https://sheezy.art',
+			'Submitted by Nyoom <admin@sheezy.art>',
+		],
+	],
 	'shiftcrypto.dev' => [
 		'suffix' => 'shiftcrypto.dev',
 		'type' => 'PRIVATE',
