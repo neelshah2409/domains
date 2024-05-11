@@ -49372,12 +49372,30 @@ return [
 		'comments' => [
 		],
 	],
-	'cleverapps.io' => [
-		'suffix' => 'cleverapps.io',
+	'cleverapps.cc' => [
+		'suffix' => 'cleverapps.cc',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Clever Cloud : https://www.clever-cloud.com/',
 			'Submitted by Quentin Adam <noc@clever-cloud.com>',
+		],
+	],
+	'*.services.clever-cloud.com' => [
+		'suffix' => '*.services.clever-cloud.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cleverapps.io' => [
+		'suffix' => 'cleverapps.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cleverapps.tech' => [
+		'suffix' => 'cleverapps.tech',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'clerk.app' => [
@@ -57826,6 +57844,14 @@ return [
 			'Submitted by Laurent Pellegrino <security@noticeable.io>',
 		],
 	],
+	'notion.site' => [
+		'suffix' => 'notion.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Notion Labs, Inc : https://www.notion.so/',
+			'Submitted by Jess Yao <trust-core-team@makenotion.com>',
+		],
+	],
 	'dnsking.ch' => [
 		'suffix' => 'dnsking.ch',
 		'type' => 'PRIVATE',
@@ -58536,12 +58562,18 @@ return [
 			'Submitted by the prvcy.page Registry Team <psl@registry.prvcy.page>',
 		],
 	],
-	'static.observableusercontent.com' => [
-		'suffix' => 'static.observableusercontent.com',
+	'observablehq.cloud' => [
+		'suffix' => 'observablehq.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Observable, Inc. : https://observablehq.com',
 			'Submitted by Mike Bostock <dns@observablehq.com>',
+		],
+	],
+	'static.observableusercontent.com' => [
+		'suffix' => 'static.observableusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'cya.gg' => [
@@ -61900,6 +61932,20 @@ return [
 			'Submitted by Ed Moore <Ed.Moore@lib.de.us>',
 		],
 	],
+	'express.val.run' => [
+		'suffix' => 'express.val.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Val Town, Inc : https://val.town/',
+			'Submitted by Tom MacWright <security@val.town>',
+		],
+	],
+	'web.val.run' => [
+		'suffix' => 'web.val.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'2038.io' => [
 		'suffix' => '2038.io',
 		'type' => 'PRIVATE',
@@ -62058,6 +62104,14 @@ return [
 		'comments' => [
 			'Western Digital Technologies, Inc : https://www.wdc.com',
 			'Submitted by Jung Jin <jungseok.jin@wdc.com>',
+		],
+	],
+	'box.ca' => [
+		'suffix' => 'box.ca',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Whatbox Inc. : https://whatbox.ca/',
+			'Submitted by Anthony Ryan <servers@whatbox.ca>',
 		],
 	],
 	'pages.wiardweb.com' => [
@@ -62377,6 +62431,14 @@ return [
 		'comments' => [
 			'ZAP-Hosting GmbH & Co. KG : https://zap-hosting.com',
 			'Submitted by Julian Alker <security@zap-hosting.com>',
+		],
+	],
+	'zeabur.app' => [
+		'suffix' => 'zeabur.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Zeabur : https://zeabur.com/',
+			'Submitted by Zeabur Team <contact@zeabur.com>',
 		],
 	],
 	'bss.design' => [
