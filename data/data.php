@@ -52805,6 +52805,20 @@ return [
 		'comments' => [
 		],
 	],
+	'expo.app' => [
+		'suffix' => 'expo.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Expo : https://expo.dev/',
+			'Submitted by James Ide <psl@expo.dev>',
+		],
+	],
+	'staging.expo.app' => [
+		'suffix' => 'staging.expo.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'twmail.cc' => [
 		'suffix' => 'twmail.cc',
 		'type' => 'PRIVATE',
@@ -54782,12 +54796,18 @@ return [
 			'Submitted by Christian Poulter <milchstrasse@goip.de>',
 		],
 	],
+	'*.hosted.app' => [
+		'suffix' => '*.hosted.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Google, Inc.',
+			'Submitted by Shannon McCabe <public-suffix-editors@google.com>',
+		],
+	],
 	'*.run.app' => [
 		'suffix' => '*.run.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Google, Inc.',
-			'Submitted by Eduardo Vela <evn@google.com>',
 		],
 	],
 	'web.app' => [
