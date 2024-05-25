@@ -44814,8 +44814,8 @@ return [
 		'comments' => [
 		],
 	],
-	'*.compute.amazonaws.com' => [
-		'suffix' => '*.compute.amazonaws.com',
+	'*.compute.amazonaws.com.cn' => [
+		'suffix' => '*.compute.amazonaws.com.cn',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Amazon EC2',
@@ -44823,14 +44823,14 @@ return [
 			'Reference: 4c38fa71-58ac-4768-99e5-689c1767e537',
 		],
 	],
-	'*.compute-1.amazonaws.com' => [
-		'suffix' => '*.compute-1.amazonaws.com',
+	'*.compute.amazonaws.com' => [
+		'suffix' => '*.compute.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'*.compute.amazonaws.com.cn' => [
-		'suffix' => '*.compute.amazonaws.com.cn',
+	'*.compute-1.amazonaws.com' => [
+		'suffix' => '*.compute-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49101,8 +49101,8 @@ return [
 		'comments' => [
 		],
 	],
-	'ae.org' => [
-		'suffix' => 'ae.org',
+	'za.bz' => [
+		'suffix' => 'za.bz',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'CentralNic : http://www.centralnic.com/names/domains',
@@ -49121,18 +49121,6 @@ return [
 		'comments' => [
 		],
 	],
-	'com.de' => [
-		'suffix' => 'com.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'com.se' => [
-		'suffix' => 'com.se',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'de.com' => [
 		'suffix' => 'de.com',
 		'type' => 'PRIVATE',
@@ -49141,24 +49129,6 @@ return [
 	],
 	'eu.com' => [
 		'suffix' => 'eu.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'gb.net' => [
-		'suffix' => 'gb.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'hu.net' => [
-		'suffix' => 'hu.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'jp.net' => [
-		'suffix' => 'jp.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49187,20 +49157,8 @@ return [
 		'comments' => [
 		],
 	],
-	'se.net' => [
-		'suffix' => 'se.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'uk.com' => [
 		'suffix' => 'uk.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'uk.net' => [
-		'suffix' => 'uk.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49211,14 +49169,56 @@ return [
 		'comments' => [
 		],
 	],
-	'za.bz' => [
-		'suffix' => 'za.bz',
+	'za.com' => [
+		'suffix' => 'za.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'za.com' => [
-		'suffix' => 'za.com',
+	'com.de' => [
+		'suffix' => 'com.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gb.net' => [
+		'suffix' => 'gb.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hu.net' => [
+		'suffix' => 'hu.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jp.net' => [
+		'suffix' => 'jp.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'se.net' => [
+		'suffix' => 'se.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'uk.net' => [
+		'suffix' => 'uk.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ae.org' => [
+		'suffix' => 'ae.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'com.se' => [
+		'suffix' => 'com.se',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49277,16 +49277,16 @@ return [
 			'Submitted by Gavin Brown <gavin.brown@centralnic.com>',
 		],
 	],
-	'in.net' => [
-		'suffix' => 'in.net',
+	'web.in' => [
+		'suffix' => 'web.in',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Radix FZC : http://domains.in.net',
 			'Submitted by Gavin Brown <gavin.brown@centralnic.com>',
 		],
 	],
-	'web.in' => [
-		'suffix' => 'web.in',
+	'in.net' => [
+		'suffix' => 'in.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49496,16 +49496,16 @@ return [
 		'comments' => [
 		],
 	],
-	'cloudcontrolled.com' => [
-		'suffix' => 'cloudcontrolled.com',
+	'cloudcontrolapp.com' => [
+		'suffix' => 'cloudcontrolapp.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'cloudControl : https://www.cloudcontrol.com/',
 			'Submitted by Tobias Wilken <tw@cloudcontrol.com>',
 		],
 	],
-	'cloudcontrolapp.com' => [
-		'suffix' => 'cloudcontrolapp.com',
+	'cloudcontrolled.com' => [
+		'suffix' => 'cloudcontrolled.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49621,20 +49621,14 @@ return [
 		'comments' => [
 		],
 	],
-	'cdn77-ssl.net' => [
-		'suffix' => 'cdn77-ssl.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'r.cdn77.net' => [
 		'suffix' => 'r.cdn77.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'ssl.origin.cdn77-secure.org' => [
-		'suffix' => 'ssl.origin.cdn77-secure.org',
+	'cdn77-ssl.net' => [
+		'suffix' => 'cdn77-ssl.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49647,6 +49641,12 @@ return [
 	],
 	'rsc.cdn77.org' => [
 		'suffix' => 'rsc.cdn77.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ssl.origin.cdn77-secure.org' => [
+		'suffix' => 'ssl.origin.cdn77-secure.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49884,14 +49884,14 @@ return [
 			'Submitted by Rene Marticke <rmarticke@cosimo.de>',
 		],
 	],
-	'dynamisches-dns.de' => [
-		'suffix' => 'dynamisches-dns.de',
+	'dnsupdater.de' => [
+		'suffix' => 'dnsupdater.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'dnsupdater.de' => [
-		'suffix' => 'dnsupdater.de',
+	'dynamisches-dns.de' => [
+		'suffix' => 'dynamisches-dns.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50047,22 +50047,22 @@ return [
 		'comments' => [
 		],
 	],
-	'fnwk.site' => [
-		'suffix' => 'fnwk.site',
+	'platform0.app' => [
+		'suffix' => 'platform0.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Danger Science Group: https://dangerscience.com/',
 			'Submitted by Skylar MacDonald <skylar@dangerscience.com>',
 		],
 	],
-	'folionetwork.site' => [
-		'suffix' => 'folionetwork.site',
+	'fnwk.site' => [
+		'suffix' => 'fnwk.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'platform0.app' => [
-		'suffix' => 'platform0.app',
+	'folionetwork.site' => [
+		'suffix' => 'folionetwork.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50402,11 +50402,131 @@ return [
 		'comments' => [
 		],
 	],
+	'dyndns.biz' => [
+		'suffix' => 'dyndns.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'DynDNS.com : http://www.dyndns.com/services/dns/dyndns/',
+		],
+	],
+	'for-better.biz' => [
+		'suffix' => 'for-better.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'for-more.biz' => [
+		'suffix' => 'for-more.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'for-some.biz' => [
+		'suffix' => 'for-some.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'for-the.biz' => [
+		'suffix' => 'for-the.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'selfip.biz' => [
+		'suffix' => 'selfip.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'webhop.biz' => [
+		'suffix' => 'webhop.biz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ftpaccess.cc' => [
+		'suffix' => 'ftpaccess.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'game-server.cc' => [
+		'suffix' => 'game-server.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'myphotos.cc' => [
+		'suffix' => 'myphotos.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'scrapping.cc' => [
+		'suffix' => 'scrapping.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogdns.com' => [
+		'suffix' => 'blogdns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cechire.com' => [
+		'suffix' => 'cechire.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnsalias.com' => [
+		'suffix' => 'dnsalias.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnsdojo.com' => [
+		'suffix' => 'dnsdojo.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'doesntexist.com' => [
+		'suffix' => 'doesntexist.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dontexist.com' => [
+		'suffix' => 'dontexist.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'doomdns.com' => [
+		'suffix' => 'doomdns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dyn-o-saur.com' => [
+		'suffix' => 'dyn-o-saur.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynalias.com' => [
+		'suffix' => 'dynalias.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'dyndns-at-home.com' => [
 		'suffix' => 'dyndns-at-home.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'DynDNS.com : http://www.dyndns.com/services/dns/dyndns/',
 		],
 	],
 	'dyndns-at-work.com' => [
@@ -50487,252 +50607,6 @@ return [
 		'comments' => [
 		],
 	],
-	'dyndns.biz' => [
-		'suffix' => 'dyndns.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dyndns.info' => [
-		'suffix' => 'dyndns.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dyndns.org' => [
-		'suffix' => 'dyndns.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dyndns.tv' => [
-		'suffix' => 'dyndns.tv',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'at-band-camp.net' => [
-		'suffix' => 'at-band-camp.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ath.cx' => [
-		'suffix' => 'ath.cx',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'barrel-of-knowledge.info' => [
-		'suffix' => 'barrel-of-knowledge.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'barrell-of-knowledge.info' => [
-		'suffix' => 'barrell-of-knowledge.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'better-than.tv' => [
-		'suffix' => 'better-than.tv',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogdns.com' => [
-		'suffix' => 'blogdns.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogdns.net' => [
-		'suffix' => 'blogdns.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogdns.org' => [
-		'suffix' => 'blogdns.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogsite.org' => [
-		'suffix' => 'blogsite.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'boldlygoingnowhere.org' => [
-		'suffix' => 'boldlygoingnowhere.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'broke-it.net' => [
-		'suffix' => 'broke-it.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'buyshouses.net' => [
-		'suffix' => 'buyshouses.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'cechire.com' => [
-		'suffix' => 'cechire.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dnsalias.com' => [
-		'suffix' => 'dnsalias.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dnsalias.net' => [
-		'suffix' => 'dnsalias.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dnsalias.org' => [
-		'suffix' => 'dnsalias.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dnsdojo.com' => [
-		'suffix' => 'dnsdojo.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dnsdojo.net' => [
-		'suffix' => 'dnsdojo.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dnsdojo.org' => [
-		'suffix' => 'dnsdojo.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'does-it.net' => [
-		'suffix' => 'does-it.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'doesntexist.com' => [
-		'suffix' => 'doesntexist.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'doesntexist.org' => [
-		'suffix' => 'doesntexist.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dontexist.com' => [
-		'suffix' => 'dontexist.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dontexist.net' => [
-		'suffix' => 'dontexist.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dontexist.org' => [
-		'suffix' => 'dontexist.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'doomdns.com' => [
-		'suffix' => 'doomdns.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'doomdns.org' => [
-		'suffix' => 'doomdns.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dvrdns.org' => [
-		'suffix' => 'dvrdns.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dyn-o-saur.com' => [
-		'suffix' => 'dyn-o-saur.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dynalias.com' => [
-		'suffix' => 'dynalias.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dynalias.net' => [
-		'suffix' => 'dynalias.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dynalias.org' => [
-		'suffix' => 'dynalias.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dynathome.net' => [
-		'suffix' => 'dynathome.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dyndns.ws' => [
-		'suffix' => 'dyndns.ws',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'endofinternet.net' => [
-		'suffix' => 'endofinternet.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'endofinternet.org' => [
-		'suffix' => 'endofinternet.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'endoftheinternet.org' => [
-		'suffix' => 'endoftheinternet.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'est-a-la-maison.com' => [
 		'suffix' => 'est-a-la-maison.com',
 		'type' => 'PRIVATE',
@@ -50757,48 +50631,6 @@ return [
 		'comments' => [
 		],
 	],
-	'for-better.biz' => [
-		'suffix' => 'for-better.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'for-more.biz' => [
-		'suffix' => 'for-more.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'for-our.info' => [
-		'suffix' => 'for-our.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'for-some.biz' => [
-		'suffix' => 'for-some.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'for-the.biz' => [
-		'suffix' => 'for-the.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'forgot.her.name' => [
-		'suffix' => 'forgot.her.name',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'forgot.his.name' => [
-		'suffix' => 'forgot.his.name',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'from-ak.com' => [
 		'suffix' => 'from-ak.com',
 		'type' => 'PRIVATE',
@@ -50817,20 +50649,8 @@ return [
 		'comments' => [
 		],
 	],
-	'from-az.net' => [
-		'suffix' => 'from-az.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'from-ca.com' => [
 		'suffix' => 'from-ca.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'from-co.net' => [
-		'suffix' => 'from-co.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50907,12 +50727,6 @@ return [
 		'comments' => [
 		],
 	],
-	'from-la.net' => [
-		'suffix' => 'from-la.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'from-ma.com' => [
 		'suffix' => 'from-ma.com',
 		'type' => 'PRIVATE',
@@ -50921,12 +50735,6 @@ return [
 	],
 	'from-md.com' => [
 		'suffix' => 'from-md.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'from-me.org' => [
-		'suffix' => 'from-me.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50999,12 +50807,6 @@ return [
 	],
 	'from-nv.com' => [
 		'suffix' => 'from-nv.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'from-ny.net' => [
-		'suffix' => 'from-ny.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51111,44 +50913,8 @@ return [
 		'comments' => [
 		],
 	],
-	'ftpaccess.cc' => [
-		'suffix' => 'ftpaccess.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'fuettertdasnetz.de' => [
-		'suffix' => 'fuettertdasnetz.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'game-host.org' => [
-		'suffix' => 'game-host.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'game-server.cc' => [
-		'suffix' => 'game-server.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'getmyip.com' => [
 		'suffix' => 'getmyip.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'gets-it.net' => [
-		'suffix' => 'gets-it.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'go.dyndns.org' => [
-		'suffix' => 'go.dyndns.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51159,74 +50925,8 @@ return [
 		'comments' => [
 		],
 	],
-	'gotdns.org' => [
-		'suffix' => 'gotdns.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'groks-the.info' => [
-		'suffix' => 'groks-the.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'groks-this.info' => [
-		'suffix' => 'groks-this.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ham-radio-op.net' => [
-		'suffix' => 'ham-radio-op.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'here-for-more.info' => [
-		'suffix' => 'here-for-more.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'hobby-site.com' => [
 		'suffix' => 'hobby-site.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'hobby-site.org' => [
-		'suffix' => 'hobby-site.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'home.dyndns.org' => [
-		'suffix' => 'home.dyndns.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'homedns.org' => [
-		'suffix' => 'homedns.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'homeftp.net' => [
-		'suffix' => 'homeftp.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'homeftp.org' => [
-		'suffix' => 'homeftp.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'homeip.net' => [
-		'suffix' => 'homeip.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51237,44 +50937,14 @@ return [
 		'comments' => [
 		],
 	],
-	'homelinux.net' => [
-		'suffix' => 'homelinux.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'homelinux.org' => [
-		'suffix' => 'homelinux.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'homeunix.com' => [
 		'suffix' => 'homeunix.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'homeunix.net' => [
-		'suffix' => 'homeunix.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'homeunix.org' => [
-		'suffix' => 'homeunix.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'iamallama.com' => [
 		'suffix' => 'iamallama.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'in-the-band.net' => [
-		'suffix' => 'in-the-band.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51297,20 +50967,8 @@ return [
 		'comments' => [
 		],
 	],
-	'is-a-bruinsfan.org' => [
-		'suffix' => 'is-a-bruinsfan.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'is-a-bulls-fan.com' => [
 		'suffix' => 'is-a-bulls-fan.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-a-candidate.org' => [
-		'suffix' => 'is-a-candidate.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51321,26 +50979,8 @@ return [
 		'comments' => [
 		],
 	],
-	'is-a-celticsfan.org' => [
-		'suffix' => 'is-a-celticsfan.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'is-a-chef.com' => [
 		'suffix' => 'is-a-chef.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-a-chef.net' => [
-		'suffix' => 'is-a-chef.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-a-chef.org' => [
-		'suffix' => 'is-a-chef.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51393,18 +51033,6 @@ return [
 		'comments' => [
 		],
 	],
-	'is-a-geek.net' => [
-		'suffix' => 'is-a-geek.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-a-geek.org' => [
-		'suffix' => 'is-a-geek.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'is-a-green.com' => [
 		'suffix' => 'is-a-green.com',
 		'type' => 'PRIVATE',
@@ -51429,12 +51057,6 @@ return [
 		'comments' => [
 		],
 	],
-	'is-a-knight.org' => [
-		'suffix' => 'is-a-knight.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'is-a-landscaper.com' => [
 		'suffix' => 'is-a-landscaper.com',
 		'type' => 'PRIVATE',
@@ -51455,12 +51077,6 @@ return [
 	],
 	'is-a-libertarian.com' => [
 		'suffix' => 'is-a-libertarian.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-a-linux-user.org' => [
-		'suffix' => 'is-a-linux-user.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51491,12 +51107,6 @@ return [
 	],
 	'is-a-painter.com' => [
 		'suffix' => 'is-a-painter.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-a-patsfan.org' => [
-		'suffix' => 'is-a-patsfan.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51533,12 +51143,6 @@ return [
 	],
 	'is-a-socialist.com' => [
 		'suffix' => 'is-a-socialist.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-a-soxfan.org' => [
-		'suffix' => 'is-a-soxfan.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51609,20 +51213,8 @@ return [
 		'comments' => [
 		],
 	],
-	'is-by.us' => [
-		'suffix' => 'is-by.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'is-certified.com' => [
 		'suffix' => 'is-certified.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-found.org' => [
-		'suffix' => 'is-found.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51663,20 +51255,8 @@ return [
 		'comments' => [
 		],
 	],
-	'is-lost.org' => [
-		'suffix' => 'is-lost.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'is-not-certified.com' => [
 		'suffix' => 'is-not-certified.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'is-saved.org' => [
-		'suffix' => 'is-saved.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51689,6 +51269,654 @@ return [
 	],
 	'is-uberleet.com' => [
 		'suffix' => 'is-uberleet.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-with-theband.com' => [
+		'suffix' => 'is-with-theband.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'isa-geek.com' => [
+		'suffix' => 'isa-geek.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'isa-hockeynut.com' => [
+		'suffix' => 'isa-hockeynut.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'issmarterthanyou.com' => [
+		'suffix' => 'issmarterthanyou.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'likes-pie.com' => [
+		'suffix' => 'likes-pie.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'likescandy.com' => [
+		'suffix' => 'likescandy.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'neat-url.com' => [
+		'suffix' => 'neat-url.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'saves-the-whales.com' => [
+		'suffix' => 'saves-the-whales.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'selfip.com' => [
+		'suffix' => 'selfip.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sells-for-less.com' => [
+		'suffix' => 'sells-for-less.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sells-for-u.com' => [
+		'suffix' => 'sells-for-u.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'servebbs.com' => [
+		'suffix' => 'servebbs.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'simple-url.com' => [
+		'suffix' => 'simple-url.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'space-to-rent.com' => [
+		'suffix' => 'space-to-rent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'teaches-yoga.com' => [
+		'suffix' => 'teaches-yoga.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'writesthisblog.com' => [
+		'suffix' => 'writesthisblog.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ath.cx' => [
+		'suffix' => 'ath.cx',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'fuettertdasnetz.de' => [
+		'suffix' => 'fuettertdasnetz.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'isteingeek.de' => [
+		'suffix' => 'isteingeek.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'istmein.de' => [
+		'suffix' => 'istmein.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'lebtimnetz.de' => [
+		'suffix' => 'lebtimnetz.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'leitungsen.de' => [
+		'suffix' => 'leitungsen.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'traeumtgerade.de' => [
+		'suffix' => 'traeumtgerade.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'barrel-of-knowledge.info' => [
+		'suffix' => 'barrel-of-knowledge.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'barrell-of-knowledge.info' => [
+		'suffix' => 'barrell-of-knowledge.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dyndns.info' => [
+		'suffix' => 'dyndns.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'for-our.info' => [
+		'suffix' => 'for-our.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'groks-the.info' => [
+		'suffix' => 'groks-the.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'groks-this.info' => [
+		'suffix' => 'groks-this.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'here-for-more.info' => [
+		'suffix' => 'here-for-more.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'knowsitall.info' => [
+		'suffix' => 'knowsitall.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'selfip.info' => [
+		'suffix' => 'selfip.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'webhop.info' => [
+		'suffix' => 'webhop.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'forgot.her.name' => [
+		'suffix' => 'forgot.her.name',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'forgot.his.name' => [
+		'suffix' => 'forgot.his.name',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'at-band-camp.net' => [
+		'suffix' => 'at-band-camp.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogdns.net' => [
+		'suffix' => 'blogdns.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'broke-it.net' => [
+		'suffix' => 'broke-it.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'buyshouses.net' => [
+		'suffix' => 'buyshouses.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnsalias.net' => [
+		'suffix' => 'dnsalias.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnsdojo.net' => [
+		'suffix' => 'dnsdojo.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'does-it.net' => [
+		'suffix' => 'does-it.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dontexist.net' => [
+		'suffix' => 'dontexist.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynalias.net' => [
+		'suffix' => 'dynalias.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynathome.net' => [
+		'suffix' => 'dynathome.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'endofinternet.net' => [
+		'suffix' => 'endofinternet.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'from-az.net' => [
+		'suffix' => 'from-az.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'from-co.net' => [
+		'suffix' => 'from-co.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'from-la.net' => [
+		'suffix' => 'from-la.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'from-ny.net' => [
+		'suffix' => 'from-ny.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gets-it.net' => [
+		'suffix' => 'gets-it.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ham-radio-op.net' => [
+		'suffix' => 'ham-radio-op.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'homeftp.net' => [
+		'suffix' => 'homeftp.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'homeip.net' => [
+		'suffix' => 'homeip.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'homelinux.net' => [
+		'suffix' => 'homelinux.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'homeunix.net' => [
+		'suffix' => 'homeunix.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'in-the-band.net' => [
+		'suffix' => 'in-the-band.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-chef.net' => [
+		'suffix' => 'is-a-chef.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-geek.net' => [
+		'suffix' => 'is-a-geek.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'isa-geek.net' => [
+		'suffix' => 'isa-geek.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kicks-ass.net' => [
+		'suffix' => 'kicks-ass.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'office-on-the.net' => [
+		'suffix' => 'office-on-the.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'podzone.net' => [
+		'suffix' => 'podzone.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'scrapper-site.net' => [
+		'suffix' => 'scrapper-site.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'selfip.net' => [
+		'suffix' => 'selfip.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sells-it.net' => [
+		'suffix' => 'sells-it.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'servebbs.net' => [
+		'suffix' => 'servebbs.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'serveftp.net' => [
+		'suffix' => 'serveftp.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'thruhere.net' => [
+		'suffix' => 'thruhere.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'webhop.net' => [
+		'suffix' => 'webhop.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'merseine.nu' => [
+		'suffix' => 'merseine.nu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mine.nu' => [
+		'suffix' => 'mine.nu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'shacknet.nu' => [
+		'suffix' => 'shacknet.nu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogdns.org' => [
+		'suffix' => 'blogdns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogsite.org' => [
+		'suffix' => 'blogsite.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'boldlygoingnowhere.org' => [
+		'suffix' => 'boldlygoingnowhere.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnsalias.org' => [
+		'suffix' => 'dnsalias.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnsdojo.org' => [
+		'suffix' => 'dnsdojo.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'doesntexist.org' => [
+		'suffix' => 'doesntexist.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dontexist.org' => [
+		'suffix' => 'dontexist.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'doomdns.org' => [
+		'suffix' => 'doomdns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dvrdns.org' => [
+		'suffix' => 'dvrdns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynalias.org' => [
+		'suffix' => 'dynalias.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dyndns.org' => [
+		'suffix' => 'dyndns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'go.dyndns.org' => [
+		'suffix' => 'go.dyndns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'home.dyndns.org' => [
+		'suffix' => 'home.dyndns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'endofinternet.org' => [
+		'suffix' => 'endofinternet.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'endoftheinternet.org' => [
+		'suffix' => 'endoftheinternet.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'from-me.org' => [
+		'suffix' => 'from-me.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'game-host.org' => [
+		'suffix' => 'game-host.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gotdns.org' => [
+		'suffix' => 'gotdns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hobby-site.org' => [
+		'suffix' => 'hobby-site.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'homedns.org' => [
+		'suffix' => 'homedns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'homeftp.org' => [
+		'suffix' => 'homeftp.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'homelinux.org' => [
+		'suffix' => 'homelinux.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'homeunix.org' => [
+		'suffix' => 'homeunix.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-bruinsfan.org' => [
+		'suffix' => 'is-a-bruinsfan.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-candidate.org' => [
+		'suffix' => 'is-a-candidate.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-celticsfan.org' => [
+		'suffix' => 'is-a-celticsfan.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-chef.org' => [
+		'suffix' => 'is-a-chef.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-geek.org' => [
+		'suffix' => 'is-a-geek.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-knight.org' => [
+		'suffix' => 'is-a-knight.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-linux-user.org' => [
+		'suffix' => 'is-a-linux-user.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-patsfan.org' => [
+		'suffix' => 'is-a-patsfan.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a-soxfan.org' => [
+		'suffix' => 'is-a-soxfan.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-found.org' => [
+		'suffix' => 'is-found.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-lost.org' => [
+		'suffix' => 'is-lost.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-saved.org' => [
+		'suffix' => 'is-saved.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51723,56 +51951,8 @@ return [
 		'comments' => [
 		],
 	],
-	'is-with-theband.com' => [
-		'suffix' => 'is-with-theband.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'isa-geek.com' => [
-		'suffix' => 'isa-geek.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'isa-geek.net' => [
-		'suffix' => 'isa-geek.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'isa-geek.org' => [
 		'suffix' => 'isa-geek.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'isa-hockeynut.com' => [
-		'suffix' => 'isa-hockeynut.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'issmarterthanyou.com' => [
-		'suffix' => 'issmarterthanyou.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'isteingeek.de' => [
-		'suffix' => 'isteingeek.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'istmein.de' => [
-		'suffix' => 'istmein.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'kicks-ass.net' => [
-		'suffix' => 'kicks-ass.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51783,92 +51963,8 @@ return [
 		'comments' => [
 		],
 	],
-	'knowsitall.info' => [
-		'suffix' => 'knowsitall.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'land-4-sale.us' => [
-		'suffix' => 'land-4-sale.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'lebtimnetz.de' => [
-		'suffix' => 'lebtimnetz.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'leitungsen.de' => [
-		'suffix' => 'leitungsen.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'likes-pie.com' => [
-		'suffix' => 'likes-pie.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'likescandy.com' => [
-		'suffix' => 'likescandy.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'merseine.nu' => [
-		'suffix' => 'merseine.nu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mine.nu' => [
-		'suffix' => 'mine.nu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'misconfused.org' => [
 		'suffix' => 'misconfused.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mypets.ws' => [
-		'suffix' => 'mypets.ws',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'myphotos.cc' => [
-		'suffix' => 'myphotos.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'neat-url.com' => [
-		'suffix' => 'neat-url.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'office-on-the.net' => [
-		'suffix' => 'office-on-the.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'on-the-web.tv' => [
-		'suffix' => 'on-the-web.tv',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'podzone.net' => [
-		'suffix' => 'podzone.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51885,68 +51981,8 @@ return [
 		'comments' => [
 		],
 	],
-	'saves-the-whales.com' => [
-		'suffix' => 'saves-the-whales.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'scrapper-site.net' => [
-		'suffix' => 'scrapper-site.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'scrapping.cc' => [
-		'suffix' => 'scrapping.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'selfip.biz' => [
-		'suffix' => 'selfip.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'selfip.com' => [
-		'suffix' => 'selfip.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'selfip.info' => [
-		'suffix' => 'selfip.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'selfip.net' => [
-		'suffix' => 'selfip.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'selfip.org' => [
 		'suffix' => 'selfip.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'sells-for-less.com' => [
-		'suffix' => 'sells-for-less.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'sells-for-u.com' => [
-		'suffix' => 'sells-for-u.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'sells-it.net' => [
-		'suffix' => 'sells-it.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51957,26 +51993,8 @@ return [
 		'comments' => [
 		],
 	],
-	'servebbs.com' => [
-		'suffix' => 'servebbs.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'servebbs.net' => [
-		'suffix' => 'servebbs.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'servebbs.org' => [
 		'suffix' => 'servebbs.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'serveftp.net' => [
-		'suffix' => 'serveftp.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -51993,68 +52011,8 @@ return [
 		'comments' => [
 		],
 	],
-	'shacknet.nu' => [
-		'suffix' => 'shacknet.nu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'simple-url.com' => [
-		'suffix' => 'simple-url.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'space-to-rent.com' => [
-		'suffix' => 'space-to-rent.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'stuff-4-sale.org' => [
 		'suffix' => 'stuff-4-sale.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'stuff-4-sale.us' => [
-		'suffix' => 'stuff-4-sale.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'teaches-yoga.com' => [
-		'suffix' => 'teaches-yoga.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'thruhere.net' => [
-		'suffix' => 'thruhere.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'traeumtgerade.de' => [
-		'suffix' => 'traeumtgerade.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'webhop.biz' => [
-		'suffix' => 'webhop.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'webhop.info' => [
-		'suffix' => 'webhop.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'webhop.net' => [
-		'suffix' => 'webhop.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -52065,14 +52023,56 @@ return [
 		'comments' => [
 		],
 	],
+	'better-than.tv' => [
+		'suffix' => 'better-than.tv',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dyndns.tv' => [
+		'suffix' => 'dyndns.tv',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'on-the-web.tv' => [
+		'suffix' => 'on-the-web.tv',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'worse-than.tv' => [
 		'suffix' => 'worse-than.tv',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'writesthisblog.com' => [
-		'suffix' => 'writesthisblog.com',
+	'is-by.us' => [
+		'suffix' => 'is-by.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'land-4-sale.us' => [
+		'suffix' => 'land-4-sale.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'stuff-4-sale.us' => [
+		'suffix' => 'stuff-4-sale.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dyndns.ws' => [
+		'suffix' => 'dyndns.ws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mypets.ws' => [
+		'suffix' => 'mypets.ws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -52097,14 +52097,14 @@ return [
 		'comments' => [
 		],
 	],
-	'dyndns1.de' => [
-		'suffix' => 'dyndns1.de',
+	'dyn-ip24.de' => [
+		'suffix' => 'dyn-ip24.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'dyn-ip24.de' => [
-		'suffix' => 'dyn-ip24.de',
+	'dyndns1.de' => [
+		'suffix' => 'dyndns1.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -52133,16 +52133,16 @@ return [
 		'comments' => [
 		],
 	],
-	'definima.net' => [
-		'suffix' => 'definima.net',
+	'definima.io' => [
+		'suffix' => 'definima.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Definima : http://www.definima.com/',
 			'Submitted by Maxence Bitterli <maxence@definima.com>',
 		],
 	],
-	'definima.io' => [
-		'suffix' => 'definima.io',
+	'definima.net' => [
+		'suffix' => 'definima.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53328,18 +53328,6 @@ return [
 		'comments' => [
 		],
 	],
-	'fastlylb.net' => [
-		'suffix' => 'fastlylb.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'map.fastlylb.net' => [
-		'suffix' => 'map.fastlylb.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'freetls.fastly.net' => [
 		'suffix' => 'freetls.fastly.net',
 		'type' => 'PRIVATE',
@@ -53378,6 +53366,18 @@ return [
 	],
 	'global.ssl.fastly.net' => [
 		'suffix' => 'global.ssl.fastly.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'fastlylb.net' => [
+		'suffix' => 'fastlylb.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'map.fastlylb.net' => [
+		'suffix' => 'map.fastlylb.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53588,14 +53588,14 @@ return [
 			'Submitted by Kurt Mackey <kurt@fly.io>',
 		],
 	],
-	'edgeapp.net' => [
-		'suffix' => 'edgeapp.net',
+	'shw.io' => [
+		'suffix' => 'shw.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'shw.io' => [
-		'suffix' => 'shw.io',
+	'edgeapp.net' => [
+		'suffix' => 'edgeapp.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53902,12 +53902,24 @@ return [
 			'Submitted by Leo Julius <support@gcom.net.au>',
 		],
 	],
-	'independent-commission.uk' => [
-		'suffix' => 'independent-commission.uk',
+	'campaign.gov.uk' => [
+		'suffix' => 'campaign.gov.uk',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'GDS : https://www.gov.uk/service-manual/technology/managing-domain-names',
 			'Submitted by Stephen Ford <hostmaster@digital.cabinet-office.gov.uk>',
+		],
+	],
+	'service.gov.uk' => [
+		'suffix' => 'service.gov.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'independent-commission.uk' => [
+		'suffix' => 'independent-commission.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'independent-inquest.uk' => [
@@ -53942,18 +53954,6 @@ return [
 	],
 	'royal-commission.uk' => [
 		'suffix' => 'royal-commission.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'campaign.gov.uk' => [
-		'suffix' => 'campaign.gov.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'service.gov.uk' => [
-		'suffix' => 'service.gov.uk',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -54796,12 +54796,30 @@ return [
 			'Submitted by Christian Poulter <milchstrasse@goip.de>',
 		],
 	],
-	'*.hosted.app' => [
-		'suffix' => '*.hosted.app',
+	'blogspot.ae' => [
+		'suffix' => 'blogspot.ae',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Google, Inc.',
 			'Submitted by Shannon McCabe <public-suffix-editors@google.com>',
+		],
+	],
+	'blogspot.al' => [
+		'suffix' => 'blogspot.al',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.am' => [
+		'suffix' => 'blogspot.am',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.hosted.app' => [
+		'suffix' => '*.hosted.app',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.run.app' => [
@@ -54812,6 +54830,90 @@ return [
 	],
 	'web.app' => [
 		'suffix' => 'web.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.com.ar' => [
+		'suffix' => 'blogspot.com.ar',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.co.at' => [
+		'suffix' => 'blogspot.co.at',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.com.au' => [
+		'suffix' => 'blogspot.com.au',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.ba' => [
+		'suffix' => 'blogspot.ba',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.be' => [
+		'suffix' => 'blogspot.be',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.bg' => [
+		'suffix' => 'blogspot.bg',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.bj' => [
+		'suffix' => 'blogspot.bj',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.com.br' => [
+		'suffix' => 'blogspot.com.br',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.com.by' => [
+		'suffix' => 'blogspot.com.by',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.ca' => [
+		'suffix' => 'blogspot.ca',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.cf' => [
+		'suffix' => 'blogspot.cf',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.ch' => [
+		'suffix' => 'blogspot.ch',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.cl' => [
+		'suffix' => 'blogspot.cl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.com.co' => [
+		'suffix' => 'blogspot.com.co',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -54830,6 +54932,12 @@ return [
 	],
 	'*.r.appspot.com' => [
 		'suffix' => '*.r.appspot.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.com' => [
+		'suffix' => 'blogspot.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -54876,182 +54984,38 @@ return [
 		'comments' => [
 		],
 	],
-	'*.gateway.dev' => [
-		'suffix' => '*.gateway.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'cloud.goog' => [
-		'suffix' => 'cloud.goog',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'translate.goog' => [
-		'suffix' => 'translate.goog',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'*.usercontent.goog' => [
-		'suffix' => '*.usercontent.goog',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'cloudfunctions.net' => [
-		'suffix' => 'cloudfunctions.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ae' => [
-		'suffix' => 'blogspot.ae',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.al' => [
-		'suffix' => 'blogspot.al',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.am' => [
-		'suffix' => 'blogspot.am',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ba' => [
-		'suffix' => 'blogspot.ba',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.be' => [
-		'suffix' => 'blogspot.be',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.bg' => [
-		'suffix' => 'blogspot.bg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.bj' => [
-		'suffix' => 'blogspot.bj',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ca' => [
-		'suffix' => 'blogspot.ca',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.cf' => [
-		'suffix' => 'blogspot.cf',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ch' => [
-		'suffix' => 'blogspot.ch',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.cl' => [
-		'suffix' => 'blogspot.cl',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.at' => [
-		'suffix' => 'blogspot.co.at',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.id' => [
-		'suffix' => 'blogspot.co.id',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.il' => [
-		'suffix' => 'blogspot.co.il',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.ke' => [
-		'suffix' => 'blogspot.co.ke',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.nz' => [
-		'suffix' => 'blogspot.co.nz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.uk' => [
-		'suffix' => 'blogspot.co.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.za' => [
-		'suffix' => 'blogspot.co.za',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com' => [
-		'suffix' => 'blogspot.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.ar' => [
-		'suffix' => 'blogspot.com.ar',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.au' => [
-		'suffix' => 'blogspot.com.au',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.br' => [
-		'suffix' => 'blogspot.com.br',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.by' => [
-		'suffix' => 'blogspot.com.by',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.co' => [
-		'suffix' => 'blogspot.com.co',
+	'blogspot.cv' => [
+		'suffix' => 'blogspot.cv',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
 	'blogspot.com.cy' => [
 		'suffix' => 'blogspot.com.cy',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.cz' => [
+		'suffix' => 'blogspot.cz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.de' => [
+		'suffix' => 'blogspot.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.gateway.dev' => [
+		'suffix' => '*.gateway.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.dk' => [
+		'suffix' => 'blogspot.dk',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55074,54 +55038,6 @@ return [
 		'comments' => [
 		],
 	],
-	'blogspot.com.mt' => [
-		'suffix' => 'blogspot.com.mt',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.ng' => [
-		'suffix' => 'blogspot.com.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.tr' => [
-		'suffix' => 'blogspot.com.tr',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.uy' => [
-		'suffix' => 'blogspot.com.uy',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.cv' => [
-		'suffix' => 'blogspot.cv',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.cz' => [
-		'suffix' => 'blogspot.cz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.de' => [
-		'suffix' => 'blogspot.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.dk' => [
-		'suffix' => 'blogspot.dk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'blogspot.fi' => [
 		'suffix' => 'blogspot.fi',
 		'type' => 'PRIVATE',
@@ -55130,6 +55046,24 @@ return [
 	],
 	'blogspot.fr' => [
 		'suffix' => 'blogspot.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloud.goog' => [
+		'suffix' => 'cloud.goog',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'translate.goog' => [
+		'suffix' => 'translate.goog',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.usercontent.goog' => [
+		'suffix' => '*.usercontent.goog',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55158,8 +55092,20 @@ return [
 		'comments' => [
 		],
 	],
+	'blogspot.co.id' => [
+		'suffix' => 'blogspot.co.id',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'blogspot.ie' => [
 		'suffix' => 'blogspot.ie',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.co.il' => [
+		'suffix' => 'blogspot.co.il',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55184,6 +55130,12 @@ return [
 	],
 	'blogspot.jp' => [
 		'suffix' => 'blogspot.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.co.ke' => [
+		'suffix' => 'blogspot.co.ke',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55230,6 +55182,12 @@ return [
 		'comments' => [
 		],
 	],
+	'blogspot.com.mt' => [
+		'suffix' => 'blogspot.com.mt',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'blogspot.mx' => [
 		'suffix' => 'blogspot.mx',
 		'type' => 'PRIVATE',
@@ -55242,6 +55200,18 @@ return [
 		'comments' => [
 		],
 	],
+	'cloudfunctions.net' => [
+		'suffix' => 'cloudfunctions.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.com.ng' => [
+		'suffix' => 'blogspot.com.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'blogspot.nl' => [
 		'suffix' => 'blogspot.nl',
 		'type' => 'PRIVATE',
@@ -55250,6 +55220,12 @@ return [
 	],
 	'blogspot.no' => [
 		'suffix' => 'blogspot.no',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.co.nz' => [
+		'suffix' => 'blogspot.co.nz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55332,6 +55308,12 @@ return [
 		'comments' => [
 		],
 	],
+	'blogspot.com.tr' => [
+		'suffix' => 'blogspot.com.tr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'blogspot.tw' => [
 		'suffix' => 'blogspot.tw',
 		'type' => 'PRIVATE',
@@ -55344,8 +55326,26 @@ return [
 		'comments' => [
 		],
 	],
+	'blogspot.co.uk' => [
+		'suffix' => 'blogspot.co.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.com.uy' => [
+		'suffix' => 'blogspot.com.uy',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'blogspot.vn' => [
 		'suffix' => 'blogspot.vn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogspot.co.za' => [
+		'suffix' => 'blogspot.co.za',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55428,16 +55428,16 @@ return [
 		'comments' => [
 		],
 	],
-	'hs.zone' => [
-		'suffix' => 'hs.zone',
+	'hs.run' => [
+		'suffix' => 'hs.run',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Handshake : https://handshake.org',
 			'Submitted by Mike Damm <md@md.vc>',
 		],
 	],
-	'hs.run' => [
-		'suffix' => 'hs.run',
+	'hs.zone' => [
+		'suffix' => 'hs.zone',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55692,16 +55692,16 @@ return [
 		'comments' => [
 		],
 	],
-	'impertrixcdn.com' => [
-		'suffix' => 'impertrixcdn.com',
+	'impertrix.com' => [
+		'suffix' => 'impertrix.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Impertrix Solutions : <https://impertrixcdn.com>',
 			'Submitted by Zhixiang Zhao <csuite@impertrix.com>',
 		],
 	],
-	'impertrix.com' => [
-		'suffix' => 'impertrix.com',
+	'impertrixcdn.com' => [
+		'suffix' => 'impertrixcdn.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55770,26 +55770,26 @@ return [
 		'comments' => [
 		],
 	],
-	'in-dsl.net' => [
-		'suffix' => 'in-dsl.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'in-dsl.org' => [
-		'suffix' => 'in-dsl.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'in-vpn.de' => [
 		'suffix' => 'in-vpn.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
+	'in-dsl.net' => [
+		'suffix' => 'in-dsl.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'in-vpn.net' => [
 		'suffix' => 'in-vpn.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'in-dsl.org' => [
+		'suffix' => 'in-dsl.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56601,30 +56601,30 @@ return [
 			'Submitted by Daniel Fariña <ingenieria@jotelulu.com>',
 		],
 	],
-	'jouwweb.site' => [
-		'suffix' => 'jouwweb.site',
+	'webadorsite.com' => [
+		'suffix' => 'webadorsite.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'JouwWeb B.V. : https://www.jouwweb.nl',
 			'Submitted by Camilo Sperberg <tech@webador.com>',
 		],
 	],
-	'webadorsite.com' => [
-		'suffix' => 'webadorsite.com',
+	'jouwweb.site' => [
+		'suffix' => 'jouwweb.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'*.triton.zone' => [
-		'suffix' => '*.triton.zone',
+	'*.cns.joyent.com' => [
+		'suffix' => '*.cns.joyent.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Joyent : https://www.joyent.com/',
 			'Submitted by Brian Bennett <brian.bennett@joyent.com>',
 		],
 	],
-	'*.cns.joyent.com' => [
-		'suffix' => '*.cns.joyent.com',
+	'*.triton.zone' => [
+		'suffix' => '*.triton.zone',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56713,16 +56713,16 @@ return [
 			'Submitted by DisposaBoy <security@oya.to>',
 		],
 	],
-	'kuleuven.cloud' => [
-		'suffix' => 'kuleuven.cloud',
+	'ezproxy.kuleuven.be' => [
+		'suffix' => 'ezproxy.kuleuven.be',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Katholieke Universiteit Leuven: https://www.kuleuven.be',
 			'Submitted by Abuse KU Leuven <abuse@kuleuven.be>',
 		],
 	],
-	'ezproxy.kuleuven.be' => [
-		'suffix' => 'ezproxy.kuleuven.be',
+	'kuleuven.cloud' => [
+		'suffix' => 'kuleuven.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56740,16 +56740,16 @@ return [
 		'comments' => [
 		],
 	],
-	'krellian.net' => [
-		'suffix' => 'krellian.net',
+	'webthings.io' => [
+		'suffix' => 'webthings.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Krellian Ltd. : https://krellian.com',
 			'Submitted by Ben Francis <ben@krellian.com>',
 		],
 	],
-	'webthings.io' => [
-		'suffix' => 'webthings.io',
+	'krellian.net' => [
+		'suffix' => 'krellian.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56854,16 +56854,16 @@ return [
 		'comments' => [
 		],
 	],
-	'linkyard.cloud' => [
-		'suffix' => 'linkyard.cloud',
+	'linkyard-cloud.ch' => [
+		'suffix' => 'linkyard-cloud.ch',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'linkyard ldt: https://www.linkyard.ch/',
 			'Submitted by Mario Siegenthaler <mario.siegenthaler@linkyard.ch>',
 		],
 	],
-	'linkyard-cloud.ch' => [
-		'suffix' => 'linkyard-cloud.ch',
+	'linkyard.cloud' => [
+		'suffix' => 'linkyard.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57032,14 +57032,8 @@ return [
 			'Submitted by Anton Avramov <register@lukanet.com>',
 		],
 	],
-	'barsy.co.uk' => [
-		'suffix' => 'barsy.co.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'barsyonline.co.uk' => [
-		'suffix' => 'barsyonline.co.uk',
+	'barsy.club' => [
+		'suffix' => 'barsy.club',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57052,12 +57046,6 @@ return [
 	],
 	'barsyonline.com' => [
 		'suffix' => 'barsyonline.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'barsy.club' => [
-		'suffix' => 'barsy.club',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57170,6 +57158,18 @@ return [
 		'comments' => [
 		],
 	],
+	'barsy.co.uk' => [
+		'suffix' => 'barsy.co.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'barsyonline.co.uk' => [
+		'suffix' => 'barsyonline.co.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.magentosite.cloud' => [
 		'suffix' => '*.magentosite.cloud',
 		'type' => 'PRIVATE',
@@ -57238,14 +57238,14 @@ return [
 		'comments' => [
 		],
 	],
-	'mcpre.ru' => [
-		'suffix' => 'mcpre.ru',
+	'vps.mcdir.ru' => [
+		'suffix' => 'vps.mcdir.ru',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'vps.mcdir.ru' => [
-		'suffix' => 'vps.mcdir.ru',
+	'mcpre.ru' => [
+		'suffix' => 'mcpre.ru',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57373,6 +57373,12 @@ return [
 		'comments' => [
 		],
 	],
+	'azure-mobile.net' => [
+		'suffix' => 'azure-mobile.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'azureedge.net' => [
 		'suffix' => 'azureedge.net',
 		'type' => 'PRIVATE',
@@ -57381,18 +57387,6 @@ return [
 	],
 	'azurefd.net' => [
 		'suffix' => 'azurefd.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'azurewebsites.net' => [
-		'suffix' => 'azurewebsites.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'azure-mobile.net' => [
-		'suffix' => 'azure-mobile.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57471,6 +57465,12 @@ return [
 	],
 	'westus2.azurestaticapps.net' => [
 		'suffix' => 'westus2.azurestaticapps.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'azurewebsites.net' => [
+		'suffix' => 'azurewebsites.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57575,14 +57575,14 @@ return [
 			'Submitted by Paul Cammish <kelduum@mythic-beasts.com>',
 		],
 	],
-	'customer.mythic-beasts.com' => [
-		'suffix' => 'customer.mythic-beasts.com',
+	'caracal.mythic-beasts.com' => [
+		'suffix' => 'caracal.mythic-beasts.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'caracal.mythic-beasts.com' => [
-		'suffix' => 'caracal.mythic-beasts.com',
+	'customer.mythic-beasts.com' => [
+		'suffix' => 'customer.mythic-beasts.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58038,88 +58038,28 @@ return [
 		'comments' => [
 		],
 	],
-	'blogsyte.com' => [
-		'suffix' => 'blogsyte.com',
+	'mmafan.biz' => [
+		'suffix' => 'mmafan.biz',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'No-IP.com : https://noip.com/',
 			'Submitted by Deven Reza <publicsuffixlist@noip.com>',
 		],
 	],
-	'brasilia.me' => [
-		'suffix' => 'brasilia.me',
+	'myftp.biz' => [
+		'suffix' => 'myftp.biz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'cable-modem.org' => [
-		'suffix' => 'cable-modem.org',
+	'no-ip.biz' => [
+		'suffix' => 'no-ip.biz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'ciscofreak.com' => [
-		'suffix' => 'ciscofreak.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'collegefan.org' => [
-		'suffix' => 'collegefan.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'couchpotatofries.org' => [
-		'suffix' => 'couchpotatofries.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'damnserver.com' => [
-		'suffix' => 'damnserver.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ddns.me' => [
-		'suffix' => 'ddns.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ditchyourip.com' => [
-		'suffix' => 'ditchyourip.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dnsfor.me' => [
-		'suffix' => 'dnsfor.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dnsiskinky.com' => [
-		'suffix' => 'dnsiskinky.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dvrcam.info' => [
-		'suffix' => 'dvrcam.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dynns.com' => [
-		'suffix' => 'dynns.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'eating-organic.net' => [
-		'suffix' => 'eating-organic.net',
+	'no-ip.ca' => [
+		'suffix' => 'no-ip.ca',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58130,14 +58070,62 @@ return [
 		'comments' => [
 		],
 	],
-	'geekgalaxy.com' => [
-		'suffix' => 'geekgalaxy.com',
+	'gotdns.ch' => [
+		'suffix' => 'gotdns.ch',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'golffan.us' => [
-		'suffix' => 'golffan.us',
+	'3utilities.com' => [
+		'suffix' => '3utilities.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'blogsyte.com' => [
+		'suffix' => 'blogsyte.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ciscofreak.com' => [
+		'suffix' => 'ciscofreak.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'damnserver.com' => [
+		'suffix' => 'damnserver.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddnsking.com' => [
+		'suffix' => 'ddnsking.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ditchyourip.com' => [
+		'suffix' => 'ditchyourip.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnsiskinky.com' => [
+		'suffix' => 'dnsiskinky.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynns.com' => [
+		'suffix' => 'dynns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'geekgalaxy.com' => [
+		'suffix' => 'geekgalaxy.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58160,62 +58148,8 @@ return [
 		'comments' => [
 		],
 	],
-	'hopto.me' => [
-		'suffix' => 'hopto.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ilovecollege.info' => [
-		'suffix' => 'ilovecollege.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'loginto.me' => [
-		'suffix' => 'loginto.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mlbfan.org' => [
-		'suffix' => 'mlbfan.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mmafan.biz' => [
-		'suffix' => 'mmafan.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'myactivedirectory.com' => [
 		'suffix' => 'myactivedirectory.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mydissent.net' => [
-		'suffix' => 'mydissent.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'myeffect.net' => [
-		'suffix' => 'myeffect.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mymediapc.net' => [
-		'suffix' => 'mymediapc.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mypsx.net' => [
-		'suffix' => 'mypsx.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58226,14 +58160,8 @@ return [
 		'comments' => [
 		],
 	],
-	'mysecuritycamera.net' => [
-		'suffix' => 'mysecuritycamera.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mysecuritycamera.org' => [
-		'suffix' => 'mysecuritycamera.org',
+	'myvnc.com' => [
+		'suffix' => 'myvnc.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58244,50 +58172,8 @@ return [
 		'comments' => [
 		],
 	],
-	'nflfan.org' => [
-		'suffix' => 'nflfan.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'nhlfan.net' => [
-		'suffix' => 'nhlfan.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'no-ip.ca' => [
-		'suffix' => 'no-ip.ca',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'no-ip.co.uk' => [
-		'suffix' => 'no-ip.co.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'no-ip.net' => [
-		'suffix' => 'no-ip.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'noip.us' => [
-		'suffix' => 'noip.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'onthewifi.com' => [
 		'suffix' => 'onthewifi.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'pgafan.net' => [
-		'suffix' => 'pgafan.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58298,26 +58184,8 @@ return [
 		'comments' => [
 		],
 	],
-	'pointto.us' => [
-		'suffix' => 'pointto.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'privatizehealthinsurance.net' => [
-		'suffix' => 'privatizehealthinsurance.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'quicksytes.com' => [
 		'suffix' => 'quicksytes.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'read-books.org' => [
-		'suffix' => 'read-books.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58328,152 +58196,20 @@ return [
 		'comments' => [
 		],
 	],
-	'serveexchange.com' => [
-		'suffix' => 'serveexchange.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'servehumour.com' => [
-		'suffix' => 'servehumour.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'servep2p.com' => [
-		'suffix' => 'servep2p.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'servesarcasm.com' => [
-		'suffix' => 'servesarcasm.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'stufftoread.com' => [
-		'suffix' => 'stufftoread.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ufcfan.org' => [
-		'suffix' => 'ufcfan.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'unusualperson.com' => [
-		'suffix' => 'unusualperson.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'workisboring.com' => [
-		'suffix' => 'workisboring.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'3utilities.com' => [
-		'suffix' => '3utilities.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'bounceme.net' => [
-		'suffix' => 'bounceme.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ddns.net' => [
-		'suffix' => 'ddns.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ddnsking.com' => [
-		'suffix' => 'ddnsking.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'gotdns.ch' => [
-		'suffix' => 'gotdns.ch',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'hopto.org' => [
-		'suffix' => 'hopto.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'myftp.biz' => [
-		'suffix' => 'myftp.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'myftp.org' => [
-		'suffix' => 'myftp.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'myvnc.com' => [
-		'suffix' => 'myvnc.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'no-ip.biz' => [
-		'suffix' => 'no-ip.biz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'no-ip.info' => [
-		'suffix' => 'no-ip.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'no-ip.org' => [
-		'suffix' => 'no-ip.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'noip.me' => [
-		'suffix' => 'noip.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'redirectme.net' => [
-		'suffix' => 'redirectme.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'servebeer.com' => [
 		'suffix' => 'servebeer.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'serveblog.net' => [
-		'suffix' => 'serveblog.net',
+	'servecounterstrike.com' => [
+		'suffix' => 'servecounterstrike.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'servecounterstrike.com' => [
-		'suffix' => 'servecounterstrike.com',
+	'serveexchange.com' => [
+		'suffix' => 'serveexchange.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58502,20 +58238,26 @@ return [
 		'comments' => [
 		],
 	],
+	'servehumour.com' => [
+		'suffix' => 'servehumour.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'serveirc.com' => [
 		'suffix' => 'serveirc.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'serveminecraft.net' => [
-		'suffix' => 'serveminecraft.net',
+	'servemp3.com' => [
+		'suffix' => 'servemp3.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'servemp3.com' => [
-		'suffix' => 'servemp3.com',
+	'servep2p.com' => [
+		'suffix' => 'servep2p.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58532,8 +58274,80 @@ return [
 		'comments' => [
 		],
 	],
-	'sytes.net' => [
-		'suffix' => 'sytes.net',
+	'servesarcasm.com' => [
+		'suffix' => 'servesarcasm.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'stufftoread.com' => [
+		'suffix' => 'stufftoread.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'unusualperson.com' => [
+		'suffix' => 'unusualperson.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'workisboring.com' => [
+		'suffix' => 'workisboring.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dvrcam.info' => [
+		'suffix' => 'dvrcam.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ilovecollege.info' => [
+		'suffix' => 'ilovecollege.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'no-ip.info' => [
+		'suffix' => 'no-ip.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'brasilia.me' => [
+		'suffix' => 'brasilia.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddns.me' => [
+		'suffix' => 'ddns.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnsfor.me' => [
+		'suffix' => 'dnsfor.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hopto.me' => [
+		'suffix' => 'hopto.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'loginto.me' => [
+		'suffix' => 'loginto.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'noip.me' => [
+		'suffix' => 'noip.me',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58544,8 +58358,194 @@ return [
 		'comments' => [
 		],
 	],
+	'bounceme.net' => [
+		'suffix' => 'bounceme.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddns.net' => [
+		'suffix' => 'ddns.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eating-organic.net' => [
+		'suffix' => 'eating-organic.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mydissent.net' => [
+		'suffix' => 'mydissent.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'myeffect.net' => [
+		'suffix' => 'myeffect.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mymediapc.net' => [
+		'suffix' => 'mymediapc.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mypsx.net' => [
+		'suffix' => 'mypsx.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mysecuritycamera.net' => [
+		'suffix' => 'mysecuritycamera.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nhlfan.net' => [
+		'suffix' => 'nhlfan.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'no-ip.net' => [
+		'suffix' => 'no-ip.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'pgafan.net' => [
+		'suffix' => 'pgafan.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'privatizehealthinsurance.net' => [
+		'suffix' => 'privatizehealthinsurance.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'redirectme.net' => [
+		'suffix' => 'redirectme.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'serveblog.net' => [
+		'suffix' => 'serveblog.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'serveminecraft.net' => [
+		'suffix' => 'serveminecraft.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sytes.net' => [
+		'suffix' => 'sytes.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cable-modem.org' => [
+		'suffix' => 'cable-modem.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'collegefan.org' => [
+		'suffix' => 'collegefan.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'couchpotatofries.org' => [
+		'suffix' => 'couchpotatofries.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hopto.org' => [
+		'suffix' => 'hopto.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mlbfan.org' => [
+		'suffix' => 'mlbfan.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'myftp.org' => [
+		'suffix' => 'myftp.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mysecuritycamera.org' => [
+		'suffix' => 'mysecuritycamera.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nflfan.org' => [
+		'suffix' => 'nflfan.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'no-ip.org' => [
+		'suffix' => 'no-ip.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'read-books.org' => [
+		'suffix' => 'read-books.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ufcfan.org' => [
+		'suffix' => 'ufcfan.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'zapto.org' => [
 		'suffix' => 'zapto.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'no-ip.co.uk' => [
+		'suffix' => 'no-ip.co.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'golffan.us' => [
+		'suffix' => 'golffan.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'noip.us' => [
+		'suffix' => 'noip.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'pointto.us' => [
+		'suffix' => 'pointto.us',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58628,58 +58628,34 @@ return [
 			'Submitted by Vicary Archangel <vicary@omniwe.com>',
 		],
 	],
-	'123hjemmeside.dk' => [
-		'suffix' => '123hjemmeside.dk',
+	'123webseite.at' => [
+		'suffix' => '123webseite.at',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'One.com: https://www.one.com/',
 			'Submitted by Jacob Bunk Nielsen <jbn@one.com>',
 		],
 	],
-	'123hjemmeside.no' => [
-		'suffix' => '123hjemmeside.no',
+	'123website.be' => [
+		'suffix' => '123website.be',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'123homepage.it' => [
-		'suffix' => '123homepage.it',
+	'simplesite.com.br' => [
+		'suffix' => 'simplesite.com.br',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'123kotisivu.fi' => [
-		'suffix' => '123kotisivu.fi',
+	'123website.ch' => [
+		'suffix' => '123website.ch',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'123minsida.se' => [
-		'suffix' => '123minsida.se',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'123miweb.es' => [
-		'suffix' => '123miweb.es',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'123paginaweb.pt' => [
-		'suffix' => '123paginaweb.pt',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'123siteweb.fr' => [
-		'suffix' => '123siteweb.fr',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'123webseite.at' => [
-		'suffix' => '123webseite.at',
+	'simplesite.com' => [
+		'suffix' => 'simplesite.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58690,14 +58666,38 @@ return [
 		'comments' => [
 		],
 	],
-	'123website.be' => [
-		'suffix' => '123website.be',
+	'123hjemmeside.dk' => [
+		'suffix' => '123hjemmeside.dk',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'123website.ch' => [
-		'suffix' => '123website.ch',
+	'123miweb.es' => [
+		'suffix' => '123miweb.es',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'123kotisivu.fi' => [
+		'suffix' => '123kotisivu.fi',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'123siteweb.fr' => [
+		'suffix' => '123siteweb.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'simplesite.gr' => [
+		'suffix' => 'simplesite.gr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'123homepage.it' => [
+		'suffix' => '123homepage.it',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58714,32 +58714,32 @@ return [
 		'comments' => [
 		],
 	],
+	'123hjemmeside.no' => [
+		'suffix' => '123hjemmeside.no',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'service.one' => [
 		'suffix' => 'service.one',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'simplesite.com' => [
-		'suffix' => 'simplesite.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'simplesite.com.br' => [
-		'suffix' => 'simplesite.com.br',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'simplesite.gr' => [
-		'suffix' => 'simplesite.gr',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'simplesite.pl' => [
 		'suffix' => 'simplesite.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'123paginaweb.pt' => [
+		'suffix' => '123paginaweb.pt',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'123minsida.se' => [
+		'suffix' => '123minsida.se',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58855,16 +58855,16 @@ return [
 			'Submitted by Duarte Santos <domain-admin@outsystemscloud.com>',
 		],
 	],
-	'*.webpaas.ovh.net' => [
-		'suffix' => '*.webpaas.ovh.net',
+	'*.hosting.ovh.net' => [
+		'suffix' => '*.hosting.ovh.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'OVHcloud: https://ovhcloud.com',
 			'Submitted by Vincent Cassé <vincent.casse@ovhcloud.com>',
 		],
 	],
-	'*.hosting.ovh.net' => [
-		'suffix' => '*.hosting.ovh.net',
+	'*.webpaas.ovh.net' => [
+		'suffix' => '*.webpaas.ovh.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59008,16 +59008,16 @@ return [
 		'comments' => [
 		],
 	],
-	'pantheonsite.io' => [
-		'suffix' => 'pantheonsite.io',
+	'gotpantheon.com' => [
+		'suffix' => 'gotpantheon.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Pantheon Systems, Inc. : https://pantheon.io/',
 			'Submitted by Gary Dylina <gary@pantheon.io>',
 		],
 	],
-	'gotpantheon.com' => [
-		'suffix' => 'gotpantheon.com',
+	'pantheonsite.io' => [
+		'suffix' => 'pantheonsite.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59118,22 +59118,22 @@ return [
 		'comments' => [
 		],
 	],
-	'pdns.page' => [
-		'suffix' => 'pdns.page',
+	'pleskns.com' => [
+		'suffix' => 'pleskns.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Plesk : https://www.plesk.com/',
 			'Submitted by Anton Akhtyamov <program-managers@plesk.com>',
 		],
 	],
-	'plesk.page' => [
-		'suffix' => 'plesk.page',
+	'pdns.page' => [
+		'suffix' => 'pdns.page',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'pleskns.com' => [
-		'suffix' => 'pleskns.com',
+	'plesk.page' => [
+		'suffix' => 'plesk.page',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59462,16 +59462,16 @@ return [
 			'Submitted by Joshua Zhang <public-suffix@rgames.jp>',
 		],
 	],
-	'*.on-k3s.io' => [
-		'suffix' => '*.on-k3s.io',
+	'*.on-rancher.cloud' => [
+		'suffix' => '*.on-rancher.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Rancher Labs, Inc : https://rancher.com',
 			'Submitted by Vincent Fiduccia <domains@rancher.com>',
 		],
 	],
-	'*.on-rancher.cloud' => [
-		'suffix' => '*.on-rancher.cloud',
+	'*.on-k3s.io' => [
+		'suffix' => '*.on-k3s.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59498,16 +59498,16 @@ return [
 			'Submitted by Tim Kramer <tkramer@rhcloud.com>',
 		],
 	],
-	'app.render.com' => [
-		'suffix' => 'app.render.com',
+	'onrender.com' => [
+		'suffix' => 'onrender.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Render : https://render.com',
 			'Submitted by Anurag Goel <dev@render.com>',
 		],
 	],
-	'onrender.com' => [
-		'suffix' => 'onrender.com',
+	'app.render.com' => [
+		'suffix' => 'app.render.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60166,16 +60166,16 @@ return [
 			'Submitted by Asheesh Laroia <asheesh@sandstorm.io>',
 		],
 	],
-	'logoip.de' => [
-		'suffix' => 'logoip.de',
+	'logoip.com' => [
+		'suffix' => 'logoip.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'SBE network solutions GmbH : https://www.sbe.de/',
 			'Submitted by Norman Meilick <nm@sbe.de>',
 		],
 	],
-	'logoip.com' => [
-		'suffix' => 'logoip.com',
+	'logoip.de' => [
+		'suffix' => 'logoip.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60827,13 +60827,13 @@ return [
 		'comments' => [
 			'Staclar : https://staclar.com',
 			'Submitted by Q Misell <q@staclar.com>',
+			'Submitted by Matthias Merkel <matthias.merkel@staclar.com>',
 		],
 	],
 	'novecore.site' => [
 		'suffix' => 'novecore.site',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Submitted by Matthias Merkel <matthias.merkel@staclar.com>',
 		],
 	],
 	'static.land' => [
@@ -61206,16 +61206,16 @@ return [
 		'comments' => [
 		],
 	],
-	'*.s5y.io' => [
-		'suffix' => '*.s5y.io',
+	'*.sensiosite.cloud' => [
+		'suffix' => '*.sensiosite.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Symfony, SAS : https://symfony.com/',
 			'Submitted by Fabien Potencier <fabien@symfony.com>',
 		],
 	],
-	'*.sensiosite.cloud' => [
-		'suffix' => '*.sensiosite.cloud',
+	'*.s5y.io' => [
+		'suffix' => '*.s5y.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61314,20 +61314,20 @@ return [
 		'comments' => [
 		],
 	],
-	'vpnplus.to' => [
-		'suffix' => 'vpnplus.to',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'direct.quickconnect.to' => [
 		'suffix' => 'direct.quickconnect.to',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'tabitorder.co.il' => [
-		'suffix' => 'tabitorder.co.il',
+	'vpnplus.to' => [
+		'suffix' => 'vpnplus.to',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mytabit.com' => [
+		'suffix' => 'mytabit.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Tabit Technologies Ltd. : https://tabit.cloud/',
@@ -61340,8 +61340,8 @@ return [
 		'comments' => [
 		],
 	],
-	'mytabit.com' => [
-		'suffix' => 'mytabit.com',
+	'tabitorder.co.il' => [
+		'suffix' => 'tabitorder.co.il',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61479,8 +61479,20 @@ return [
 		'comments' => [
 		],
 	],
+	'reservd.dev.thingdust.io' => [
+		'suffix' => 'reservd.dev.thingdust.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cust.disrec.thingdust.io' => [
 		'suffix' => 'cust.disrec.thingdust.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'reservd.disrec.thingdust.io' => [
+		'suffix' => 'reservd.disrec.thingdust.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61493,18 +61505,6 @@ return [
 	],
 	'cust.testing.thingdust.io' => [
 		'suffix' => 'cust.testing.thingdust.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'reservd.dev.thingdust.io' => [
-		'suffix' => 'reservd.dev.thingdust.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'reservd.disrec.thingdust.io' => [
-		'suffix' => 'reservd.disrec.thingdust.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61731,18 +61731,6 @@ return [
 			'Submitted by TwoDNS-Support <support@two-dns.de>',
 		],
 	],
-	'diskstation.eu' => [
-		'suffix' => 'diskstation.eu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'diskstation.org' => [
-		'suffix' => 'diskstation.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'dray-dns.de' => [
 		'suffix' => 'dray-dns.de',
 		'type' => 'PRIVATE',
@@ -61803,6 +61791,18 @@ return [
 		'comments' => [
 		],
 	],
+	'diskstation.eu' => [
+		'suffix' => 'diskstation.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'diskstation.org' => [
+		'suffix' => 'diskstation.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'typedream.app' => [
 		'suffix' => 'typedream.app',
 		'type' => 'PRIVATE',
@@ -61819,16 +61819,16 @@ return [
 			'Submitted by Sergi Ferriz <sergi.ferriz@typeform.com>',
 		],
 	],
-	'uber.space' => [
-		'suffix' => 'uber.space',
+	'*.uberspace.de' => [
+		'suffix' => '*.uberspace.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Uberspace : https://uberspace.de',
 			'Submitted by Moritz Werner <mwerner@jonaspasche.com>',
 		],
 	],
-	'*.uberspace.de' => [
-		'suffix' => '*.uberspace.de',
+	'uber.space' => [
+		'suffix' => 'uber.space',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61841,8 +61841,8 @@ return [
 			'Submitted by registry <hostmaster@udr.hk.com>',
 		],
 	],
-	'hk.org' => [
-		'suffix' => 'hk.org',
+	'inc.hk' => [
+		'suffix' => 'inc.hk',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61853,8 +61853,8 @@ return [
 		'comments' => [
 		],
 	],
-	'inc.hk' => [
-		'suffix' => 'inc.hk',
+	'hk.org' => [
+		'suffix' => 'hk.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61908,16 +61908,16 @@ return [
 		'comments' => [
 		],
 	],
-	'virtualuser.de' => [
-		'suffix' => 'virtualuser.de',
+	'virtual-user.de' => [
+		'suffix' => 'virtual-user.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'United Gameserver GmbH : https://united-gameserver.de',
 			'Submitted by Stefan Schwarz <sysadm@united-gameserver.de>',
 		],
 	],
-	'virtual-user.de' => [
-		'suffix' => 'virtual-user.de',
+	'virtualuser.de' => [
+		'suffix' => 'virtualuser.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -62064,12 +62064,18 @@ return [
 			'Submitted by Arnold Hendriks <info@webhare.com>',
 		],
 	],
-	'reserve-online.net' => [
-		'suffix' => 'reserve-online.net',
+	'bookonline.app' => [
+		'suffix' => 'bookonline.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'WebHotelier Technologies Ltd: https://www.webhotelier.net/',
 			'Submitted by Apostolos Tsakpinis <apostolos.tsakpinis@gmail.com>',
+		],
+	],
+	'hotelwithflight.com' => [
+		'suffix' => 'hotelwithflight.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'reserve-online.com' => [
@@ -62078,14 +62084,8 @@ return [
 		'comments' => [
 		],
 	],
-	'bookonline.app' => [
-		'suffix' => 'bookonline.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'hotelwithflight.com' => [
-		'suffix' => 'hotelwithflight.com',
+	'reserve-online.net' => [
+		'suffix' => 'reserve-online.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -62142,22 +62142,22 @@ return [
 			'Submitted by Kidd Hustle <kiddhustle@wiardweb.com>',
 		],
 	],
-	'wmflabs.org' => [
-		'suffix' => 'wmflabs.org',
+	'toolforge.org' => [
+		'suffix' => 'toolforge.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Wikimedia Labs : https://wikitech.wikimedia.org',
 			'Submitted by Arturo Borrero Gonzalez <aborrero@wikimedia.org>',
 		],
 	],
-	'toolforge.org' => [
-		'suffix' => 'toolforge.org',
+	'wmcloud.org' => [
+		'suffix' => 'wmcloud.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'wmcloud.org' => [
-		'suffix' => 'wmcloud.org',
+	'wmflabs.org' => [
+		'suffix' => 'wmflabs.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
