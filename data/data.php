@@ -55648,6 +55648,14 @@ return [
 			'HostyHosting (hostyhosting.com)',
 		],
 	],
+	'hypernode.io' => [
+		'suffix' => 'hypernode.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Hypernode B.V. : https://www.hypernode.com/',
+			'Submitted by Cipriano Groenendal <security@nl.team.blue>',
+		],
+	],
 	'häkkinen.fi' => [
 		'suffix' => 'häkkinen.fi',
 		'type' => 'PRIVATE',
@@ -62176,6 +62184,38 @@ return [
 		'comments' => [
 		],
 	],
+	'wixsite.com' => [
+		'suffix' => 'wixsite.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Wix.com, Inc. : https://www.wix.com',
+			'Submitted by Shahar Talmi / Alon Kochba <publicsuffixlist@wix.com>',
+		],
+	],
+	'wixstudio.com' => [
+		'suffix' => 'wixstudio.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'editorx.io' => [
+		'suffix' => 'editorx.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wixstudio.io' => [
+		'suffix' => 'wixstudio.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wix.run' => [
+		'suffix' => 'wix.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'messwithdns.com' => [
 		'suffix' => 'messwithdns.com',
 		'type' => 'PRIVATE',
@@ -62253,32 +62293,6 @@ return [
 	],
 	'js.wpenginepowered.com' => [
 		'suffix' => 'js.wpenginepowered.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'wixsite.com' => [
-		'suffix' => 'wixsite.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Wix.com, Inc. : https://www.wix.com',
-			'Submitted by Shahar Talmi <shahar@wix.com>',
-		],
-	],
-	'editorx.io' => [
-		'suffix' => 'editorx.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'wixstudio.io' => [
-		'suffix' => 'wixstudio.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'wix.run' => [
-		'suffix' => 'wix.run',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
