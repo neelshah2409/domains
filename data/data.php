@@ -35116,7 +35116,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-05-04T15:12:50Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-05-31T15:16:08Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39646,7 +39646,7 @@ return [
 		'suffix' => 'love',
 		'type' => 'ICANN',
 		'comments' => [
-			'love : Merchant Law Group LLP',
+			'love : Waterford Limited',
 			'https://www.iana.org/domains/root/db/love.html',
 		],
 	],
