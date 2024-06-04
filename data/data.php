@@ -49556,6 +49556,36 @@ return [
 		'comments' => [
 		],
 	],
+	'cdn.cloudflareanycast.net' => [
+		'suffix' => 'cdn.cloudflareanycast.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cdn.cloudflarecn.net' => [
+		'suffix' => 'cdn.cloudflarecn.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cdn.cloudflareglobal.net' => [
+		'suffix' => 'cdn.cloudflareglobal.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cloudflare.net' => [
+		'suffix' => 'cloudflare.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cdn.cloudflare.net' => [
+		'suffix' => 'cdn.cloudflare.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cust.cloudscale.ch' => [
 		'suffix' => 'cust.cloudscale.ch',
 		'type' => 'PRIVATE',
