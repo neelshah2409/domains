@@ -52351,6 +52351,38 @@ return [
 			'Submitted by <infracloudteam@namecheap.com>',
 		],
 	],
+	'twmail.cc' => [
+		'suffix' => 'twmail.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'eDirect Corp. : https://hosting.url.com.tw/',
+			'Submitted by C.S. chang <cschang@corp.url.com.tw>',
+		],
+	],
+	'twmail.net' => [
+		'suffix' => 'twmail.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'twmail.org' => [
+		'suffix' => 'twmail.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mymailer.com.tw' => [
+		'suffix' => 'mymailer.com.tw',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'url.tw' => [
+		'suffix' => 'url.tw',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'at.emf.camp' => [
 		'suffix' => 'at.emf.camp',
 		'type' => 'PRIVATE',
@@ -52835,6 +52867,20 @@ return [
 		'comments' => [
 		],
 	],
+	'relay.evervault.app' => [
+		'suffix' => 'relay.evervault.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Evervault : https://evervault.com',
+			'Submitted by Hannah Neary <engineering@evervault.com>',
+		],
+	],
+	'relay.evervault.dev' => [
+		'suffix' => 'relay.evervault.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'expo.app' => [
 		'suffix' => 'expo.app',
 		'type' => 'PRIVATE',
@@ -52845,38 +52891,6 @@ return [
 	],
 	'staging.expo.app' => [
 		'suffix' => 'staging.expo.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'twmail.cc' => [
-		'suffix' => 'twmail.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'eDirect Corp. : https://hosting.url.com.tw/',
-			'Submitted by C.S. chang <cschang@corp.url.com.tw>',
-		],
-	],
-	'twmail.net' => [
-		'suffix' => 'twmail.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'twmail.org' => [
-		'suffix' => 'twmail.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mymailer.com.tw' => [
-		'suffix' => 'mymailer.com.tw',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'url.tw' => [
-		'suffix' => 'url.tw',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55515,6 +55529,14 @@ return [
 		'comments' => [
 		],
 	],
+	'heiyu.space' => [
+		'suffix' => 'heiyu.space',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'HeiyuSpace: https://lazycat.cloud',
+			'Submitted by Xia Bin <admin@lazycat.cloud>',
+		],
+	],
 	'hepforge.org' => [
 		'suffix' => 'hepforge.org',
 		'type' => 'PRIVATE',
@@ -57094,8 +57116,20 @@ return [
 		'comments' => [
 		],
 	],
+	'barsy.dev' => [
+		'suffix' => 'barsy.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'barsy.eu' => [
 		'suffix' => 'barsy.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'barsy.gr' => [
+		'suffix' => 'barsy.gr',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57126,6 +57160,12 @@ return [
 	],
 	'barsy.menu' => [
 		'suffix' => 'barsy.menu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'barsyonline.menu' => [
+		'suffix' => 'barsyonline.menu',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57172,14 +57212,32 @@ return [
 		'comments' => [
 		],
 	],
+	'barsy.rs' => [
+		'suffix' => 'barsy.rs',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'barsy.shop' => [
 		'suffix' => 'barsy.shop',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
+	'barsyonline.shop' => [
+		'suffix' => 'barsyonline.shop',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'barsy.site' => [
 		'suffix' => 'barsy.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'barsy.store' => [
+		'suffix' => 'barsy.store',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60797,6 +60855,14 @@ return [
 		'comments' => [
 			'SourceHut : https://sourcehut.org',
 			'Submitted by Drew DeVault <sir@cmpwn.com>',
+		],
+	],
+	'ind.mom' => [
+		'suffix' => 'ind.mom',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'SparrowHost : https://sparrowhost.in/',
+			'Submitted by Anant Pandey <info@sparrowhost.in>',
 		],
 	],
 	'w-corp-staticblitz.com' => [
