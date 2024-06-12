@@ -52426,7 +52426,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Enalean SAS: https://www.enalean.com',
-			'Submitted by Thomas Cottier <thomas.cottier@enalean.com>',
+			'Submitted by Enalean Security Team <security@enalean.com>',
 		],
 	],
 	'tuleap-partners.com' => [
@@ -59049,6 +59049,12 @@ return [
 		'comments' => [
 		],
 	],
+	'madethis.site' => [
+		'suffix' => 'madethis.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'srv.us' => [
 		'suffix' => 'srv.us',
 		'type' => 'PRIVATE',
@@ -60966,6 +60972,20 @@ return [
 		'comments' => [
 			'Storebase : https://www.storebase.io',
 			'Submitted by Tony Schirmer <tony@storebase.io>',
+		],
+	],
+	'strapiapp.com' => [
+		'suffix' => 'strapiapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Strapi : https://strapi.io/',
+			'Submitted by Florent Baldino <security@strapi.io>',
+		],
+	],
+	'media.strapiapp.com' => [
+		'suffix' => 'media.strapiapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'vps-host.net' => [
