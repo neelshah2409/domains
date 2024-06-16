@@ -60604,6 +60604,14 @@ return [
 		'comments' => [
 		],
 	],
+	'as.sh.cn' => [
+		'suffix' => 'as.sh.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Shanghai Accounting Society : https://www.sasf.org.cn',
+			'Submitted by Information Administration <info@sasf.org.cn>',
+		],
+	],
 	'sheezy.games' => [
 		'suffix' => 'sheezy.games',
 		'type' => 'PRIVATE',
