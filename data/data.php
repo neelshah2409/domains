@@ -53792,7 +53792,7 @@ return [
 		'suffix' => 'daemon.asia',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Future Versatile Group. ：https://www.fvg-on.net/',
+			'Future Versatile Group. : https://www.fvg-on.net/',
 			'T.Kabu <webmaster@fvg-on.net>',
 		],
 	],
@@ -59290,22 +59290,12 @@ return [
 		'comments' => [
 		],
 	],
-	'//prequalifyme.today : https://prequalifyme.today' => [
-		'suffix' => '//prequalifyme.today : https://prequalifyme.today',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'//Submitted by DeepakTiwari deepak@ivylead.io' => [
-		'suffix' => '//Submitted by DeepakTiwari deepak@ivylead.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'prequalifyme.today' => [
 		'suffix' => 'prequalifyme.today',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'prequalifyme.today : https://prequalifyme.today',
+			'Submitted by DeepakTiwari deepak@ivylead.io',
 		],
 	],
 	'xen.prgmr.com' => [
