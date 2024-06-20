@@ -54816,14 +54816,6 @@ return [
 			'Submitted by Richard Baker <richard.baker@digital.cabinet-office.gov.uk>',
 		],
 	],
-	'ro.im' => [
-		'suffix' => 'ro.im',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'GlobeHosting, Inc.',
-			'Submitted by Zoltan Egresi <egresi@globehosting.com>',
-		],
-	],
 	'goip.de' => [
 		'suffix' => 'goip.de',
 		'type' => 'PRIVATE',
@@ -57286,14 +57278,6 @@ return [
 		'comments' => [
 			'Mail.Ru Group : https://hb.cldmail.ru',
 			'Submitted by Ilya Zaretskiy <zaretskiy@corp.mail.ru>',
-		],
-	],
-	'cn.vu' => [
-		'suffix' => 'cn.vu',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Mail Transfer Platform : https://www.neupeer.com',
-			'Submitted by Li Hui <lihui@neupeer.com>',
 		],
 	],
 	'mazeplay.com' => [
