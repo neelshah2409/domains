@@ -57735,6 +57735,14 @@ return [
 			'Submitted by Jan Jaeschke <jan.jaeschke@netatwork.de>',
 		],
 	],
+	'netfy.app' => [
+		'suffix' => 'netfy.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Netfy Domains : https://netfy.domains',
+			'Submitted by Suranga Ranasinghe <security@mavicsoft.com>',
+		],
+	],
 	'netlify.app' => [
 		'suffix' => 'netlify.app',
 		'type' => 'PRIVATE',
@@ -58652,6 +58660,14 @@ return [
 		'comments' => [
 			'O3O.Foundation : https://o3o.foundation/',
 			'Submitted by the prvcy.page Registry Team <psl@registry.prvcy.page>',
+		],
+	],
+	'obl.ong' => [
+		'suffix' => 'obl.ong',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Obl.ong : <https://obl.ong>',
+			'Submitted by Reese Armstrong <team@obl.ong>',
 		],
 	],
 	'observablehq.cloud' => [
@@ -60205,7 +60221,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Salesforce.com, Inc. https://salesforce.com/',
-			'Submitted by Michael Biven <mbiven@salesforce.com> and Aaron Romeo <aaron.romeo@salesforce.com>',
+			'Submitted by Salesforce Public Suffix List Team <public-suffix-list@salesforce.com>',
 		],
 	],
 	'*.dev-builder.code.com' => [
@@ -60222,6 +60238,54 @@ return [
 	],
 	'*.001.test.code-builder-stg.platform.salesforce.com' => [
 		'suffix' => '*.001.test.code-builder-stg.platform.salesforce.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.d.crm.dev' => [
+		'suffix' => '*.d.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.w.crm.dev' => [
+		'suffix' => '*.w.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.wa.crm.dev' => [
+		'suffix' => '*.wa.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.wb.crm.dev' => [
+		'suffix' => '*.wb.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.wc.crm.dev' => [
+		'suffix' => '*.wc.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.wd.crm.dev' => [
+		'suffix' => '*.wd.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.we.crm.dev' => [
+		'suffix' => '*.we.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.wf.crm.dev' => [
+		'suffix' => '*.wf.crm.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -62184,6 +62248,20 @@ return [
 	],
 	'reserve-online.net' => [
 		'suffix' => 'reserve-online.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wp2.host' => [
+		'suffix' => 'wp2.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'WebPros International, LLC : https://webpros.com/',
+			'Submitted by Nicolas Rochelemagne <public.suffix@webpros.com>',
+		],
+	],
+	'wpsquared.site' => [
+		'suffix' => 'wpsquared.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
