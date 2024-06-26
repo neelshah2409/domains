@@ -55681,7 +55681,7 @@ return [
 		'suffix' => 'hostyhosting.io',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'HostyHosting (hostyhosting.com)',
+			'HostyHosting (https://hostyhosting.com)',
 		],
 	],
 	'hypernode.io' => [
@@ -59418,6 +59418,20 @@ return [
 		'comments' => [
 		],
 	],
+	'myrdbx.io' => [
+		'suffix' => 'myrdbx.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Raidboxes GmbH : https://raidboxes.de',
+			'Submitted by Auke Tembrink <hostmaster@raidboxes.de>',
+		],
+	],
+	'site.rb-hosting.io' => [
+		'suffix' => 'site.rb-hosting.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'instances.spawn.cc' => [
 		'suffix' => 'instances.spawn.cc',
 		'type' => 'PRIVATE',
@@ -61540,7 +61554,7 @@ return [
 		'suffix' => 'gda.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'TASK geographical domains (www.task.gda.pl/uslugi/dns)',
+			'TASK geographical domains (https://www.task.gda.pl/uslugi/dns)',
 		],
 	],
 	'gdansk.pl' => [
@@ -61710,7 +61724,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Tor Project, Inc. : https://torproject.org',
-			'Submitted by Antoine Beaupré <anarcat@torproject.org',
+			'Submitted by Antoine Beaupré <anarcat@torproject.org>',
 		],
 	],
 	'pages.torproject.net' => [
