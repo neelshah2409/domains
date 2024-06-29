@@ -4954,18 +4954,17 @@ return [
 		'suffix' => 'fi',
 		'type' => 'ICANN',
 		'comments' => [
-			'fi : https://en.wikipedia.org/wiki/.fi',
+			'fi : https://www.iana.org/domains/root/db/fi.html',
 		],
 	],
 	'aland.fi' => [
 		'suffix' => 'aland.fi',
 		'type' => 'ICANN',
 		'comments' => [
-			'aland.fi : https://en.wikipedia.org/wiki/.ax',
+			'aland.fi : https://www.iana.org/domains/root/db/ax.html',
 			'This domain is being phased out in favor of .ax. As there are still many',
 			'domains under aland.fi, we still keep it on the list until aland.fi is',
 			'completely removed.',
-			'TODO: Check for updates (expected to be phased out around Q1/2009)',
 		],
 	],
 	'fj' => [
@@ -50365,6 +50364,14 @@ return [
 			'Submitted by Andrew Farmer <andrew.farmer@dreamhost.com>',
 		],
 	],
+	'durumis.com' => [
+		'suffix' => 'durumis.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Dreamyoungs, Inc. : https://durumis.com',
+			'Submitted by Infra Team <infra@durumis.com>',
+		],
+	],
 	'mydrobo.com' => [
 		'suffix' => 'mydrobo.com',
 		'type' => 'PRIVATE',
@@ -59438,14 +59445,6 @@ return [
 		'comments' => [
 			'Redgate Software: https://red-gate.com',
 			'Submitted by Andrew Farries <andrew.farries@red-gate.com>',
-		],
-	],
-	'instantcloud.cn' => [
-		'suffix' => 'instantcloud.cn',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Redstar Consultants : https://www.redstarconsultants.com/',
-			'Submitted by Jons Slemmer <jons@redstarconsultants.com>',
 		],
 	],
 	'ras.ru' => [
