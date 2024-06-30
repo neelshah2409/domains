@@ -49953,14 +49953,6 @@ return [
 		'comments' => [
 		],
 	],
-	'*.cprapid.com' => [
-		'suffix' => '*.cprapid.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'cPanel L.L.C. : https://www.cpanel.net/',
-			'Submitted by Dustin Scherer <public.suffix@cpanel.net>',
-		],
-	],
 	'realm.cz' => [
 		'suffix' => 'realm.cz',
 		'type' => 'PRIVATE',
@@ -59219,26 +59211,6 @@ return [
 		'comments' => [
 		],
 	],
-	'pleskns.com' => [
-		'suffix' => 'pleskns.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Plesk : https://www.plesk.com/',
-			'Submitted by Anton Akhtyamov <program-managers@plesk.com>',
-		],
-	],
-	'pdns.page' => [
-		'suffix' => 'pdns.page',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'plesk.page' => [
-		'suffix' => 'plesk.page',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'pley.games' => [
 		'suffix' => 'pley.games',
 		'type' => 'PRIVATE',
@@ -62265,12 +62237,36 @@ return [
 		'comments' => [
 		],
 	],
-	'wp2.host' => [
-		'suffix' => 'wp2.host',
+	'cprapid.com' => [
+		'suffix' => 'cprapid.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'WebPros International, LLC : https://webpros.com/',
 			'Submitted by Nicolas Rochelemagne <public.suffix@webpros.com>',
+		],
+	],
+	'pleskns.com' => [
+		'suffix' => 'pleskns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wp2.host' => [
+		'suffix' => 'wp2.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'pdns.page' => [
+		'suffix' => 'pdns.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'plesk.page' => [
+		'suffix' => 'plesk.page',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'wpsquared.site' => [
