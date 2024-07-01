@@ -35115,7 +35115,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-06-13T15:15:16Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-06-29T15:13:33Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -42685,7 +42685,7 @@ return [
 		'suffix' => 'vana',
 		'type' => 'ICANN',
 		'comments' => [
-			'vana : Internet Naming Company LLC',
+			'vana : D3 Registry LLC',
 			'https://www.iana.org/domains/root/db/vana.html',
 		],
 	],
