@@ -49953,6 +49953,14 @@ return [
 		'comments' => [
 		],
 	],
+	'craft.me' => [
+		'suffix' => 'craft.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Craft Docs Ltd : https://www.craft.do/',
+			'Submitted by Zsombor Fuszenecker <security@craft.do>',
+		],
+	],
 	'realm.cz' => [
 		'suffix' => 'realm.cz',
 		'type' => 'PRIVATE',
@@ -50018,6 +50026,14 @@ return [
 		'suffix' => '*.ocs.customer-oci.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'cfolks.pl' => [
+		'suffix' => 'cfolks.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'cyber_Folks S.A. : https://cyberfolks.pl',
+			'Submitted by Bartlomiej Kida <security@cyberfolks.pl>',
 		],
 	],
 	'cyclic.app' => [
@@ -55490,6 +55506,44 @@ return [
 		'comments' => [
 		],
 	],
+	'hatenablog.com' => [
+		'suffix' => 'hatenablog.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Hatena Co., Ltd. : https://hatena.co.jp',
+			'Submitted by Masato Nakamura <blog-developers@hatena.ne.jp>',
+		],
+	],
+	'hatenadiary.com' => [
+		'suffix' => 'hatenadiary.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hateblo.jp' => [
+		'suffix' => 'hateblo.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hatenablog.jp' => [
+		'suffix' => 'hatenablog.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hatenadiary.jp' => [
+		'suffix' => 'hatenadiary.jp',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hatenadiary.org' => [
+		'suffix' => 'hatenadiary.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'pages.it.hs-heilbronn.de' => [
 		'suffix' => 'pages.it.hs-heilbronn.de',
 		'type' => 'PRIVATE',
@@ -59521,14 +59575,6 @@ return [
 		'suffix' => 'rackmaze.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'g.vbrplsbx.io' => [
-		'suffix' => 'g.vbrplsbx.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Rakuten Games, Inc : https://dev.viberplay.io',
-			'Submitted by Joshua Zhang <public-suffix@rgames.jp>',
 		],
 	],
 	'*.on-rancher.cloud' => [
