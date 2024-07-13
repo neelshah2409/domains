@@ -110,13 +110,34 @@ return [
 		'suffix' => 'aero',
 		'type' => 'ICANN',
 		'comments' => [
-			'aero : see https://www.information.aero/index.php?id=66',
+			'aero : https://information.aero/registration/policies/dmp',
+		],
+	],
+	'airline.aero' => [
+		'suffix' => 'airline.aero',
+		'type' => 'ICANN',
+		'comments' => [
+			'2LDs',
+		],
+	],
+	'airport.aero' => [
+		'suffix' => 'airport.aero',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'accident-investigation.aero' => [
 		'suffix' => 'accident-investigation.aero',
 		'type' => 'ICANN',
 		'comments' => [
+			'2LDs (currently not accepting registration, seemingly never have)',
+			'As of 2024-07, these are marked as reserved for potential 3LD',
+			'registrations (clause 11 "allocated subdomains" in the 2006 TLD',
+			'policy), but the relevant industry partners have not opened them up',
+			'for registration. Current status can be determined from the TLD\'s',
+			'policy document: 2LDs that are open for registration must list',
+			'their policy in the TLD\'s policy. Any 2LD without such a policy is',
+			'not open for registrations.',
 		],
 	],
 	'accident-prevention.aero' => [
@@ -149,32 +170,8 @@ return [
 		'comments' => [
 		],
 	],
-	'aircraft.aero' => [
-		'suffix' => 'aircraft.aero',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'airline.aero' => [
-		'suffix' => 'airline.aero',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'airport.aero' => [
-		'suffix' => 'airport.aero',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'air-surveillance.aero' => [
 		'suffix' => 'air-surveillance.aero',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'airtraffic.aero' => [
-		'suffix' => 'airtraffic.aero',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -185,14 +182,20 @@ return [
 		'comments' => [
 		],
 	],
-	'ambulance.aero' => [
-		'suffix' => 'ambulance.aero',
+	'aircraft.aero' => [
+		'suffix' => 'aircraft.aero',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'amusement.aero' => [
-		'suffix' => 'amusement.aero',
+	'airtraffic.aero' => [
+		'suffix' => 'airtraffic.aero',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ambulance.aero' => [
+		'suffix' => 'ambulance.aero',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -377,6 +380,12 @@ return [
 		'comments' => [
 		],
 	],
+	'freight.aero' => [
+		'suffix' => 'freight.aero',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'fuel.aero' => [
 		'suffix' => 'fuel.aero',
 		'type' => 'ICANN',
@@ -457,6 +466,12 @@ return [
 	],
 	'maintenance.aero' => [
 		'suffix' => 'maintenance.aero',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'marketplace.aero' => [
+		'suffix' => 'marketplace.aero',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -589,6 +604,12 @@ return [
 	],
 	'student.aero' => [
 		'suffix' => 'student.aero',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'taxi.aero' => [
+		'suffix' => 'taxi.aero',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -44616,7 +44637,13 @@ return [
 		'comments' => [
 			'Amazon Cognito',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 09588633-91fe-49d8-b4e7-ec36496d11f3',
+			'Reference: cb38c251-c93d-4cda-81ec-e72c4f0fdb72',
+		],
+	],
+	'auth.ap-east-1.amazoncognito.com' => [
+		'suffix' => 'auth.ap-east-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'auth.ap-northeast-1.amazoncognito.com' => [
@@ -44675,6 +44702,12 @@ return [
 	],
 	'auth.ca-central-1.amazoncognito.com' => [
 		'suffix' => 'auth.ca-central-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ca-west-1.amazoncognito.com' => [
+		'suffix' => 'auth.ca-west-1.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45435,7 +45468,7 @@ return [
 		'comments' => [
 			'Amazon Managed Workflows for Apache Airflow',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 87f24ece-a77e-40e8-bb4a-f6b74fe9f975',
+			'Reference: f5ea5d0a-ec6a-4f23-ac1c-553fbff13f5c',
 		],
 	],
 	'*.cn-northwest-1.airflow.amazonaws.com.cn' => [
@@ -45468,8 +45501,20 @@ return [
 		'comments' => [
 		],
 	],
+	'*.ap-northeast-3.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-northeast-3.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.ap-south-1.airflow.amazonaws.com' => [
 		'suffix' => '*.ap-south-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-south-2.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-south-2.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45486,14 +45531,38 @@ return [
 		'comments' => [
 		],
 	],
+	'*.ap-southeast-3.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-southeast-3.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-southeast-4.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-southeast-4.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.ca-central-1.airflow.amazonaws.com' => [
 		'suffix' => '*.ca-central-1.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
+	'*.ca-west-1.airflow.amazonaws.com' => [
+		'suffix' => '*.ca-west-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.eu-central-1.airflow.amazonaws.com' => [
 		'suffix' => '*.eu-central-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-central-2.airflow.amazonaws.com' => [
+		'suffix' => '*.eu-central-2.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45506,6 +45575,12 @@ return [
 	],
 	'*.eu-south-1.airflow.amazonaws.com' => [
 		'suffix' => '*.eu-south-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-south-2.airflow.amazonaws.com' => [
+		'suffix' => '*.eu-south-2.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45524,6 +45599,18 @@ return [
 	],
 	'*.eu-west-3.airflow.amazonaws.com' => [
 		'suffix' => '*.eu-west-3.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.il-central-1.airflow.amazonaws.com' => [
+		'suffix' => '*.il-central-1.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.me-central-1.airflow.amazonaws.com' => [
+		'suffix' => '*.me-central-1.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -47802,6 +47889,15 @@ return [
 		'comments' => [
 		],
 	],
+	'*.experiments.sagemaker.aws' => [
+		'suffix' => '*.experiments.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon SageMaker with MLflow',
+			'Submited by: AWS Security <psl-maintainers@amazon.com>',
+			'Reference: c19f92b3-a82a-452d-8189-831b572eea7e',
+		],
+	],
 	'analytics-gateway.ap-northeast-1.amazonaws.com' => [
 		'suffix' => 'analytics-gateway.ap-northeast-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -47865,13 +47961,13 @@ return [
 		'comments' => [
 		],
 	],
-	'*.amplifyapp.com' => [
-		'suffix' => '*.amplifyapp.com',
+	'amplifyapp.com' => [
+		'suffix' => 'amplifyapp.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'AWS Amplify',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 5ecce854-c033-4fc4-a755-1a9916d9a9bb',
+			'Reference: c35bed18-6f4f-424f-9298-5756f2f7d72b',
 		],
 	],
 	'*.awsapprunner.com' => [
@@ -50286,6 +50382,26 @@ return [
 	],
 	'deta.dev' => [
 		'suffix' => 'deta.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dfirma.pl' => [
+		'suffix' => 'dfirma.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'dhosting.pl Sp. z o.o.: https://dhosting.pl/',
+			'Submitted by Michal Kokoszkiewicz <bok@dhosting.pl>',
+		],
+	],
+	'dkonto.pl' => [
+		'suffix' => 'dkonto.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'you2.pl' => [
+		'suffix' => 'you2.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
