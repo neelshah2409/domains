@@ -35136,7 +35136,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-06-29T15:13:33Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-07-12T15:14:39Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -41708,14 +41708,6 @@ return [
 		'comments' => [
 			'sharp : Sharp Corporation',
 			'https://www.iana.org/domains/root/db/sharp.html',
-		],
-	],
-	'shaw' => [
-		'suffix' => 'shaw',
-		'type' => 'ICANN',
-		'comments' => [
-			'shaw : Shaw Cablesystems G.P.',
-			'https://www.iana.org/domains/root/db/shaw.html',
 		],
 	],
 	'shell' => [
