@@ -61501,12 +61501,6 @@ return [
 		'comments' => [
 		],
 	],
-	'su.paba.se' => [
-		'suffix' => 'su.paba.se',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'*.sensiosite.cloud' => [
 		'suffix' => '*.sensiosite.cloud',
 		'type' => 'PRIVATE',
