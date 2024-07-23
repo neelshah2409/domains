@@ -49414,13 +49414,6 @@ return [
 		'comments' => [
 		],
 	],
-	'c.la' => [
-		'suffix' => 'c.la',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'c.la : http://www.c.la/',
-		],
-	],
 	'certmgr.org' => [
 		'suffix' => 'certmgr.org',
 		'type' => 'PRIVATE',
@@ -60753,6 +60746,14 @@ return [
 			'Submitted by Assaf Stern <domains@comstar.co.il>',
 		],
 	],
+	'servebolt.cloud' => [
+		'suffix' => 'servebolt.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Servebolt AS: https://servebolt.com',
+			'Submitted by Daniel Kjeserud <cloudops@servebolt.com>',
+		],
+	],
 	'magnet.page' => [
 		'suffix' => 'magnet.page',
 		'type' => 'PRIVATE',
@@ -61696,6 +61697,20 @@ return [
 	],
 	'sopot.pl' => [
 		'suffix' => 'sopot.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'p.tawk.email' => [
+		'suffix' => 'p.tawk.email',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'tawk.to, Inc : https://www.tawk.to',
+			'Submitted by tawk.to developer team <dev-accounts@tawk.to>',
+		],
+	],
+	'p.tawkto.email' => [
+		'suffix' => 'p.tawkto.email',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
