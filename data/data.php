@@ -50117,32 +50117,6 @@ return [
 			'Submitted by Bartlomiej Kida <security@cyberfolks.pl>',
 		],
 	],
-	'cyclic.app' => [
-		'suffix' => 'cyclic.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Cyclic Software : https://www.cyclic.sh',
-			'Submitted by Kam Lasater <dns-admin@cyclic.sh>',
-		],
-	],
-	'cyclic.cloud' => [
-		'suffix' => 'cyclic.cloud',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'cyclic-app.com' => [
-		'suffix' => 'cyclic-app.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'cyclic.co.in' => [
-		'suffix' => 'cyclic.co.in',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'cyon.link' => [
 		'suffix' => 'cyon.link',
 		'type' => 'PRIVATE',
@@ -53650,42 +53624,6 @@ return [
 			'Submitted by Jason Zhu <jason@owtware.com>',
 		],
 	],
-	'filegear-au.me' => [
-		'suffix' => 'filegear-au.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'filegear-de.me' => [
-		'suffix' => 'filegear-de.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'filegear-gb.me' => [
-		'suffix' => 'filegear-gb.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'filegear-ie.me' => [
-		'suffix' => 'filegear-ie.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'filegear-jp.me' => [
-		'suffix' => 'filegear-jp.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'filegear-sg.me' => [
-		'suffix' => 'filegear-sg.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'firebaseapp.com' => [
 		'suffix' => 'firebaseapp.com',
 		'type' => 'PRIVATE',
@@ -53710,18 +53648,12 @@ return [
 			'Submitted by Louis Chemineau <louis@chmn.me>',
 		],
 	],
-	'onflashdrive.app' => [
-		'suffix' => 'onflashdrive.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'FlashDrive : https://flashdrive.io',
-			'Submitted by Eric Chan <support@flashdrive.io>',
-		],
-	],
 	'fldrv.com' => [
 		'suffix' => 'fldrv.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'FlashDrive : https://flashdrive.io',
+			'Submitted by Eric Chan <support@flashdrive.io>',
 		],
 	],
 	'flutterflow.app' => [
@@ -55886,20 +55818,6 @@ return [
 	],
 	'iliadboxos.it' => [
 		'suffix' => 'iliadboxos.it',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'impertrix.com' => [
-		'suffix' => 'impertrix.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Impertrix Solutions : <https://impertrixcdn.com>',
-			'Submitted by Zhixiang Zhao <csuite@impertrix.com>',
-		],
-	],
-	'impertrixcdn.com' => [
-		'suffix' => 'impertrixcdn.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58838,14 +58756,6 @@ return [
 		'comments' => [
 		],
 	],
-	'cya.gg' => [
-		'suffix' => 'cya.gg',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Octopodal Solutions, LLC. : https://ulterius.io/',
-			'Submitted by Andrew Sampson <andrew@ulterius.io>',
-		],
-	],
 	'omg.lol' => [
 		'suffix' => 'omg.lol',
 		'type' => 'PRIVATE',
@@ -58984,14 +58894,6 @@ return [
 		'suffix' => '123minsida.se',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'nid.io' => [
-		'suffix' => 'nid.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'One Fold Media : http://www.onefoldmedia.com/',
-			'Submitted by Eddie Jones <eddie@onefoldmedia.com>',
 		],
 	],
 	'is-cool.dev' => [
