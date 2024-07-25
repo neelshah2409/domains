@@ -48807,14 +48807,6 @@ return [
 			'Submitted by Olivier Benz <olivier.benz@b-data.ch>',
 		],
 	],
-	'backplaneapp.io' => [
-		'suffix' => 'backplaneapp.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'backplane : https://www.backplane.io',
-			'Submitted by Anthony Voutas <anthony@backplane.io>',
-		],
-	],
 	'balena-devices.com' => [
 		'suffix' => 'balena-devices.com',
 		'type' => 'PRIVATE',
@@ -57651,14 +57643,6 @@ return [
 			'Submitted by Robert Böttinger <r@minion.systems>',
 		],
 	],
-	'mintere.site' => [
-		'suffix' => 'mintere.site',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Mintere : https://mintere.com/',
-			'Submitted by Ben Aubin <security@mintere.com>',
-		],
-	],
 	'forte.id' => [
 		'suffix' => 'forte.id',
 		'type' => 'PRIVATE',
@@ -57673,14 +57657,6 @@ return [
 		'comments' => [
 			'MODX Systems LLC : https://modx.com',
 			'Submitted by Elizabeth Southwell <elizabeth@modx.com>',
-		],
-	],
-	'mozilla-iot.org' => [
-		'suffix' => 'mozilla-iot.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Mozilla Corporation : https://mozilla.com',
-			'Submitted by Ben Francis <bfrancis@mozilla.com>',
 		],
 	],
 	'bmoattachments.org' => [
@@ -58708,14 +58684,6 @@ return [
 		'comments' => [
 			'NodeArt : https://nodeart.io',
 			'Submitted by Konstantin Nosov <Nosov@nodeart.io>',
-		],
-	],
-	'pcloud.host' => [
-		'suffix' => 'pcloud.host',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Nucleos Inc. : https://nucleos.com',
-			'Submitted by Piotr Zduniak <piotr@nucleos.com>',
 		],
 	],
 	'nyc.mn' => [
@@ -60698,20 +60666,6 @@ return [
 		'comments' => [
 			'Sheezy.Art : https://sheezy.art',
 			'Submitted by Nyoom <admin@sheezy.art>',
-		],
-	],
-	'shiftcrypto.dev' => [
-		'suffix' => 'shiftcrypto.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Shift Crypto AG : https://shiftcrypto.ch',
-			'Submitted by alex <alex@shiftcrypto.ch>',
-		],
-	],
-	'shiftcrypto.io' => [
-		'suffix' => 'shiftcrypto.io',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'shiftedit.io' => [
