@@ -44124,14 +44124,6 @@ return [
 		'comments' => [
 		],
 	],
-	'graphox.us' => [
-		'suffix' => 'graphox.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Aaron Marais\' Gitlab pages: https://lab.aaronleem.co.za',
-			'Submitted by Aaron Marais <its_me@aaronleem.co.za>',
-		],
-	],
 	'*.devcdnaccesso.com' => [
 		'suffix' => '*.devcdnaccesso.com',
 		'type' => 'PRIVATE',
@@ -59025,14 +59017,6 @@ return [
 		'comments' => [
 			'Pagefog : https://pagefog.com/',
 			'Submitted by Derek Myers <derek@pagefog.com>',
-		],
-	],
-	'pagefrontapp.com' => [
-		'suffix' => 'pagefrontapp.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Pagefront : https://www.pagefronthq.com/',
-			'Submitted by Jason Kriss <jason@pagefronthq.com>',
 		],
 	],
 	'pagexl.com' => [
