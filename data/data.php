@@ -49552,20 +49552,6 @@ return [
 		'comments' => [
 		],
 	],
-	'cloudcontrolapp.com' => [
-		'suffix' => 'cloudcontrolapp.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'cloudControl : https://www.cloudcontrol.com/',
-			'Submitted by Tobias Wilken <tw@cloudcontrol.com>',
-		],
-	],
-	'cloudcontrolled.com' => [
-		'suffix' => 'cloudcontrolled.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'*.cloudera.site' => [
 		'suffix' => '*.cloudera.site',
 		'type' => 'PRIVATE',
