@@ -50036,14 +50036,6 @@ return [
 			'Submitted by Andrew Cady <public-suffix-list@cryptonomic.net>',
 		],
 	],
-	'cupcake.is' => [
-		'suffix' => 'cupcake.is',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Cupcake : https://cupcake.io/',
-			'Submitted by Jonathan Rudenberg <jonathan@cupcake.io>',
-		],
-	],
 	'curv.dev' => [
 		'suffix' => 'curv.dev',
 		'type' => 'PRIVATE',
@@ -53654,14 +53646,6 @@ return [
 		'comments' => [
 		],
 	],
-	'flynnhosting.net' => [
-		'suffix' => 'flynnhosting.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Flynn : https://flynn.io',
-			'Submitted by Jonathan Rudenberg <jonathan@flynn.io>',
-		],
-	],
 	'forgeblocks.com' => [
 		'suffix' => 'forgeblocks.com',
 		'type' => 'PRIVATE',
@@ -56108,7 +56092,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'is-a.dev : https://www.is-a.dev',
-			'Submitted by William Harrison <admin@maintainers.is-a.dev>',
+			'Submitted by William Harrison <admin@m.is-a.dev>',
 		],
 	],
 	'ir.md' => [
