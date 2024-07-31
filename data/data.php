@@ -55404,14 +55404,6 @@ return [
 			'Submitted by Matt Yamkowy <info@grayjaysports.ca>',
 		],
 	],
-	'awsmppl.com' => [
-		'suffix' => 'awsmppl.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Group 53, LLC : https://www.group53.com',
-			'Submitted by Tyler Todd <noc@nova53.net>',
-		],
-	],
 	'günstigbestellen.de' => [
 		'suffix' => 'günstigbestellen.de',
 		'type' => 'PRIVATE',
