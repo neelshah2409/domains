@@ -27584,35 +27584,13 @@ return [
 		'suffix' => 'pk',
 		'type' => 'ICANN',
 		'comments' => [
-			'pk : http://pk5.pknic.net.pk/pk5/msgNamepk.PK',
+			'pk : https://pknic.net.pk',
+			'pk : http://pk5.pknic.net.pk/pk5/msgNamepk.PK + grandfathered old gon.pk',
+			'Contact Email: staff@pknic.net.pk    PKNIC .PK Registry',
 		],
 	],
-	'com.pk' => [
-		'suffix' => 'com.pk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.pk' => [
-		'suffix' => 'net.pk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'edu.pk' => [
-		'suffix' => 'edu.pk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.pk' => [
-		'suffix' => 'org.pk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'fam.pk' => [
-		'suffix' => 'fam.pk',
+	'ac.pk' => [
+		'suffix' => 'ac.pk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27623,20 +27601,38 @@ return [
 		'comments' => [
 		],
 	],
-	'web.pk' => [
-		'suffix' => 'web.pk',
+	'com.pk' => [
+		'suffix' => 'com.pk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'gov.pk' => [
-		'suffix' => 'gov.pk',
+	'edu.pk' => [
+		'suffix' => 'edu.pk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'fam.pk' => [
+		'suffix' => 'fam.pk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gkp.pk' => [
+		'suffix' => 'gkp.pk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'gob.pk' => [
 		'suffix' => 'gob.pk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gog.pk' => [
+		'suffix' => 'gog.pk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27665,8 +27661,26 @@ return [
 		'comments' => [
 		],
 	],
-	'info.pk' => [
-		'suffix' => 'info.pk',
+	'gov.pk' => [
+		'suffix' => 'gov.pk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.pk' => [
+		'suffix' => 'net.pk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.pk' => [
+		'suffix' => 'org.pk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'web.pk' => [
+		'suffix' => 'web.pk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
