@@ -60820,6 +60820,14 @@ return [
 			'Submitted by Ian Streeter <ian@snowplowanalytics.com>',
 		],
 	],
+	'mafelo.net' => [
+		'suffix' => 'mafelo.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Software Consulting Michal Zalewski : https://www.mafelo.com',
+			'Submitted by Michal Zalewski <security@mafelo.com>',
+		],
+	],
 	'srht.site' => [
 		'suffix' => 'srht.site',
 		'type' => 'PRIVATE',
