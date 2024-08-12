@@ -35150,7 +35150,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-07-12T15:14:39Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-08-10T15:15:39Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39776,7 +39776,7 @@ return [
 		'suffix' => 'man',
 		'type' => 'ICANN',
 		'comments' => [
-			'man : MAN SE',
+			'man : MAN Truck & Bus SE',
 			'https://www.iana.org/domains/root/db/man.html',
 		],
 	],
