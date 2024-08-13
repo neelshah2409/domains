@@ -58850,12 +58850,18 @@ return [
 		'comments' => [
 		],
 	],
-	'is-cool.dev' => [
-		'suffix' => 'is-cool.dev',
+	'is-a-fullstack.dev' => [
+		'suffix' => 'is-a-fullstack.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Open Domains : https://open-domains.net',
 			'Submitted by William Harrison <admin@open-domains.net>',
+		],
+	],
+	'is-cool.dev' => [
+		'suffix' => 'is-cool.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'is-not-a.dev' => [
@@ -62328,18 +62334,12 @@ return [
 		'comments' => [
 		],
 	],
-	'wdh.app' => [
-		'suffix' => 'wdh.app',
+	'*.wdh.app' => [
+		'suffix' => '*.wdh.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'William Harrison : https://william.net.au',
+			'William Harrison : https://wdh.gg',
 			'Submitted by William Harrison <domains@wdh.gg>',
-		],
-	],
-	'preview.wdh.app' => [
-		'suffix' => 'preview.wdh.app',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'panel.gg' => [
