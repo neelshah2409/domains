@@ -35150,7 +35150,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-08-10T15:15:39Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-08-12T15:17:09Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -56078,6 +56078,14 @@ return [
 		'comments' => [
 			'is-a.dev : https://www.is-a.dev',
 			'Submitted by William Harrison <admin@m.is-a.dev>',
+		],
+	],
+	'is-a-good.dev' => [
+		'suffix' => 'is-a-good.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'is-a-good.dev : https://is-a-good.dev',
+			'Submitted by William Harrison <webmaster@is-a-good.dev>',
 		],
 	],
 	'iservschule.de' => [
