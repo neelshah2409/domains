@@ -56966,14 +56966,6 @@ return [
 			'Submitted by Lann Martin <security@localcert.dev>',
 		],
 	],
-	'localzone.xyz' => [
-		'suffix' => 'localzone.xyz',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'localzone.xyz',
-			'Submitted by Kenny Niehage <hello@yahe.sh>',
-		],
-	],
 	'loginline.app' => [
 		'suffix' => 'loginline.app',
 		'type' => 'PRIVATE',
