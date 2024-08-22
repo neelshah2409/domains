@@ -48987,14 +48987,6 @@ return [
 			'Submitted by Nathan O\'Sullivan <nathan@mammoth.com.au>',
 		],
 	],
-	'bip.sh' => [
-		'suffix' => 'bip.sh',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Bip : https://bip.sh',
-			'Submitted by Joel Kennedy <joel@bip.sh>',
-		],
-	],
 	'bitbucket.io' => [
 		'suffix' => 'bitbucket.io',
 		'type' => 'PRIVATE',
@@ -52291,12 +52283,6 @@ return [
 	],
 	'myddns.rocks' => [
 		'suffix' => 'myddns.rocks',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogsite.xyz' => [
-		'suffix' => 'blogsite.xyz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57284,6 +57270,32 @@ return [
 		'comments' => [
 		],
 	],
+	'matlab.cloud' => [
+		'suffix' => 'matlab.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MathWorks : https://www.mathworks.com/',
+			'Submitted by Emily Reed <psl-maintainers@groups.mathworks.com>',
+		],
+	],
+	'modelscape.com' => [
+		'suffix' => 'modelscape.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mwcloudnonprod.com' => [
+		'suffix' => 'mwcloudnonprod.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'polyspace.com' => [
+		'suffix' => 'polyspace.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'mazeplay.com' => [
 		'suffix' => 'mazeplay.com',
 		'type' => 'PRIVATE',
@@ -57575,12 +57587,30 @@ return [
 		'comments' => [
 		],
 	],
-	'sn.mynetname.net' => [
-		'suffix' => 'sn.mynetname.net',
+	'routingthecloud.com' => [
+		'suffix' => 'routingthecloud.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'MikroTik: https://mikrotik.com',
 			'Submitted by MikroTik SysAdmin Team <support@mikrotik.com>',
+		],
+	],
+	'sn.mynetname.net' => [
+		'suffix' => 'sn.mynetname.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'routingthecloud.net' => [
+		'suffix' => 'routingthecloud.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'routingthecloud.org' => [
+		'suffix' => 'routingthecloud.org',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'csx.cc' => [
@@ -59521,12 +59551,18 @@ return [
 			'Submitted by Roni Horowitz <roni@responder.co.il>',
 		],
 	],
-	'readthedocs.io' => [
-		'suffix' => 'readthedocs.io',
+	'readthedocs-hosted.com' => [
+		'suffix' => 'readthedocs-hosted.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Read The Docs, Inc : https://www.readthedocs.org',
 			'Submitted by David Fischer <team@readthedocs.org>',
+		],
+	],
+	'readthedocs.io' => [
+		'suffix' => 'readthedocs.io',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'rhcloud.com' => [
@@ -59785,20 +59821,6 @@ return [
 		'comments' => [
 			'RethinkDB : https://www.rethinkdb.com/',
 			'Submitted by Chris Kastorff <info@rethinkdb.com>',
-		],
-	],
-	'wellbeingzone.eu' => [
-		'suffix' => 'wellbeingzone.eu',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Revitalised Limited : http://www.revitalised.co.uk',
-			'Submitted by Jack Price <jack@revitalised.co.uk>',
-		],
-	],
-	'wellbeingzone.co.uk' => [
-		'suffix' => 'wellbeingzone.co.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'adimo.co.uk' => [
@@ -62334,12 +62356,12 @@ return [
 		'comments' => [
 		],
 	],
-	'*.wdh.app' => [
-		'suffix' => '*.wdh.app',
+	'wdh.app' => [
+		'suffix' => 'wdh.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'William Harrison : https://wdh.gg',
-			'Submitted by William Harrison <domains@wdh.gg>',
+			'William Harrison : https://wdharrison.com',
+			'Submitted by William Harrison <publicsuffix@wdharrison.com>',
 		],
 	],
 	'panel.gg' => [
