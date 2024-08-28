@@ -35150,7 +35150,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-08-12T15:17:09Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-08-25T15:14:38Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37952,7 +37952,7 @@ return [
 		'suffix' => 'forum',
 		'type' => 'ICANN',
 		'comments' => [
-			'forum : Fegistry, LLC',
+			'forum : Waterford Limited',
 			'https://www.iana.org/domains/root/db/forum.html',
 		],
 	],
@@ -41096,7 +41096,7 @@ return [
 		'suffix' => 'realty',
 		'type' => 'ICANN',
 		'comments' => [
-			'realty : Internet Naming Company LLC',
+			'realty : Waterford Limited',
 			'https://www.iana.org/domains/root/db/realty.html',
 		],
 	],
