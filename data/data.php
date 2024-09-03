@@ -58580,24 +58580,6 @@ return [
 		'comments' => [
 		],
 	],
-	'16-b.it' => [
-		'suffix' => '16-b.it',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'32-b.it' => [
-		'suffix' => '32-b.it',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'64-b.it' => [
-		'suffix' => '64-b.it',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'soundcast.me' => [
 		'suffix' => 'soundcast.me',
 		'type' => 'PRIVATE',
@@ -58926,6 +58908,26 @@ return [
 		'comments' => [
 			'OpenCraft GmbH : http://opencraft.com/',
 			'Submitted by Sven Marnach <sven@opencraft.com>',
+		],
+	],
+	'16-b.it' => [
+		'suffix' => '16-b.it',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'OpenHost : https://registry.openhost.uk',
+			'Submitted by OpenHost Registry Team <support@openhost.uk>',
+		],
+	],
+	'32-b.it' => [
+		'suffix' => '32-b.it',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'64-b.it' => [
+		'suffix' => '64-b.it',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'orsites.com' => [
@@ -62362,6 +62364,18 @@ return [
 		'comments' => [
 			'William Harrison : https://wdharrison.com',
 			'Submitted by William Harrison <publicsuffix@wdharrison.com>',
+		],
+	],
+	'preview.wdh.app' => [
+		'suffix' => 'preview.wdh.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	't.hrsn.net' => [
+		'suffix' => 't.hrsn.net',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'panel.gg' => [
