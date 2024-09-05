@@ -48669,7 +48669,7 @@ return [
 		'suffix' => 'panel.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Apis Networks: https://apisnetworks.com',
+			'Apis Networks : https://apisnetworks.com',
 			'Submitted by Matt Saladna <matt@apisnetworks.com>',
 		],
 	],
@@ -48845,7 +48845,7 @@ return [
 		'suffix' => 'ecommerce-shop.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'AZ.pl sp. z.o.o: https://az.pl',
+			'AZ.pl sp. z.o.o : https://az.pl',
 			'Submitted by Krzysztof Wolski <krzysztof.wolski@home.eu>',
 		],
 	],
@@ -49999,7 +49999,7 @@ return [
 		'suffix' => '*.customer-oci.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Customer OCI - Oracle Dyn https://cloud.oracle.com/home https://dyn.com/dns/',
+			'Customer OCI - Oracle Dyn : https://cloud.oracle.com/home https://dyn.com/dns/',
 			'Submitted by Gregory Drake <support@dyn.com>',
 			'Note: This is intended to also include customer-oci.com due to wildcards implicitly including the current label',
 		],
@@ -50372,16 +50372,16 @@ return [
 			'Submitted by Edward Hsing <contact@digitalplat.org>',
 		],
 	],
-	'*.rss.my.id' => [
-		'suffix' => '*.rss.my.id',
+	'rss.my.id' => [
+		'suffix' => 'rss.my.id',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Diher Solutions : https://diher.solutions',
 			'Submitted by Didi Hermawan <mail@diher.solutions>',
 		],
 	],
-	'*.diher.solutions' => [
-		'suffix' => '*.diher.solutions',
+	'diher.solutions' => [
+		'suffix' => 'diher.solutions',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -52329,7 +52329,7 @@ return [
 		'suffix' => 'onred.one',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'ECG Robotics, Inc: https://ecgrobotics.org',
+			'ECG Robotics, Inc : https://ecgrobotics.org',
 			'Submitted by <frc1533@ecgrobotics.org>',
 		],
 	],
@@ -53524,14 +53524,6 @@ return [
 			'Submitted by Chris Raynor <chris@firebase.com>',
 		],
 	],
-	'fireweb.app' => [
-		'suffix' => 'fireweb.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Firewebkit : https://www.firewebkit.com',
-			'Submitted by Majid Qureshi <mqureshi@amrayn.com>',
-		],
-	],
 	'flap.id' => [
 		'suffix' => 'flap.id',
 		'type' => 'PRIVATE',
@@ -53638,7 +53630,7 @@ return [
 		'suffix' => '0e.vc',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Frederik Braun https://frederik-braun.com',
+			'Frederik Braun : https://frederik-braun.com',
 			'Submitted by Frederik Braun <fb@frederik-braun.com>',
 		],
 	],
@@ -55635,7 +55627,7 @@ return [
 		'suffix' => 'hostyhosting.io',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'HostyHosting (https://hostyhosting.com)',
+			'HostyHosting : https://hostyhosting.com',
 		],
 	],
 	'hypernode.io' => [
@@ -55696,7 +55688,7 @@ return [
 		'suffix' => 'ibxos.it',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'iliad italia: https://www.iliad.it',
+			'iliad italia : https://www.iliad.it',
 			'Submitted by Marios Makassikis <mmakassikis@freebox.fr>',
 		],
 	],
@@ -55710,7 +55702,7 @@ return [
 		'suffix' => 'smushcdn.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Incsub, LLC: https://incsub.com/',
+			'Incsub, LLC : https://incsub.com/',
 			'Submitted by Aaron Edwards <sysadmins@incsub.com>',
 		],
 	],
@@ -55997,7 +55989,7 @@ return [
 		'suffix' => 'na4u.ru',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Internet-Pro, LLP: https://netangels.ru/',
+			'Internet-Pro, LLP : https://netangels.ru/',
 			'Submitted by Vasiliy Sheredeko <piphon@gmail.com>',
 		],
 	],
@@ -58688,8 +58680,8 @@ return [
 		'suffix' => 'nyc.mn',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'NYC.mn : http://www.information.nyc.mn',
-			'Submitted by Matthew Brown <mattbrown@nyc.mn>',
+			'NYC.mn : https://dot.nyc.mn/',
+			'Submitted by NYC.mn Subdomain Service <nyc.mn@mailfence.com>',
 		],
 	],
 	'prvcy.page' => [
@@ -58726,7 +58718,7 @@ return [
 		'suffix' => 'omg.lol',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'OMG.LOL : <https://omg.lol>',
+			'OMG.LOL : https://omg.lol',
 			'Submitted by Adam Newbold <adam@omg.lol>',
 		],
 	],
@@ -59429,7 +59421,7 @@ return [
 		'suffix' => 'ladesk.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Quality Unit: https://qualityunit.com',
+			'Quality Unit : https://qualityunit.com',
 			'Submitted by Vasyl Tsalko <vtsalko@qualityunit.com>',
 		],
 	],
@@ -62238,7 +62230,7 @@ return [
 		'suffix' => '*.webhare.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'WebHare bv: https://www.webhare.com/',
+			'WebHare bv : https://www.webhare.com/',
 			'Submitted by Arnold Hendriks <info@webhare.com>',
 		],
 	],
@@ -62246,7 +62238,7 @@ return [
 		'suffix' => 'bookonline.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'WebHotelier Technologies Ltd: https://www.webhotelier.net/',
+			'WebHotelier Technologies Ltd : https://www.webhotelier.net/',
 			'Submitted by Apostolos Tsakpinis <apostolos.tsakpinis@gmail.com>',
 		],
 	],
@@ -62310,7 +62302,7 @@ return [
 		'suffix' => '*.wadl.top',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'WebWaddle Ltd: https://webwaddle.com/',
+			'WebWaddle Ltd : https://webwaddle.com/',
 			'Submitted by Merlin Glander <hostmaster@webwaddle.com>',
 		],
 	],
@@ -62557,7 +62549,7 @@ return [
 		'suffix' => 'yandexcloud.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Yandex.Cloud LLC: https://cloud.yandex.com',
+			'Yandex.Cloud LLC : https://cloud.yandex.com',
 			'Submitted by Alexander Lodin <security+psl@yandex-team.ru>',
 		],
 	],
