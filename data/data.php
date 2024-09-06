@@ -48,7 +48,7 @@ return [
 		'suffix' => 'ad',
 		'type' => 'ICANN',
 		'comments' => [
-			'ad : https://en.wikipedia.org/wiki/.ad',
+			'ad : https://www.iana.org/domains/root/db/ad.html',
 		],
 	],
 	'nom.ad' => [
@@ -839,7 +839,7 @@ return [
 		'suffix' => 'ao',
 		'type' => 'ICANN',
 		'comments' => [
-			'ao : https://en.wikipedia.org/wiki/.ao',
+			'ao : https://www.iana.org/domains/root/db/ao.html',
 			'http://www.dns.ao/REGISTR.DOC',
 		],
 	],
@@ -883,7 +883,7 @@ return [
 		'suffix' => 'aq',
 		'type' => 'ICANN',
 		'comments' => [
-			'aq : https://en.wikipedia.org/wiki/.aq',
+			'aq : https://www.iana.org/domains/root/db/aq.html',
 		],
 	],
 	'ar' => [
@@ -981,7 +981,7 @@ return [
 		'suffix' => 'arpa',
 		'type' => 'ICANN',
 		'comments' => [
-			'arpa : https://en.wikipedia.org/wiki/.arpa',
+			'arpa : https://www.iana.org/domains/root/db/arpa.html',
 			'Confirmed by registry <iana-questions@icann.org> 2008-06-18',
 		],
 	],
@@ -1025,7 +1025,7 @@ return [
 		'suffix' => 'as',
 		'type' => 'ICANN',
 		'comments' => [
-			'as : https://en.wikipedia.org/wiki/.as',
+			'as : https://www.iana.org/domains/root/db/as.html',
 		],
 	],
 	'gov.as' => [
@@ -1038,14 +1038,14 @@ return [
 		'suffix' => 'asia',
 		'type' => 'ICANN',
 		'comments' => [
-			'asia : https://en.wikipedia.org/wiki/.asia',
+			'asia : https://www.iana.org/domains/root/db/asia.html',
 		],
 	],
 	'at' => [
 		'suffix' => 'at',
 		'type' => 'ICANN',
 		'comments' => [
-			'at : https://en.wikipedia.org/wiki/.at',
+			'at : https://www.iana.org/domains/root/db/at.html',
 			'Confirmed by registry <it@nic.at> 2008-06-17',
 		],
 	],
@@ -1083,7 +1083,7 @@ return [
 		'suffix' => 'au',
 		'type' => 'ICANN',
 		'comments' => [
-			'au : https://en.wikipedia.org/wiki/.au',
+			'au : https://www.iana.org/domains/root/db/au.html',
 			'http://www.auda.org.au/',
 		],
 	],
@@ -1299,7 +1299,7 @@ return [
 		'suffix' => 'aw',
 		'type' => 'ICANN',
 		'comments' => [
-			'aw : https://en.wikipedia.org/wiki/.aw',
+			'aw : https://www.iana.org/domains/root/db/aw.html',
 		],
 	],
 	'com.aw' => [
@@ -1312,14 +1312,14 @@ return [
 		'suffix' => 'ax',
 		'type' => 'ICANN',
 		'comments' => [
-			'ax : https://en.wikipedia.org/wiki/.ax',
+			'ax : https://www.iana.org/domains/root/db/ax.html',
 		],
 	],
 	'az' => [
 		'suffix' => 'az',
 		'type' => 'ICANN',
 		'comments' => [
-			'az : https://en.wikipedia.org/wiki/.az',
+			'az : https://www.iana.org/domains/root/db/az.html',
 		],
 	],
 	'com.az' => [
@@ -1441,7 +1441,7 @@ return [
 		'suffix' => 'bb',
 		'type' => 'ICANN',
 		'comments' => [
-			'bb : https://en.wikipedia.org/wiki/.bb',
+			'bb : https://www.iana.org/domains/root/db/bb.html',
 		],
 	],
 	'biz.bb' => [
@@ -1508,14 +1508,14 @@ return [
 		'suffix' => '*.bd',
 		'type' => 'ICANN',
 		'comments' => [
-			'bd : https://en.wikipedia.org/wiki/.bd',
+			'bd : https://www.iana.org/domains/root/db/bd.html',
 		],
 	],
 	'be' => [
 		'suffix' => 'be',
 		'type' => 'ICANN',
 		'comments' => [
-			'be : https://en.wikipedia.org/wiki/.be',
+			'be : https://www.iana.org/domains/root/db/be.html',
 			'Confirmed by registry <tech@dns.be> 2008-06-08',
 		],
 	],
@@ -1529,7 +1529,7 @@ return [
 		'suffix' => 'bf',
 		'type' => 'ICANN',
 		'comments' => [
-			'bf : https://en.wikipedia.org/wiki/.bf',
+			'bf : https://www.iana.org/domains/root/db/bf.html',
 		],
 	],
 	'gov.bf' => [
@@ -1542,7 +1542,7 @@ return [
 		'suffix' => 'bg',
 		'type' => 'ICANN',
 		'comments' => [
-			'bg : https://en.wikipedia.org/wiki/.bg',
+			'bg : https://www.iana.org/domains/root/db/bg.html',
 			'https://www.register.bg/user/static/rules/en/index.html',
 		],
 	],
@@ -1766,7 +1766,7 @@ return [
 		'suffix' => 'bh',
 		'type' => 'ICANN',
 		'comments' => [
-			'bh : https://en.wikipedia.org/wiki/.bh',
+			'bh : https://www.iana.org/domains/root/db/bh.html',
 		],
 	],
 	'com.bh' => [
@@ -1803,7 +1803,7 @@ return [
 		'suffix' => 'bi',
 		'type' => 'ICANN',
 		'comments' => [
-			'bi : https://en.wikipedia.org/wiki/.bi',
+			'bi : https://www.iana.org/domains/root/db/bi.html',
 			'http://whois.nic.bi/',
 		],
 	],
@@ -1841,7 +1841,7 @@ return [
 		'suffix' => 'biz',
 		'type' => 'ICANN',
 		'comments' => [
-			'biz : https://en.wikipedia.org/wiki/.biz',
+			'biz : https://www.iana.org/domains/root/db/biz.html',
 		],
 	],
 	'bj' => [
@@ -3358,7 +3358,7 @@ return [
 		'suffix' => 'bt',
 		'type' => 'ICANN',
 		'comments' => [
-			'bt : https://en.wikipedia.org/wiki/.bt',
+			'bt : https://www.iana.org/domains/root/db/bt.html',
 		],
 	],
 	'com.bt' => [
@@ -3403,7 +3403,7 @@ return [
 		'suffix' => 'bw',
 		'type' => 'ICANN',
 		'comments' => [
-			'bw : https://en.wikipedia.org/wiki/.bw',
+			'bw : https://www.iana.org/domains/root/db/bw.html',
 			'http://www.gobin.info/domainname/bw.doc',
 			'list of other 2nd level tlds ?',
 		],
@@ -3424,7 +3424,7 @@ return [
 		'suffix' => 'by',
 		'type' => 'ICANN',
 		'comments' => [
-			'by : https://en.wikipedia.org/wiki/.by',
+			'by : https://www.iana.org/domains/root/db/by.html',
 			'http://tld.by/rules_2006_en.html',
 			'list of other 2nd level tlds ?',
 		],
@@ -3461,7 +3461,7 @@ return [
 		'suffix' => 'bz',
 		'type' => 'ICANN',
 		'comments' => [
-			'bz : https://en.wikipedia.org/wiki/.bz',
+			'bz : https://www.iana.org/domains/root/db/bz.html',
 			'http://www.belizenic.bz/',
 		],
 	],
@@ -3499,7 +3499,7 @@ return [
 		'suffix' => 'ca',
 		'type' => 'ICANN',
 		'comments' => [
-			'ca : https://en.wikipedia.org/wiki/.ca',
+			'ca : https://www.iana.org/domains/root/db/ca.html',
 		],
 	],
 	'ab.ca' => [
@@ -3599,21 +3599,21 @@ return [
 		'suffix' => 'cat',
 		'type' => 'ICANN',
 		'comments' => [
-			'cat : https://en.wikipedia.org/wiki/.cat',
+			'cat : https://www.iana.org/domains/root/db/cat.html',
 		],
 	],
 	'cc' => [
 		'suffix' => 'cc',
 		'type' => 'ICANN',
 		'comments' => [
-			'cc : https://en.wikipedia.org/wiki/.cc',
+			'cc : https://www.iana.org/domains/root/db/cc.html',
 		],
 	],
 	'cd' => [
 		'suffix' => 'cd',
 		'type' => 'ICANN',
 		'comments' => [
-			'cd : https://en.wikipedia.org/wiki/.cd',
+			'cd : https://www.iana.org/domains/root/db/cd.html',
 			'see also: https://www.nic.cd/domain/insertDomain_2.jsp?act=1',
 		],
 	],
@@ -3627,28 +3627,28 @@ return [
 		'suffix' => 'cf',
 		'type' => 'ICANN',
 		'comments' => [
-			'cf : https://en.wikipedia.org/wiki/.cf',
+			'cf : https://www.iana.org/domains/root/db/cf.html',
 		],
 	],
 	'cg' => [
 		'suffix' => 'cg',
 		'type' => 'ICANN',
 		'comments' => [
-			'cg : https://en.wikipedia.org/wiki/.cg',
+			'cg : https://www.iana.org/domains/root/db/cg.html',
 		],
 	],
 	'ch' => [
 		'suffix' => 'ch',
 		'type' => 'ICANN',
 		'comments' => [
-			'ch : https://en.wikipedia.org/wiki/.ch',
+			'ch : https://www.iana.org/domains/root/db/ch.html',
 		],
 	],
 	'ci' => [
 		'suffix' => 'ci',
 		'type' => 'ICANN',
 		'comments' => [
-			'ci : https://en.wikipedia.org/wiki/.ci',
+			'ci : https://www.iana.org/domains/root/db/ci.html',
 			'http://www.nic.ci/index.php?page=charte',
 		],
 	],
@@ -3746,7 +3746,7 @@ return [
 		'suffix' => '*.ck',
 		'type' => 'ICANN',
 		'comments' => [
-			'ck : https://en.wikipedia.org/wiki/.ck',
+			'ck : https://www.iana.org/domains/root/db/ck.html',
 		],
 	],
 	'!www.ck' => [
@@ -3791,7 +3791,7 @@ return [
 		'suffix' => 'cm',
 		'type' => 'ICANN',
 		'comments' => [
-			'cm : https://en.wikipedia.org/wiki/.cm plus bug 981927',
+			'cm : https://www.iana.org/domains/root/db/cm.html plus bug 981927',
 		],
 	],
 	'co.cm' => [
@@ -3822,7 +3822,7 @@ return [
 		'suffix' => 'cn',
 		'type' => 'ICANN',
 		'comments' => [
-			'cn : https://en.wikipedia.org/wiki/.cn',
+			'cn : https://www.iana.org/domains/root/db/cn.html',
 			'Submitted by registry <tanyaling@cnnic.cn>',
 		],
 	],
@@ -4095,7 +4095,7 @@ return [
 		'suffix' => 'co',
 		'type' => 'ICANN',
 		'comments' => [
-			'co : https://en.wikipedia.org/wiki/.co',
+			'co : https://www.iana.org/domains/root/db/co.html',
 			'Submitted by registry <tecnico@uniandes.edu.co>',
 		],
 	],
@@ -4181,14 +4181,14 @@ return [
 		'suffix' => 'com',
 		'type' => 'ICANN',
 		'comments' => [
-			'com : https://en.wikipedia.org/wiki/.com',
+			'com : https://www.iana.org/domains/root/db/com.html',
 		],
 	],
 	'coop' => [
 		'suffix' => 'coop',
 		'type' => 'ICANN',
 		'comments' => [
-			'coop : https://en.wikipedia.org/wiki/.coop',
+			'coop : https://www.iana.org/domains/root/db/coop.html',
 		],
 	],
 	'cr' => [
@@ -4244,7 +4244,7 @@ return [
 		'suffix' => 'cu',
 		'type' => 'ICANN',
 		'comments' => [
-			'cu : https://en.wikipedia.org/wiki/.cu',
+			'cu : https://www.iana.org/domains/root/db/cu.html',
 		],
 	],
 	'com.cu' => [
@@ -4287,7 +4287,7 @@ return [
 		'suffix' => 'cv',
 		'type' => 'ICANN',
 		'comments' => [
-			'cv : https://en.wikipedia.org/wiki/.cv',
+			'cv : https://www.iana.org/domains/root/db/cv.html',
 			'cv : http://www.dns.cv/tldcv_portal/do?com=DS;5446457100;111;+PAGE(4000018)+K-CAT-CODIGO(RDOM)+RCNT(100); <- registration rules',
 		],
 	],
@@ -4357,7 +4357,7 @@ return [
 		'suffix' => 'cx',
 		'type' => 'ICANN',
 		'comments' => [
-			'cx : https://en.wikipedia.org/wiki/.cx',
+			'cx : https://www.iana.org/domains/root/db/cx.html',
 			'list of other 2nd level tlds ?',
 		],
 	],
@@ -4452,14 +4452,14 @@ return [
 		'suffix' => 'cz',
 		'type' => 'ICANN',
 		'comments' => [
-			'cz : https://en.wikipedia.org/wiki/.cz',
+			'cz : https://www.iana.org/domains/root/db/cz.html',
 		],
 	],
 	'de' => [
 		'suffix' => 'de',
 		'type' => 'ICANN',
 		'comments' => [
-			'de : https://en.wikipedia.org/wiki/.de',
+			'de : https://www.iana.org/domains/root/db/de.html',
 			'Confirmed by registry <ops@denic.de> (with technical',
 			'reservations) 2008-07-01',
 		],
@@ -4468,14 +4468,14 @@ return [
 		'suffix' => 'dj',
 		'type' => 'ICANN',
 		'comments' => [
-			'dj : https://en.wikipedia.org/wiki/.dj',
+			'dj : https://www.iana.org/domains/root/db/dj.html',
 		],
 	],
 	'dk' => [
 		'suffix' => 'dk',
 		'type' => 'ICANN',
 		'comments' => [
-			'dk : https://en.wikipedia.org/wiki/.dk',
+			'dk : https://www.iana.org/domains/root/db/dk.html',
 			'Confirmed by registry <robert@dk-hostmaster.dk> 2008-06-17',
 		],
 	],
@@ -4483,7 +4483,7 @@ return [
 		'suffix' => 'dm',
 		'type' => 'ICANN',
 		'comments' => [
-			'dm : https://en.wikipedia.org/wiki/.dm',
+			'dm : https://www.iana.org/domains/root/db/dm.html',
 		],
 	],
 	'com.dm' => [
@@ -4520,7 +4520,7 @@ return [
 		'suffix' => 'do',
 		'type' => 'ICANN',
 		'comments' => [
-			'do : https://en.wikipedia.org/wiki/.do',
+			'do : https://www.iana.org/domains/root/db/do.html',
 		],
 	],
 	'art.do' => [
@@ -4734,7 +4734,7 @@ return [
 		'suffix' => 'edu',
 		'type' => 'ICANN',
 		'comments' => [
-			'edu : https://en.wikipedia.org/wiki/.edu',
+			'edu : https://www.iana.org/domains/root/db/edu.html',
 		],
 	],
 	'ee' => [
@@ -4808,7 +4808,7 @@ return [
 		'suffix' => 'eg',
 		'type' => 'ICANN',
 		'comments' => [
-			'eg : https://en.wikipedia.org/wiki/.eg',
+			'eg : https://www.iana.org/domains/root/db/eg.html',
 		],
 	],
 	'com.eg' => [
@@ -4869,7 +4869,7 @@ return [
 		'suffix' => '*.er',
 		'type' => 'ICANN',
 		'comments' => [
-			'er : https://en.wikipedia.org/wiki/.er',
+			'er : https://www.iana.org/domains/root/db/er.html',
 		],
 	],
 	'es' => [
@@ -4913,7 +4913,7 @@ return [
 		'suffix' => 'et',
 		'type' => 'ICANN',
 		'comments' => [
-			'et : https://en.wikipedia.org/wiki/.et',
+			'et : https://www.iana.org/domains/root/db/et.html',
 		],
 	],
 	'com.et' => [
@@ -4968,7 +4968,7 @@ return [
 		'suffix' => 'eu',
 		'type' => 'ICANN',
 		'comments' => [
-			'eu : https://en.wikipedia.org/wiki/.eu',
+			'eu : https://www.iana.org/domains/root/db/eu.html',
 		],
 	],
 	'fi' => [
@@ -5060,14 +5060,14 @@ return [
 		'suffix' => '*.fk',
 		'type' => 'ICANN',
 		'comments' => [
-			'fk : https://en.wikipedia.org/wiki/.fk',
+			'fk : https://www.iana.org/domains/root/db/fk.html',
 		],
 	],
 	'com.fm' => [
 		'suffix' => 'com.fm',
 		'type' => 'ICANN',
 		'comments' => [
-			'fm : https://en.wikipedia.org/wiki/.fm',
+			'fm : https://www.iana.org/domains/root/db/fm.html',
 		],
 	],
 	'edu.fm' => [
@@ -5098,7 +5098,7 @@ return [
 		'suffix' => 'fo',
 		'type' => 'ICANN',
 		'comments' => [
-			'fo : https://en.wikipedia.org/wiki/.fo',
+			'fo : https://www.iana.org/domains/root/db/fo.html',
 		],
 	],
 	'fr' => [
@@ -5173,7 +5173,7 @@ return [
 		'suffix' => 'ga',
 		'type' => 'ICANN',
 		'comments' => [
-			'ga : https://en.wikipedia.org/wiki/.ga',
+			'ga : https://www.iana.org/domains/root/db/ga.html',
 		],
 	],
 	'gb' => [
@@ -5188,7 +5188,7 @@ return [
 		'suffix' => 'edu.gd',
 		'type' => 'ICANN',
 		'comments' => [
-			'gd : https://en.wikipedia.org/wiki/.gd',
+			'gd : https://www.iana.org/domains/root/db/gd.html',
 		],
 	],
 	'gov.gd' => [
@@ -5256,7 +5256,7 @@ return [
 		'suffix' => 'gf',
 		'type' => 'ICANN',
 		'comments' => [
-			'gf : https://en.wikipedia.org/wiki/.gf',
+			'gf : https://www.iana.org/domains/root/db/gf.html',
 		],
 	],
 	'gg' => [
@@ -5289,7 +5289,7 @@ return [
 		'suffix' => 'gh',
 		'type' => 'ICANN',
 		'comments' => [
-			'gh : https://en.wikipedia.org/wiki/.gh',
+			'gh : https://www.iana.org/domains/root/db/gh.html',
 			'see also: http://www.nic.gh/reg_now.php',
 			'Although domains directly at second level are not possible at the moment,',
 			'they have been possible for some time and may come back.',
@@ -5372,7 +5372,7 @@ return [
 		'suffix' => 'gl',
 		'type' => 'ICANN',
 		'comments' => [
-			'gl : https://en.wikipedia.org/wiki/.gl',
+			'gl : https://www.iana.org/domains/root/db/gl.html',
 			'http://nic.gl',
 		],
 	],
@@ -5461,7 +5461,7 @@ return [
 		'suffix' => 'gov',
 		'type' => 'ICANN',
 		'comments' => [
-			'gov : https://en.wikipedia.org/wiki/.gov',
+			'gov : https://www.iana.org/domains/root/db/gov.html',
 		],
 	],
 	'gp' => [
@@ -5511,7 +5511,7 @@ return [
 		'suffix' => 'gq',
 		'type' => 'ICANN',
 		'comments' => [
-			'gq : https://en.wikipedia.org/wiki/.gq',
+			'gq : https://www.iana.org/domains/root/db/gq.html',
 		],
 	],
 	'gr' => [
@@ -5556,7 +5556,7 @@ return [
 		'suffix' => 'gs',
 		'type' => 'ICANN',
 		'comments' => [
-			'gs : https://en.wikipedia.org/wiki/.gs',
+			'gs : https://www.iana.org/domains/root/db/gs.html',
 		],
 	],
 	'gt' => [
@@ -5669,7 +5669,7 @@ return [
 		'suffix' => 'gw',
 		'type' => 'ICANN',
 		'comments' => [
-			'gw : https://en.wikipedia.org/wiki/.gw',
+			'gw : https://www.iana.org/domains/root/db/gw.html',
 			'gw : https://nic.gw/regras/',
 		],
 	],
@@ -5677,7 +5677,7 @@ return [
 		'suffix' => 'gy',
 		'type' => 'ICANN',
 		'comments' => [
-			'gy : https://en.wikipedia.org/wiki/.gy',
+			'gy : https://www.iana.org/domains/root/db/gy.html',
 			'http://registry.gy/',
 		],
 	],
@@ -5855,7 +5855,7 @@ return [
 		'suffix' => 'hm',
 		'type' => 'ICANN',
 		'comments' => [
-			'hm : https://en.wikipedia.org/wiki/.hm',
+			'hm : https://www.iana.org/domains/root/db/hm.html',
 		],
 	],
 	'hn' => [
@@ -6318,7 +6318,7 @@ return [
 		'suffix' => 'ie',
 		'type' => 'ICANN',
 		'comments' => [
-			'ie : https://en.wikipedia.org/wiki/.ie',
+			'ie : https://www.iana.org/domains/root/db/ie.html',
 		],
 	],
 	'gov.ie' => [
@@ -6485,7 +6485,7 @@ return [
 		'suffix' => 'in',
 		'type' => 'ICANN',
 		'comments' => [
-			'in : https://en.wikipedia.org/wiki/.in',
+			'in : https://www.iana.org/domains/root/db/in.html',
 			'see also: https://registry.in/policies',
 			'Please note, that nic.in is not an official eTLD, but used by most',
 			'government institutions.',
@@ -6741,14 +6741,14 @@ return [
 		'suffix' => 'info',
 		'type' => 'ICANN',
 		'comments' => [
-			'info : https://en.wikipedia.org/wiki/.info',
+			'info : https://www.iana.org/domains/root/db/info.html',
 		],
 	],
 	'int' => [
 		'suffix' => 'int',
 		'type' => 'ICANN',
 		'comments' => [
-			'int : https://en.wikipedia.org/wiki/.int',
+			'int : https://www.iana.org/domains/root/db/int.html',
 			'Confirmed by registry <iana-questions@icann.org> 2008-06-18',
 		],
 	],
@@ -6928,7 +6928,7 @@ return [
 		'suffix' => 'it',
 		'type' => 'ICANN',
 		'comments' => [
-			'it : https://en.wikipedia.org/wiki/.it',
+			'it : https://www.iana.org/domains/root/db/it.html',
 		],
 	],
 	'gov.it' => [
@@ -9463,14 +9463,14 @@ return [
 		'suffix' => 'jobs',
 		'type' => 'ICANN',
 		'comments' => [
-			'jobs : https://en.wikipedia.org/wiki/.jobs',
+			'jobs : https://www.iana.org/domains/root/db/jobs.html',
 		],
 	],
 	'jp' => [
 		'suffix' => 'jp',
 		'type' => 'ICANN',
 		'comments' => [
-			'jp : https://en.wikipedia.org/wiki/.jp',
+			'jp : https://www.iana.org/domains/root/db/jp.html',
 			'http://jprs.co.jp/en/jpdomain.html',
 			'Submitted by registry <info@jprs.jp>',
 		],
@@ -20384,7 +20384,7 @@ return [
 		'suffix' => 'km',
 		'type' => 'ICANN',
 		'comments' => [
-			'km : https://en.wikipedia.org/wiki/.km',
+			'km : https://www.iana.org/domains/root/db/km.html',
 			'http://www.domaine.km/documents/charte.doc',
 		],
 	],
@@ -20447,7 +20447,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'These are only mentioned as proposed suggestions at domaine.km, but',
-			'https://en.wikipedia.org/wiki/.km says they\'re available for registration:',
+			'https://www.iana.org/domains/root/db/km.html says they\'re available for registration:',
 		],
 	],
 	'asso.km' => [
@@ -20496,7 +20496,7 @@ return [
 		'suffix' => 'kn',
 		'type' => 'ICANN',
 		'comments' => [
-			'kn : https://en.wikipedia.org/wiki/.kn',
+			'kn : https://www.iana.org/domains/root/db/kn.html',
 			'http://www.dot.kn/domainRules.html',
 		],
 	],
@@ -20571,7 +20571,7 @@ return [
 		'suffix' => 'kr',
 		'type' => 'ICANN',
 		'comments' => [
-			'kr : https://en.wikipedia.org/wiki/.kr',
+			'kr : https://www.iana.org/domains/root/db/kr.html',
 			'see also: http://domain.nida.or.kr/eng/registration.jsp',
 		],
 	],
@@ -20836,7 +20836,7 @@ return [
 		'suffix' => 'kz',
 		'type' => 'ICANN',
 		'comments' => [
-			'kz : https://en.wikipedia.org/wiki/.kz',
+			'kz : https://www.iana.org/domains/root/db/kz.html',
 			'see also: http://www.nic.kz/rules/index.jsp',
 		],
 	],
@@ -20880,7 +20880,7 @@ return [
 		'suffix' => 'la',
 		'type' => 'ICANN',
 		'comments' => [
-			'la : https://en.wikipedia.org/wiki/.la',
+			'la : https://www.iana.org/domains/root/db/la.html',
 			'Submitted by registry <gavin.brown@nic.la>',
 		],
 	],
@@ -20936,7 +20936,7 @@ return [
 		'suffix' => 'lb',
 		'type' => 'ICANN',
 		'comments' => [
-			'lb : https://en.wikipedia.org/wiki/.lb',
+			'lb : https://www.iana.org/domains/root/db/lb.html',
 			'Submitted by registry <randy@psg.com>',
 		],
 	],
@@ -20974,7 +20974,7 @@ return [
 		'suffix' => 'lc',
 		'type' => 'ICANN',
 		'comments' => [
-			'lc : https://en.wikipedia.org/wiki/.lc',
+			'lc : https://www.iana.org/domains/root/db/lc.html',
 			'see also: http://www.nic.lc/rules.htm',
 		],
 	],
@@ -21018,7 +21018,7 @@ return [
 		'suffix' => 'li',
 		'type' => 'ICANN',
 		'comments' => [
-			'li : https://en.wikipedia.org/wiki/.li',
+			'li : https://www.iana.org/domains/root/db/li.html',
 		],
 	],
 	'lk' => [
@@ -21222,7 +21222,7 @@ return [
 		'suffix' => 'lt',
 		'type' => 'ICANN',
 		'comments' => [
-			'lt : https://en.wikipedia.org/wiki/.lt',
+			'lt : https://www.iana.org/domains/root/db/lt.html',
 		],
 	],
 	'gov.lt' => [
@@ -21365,7 +21365,7 @@ return [
 		'suffix' => 'ma',
 		'type' => 'ICANN',
 		'comments' => [
-			'ma : https://en.wikipedia.org/wiki/.ma',
+			'ma : https://www.iana.org/domains/root/db/ma.html',
 			'http://www.anrt.ma/fr/admin/download/upload/file_fr782.pdf',
 		],
 	],
@@ -21428,14 +21428,14 @@ return [
 		'suffix' => 'md',
 		'type' => 'ICANN',
 		'comments' => [
-			'md : https://en.wikipedia.org/wiki/.md',
+			'md : https://www.iana.org/domains/root/db/md.html',
 		],
 	],
 	'me' => [
 		'suffix' => 'me',
 		'type' => 'ICANN',
 		'comments' => [
-			'me : https://en.wikipedia.org/wiki/.me',
+			'me : https://www.iana.org/domains/root/db/me.html',
 		],
 	],
 	'co.me' => [
@@ -21551,21 +21551,21 @@ return [
 		'suffix' => 'mh',
 		'type' => 'ICANN',
 		'comments' => [
-			'mh : https://en.wikipedia.org/wiki/.mh',
+			'mh : https://www.iana.org/domains/root/db/mh.html',
 		],
 	],
 	'mil' => [
 		'suffix' => 'mil',
 		'type' => 'ICANN',
 		'comments' => [
-			'mil : https://en.wikipedia.org/wiki/.mil',
+			'mil : https://www.iana.org/domains/root/db/mil.html',
 		],
 	],
 	'mk' => [
 		'suffix' => 'mk',
 		'type' => 'ICANN',
 		'comments' => [
-			'mk : https://en.wikipedia.org/wiki/.mk',
+			'mk : https://www.iana.org/domains/root/db/mk.html',
 			'see also: http://dns.marnet.net.mk/postapka.php',
 		],
 	],
@@ -21616,7 +21616,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ml : http://www.gobin.info/domainname/ml-template.doc',
-			'see also: https://en.wikipedia.org/wiki/.ml',
+			'see also: https://www.iana.org/domains/root/db/ml.html',
 		],
 	],
 	'com.ml' => [
@@ -21665,14 +21665,14 @@ return [
 		'suffix' => '*.mm',
 		'type' => 'ICANN',
 		'comments' => [
-			'mm : https://en.wikipedia.org/wiki/.mm',
+			'mm : https://www.iana.org/domains/root/db/mm.html',
 		],
 	],
 	'mn' => [
 		'suffix' => 'mn',
 		'type' => 'ICANN',
 		'comments' => [
-			'mn : https://en.wikipedia.org/wiki/.mn',
+			'mn : https://www.iana.org/domains/root/db/mn.html',
 		],
 	],
 	'gov.mn' => [
@@ -21734,7 +21734,7 @@ return [
 		'suffix' => 'mobi',
 		'type' => 'ICANN',
 		'comments' => [
-			'mobi : https://en.wikipedia.org/wiki/.mobi',
+			'mobi : https://www.iana.org/domains/root/db/mobi.html',
 		],
 	],
 	'mp' => [
@@ -21749,14 +21749,14 @@ return [
 		'suffix' => 'mq',
 		'type' => 'ICANN',
 		'comments' => [
-			'mq : https://en.wikipedia.org/wiki/.mq',
+			'mq : https://www.iana.org/domains/root/db/mq.html',
 		],
 	],
 	'mr' => [
 		'suffix' => 'mr',
 		'type' => 'ICANN',
 		'comments' => [
-			'mr : https://en.wikipedia.org/wiki/.mr',
+			'mr : https://www.iana.org/domains/root/db/mr.html',
 		],
 	],
 	'gov.mr' => [
@@ -21838,7 +21838,7 @@ return [
 		'suffix' => 'mu',
 		'type' => 'ICANN',
 		'comments' => [
-			'mu : https://en.wikipedia.org/wiki/.mu',
+			'mu : https://www.iana.org/domains/root/db/mu.html',
 		],
 	],
 	'com.mu' => [
@@ -21894,7 +21894,7 @@ return [
 		'suffix' => 'mv',
 		'type' => 'ICANN',
 		'comments' => [
-			'mv : https://en.wikipedia.org/wiki/.mv',
+			'mv : https://www.iana.org/domains/root/db/mv.html',
 			'"mv" included because, contra Wikipedia, google.mv exists.',
 		],
 	],
@@ -22345,21 +22345,21 @@ return [
 		'suffix' => 'ne',
 		'type' => 'ICANN',
 		'comments' => [
-			'ne : https://en.wikipedia.org/wiki/.ne',
+			'ne : https://www.iana.org/domains/root/db/ne.html',
 		],
 	],
 	'net' => [
 		'suffix' => 'net',
 		'type' => 'ICANN',
 		'comments' => [
-			'net : https://en.wikipedia.org/wiki/.net',
+			'net : https://www.iana.org/domains/root/db/net.html',
 		],
 	],
 	'nf' => [
 		'suffix' => 'nf',
 		'type' => 'ICANN',
 		'comments' => [
-			'nf : https://en.wikipedia.org/wiki/.nf',
+			'nf : https://www.iana.org/domains/root/db/nf.html',
 		],
 	],
 	'com.nf' => [
@@ -22584,7 +22584,7 @@ return [
 		'suffix' => 'nl',
 		'type' => 'ICANN',
 		'comments' => [
-			'nl : https://en.wikipedia.org/wiki/.nl',
+			'nl : https://www.iana.org/domains/root/db/nl.html',
 			'     https://www.sidn.nl/',
 			'     ccTLD for the Netherlands',
 		],
@@ -27186,14 +27186,14 @@ return [
 		'suffix' => 'nu',
 		'type' => 'ICANN',
 		'comments' => [
-			'nu : https://en.wikipedia.org/wiki/.nu',
+			'nu : https://www.iana.org/domains/root/db/nu.html',
 		],
 	],
 	'nz' => [
 		'suffix' => 'nz',
 		'type' => 'ICANN',
 		'comments' => [
-			'nz : https://en.wikipedia.org/wiki/.nz',
+			'nz : https://www.iana.org/domains/root/db/nz.html',
 			'Submitted by registry <jay@nzrs.net.nz>',
 		],
 	],
@@ -27297,7 +27297,7 @@ return [
 		'suffix' => 'om',
 		'type' => 'ICANN',
 		'comments' => [
-			'om : https://en.wikipedia.org/wiki/.om',
+			'om : https://www.iana.org/domains/root/db/om.html',
 		],
 	],
 	'co.om' => [
@@ -27365,7 +27365,7 @@ return [
 		'suffix' => 'org',
 		'type' => 'ICANN',
 		'comments' => [
-			'org : https://en.wikipedia.org/wiki/.org',
+			'org : https://www.iana.org/domains/root/db/org.html',
 		],
 	],
 	'pa' => [
@@ -27521,7 +27521,7 @@ return [
 		'suffix' => '*.pg',
 		'type' => 'ICANN',
 		'comments' => [
-			'pg : https://en.wikipedia.org/wiki/.pg',
+			'pg : https://www.iana.org/domains/root/db/pg.html',
 		],
 	],
 	'ph' => [
@@ -28992,7 +28992,7 @@ return [
 		'suffix' => 'post',
 		'type' => 'ICANN',
 		'comments' => [
-			'post : https://en.wikipedia.org/wiki/.post',
+			'post : https://www.iana.org/domains/root/db/post.html',
 		],
 	],
 	'pr' => [
@@ -29066,7 +29066,7 @@ return [
 		'suffix' => 'est.pr',
 		'type' => 'ICANN',
 		'comments' => [
-			'these aren\'t mentioned on nic.pr, but on https://en.wikipedia.org/wiki/.pr',
+			'these aren\'t mentioned on nic.pr, but on https://www.iana.org/domains/root/db/pr.html',
 		],
 	],
 	'prof.pr' => [
@@ -29158,7 +29158,7 @@ return [
 		'suffix' => 'ps',
 		'type' => 'ICANN',
 		'comments' => [
-			'ps : https://en.wikipedia.org/wiki/.ps',
+			'ps : https://www.iana.org/domains/root/db/ps.html',
 			'http://www.nic.ps/registration/policy.html#reg',
 		],
 	],
@@ -29263,7 +29263,7 @@ return [
 		'suffix' => 'pw',
 		'type' => 'ICANN',
 		'comments' => [
-			'pw : https://en.wikipedia.org/wiki/.pw',
+			'pw : https://www.iana.org/domains/root/db/pw.html',
 		],
 	],
 	'co.pw' => [
@@ -29795,7 +29795,7 @@ return [
 		'suffix' => 'se',
 		'type' => 'ICANN',
 		'comments' => [
-			'se : https://en.wikipedia.org/wiki/.se',
+			'se : https://www.iana.org/domains/root/db/se.html',
 			'Submitted by registry <patrik.wallstrom@iis.se>',
 		],
 	],
@@ -30117,7 +30117,7 @@ return [
 		'suffix' => 'si',
 		'type' => 'ICANN',
 		'comments' => [
-			'si : https://en.wikipedia.org/wiki/.si',
+			'si : https://www.iana.org/domains/root/db/si.html',
 		],
 	],
 	'sj' => [
@@ -30132,7 +30132,7 @@ return [
 		'suffix' => 'sk',
 		'type' => 'ICANN',
 		'comments' => [
-			'sk : https://en.wikipedia.org/wiki/.sk',
+			'sk : https://www.iana.org/domains/root/db/sk.html',
 			'list of 2nd level domains ?',
 		],
 	],
@@ -30178,14 +30178,14 @@ return [
 		'suffix' => 'sm',
 		'type' => 'ICANN',
 		'comments' => [
-			'sm : https://en.wikipedia.org/wiki/.sm',
+			'sm : https://www.iana.org/domains/root/db/sm.html',
 		],
 	],
 	'sn' => [
 		'suffix' => 'sn',
 		'type' => 'ICANN',
 		'comments' => [
-			'sn : https://en.wikipedia.org/wiki/.sn',
+			'sn : https://www.iana.org/domains/root/db/sn.html',
 		],
 	],
 	'art.sn' => [
@@ -30277,7 +30277,7 @@ return [
 		'suffix' => 'sr',
 		'type' => 'ICANN',
 		'comments' => [
-			'sr : https://en.wikipedia.org/wiki/.sr',
+			'sr : https://www.iana.org/domains/root/db/sr.html',
 		],
 	],
 	'ss' => [
@@ -30413,7 +30413,7 @@ return [
 		'suffix' => 'su',
 		'type' => 'ICANN',
 		'comments' => [
-			'su : https://en.wikipedia.org/wiki/.su',
+			'su : https://www.iana.org/domains/root/db/su.html',
 		],
 	],
 	'sv' => [
@@ -30457,7 +30457,7 @@ return [
 		'suffix' => 'sx',
 		'type' => 'ICANN',
 		'comments' => [
-			'sx : https://en.wikipedia.org/wiki/.sx',
+			'sx : https://www.iana.org/domains/root/db/sx.html',
 			'Submitted by registry <jcvignes@openregistry.com>',
 		],
 	],
@@ -30471,7 +30471,7 @@ return [
 		'suffix' => 'sy',
 		'type' => 'ICANN',
 		'comments' => [
-			'sy : https://en.wikipedia.org/wiki/.sy',
+			'sy : https://www.iana.org/domains/root/db/sy.html',
 			'see also: http://www.gobin.info/domainname/sy.doc',
 		],
 	],
@@ -30515,7 +30515,7 @@ return [
 		'suffix' => 'sz',
 		'type' => 'ICANN',
 		'comments' => [
-			'sz : https://en.wikipedia.org/wiki/.sz',
+			'sz : https://www.iana.org/domains/root/db/sz.html',
 			'http://www.sispa.org.sz/',
 		],
 	],
@@ -30541,21 +30541,21 @@ return [
 		'suffix' => 'tc',
 		'type' => 'ICANN',
 		'comments' => [
-			'tc : https://en.wikipedia.org/wiki/.tc',
+			'tc : https://www.iana.org/domains/root/db/tc.html',
 		],
 	],
 	'td' => [
 		'suffix' => 'td',
 		'type' => 'ICANN',
 		'comments' => [
-			'td : https://en.wikipedia.org/wiki/.td',
+			'td : https://www.iana.org/domains/root/db/td.html',
 		],
 	],
 	'tel' => [
 		'suffix' => 'tel',
 		'type' => 'ICANN',
 		'comments' => [
-			'tel: https://en.wikipedia.org/wiki/.tel',
+			'tel: https://www.iana.org/domains/root/db/tel.html',
 			'http://www.telnic.org/',
 		],
 	],
@@ -30570,7 +30570,7 @@ return [
 		'suffix' => 'tg',
 		'type' => 'ICANN',
 		'comments' => [
-			'tg : https://en.wikipedia.org/wiki/.tg',
+			'tg : https://www.iana.org/domains/root/db/tg.html',
 			'http://www.nic.tg/',
 		],
 	],
@@ -30578,7 +30578,7 @@ return [
 		'suffix' => 'th',
 		'type' => 'ICANN',
 		'comments' => [
-			'th : https://en.wikipedia.org/wiki/.th',
+			'th : https://www.iana.org/domains/root/db/th.html',
 			'Submitted by registry <krit@thains.co.th>',
 		],
 	],
@@ -30725,14 +30725,14 @@ return [
 		'suffix' => 'tk',
 		'type' => 'ICANN',
 		'comments' => [
-			'tk : https://en.wikipedia.org/wiki/.tk',
+			'tk : https://www.iana.org/domains/root/db/tk.html',
 		],
 	],
 	'tl' => [
 		'suffix' => 'tl',
 		'type' => 'ICANN',
 		'comments' => [
-			'tl : https://en.wikipedia.org/wiki/.tl',
+			'tl : https://www.iana.org/domains/root/db/tl.html',
 		],
 	],
 	'gov.tl' => [
@@ -30886,7 +30886,7 @@ return [
 		'suffix' => 'to',
 		'type' => 'ICANN',
 		'comments' => [
-			'to : https://en.wikipedia.org/wiki/.to',
+			'to : https://www.iana.org/domains/root/db/to.html',
 			'Submitted by registry <egullich@colo.to>',
 		],
 	],
@@ -31188,7 +31188,7 @@ return [
 		'suffix' => 'tv',
 		'type' => 'ICANN',
 		'comments' => [
-			'tv : https://en.wikipedia.org/wiki/.tv',
+			'tv : https://www.iana.org/domains/root/db/tv.html',
 			'Not listing any 2LDs as reserved since none seem to exist in practice,',
 			'Wikipedia notwithstanding.',
 		],
@@ -31197,7 +31197,7 @@ return [
 		'suffix' => 'tw',
 		'type' => 'ICANN',
 		'comments' => [
-			'tw : https://en.wikipedia.org/wiki/.tw',
+			'tw : https://www.iana.org/domains/root/db/tw.html',
 		],
 	],
 	'edu.tw' => [
@@ -31902,7 +31902,7 @@ return [
 		'suffix' => 'uk',
 		'type' => 'ICANN',
 		'comments' => [
-			'uk : https://en.wikipedia.org/wiki/.uk',
+			'uk : https://www.iana.org/domains/root/db/uk.html',
 			'Submitted by registry <Michael.Daly@nominet.org.uk>',
 		],
 	],
@@ -31976,7 +31976,7 @@ return [
 		'suffix' => 'us',
 		'type' => 'ICANN',
 		'comments' => [
-			'us : https://en.wikipedia.org/wiki/.us',
+			'us : https://www.iana.org/domains/root/db/us.html',
 		],
 	],
 	'dni.us' => [
@@ -33446,14 +33446,14 @@ return [
 		'suffix' => 'va',
 		'type' => 'ICANN',
 		'comments' => [
-			'va : https://en.wikipedia.org/wiki/.va',
+			'va : https://www.iana.org/domains/root/db/va.html',
 		],
 	],
 	'vc' => [
 		'suffix' => 'vc',
 		'type' => 'ICANN',
 		'comments' => [
-			'vc : https://en.wikipedia.org/wiki/.vc',
+			'vc : https://www.iana.org/domains/root/db/vc.html',
 			'Submitted by registry <kshah@ca.afilias.info>',
 		],
 	],
@@ -33625,7 +33625,7 @@ return [
 		'suffix' => 'vg',
 		'type' => 'ICANN',
 		'comments' => [
-			'vg : https://en.wikipedia.org/wiki/.vg',
+			'vg : https://www.iana.org/domains/root/db/vg.html',
 		],
 	],
 	'vi' => [
@@ -34149,7 +34149,7 @@ return [
 		'suffix' => 'vu',
 		'type' => 'ICANN',
 		'comments' => [
-			'vu : https://en.wikipedia.org/wiki/.vu',
+			'vu : https://www.iana.org/domains/root/db/vu.html',
 			'http://www.vunic.vu/',
 		],
 	],
@@ -34188,7 +34188,7 @@ return [
 		'suffix' => 'ws',
 		'type' => 'ICANN',
 		'comments' => [
-			'ws : https://en.wikipedia.org/wiki/.ws',
+			'ws : https://www.iana.org/domains/root/db/ws.html',
 			'http://samoanic.ws/index.dhtml',
 		],
 	],
@@ -49995,33 +49995,6 @@ return [
 			'Submitted by Marvin Wiesner <Marvin@curv-labs.de>',
 		],
 	],
-	'*.customer-oci.com' => [
-		'suffix' => '*.customer-oci.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Customer OCI - Oracle Dyn : https://cloud.oracle.com/home https://dyn.com/dns/',
-			'Submitted by Gregory Drake <support@dyn.com>',
-			'Note: This is intended to also include customer-oci.com due to wildcards implicitly including the current label',
-		],
-	],
-	'*.oci.customer-oci.com' => [
-		'suffix' => '*.oci.customer-oci.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'*.ocp.customer-oci.com' => [
-		'suffix' => '*.ocp.customer-oci.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'*.ocs.customer-oci.com' => [
-		'suffix' => '*.ocs.customer-oci.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'cfolks.pl' => [
 		'suffix' => 'cfolks.pl',
 		'type' => 'PRIVATE',
@@ -53524,14 +53497,6 @@ return [
 			'Submitted by Chris Raynor <chris@firebase.com>',
 		],
 	],
-	'flap.id' => [
-		'suffix' => 'flap.id',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'FLAP : https://www.flap.cloud',
-			'Submitted by Louis Chemineau <louis@chmn.me>',
-		],
-	],
 	'fldrv.com' => [
 		'suffix' => 'fldrv.com',
 		'type' => 'PRIVATE',
@@ -54880,12 +54845,6 @@ return [
 		'comments' => [
 		],
 	],
-	'publishproxy.com' => [
-		'suffix' => 'publishproxy.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'withgoogle.com' => [
 		'suffix' => 'withgoogle.com',
 		'type' => 'PRIVATE',
@@ -55573,6 +55532,12 @@ return [
 		'comments' => [
 		],
 	],
+	'biz.ng' => [
+		'suffix' => 'biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'col.ng' => [
 		'suffix' => 'col.ng',
 		'type' => 'PRIVATE',
@@ -55603,14 +55568,39 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.scot' => [
-		'suffix' => 'edu.scot',
+	'plc.ng' => [
+		'suffix' => 'plc.ng',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'sch.so' => [
-		'suffix' => 'sch.so',
+	'co.biz.ng' => [
+		'suffix' => 'co.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Reserved Third Level Subdomains for BIZ.NG',
+		],
+	],
+	'dl.biz.ng' => [
+		'suffix' => 'dl.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'go.biz.ng' => [
+		'suffix' => 'go.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'lg.biz.ng' => [
+		'suffix' => 'lg.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'on.biz.ng' => [
+		'suffix' => 'on.biz.ng',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56050,20 +56040,20 @@ return [
 			'Submitted by Ali Soizi <info@nic.ir.md>',
 		],
 	],
-	'is-a.dev' => [
-		'suffix' => 'is-a.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'is-a.dev : https://www.is-a.dev',
-			'Submitted by William Harrison <admin@m.is-a.dev>',
-		],
-	],
 	'is-a-good.dev' => [
 		'suffix' => 'is-a-good.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'is-a-good.dev : https://is-a-good.dev',
 			'Submitted by William Harrison <webmaster@is-a-good.dev>',
+		],
+	],
+	'is-a.dev' => [
+		'suffix' => 'is-a.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'is-a.dev : https://www.is-a.dev',
+			'Submitted by William Harrison <admin@m.is-a.dev>',
 		],
 	],
 	'iservschule.de' => [
@@ -57248,20 +57238,6 @@ return [
 			'Submitted by Ilya Zaretskiy <zaretskiy@corp.mail.ru>',
 		],
 	],
-	'mayfirst.info' => [
-		'suffix' => 'mayfirst.info',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'May First - People Link : https://mayfirst.org/',
-			'Submitted by Jamie McClelland <info@mayfirst.org>',
-		],
-	],
-	'mayfirst.org' => [
-		'suffix' => 'mayfirst.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'matlab.cloud' => [
 		'suffix' => 'matlab.cloud',
 		'type' => 'PRIVATE',
@@ -57284,6 +57260,20 @@ return [
 	],
 	'polyspace.com' => [
 		'suffix' => 'polyspace.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mayfirst.info' => [
+		'suffix' => 'mayfirst.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'May First - People Link : https://mayfirst.org/',
+			'Submitted by Jamie McClelland <info@mayfirst.org>',
+		],
+	],
+	'mayfirst.org' => [
+		'suffix' => 'mayfirst.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57904,44 +57894,6 @@ return [
 	],
 	'nimsite.uk' => [
 		'suffix' => 'nimsite.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ar.com' => [
-		'suffix' => 'ar.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'No longer operated by CentralNic, these entries should be adopted and/or removed by current operators',
-			'Submitted by Gavin Brown <gavin.brown@centralnic.com>',
-		],
-	],
-	'hu.com' => [
-		'suffix' => 'hu.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'kr.com' => [
-		'suffix' => 'kr.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'no.com' => [
-		'suffix' => 'no.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'qc.com' => [
-		'suffix' => 'qc.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'uy.com' => [
-		'suffix' => 'uy.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58938,6 +58890,51 @@ return [
 			'Submitted by Yngve Pettersen <yngve@opera.com>',
 		],
 	],
+	'*.customer-oci.com' => [
+		'suffix' => '*.customer-oci.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Oracle Dyn : https://cloud.oracle.com/home https://dyn.com/dns/',
+			'Submitted by Gregory Drake <support@dyn.com>',
+			'Note: This is intended to also include customer-oci.com due to wildcards implicitly including the current label',
+		],
+	],
+	'*.oci.customer-oci.com' => [
+		'suffix' => '*.oci.customer-oci.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ocp.customer-oci.com' => [
+		'suffix' => '*.ocp.customer-oci.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ocs.customer-oci.com' => [
+		'suffix' => '*.ocs.customer-oci.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.oraclecloudapps.com' => [
+		'suffix' => '*.oraclecloudapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.oraclegovcloudapps.com' => [
+		'suffix' => '*.oraclegovcloudapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.oraclegovcloudapps.uk' => [
+		'suffix' => '*.oraclegovcloudapps.uk',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'tech.orange' => [
 		'suffix' => 'tech.orange',
 		'type' => 'PRIVATE',
@@ -59931,6 +59928,14 @@ return [
 		'comments' => [
 			'Russian Academy of Sciences',
 			'Submitted by Tech Support <support@rasnet.ru>',
+		],
+	],
+	'nyat.app' => [
+		'suffix' => 'nyat.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Sakura Frp : https://www.natfrp.com',
+			'Submitted by Bobo Liu <support@natfrp.cloud>',
 		],
 	],
 	'180r.com' => [
