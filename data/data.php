@@ -4259,14 +4259,8 @@ return [
 		'comments' => [
 		],
 	],
-	'org.cu' => [
-		'suffix' => 'org.cu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.cu' => [
-		'suffix' => 'net.cu',
+	'gob.cu' => [
+		'suffix' => 'gob.cu',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4279,6 +4273,24 @@ return [
 	],
 	'inf.cu' => [
 		'suffix' => 'inf.cu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'nat.cu' => [
+		'suffix' => 'nat.cu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.cu' => [
+		'suffix' => 'net.cu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.cu' => [
+		'suffix' => 'org.cu',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -48797,14 +48809,6 @@ return [
 			'Submitted by Lukas Reschke <lukas@authentick.net>',
 		],
 	],
-	'autocode.dev' => [
-		'suffix' => 'autocode.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Autocode : https://autocode.com',
-			'Submitted by Jacob Lee <jacob@autocode.com>',
-		],
-	],
 	'myfritz.link' => [
 		'suffix' => 'myfritz.link',
 		'type' => 'PRIVATE',
@@ -50089,20 +50093,6 @@ return [
 		'comments' => [
 			'dappnode.io : https://dappnode.io/',
 			'Submitted by Abel Boldu / DAppNode Team <community@dappnode.io>',
-		],
-	],
-	'*.dapps.earth' => [
-		'suffix' => '*.dapps.earth',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'dapps.earth : https://dapps.earth/',
-			'Submitted by Daniil Burdakov <icqkill@gmail.com>',
-		],
-	],
-	'*.bzz.dapps.earth' => [
-		'suffix' => '*.bzz.dapps.earth',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'builtwithdark.com' => [
@@ -52620,12 +52610,6 @@ return [
 	],
 	'lv.eu.org' => [
 		'suffix' => 'lv.eu.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mc.eu.org' => [
-		'suffix' => 'mc.eu.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60626,14 +60610,6 @@ return [
 		'comments' => [
 			'Servebolt AS: https://servebolt.com',
 			'Submitted by Daniel Kjeserud <cloudops@servebolt.com>',
-		],
-	],
-	'magnet.page' => [
-		'suffix' => 'magnet.page',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Service Magnet : https://myservicemagnet.com',
-			'Submitted by Dave Sanders <dave@myservicemagnet.com>',
 		],
 	],
 	'biz.ua' => [
