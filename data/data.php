@@ -49857,6 +49857,14 @@ return [
 		'comments' => [
 		],
 	],
+	'ctfcloud.net' => [
+		'suffix' => 'ctfcloud.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Contentful GmbH : https://www.contentful.com',
+			'Submitted by Contentful Developer Experience Team <prd-ecosystem-dx@contentful.com>',
+		],
+	],
 	'convex.site' => [
 		'suffix' => 'convex.site',
 		'type' => 'PRIVATE',
@@ -56092,12 +56100,6 @@ return [
 		'comments' => [
 		],
 	],
-	'mycloud.by' => [
-		'suffix' => 'mycloud.by',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'alp1.ae.flow.ch' => [
 		'suffix' => 'alp1.ae.flow.ch',
 		'type' => 'PRIVATE',
@@ -56224,12 +56226,6 @@ return [
 		'comments' => [
 		],
 	],
-	'amscompute.com' => [
-		'suffix' => 'amscompute.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'dopaas.com' => [
 		'suffix' => 'dopaas.com',
 		'type' => 'PRIVATE',
@@ -56272,12 +56268,6 @@ return [
 		'comments' => [
 		],
 	],
-	'kilatiron.com' => [
-		'suffix' => 'kilatiron.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'paas.massivegrid.com' => [
 		'suffix' => 'paas.massivegrid.com',
 		'type' => 'PRIVATE',
@@ -56286,12 +56276,6 @@ return [
 	],
 	'jed.wafaicloud.com' => [
 		'suffix' => 'jed.wafaicloud.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'lon.wafaicloud.com' => [
-		'suffix' => 'lon.wafaicloud.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56362,32 +56346,14 @@ return [
 		'comments' => [
 		],
 	],
-	'cloud-fr1.unispace.io' => [
-		'suffix' => 'cloud-fr1.unispace.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'jc.neen.it' => [
 		'suffix' => 'jc.neen.it',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'cloud.jelastic.open.tim.it' => [
-		'suffix' => 'cloud.jelastic.open.tim.it',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'jcloud.kz' => [
 		'suffix' => 'jcloud.kz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'upaas.kazteleport.kz' => [
-		'suffix' => 'upaas.kazteleport.kz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56424,12 +56390,6 @@ return [
 	],
 	'jls-sto3.elastx.net' => [
 		'suffix' => 'jls-sto3.elastx.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'faststacks.net' => [
-		'suffix' => 'faststacks.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56488,12 +56448,6 @@ return [
 		'comments' => [
 		],
 	],
-	'jelastic.tsukaeru.net' => [
-		'suffix' => 'jelastic.tsukaeru.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'sdscloud.pl' => [
 		'suffix' => 'sdscloud.pl',
 		'type' => 'PRIVATE',
@@ -56508,12 +56462,6 @@ return [
 	],
 	'mircloud.ru' => [
 		'suffix' => 'mircloud.ru',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'jelastic.regruhosting.ru' => [
-		'suffix' => 'jelastic.regruhosting.ru',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
