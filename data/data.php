@@ -55530,6 +55530,36 @@ return [
 		'comments' => [
 		],
 	],
+	'co.biz.ng' => [
+		'suffix' => 'co.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dl.biz.ng' => [
+		'suffix' => 'dl.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'go.biz.ng' => [
+		'suffix' => 'go.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'lg.biz.ng' => [
+		'suffix' => 'lg.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'on.biz.ng' => [
+		'suffix' => 'on.biz.ng',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'col.ng' => [
 		'suffix' => 'col.ng',
 		'type' => 'PRIVATE',
@@ -55562,37 +55592,6 @@ return [
 	],
 	'plc.ng' => [
 		'suffix' => 'plc.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'co.biz.ng' => [
-		'suffix' => 'co.biz.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Reserved Third Level Subdomains for BIZ.NG',
-		],
-	],
-	'dl.biz.ng' => [
-		'suffix' => 'dl.biz.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'go.biz.ng' => [
-		'suffix' => 'go.biz.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'lg.biz.ng' => [
-		'suffix' => 'lg.biz.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'on.biz.ng' => [
-		'suffix' => 'on.biz.ng',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58438,12 +58437,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ddnslive.com' => [
-		'suffix' => 'ddnslive.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'myiphost.com' => [
 		'suffix' => 'myiphost.com',
 		'type' => 'PRIVATE',
@@ -58530,18 +58523,6 @@ return [
 	],
 	'freeddns.us' => [
 		'suffix' => 'freeddns.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'crafting.xyz' => [
-		'suffix' => 'crafting.xyz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'zapto.xyz' => [
-		'suffix' => 'zapto.xyz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -62078,11 +62059,23 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Vercel, Inc : https://vercel.com/',
-			'Submitted by Connor Davis <security@vercel.com>',
+			'Submitted by Max Leiter <security@vercel.com>',
+		],
+	],
+	'v0.build' => [
+		'suffix' => 'v0.build',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'vercel.dev' => [
 		'suffix' => 'vercel.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'vusercontent.net' => [
+		'suffix' => 'vusercontent.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
