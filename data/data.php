@@ -56015,6 +56015,14 @@ return [
 			'Submitted by Roman Azarenko <roman.azarenko@iopsys.eu>',
 		],
 	],
+	'*.dweb.link' => [
+		'suffix' => '*.dweb.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'IPFS Project : https://ipfs.tech/',
+			'Submitted by Interplanetary Shipyard <domains@ipshipyard.com>',
+		],
+	],
 	'ipifony.net' => [
 		'suffix' => 'ipifony.net',
 		'type' => 'PRIVATE',
@@ -56740,7 +56748,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'libp2p project : https://libp2p.io',
-			'Submitted by Interplanetary Shipyard <psl@ipshipyard.com>',
+			'Submitted by Interplanetary Shipyard <domains@ipshipyard.com>',
 		],
 	],
 	'runcontainers.dev' => [
@@ -59197,14 +59205,6 @@ return [
 		'comments' => [
 			'priv.at : http://www.nic.priv.at/',
 			'Submitted by registry <lendl@nic.at>',
-		],
-	],
-	'*.dweb.link' => [
-		'suffix' => '*.dweb.link',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Protocol Labs : https://protocol.ai/',
-			'Submitted by Michael Burns <noc@protocol.ai>',
 		],
 	],
 	'protonet.io' => [
