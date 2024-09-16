@@ -35162,7 +35162,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-08-25T15:14:38Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-09-13T15:16:52Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39942,6 +39942,14 @@ return [
 		'comments' => [
 			'menu : Dot Menu Registry, LLC',
 			'https://www.iana.org/domains/root/db/menu.html',
+		],
+	],
+	'merck' => [
+		'suffix' => 'merck',
+		'type' => 'ICANN',
+		'comments' => [
+			'merck : Merck Registry Holdings, Inc.',
+			'https://www.iana.org/domains/root/db/merck.html',
 		],
 	],
 	'merckmsd' => [
