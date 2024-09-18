@@ -62294,6 +62294,12 @@ return [
 		'comments' => [
 		],
 	],
+	't.hrsn.dev' => [
+		'suffix' => 't.hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	't.hrsn.net' => [
 		'suffix' => 't.hrsn.net',
 		'type' => 'PRIVATE',
