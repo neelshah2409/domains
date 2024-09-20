@@ -55329,6 +55329,38 @@ return [
 		'comments' => [
 		],
 	],
+	'wdh.app' => [
+		'suffix' => 'wdh.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Harrison Network : https://hrsn.net',
+			'Submitted by William Harrison <psl@hrsn.net>',
+		],
+	],
+	'preview.wdh.app' => [
+		'suffix' => 'preview.wdh.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hrsn.dev' => [
+		'suffix' => 'hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	't.hrsn.dev' => [
+		'suffix' => 't.hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	't.hrsn.net' => [
+		'suffix' => 't.hrsn.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'hashbang.sh' => [
 		'suffix' => 'hashbang.sh',
 		'type' => 'PRIVATE',
@@ -56603,14 +56635,6 @@ return [
 		'suffix' => 'khplay.nl',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'ktistory.com' => [
-		'suffix' => 'ktistory.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Kakao : https://www.kakaocorp.com/',
-			'Submitted by JaeYoong Lee <cec@kakaocorp.com>',
 		],
 	],
 	'kapsi.fi' => [
@@ -62254,38 +62278,6 @@ return [
 	],
 	'wmflabs.org' => [
 		'suffix' => 'wmflabs.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'wdh.app' => [
-		'suffix' => 'wdh.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'William Harrison : https://wdharrison.com',
-			'Submitted by William Harrison <publicsuffix@wdharrison.com>',
-		],
-	],
-	'preview.wdh.app' => [
-		'suffix' => 'preview.wdh.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'hrsn.dev' => [
-		'suffix' => 'hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	't.hrsn.dev' => [
-		'suffix' => 't.hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	't.hrsn.net' => [
-		'suffix' => 't.hrsn.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
