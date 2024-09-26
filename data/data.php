@@ -55643,6 +55643,20 @@ return [
 			'HostyHosting : https://hostyhosting.com',
 		],
 	],
+	'hf.space' => [
+		'suffix' => 'hf.space',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Hugging Face: https://huggingface.co',
+			'Submitted by Eliott Coyac <website@huggingface.co>',
+		],
+	],
+	'static.hf.space' => [
+		'suffix' => 'static.hf.space',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'hypernode.io' => [
 		'suffix' => 'hypernode.io',
 		'type' => 'PRIVATE',
@@ -57346,7 +57360,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'MetaCentrum, CESNET z.s.p.o. : https://www.metacentrum.cz/en/',
-			'Submitted by Zdeněk Šustr <zdenek.sustr@cesnet.cz>',
+			'Submitted by Zdeněk Šustr <zdenek.sustr@cesnet.cz> and Radim Janča <janca@cesnet.cz>',
 		],
 	],
 	'custom.metacentrum.cz' => [
@@ -57359,8 +57373,6 @@ return [
 		'suffix' => 'flt.cloud.muni.cz',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'MetaCentrum, CESNET z.s.p.o. : https://www.metacentrum.cz/en/',
-			'Submitted by Radim Janča <janca@cesnet.cz>',
 		],
 	],
 	'usr.cloud.muni.cz' => [
@@ -58586,7 +58598,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'O3O.Foundation : https://o3o.foundation/',
-			'Submitted by the prvcy.page Registry Team <psl@registry.prvcy.page>',
+			'Submitted by the prvcy.page Registry Team <info@o3o.foundation>',
 		],
 	],
 	'obl.ong' => [
@@ -60633,12 +60645,18 @@ return [
 			'Submitted by Craig McMahon <craig@shopitcommerce.com>',
 		],
 	],
-	'shopware.store' => [
-		'suffix' => 'shopware.store',
+	'shopware.shop' => [
+		'suffix' => 'shopware.shop',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'shopware AG : https://shopware.com',
 			'Submitted by Jens Küper <cloud@shopware.com>',
+		],
+	],
+	'shopware.store' => [
+		'suffix' => 'shopware.store',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'mo-siemens.io' => [
@@ -61765,7 +61783,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'TransIP : https://www.transip.nl',
-			'Submitted by Rory Breuk <rbreuk@transip.nl>',
+			'Submitted by Rory Breuk <rbreuk@transip.nl> and Cedric Dubois <cedric.dubois@team.blue>',
 		],
 	],
 	'*.transurl.eu' => [
@@ -61774,18 +61792,16 @@ return [
 		'comments' => [
 		],
 	],
-	'*.transurl.nl' => [
-		'suffix' => '*.transurl.nl',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'site.transip.me' => [
 		'suffix' => 'site.transip.me',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'TransIP: https://www.transip.nl',
-			'Submitted by Cedric Dubois <cedric.dubois@team.blue>',
+		],
+	],
+	'*.transurl.nl' => [
+		'suffix' => '*.transurl.nl',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'tuxfamily.org' => [
