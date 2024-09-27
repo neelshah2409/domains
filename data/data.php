@@ -35162,7 +35162,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-09-13T15:16:52Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-09-26T15:17:07Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37046,14 +37046,6 @@ return [
 		'comments' => [
 			'cyou : ShortDot SA',
 			'https://www.iana.org/domains/root/db/cyou.html',
-		],
-	],
-	'dabur' => [
-		'suffix' => 'dabur',
-		'type' => 'ICANN',
-		'comments' => [
-			'dabur : Dabur India Limited',
-			'https://www.iana.org/domains/root/db/dabur.html',
 		],
 	],
 	'dad' => [
@@ -49397,14 +49389,6 @@ return [
 		'comments' => [
 		],
 	],
-	'certmgr.org' => [
-		'suffix' => 'certmgr.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'certmgr.org : https://certmgr.org',
-			'Submitted by B. Blechschmidt <hostmaster@certmgr.org>',
-		],
-	],
 	'cx.ua' => [
 		'suffix' => 'cx.ua',
 		'type' => 'PRIVATE',
@@ -50077,20 +50061,6 @@ return [
 	],
 	'store.dk' => [
 		'suffix' => 'store.dk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'daplie.me' => [
-		'suffix' => 'daplie.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Daplie, Inc : https://daplie.com',
-			'Submitted by AJ ONeal <aj@daplie.com>',
-		],
-	],
-	'localhost.daplie.me' => [
-		'suffix' => 'localhost.daplie.me',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57578,14 +57548,6 @@ return [
 			'Submitted by Robert Böttinger <r@minion.systems>',
 		],
 	],
-	'forte.id' => [
-		'suffix' => 'forte.id',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'MobileEducation, LLC : https://joinforte.com',
-			'Submitted by Grayson Martin <grayson.martin@mobileeducation.us>',
-		],
-	],
 	'modx.dev' => [
 		'suffix' => 'modx.dev',
 		'type' => 'PRIVATE',
@@ -59167,14 +59129,6 @@ return [
 		'comments' => [
 			'Pley AB : https://www.pley.com/',
 			'Submitted by Henning Pohl <infra@pley.com>',
-		],
-	],
-	'dyn53.io' => [
-		'suffix' => 'dyn53.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Port53 : https://port53.io/',
-			'Submitted by Maximilian Schieder <maxi@zeug.co>',
 		],
 	],
 	'onporter.run' => [
