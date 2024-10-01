@@ -2404,6 +2404,12 @@ return [
 		'comments' => [
 		],
 	],
+	'bet.br' => [
+		'suffix' => 'bet.br',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'bhz.br' => [
 		'suffix' => 'bhz.br',
 		'type' => 'ICANN',
@@ -2917,6 +2923,12 @@ return [
 	],
 	'leg.br' => [
 		'suffix' => 'leg.br',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'leilao.br' => [
+		'suffix' => 'leilao.br',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -57546,6 +57558,44 @@ return [
 		'comments' => [
 			'minion.systems : http://minion.systems',
 			'Submitted by Robert Böttinger <r@minion.systems>',
+		],
+	],
+	'mydbserver.com' => [
+		'suffix' => 'mydbserver.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Mittwald CM Service GmbH & Co. KG : https://mittwald.de',
+			'Submitted by Marco Rieger <security@mittwald.de>',
+		],
+	],
+	'webspaceconfig.de' => [
+		'suffix' => 'webspaceconfig.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mittwald.info' => [
+		'suffix' => 'mittwald.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mittwaldserver.info' => [
+		'suffix' => 'mittwaldserver.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'typo3server.info' => [
+		'suffix' => 'typo3server.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'project.space' => [
+		'suffix' => 'project.space',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'modx.dev' => [
