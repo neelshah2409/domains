@@ -49773,14 +49773,6 @@ return [
 			'Submitted by Patrick Nielsen <patrick@clovyr.io>',
 		],
 	],
-	'cnpy.gdn' => [
-		'suffix' => 'cnpy.gdn',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'CNPY : https://cnpy.gdn',
-			'Submitted by Angelo Gladding <angelo@lahacker.net>',
-		],
-	],
 	'*.otap.co' => [
 		'suffix' => '*.otap.co',
 		'type' => 'PRIVATE',
