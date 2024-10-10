@@ -44507,7 +44507,7 @@ return [
 			'Subsections of Amazon/subsidiaries will appear until "concludes" tag',
 			'Amazon API Gateway',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 9e37648f-a66c-4655-9ab1-5981f8737197',
+			'Reference: 6a4f5a95-8c7d-4077-a7af-9cf1abec0a53',
 		],
 	],
 	'execute-api.cn-northwest-1.amazonaws.com.cn' => [
@@ -44578,6 +44578,12 @@ return [
 	],
 	'execute-api.ap-southeast-4.amazonaws.com' => [
 		'suffix' => 'execute-api.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'execute-api.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 'execute-api.ap-southeast-5.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45737,7 +45743,7 @@ return [
 		'comments' => [
 			'Amazon S3',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: cd5c8b3a-67b7-4b40-9236-c87ce81a3d10',
+			'Reference: ada5c9df-55e1-4195-a1ce-732d6c81e357',
 		],
 	],
 	's3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn' => [
@@ -46076,6 +46082,12 @@ return [
 		'comments' => [
 		],
 	],
+	's3-website.dualstack.ap-south-2.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.ap-south-2.amazonaws.com' => [
 		'suffix' => 's3.ap-south-2.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -46196,6 +46208,12 @@ return [
 		'comments' => [
 		],
 	],
+	's3-website.dualstack.ap-southeast-3.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-southeast-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.ap-southeast-3.amazonaws.com' => [
 		'suffix' => 's3.ap-southeast-3.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -46232,6 +46250,12 @@ return [
 		'comments' => [
 		],
 	],
+	's3-website.dualstack.ap-southeast-4.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.ap-southeast-4.amazonaws.com' => [
 		'suffix' => 's3.ap-southeast-4.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -46252,6 +46276,54 @@ return [
 	],
 	's3-website.ap-southeast-4.amazonaws.com' => [
 		'suffix' => 's3-website.ap-southeast-4.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.dualstack.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 's3.dualstack.ap-southeast-5.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.dualstack.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.dualstack.ap-southeast-5.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.ap-southeast-5.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 's3.ap-southeast-5.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-accesspoint.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 's3-accesspoint.ap-southeast-5.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-deprecated.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 's3-deprecated.ap-southeast-5.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-object-lambda.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ap-southeast-5.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 's3-website.ap-southeast-5.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -46376,6 +46448,12 @@ return [
 		'comments' => [
 		],
 	],
+	's3-object-lambda.ca-west-1.amazonaws.com' => [
+		'suffix' => 's3-object-lambda.ca-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3-website.ca-west-1.amazonaws.com' => [
 		'suffix' => 's3-website.ca-west-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -46432,6 +46510,12 @@ return [
 	],
 	's3-accesspoint.dualstack.eu-central-2.amazonaws.com' => [
 		'suffix' => 's3-accesspoint.dualstack.eu-central-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.eu-central-2.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.eu-central-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -46546,6 +46630,12 @@ return [
 	],
 	's3-accesspoint.dualstack.eu-south-2.amazonaws.com' => [
 		'suffix' => 's3-accesspoint.dualstack.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.eu-south-2.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.eu-south-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -46712,6 +46802,12 @@ return [
 		'comments' => [
 		],
 	],
+	's3-website.dualstack.il-central-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.il-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.il-central-1.amazonaws.com' => [
 		'suffix' => 's3.il-central-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -46744,6 +46840,12 @@ return [
 	],
 	's3-accesspoint.dualstack.me-central-1.amazonaws.com' => [
 		'suffix' => 's3-accesspoint.dualstack.me-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.me-central-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.me-central-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -47152,6 +47254,12 @@ return [
 	],
 	's3-fips.dualstack.us-east-2.amazonaws.com' => [
 		'suffix' => 's3-fips.dualstack.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.us-east-2.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.us-east-2.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
