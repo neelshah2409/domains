@@ -48851,6 +48851,14 @@ return [
 			'Submitted by Aki Ueno <admin@aquapal.net>',
 		],
 	],
+	'arvanedge.ir' => [
+		'suffix' => 'arvanedge.ir',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ArvanCloud EdgeCompute',
+			'Submitted by ArvanCloud CDN <cdn@arvancloud.ir>',
+		],
+	],
 	'user.aseinet.ne.jp' => [
 		'suffix' => 'user.aseinet.ne.jp',
 		'type' => 'PRIVATE',
@@ -52766,12 +52774,6 @@ return [
 		'comments' => [
 		],
 	],
-	'paris.eu.org' => [
-		'suffix' => 'paris.eu.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'pl.eu.org' => [
 		'suffix' => 'pl.eu.org',
 		'type' => 'PRIVATE',
@@ -52780,12 +52782,6 @@ return [
 	],
 	'pt.eu.org' => [
 		'suffix' => 'pt.eu.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'q-a.eu.org' => [
-		'suffix' => 'q-a.eu.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55127,12 +55123,6 @@ return [
 	],
 	'blogspot.mk' => [
 		'suffix' => 'blogspot.mk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.mr' => [
-		'suffix' => 'blogspot.mr',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
