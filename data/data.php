@@ -55417,26 +55417,8 @@ return [
 			'Submitted by William Harrison <psl@hrsn.net>',
 		],
 	],
-	'preview.wdh.app' => [
-		'suffix' => 'preview.wdh.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'hrsn.dev' => [
 		'suffix' => 'hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	't.hrsn.dev' => [
-		'suffix' => 't.hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	't.hrsn.net' => [
-		'suffix' => 't.hrsn.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
