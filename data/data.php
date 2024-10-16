@@ -22061,12 +22061,6 @@ return [
 		'comments' => [
 		],
 	],
-	'museum.mw' => [
-		'suffix' => 'museum.mw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'net.mw' => [
 		'suffix' => 'net.mw',
 		'type' => 'ICANN',
@@ -22234,89 +22228,10 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'na : http://www.na-nic.com.na/',
-			'http://www.info.na/domain/',
 		],
 	],
-	'info.na' => [
-		'suffix' => 'info.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'pro.na' => [
-		'suffix' => 'pro.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'name.na' => [
-		'suffix' => 'name.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'school.na' => [
-		'suffix' => 'school.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'or.na' => [
-		'suffix' => 'or.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'dr.na' => [
-		'suffix' => 'dr.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'us.na' => [
-		'suffix' => 'us.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mx.na' => [
-		'suffix' => 'mx.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ca.na' => [
-		'suffix' => 'ca.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'in.na' => [
-		'suffix' => 'in.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'cc.na' => [
-		'suffix' => 'cc.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'tv.na' => [
-		'suffix' => 'tv.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ws.na' => [
-		'suffix' => 'ws.na',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mobi.na' => [
-		'suffix' => 'mobi.na',
+	'alt.na' => [
+		'suffix' => 'alt.na',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22329,6 +22244,18 @@ return [
 	],
 	'com.na' => [
 		'suffix' => 'com.na',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.na' => [
+		'suffix' => 'gov.na',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.na' => [
+		'suffix' => 'net.na',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29296,12 +29223,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ne.pw' => [
-		'suffix' => 'ne.pw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'or.pw' => [
 		'suffix' => 'or.pw',
 		'type' => 'ICANN',
@@ -35174,7 +35095,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-09-26T15:17:07Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-15T15:17:29Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -38528,7 +38449,7 @@ return [
 		'suffix' => 'hdfc',
 		'type' => 'ICANN',
 		'comments' => [
-			'hdfc : HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED',
+			'hdfc : HDFC BANK LIMITED',
 			'https://www.iana.org/domains/root/db/hdfc.html',
 		],
 	],
@@ -38536,7 +38457,7 @@ return [
 		'suffix' => 'hdfcbank',
 		'type' => 'ICANN',
 		'comments' => [
-			'hdfcbank : HDFC Bank Limited',
+			'hdfcbank : HDFC BANK LIMITED',
 			'https://www.iana.org/domains/root/db/hdfcbank.html',
 		],
 	],
@@ -48997,26 +48918,6 @@ return [
 			'Submitted by Petros Angelatos <petrosagg@balena.io>',
 		],
 	],
-	'*.banzai.cloud' => [
-		'suffix' => '*.banzai.cloud',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Banzai Cloud',
-			'Submitted by Janos Matyas <info@banzaicloud.com>',
-		],
-	],
-	'app.banzaicloud.io' => [
-		'suffix' => 'app.banzaicloud.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'*.backyards.banzaicloud.io' => [
-		'suffix' => '*.backyards.banzaicloud.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'base.ec' => [
 		'suffix' => 'base.ec',
 		'type' => 'PRIVATE',
@@ -57381,6 +57282,14 @@ return [
 			'Submitted by Michael Olson <molson@medicomhealth.com>',
 		],
 	],
+	'medusajs.app' => [
+		'suffix' => 'medusajs.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MedusaJS, Inc : https://medusajs.com/',
+			'Submitted by Stevche Radevski <engineering@medusajs.com>',
+		],
+	],
 	'miniserver.com' => [
 		'suffix' => 'miniserver.com',
 		'type' => 'PRIVATE',
@@ -61495,18 +61404,12 @@ return [
 			'Submitted by Bjoern Henke <dev-server@taifun-software.de>',
 		],
 	],
-	'beta.tailscale.net' => [
-		'suffix' => 'beta.tailscale.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Tailscale Inc. : https://www.tailscale.com',
-			'Submitted by David Anderson <danderson@tailscale.com>',
-		],
-	],
 	'ts.net' => [
 		'suffix' => 'ts.net',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Tailscale Inc. : https://www.tailscale.com',
+			'Submitted by David Anderson <infra+public-suffix-list@tailscale.com>',
 		],
 	],
 	'*.c.ts.net' => [
@@ -62573,48 +62476,12 @@ return [
 			'Submitted by Stefano Rivera <stefano@yola.com>',
 		],
 	],
-	'ybo.faith' => [
-		'suffix' => 'ybo.faith',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Yombo : https://yombo.net',
-			'Submitted by Mitch Schwenk <mitch@yombo.net>',
-		],
-	],
 	'yombo.me' => [
 		'suffix' => 'yombo.me',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'homelink.one' => [
-		'suffix' => 'homelink.one',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ybo.party' => [
-		'suffix' => 'ybo.party',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ybo.review' => [
-		'suffix' => 'ybo.review',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ybo.science' => [
-		'suffix' => 'ybo.science',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ybo.trade' => [
-		'suffix' => 'ybo.trade',
-		'type' => 'PRIVATE',
-		'comments' => [
+			'Yombo : https://yombo.net',
+			'Submitted by Mitch Schwenk <mitch@yombo.net>',
 		],
 	],
 	'ynh.fr' => [
