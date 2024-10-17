@@ -50176,14 +50176,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ddns5.com' => [
-		'suffix' => 'ddns5.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'DDNS5 : https://ddns5.com',
-			'Submitted by Cameron Elliott <cameron@cameronelliott.com>',
-		],
-	],
 	'ddnss.de' => [
 		'suffix' => 'ddnss.de',
 		'type' => 'PRIVATE',
