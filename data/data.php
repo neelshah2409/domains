@@ -61607,18 +61607,12 @@ return [
 		'comments' => [
 		],
 	],
-	'bloxcms.com' => [
-		'suffix' => 'bloxcms.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'TownNews.com : http://www.townnews.com',
-			'Submitted by Dustin Ward <dward@townnews.com>',
-		],
-	],
 	'townnews-staging.com' => [
 		'suffix' => 'townnews-staging.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'TownNews.com : http://www.townnews.com',
+			'Submitted by Dustin Ward <dward@townnews.com>',
 		],
 	],
 	'12hp.at' => [
