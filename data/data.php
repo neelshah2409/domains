@@ -849,6 +849,18 @@ return [
 		'comments' => [
 		],
 	],
+	'edu.ao' => [
+		'suffix' => 'edu.ao',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.ao' => [
+		'suffix' => 'gov.ao',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'gv.ao' => [
 		'suffix' => 'gv.ao',
 		'type' => 'ICANN',
@@ -857,6 +869,12 @@ return [
 	],
 	'og.ao' => [
 		'suffix' => 'og.ao',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.ao' => [
+		'suffix' => 'org.ao',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30239,6 +30257,12 @@ return [
 		'comments' => [
 		],
 	],
+	'co.ss' => [
+		'suffix' => 'co.ss',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'com.ss' => [
 		'suffix' => 'com.ss',
 		'type' => 'ICANN',
@@ -35095,7 +35119,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-15T15:17:29Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-17T15:16:23Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -40305,7 +40329,7 @@ return [
 		'suffix' => 'norton',
 		'type' => 'ICANN',
 		'comments' => [
-			'norton : NortonLifeLock Inc.',
+			'norton : Gen Digital Inc.',
 			'https://www.iana.org/domains/root/db/norton.html',
 		],
 	],
@@ -56052,8 +56076,8 @@ return [
 		'suffix' => 'is-a.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'is-a.dev : https://www.is-a.dev',
-			'Submitted by William Harrison <admin@m.is-a.dev>',
+			'is-a.dev : https://is-a.dev',
+			'Submitted by William Harrison <psl@is-a.dev>',
 		],
 	],
 	'iservschule.de' => [
