@@ -55324,20 +55324,6 @@ return [
 			'Submitted by Eero Häkkinen <Eero+psl@Häkkinen.fi>',
 		],
 	],
-	'hs.run' => [
-		'suffix' => 'hs.run',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Handshake : https://handshake.org',
-			'Submitted by Mike Damm <md@md.vc>',
-		],
-	],
-	'hs.zone' => [
-		'suffix' => 'hs.zone',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'wdh.app' => [
 		'suffix' => 'wdh.app',
 		'type' => 'PRIVATE',
