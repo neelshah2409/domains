@@ -4295,12 +4295,6 @@ return [
 		'comments' => [
 		],
 	],
-	'gov.cu' => [
-		'suffix' => 'gov.cu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'inf.cu' => [
 		'suffix' => 'inf.cu',
 		'type' => 'ICANN',
