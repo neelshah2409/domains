@@ -3754,18 +3754,6 @@ return [
 		'comments' => [
 		],
 	],
-	'presse.ci' => [
-		'suffix' => 'presse.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'md.ci' => [
-		'suffix' => 'md.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'gouv.ci' => [
 		'suffix' => 'gouv.ci',
 		'type' => 'ICANN',
@@ -6799,11 +6787,52 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'io : http://www.nic.io/rules.htm',
-			'list of other 2nd level tlds ?',
+		],
+	],
+	'co.io' => [
+		'suffix' => 'co.io',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'com.io' => [
 		'suffix' => 'com.io',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.io' => [
+		'suffix' => 'edu.io',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.io' => [
+		'suffix' => 'gov.io',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.io' => [
+		'suffix' => 'mil.io',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.io' => [
+		'suffix' => 'net.io',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'nom.io' => [
+		'suffix' => 'nom.io',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.io' => [
+		'suffix' => 'org.io',
 		'type' => 'ICANN',
 		'comments' => [
 		],
