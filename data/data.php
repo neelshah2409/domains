@@ -30119,7 +30119,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sk : https://www.iana.org/domains/root/db/sk.html',
-			'list of 2nd level domains ?',
 		],
 	],
 	'sl' => [
@@ -55283,6 +55282,14 @@ return [
 		'comments' => [
 			'Government of the Netherlands: https://www.government.nl',
 			'Submitted by <domeinnaam@minaz.nl>',
+		],
+	],
+	'grafana-dev.net' => [
+		'suffix' => 'grafana-dev.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Grafana Labs: https://grafana.com/',
+			'Submitted by Platform Engineering <info@grafana.com>',
 		],
 	],
 	'grayjayleagues.com' => [
