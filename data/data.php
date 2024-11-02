@@ -1009,6 +1009,12 @@ return [
 		'comments' => [
 		],
 	],
+	'home.arpa' => [
+		'suffix' => 'home.arpa',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'in-addr.arpa' => [
 		'suffix' => 'in-addr.arpa',
 		'type' => 'ICANN',
@@ -35141,7 +35147,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-17T15:16:23Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-31T15:17:42Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -41831,7 +41837,7 @@ return [
 		'suffix' => 'sky',
 		'type' => 'ICANN',
 		'comments' => [
-			'sky : Sky International AG',
+			'sky : Sky UK Limited',
 			'https://www.iana.org/domains/root/db/sky.html',
 		],
 	],
@@ -49614,6 +49620,12 @@ return [
 		'comments' => [
 		],
 	],
+	'ip-ddns.com' => [
+		'suffix' => 'ip-ddns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cloudns.cx' => [
 		'suffix' => 'cloudns.cx',
 		'type' => 'PRIVATE',
@@ -49634,6 +49646,12 @@ return [
 	],
 	'cloudns.info' => [
 		'suffix' => 'cloudns.info',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddns-ip.net' => [
+		'suffix' => 'ddns-ip.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -61491,6 +61509,14 @@ return [
 		'suffix' => 'sopot.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'taveusercontent.com' => [
+		'suffix' => 'taveusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tave Creative Corp : https://tave.com/',
+			'Submitted by Adrian Ziemkowski <devops@tave.com>',
 		],
 	],
 	'p.tawk.email' => [
