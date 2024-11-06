@@ -50454,14 +50454,6 @@ return [
 			'Submitted by Norbert Auler <mail@dnshome.de>',
 		],
 	],
-	'bci.dnstrace.pro' => [
-		'suffix' => 'bci.dnstrace.pro',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'dnstrace.pro : https://dnstrace.pro/',
-			'Submitted by Chris Partridge <chris@partridge.tech>',
-		],
-	],
 	'online.th' => [
 		'suffix' => 'online.th',
 		'type' => 'PRIVATE',
@@ -52361,20 +52353,6 @@ return [
 		'comments' => [
 			'EasyWP : https://www.easywp.com',
 			'Submitted by <infracloudteam@namecheap.com>',
-		],
-	],
-	'onred.one' => [
-		'suffix' => 'onred.one',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'ECG Robotics, Inc : https://ecgrobotics.org',
-			'Submitted by <frc1533@ecgrobotics.org>',
-		],
-	],
-	'staging.onred.one' => [
-		'suffix' => 'staging.onred.one',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'twmail.cc' => [
