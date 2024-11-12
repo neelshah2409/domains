@@ -3501,6 +3501,12 @@ return [
 			'http://www.belizenic.bz/',
 		],
 	],
+	'co.bz' => [
+		'suffix' => 'co.bz',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'com.bz' => [
 		'suffix' => 'com.bz',
 		'type' => 'ICANN',
@@ -53944,18 +53950,12 @@ return [
 		'suffix' => 'localcert.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Getlocalcert: https://www.getlocalcert.net',
-			'Submitted by Robert Alexander <support@getlocalcert.net>',
+			'GetLocalCert : https://getlocalcert.net',
+			'Submitted by William Harrison <psl@getlocalcert.net>',
 		],
 	],
 	'localhostcert.net' => [
 		'suffix' => 'localhostcert.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'corpnet.work' => [
-		'suffix' => 'corpnet.work',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -55350,18 +55350,12 @@ return [
 			'Submitted by Eero Häkkinen <Eero+psl@Häkkinen.fi>',
 		],
 	],
-	'wdh.app' => [
-		'suffix' => 'wdh.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Harrison Network : https://hrsn.net',
-			'Submitted by William Harrison <psl@hrsn.net>',
-		],
-	],
 	'hrsn.dev' => [
 		'suffix' => 'hrsn.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Harrison Network : https://hrsn.net',
+			'Submitted by William Harrison <psl@hrsn.net>',
 		],
 	],
 	'hashbang.sh' => [
@@ -62305,6 +62299,14 @@ return [
 		'suffix' => 'wmflabs.org',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'wdh.app' => [
+		'suffix' => 'wdh.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'William Harrison : https://wdh.gg',
+			'Submitted by William Harrison <william@harrison.id.au>',
 		],
 	],
 	'panel.gg' => [
