@@ -55422,7 +55422,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Heilbronn University of Applied Sciences - Faculty Informatics (GitLab Pages): https://www.hs-heilbronn.de',
-			'Submitted by Richard Zowalla <mi-admin@hs-heilbronn.de>',
+			'Submitted by Richard Zowalla <it-admin@hs-heilbronn.de>',
+		],
+	],
+	'pages-research.it.hs-heilbronn.de' => [
+		'suffix' => 'pages-research.it.hs-heilbronn.de',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'heiyu.space' => [
@@ -56906,6 +56912,44 @@ return [
 		'comments' => [
 			'Localcert : https://localcert.dev',
 			'Submitted by Lann Martin <security@localcert.dev>',
+		],
+	],
+	'lodz.pl' => [
+		'suffix' => 'lodz.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Lodz University of Technology LODMAN regional domains https://www.man.lodz.pl/dns',
+			'Submitted by Piotr Wilk <dns@man.lodz.pl>',
+		],
+	],
+	'pabianice.pl' => [
+		'suffix' => 'pabianice.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'plock.pl' => [
+		'suffix' => 'plock.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sieradz.pl' => [
+		'suffix' => 'sieradz.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'skierniewice.pl' => [
+		'suffix' => 'skierniewice.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'zgierz.pl' => [
+		'suffix' => 'zgierz.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'loginline.app' => [
