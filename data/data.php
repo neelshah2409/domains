@@ -49,12 +49,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ad : https://www.iana.org/domains/root/db/ad.html',
-		],
-	],
-	'nom.ad' => [
-		'suffix' => 'nom.ad',
-		'type' => 'ICANN',
-		'comments' => [
+			'Confirmed by Amadeu Abril i Abril (CORE) <amadeu.abril@corenic.org> 2024-11-17',
 		],
 	],
 	'ae' => [
@@ -1109,6 +1104,7 @@ return [
 		'comments' => [
 			'au : https://www.iana.org/domains/root/db/au.html',
 			'http://www.auda.org.au/',
+			'Confirmed by registry <general@auda.org.au> 2024-11-17',
 		],
 	],
 	'com.au' => [
@@ -1154,17 +1150,11 @@ return [
 		'comments' => [
 		],
 	],
-	'info.au' => [
-		'suffix' => 'info.au',
-		'type' => 'ICANN',
-		'comments' => [
-			'Historic 2LDs (closed to new registration, but sites still exist)',
-		],
-	],
 	'conf.au' => [
 		'suffix' => 'conf.au',
 		'type' => 'ICANN',
 		'comments' => [
+			'Historic 2LDs (closed to new registration, but sites still exist)',
 		],
 	],
 	'oz.au' => [
@@ -6962,43 +6952,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'is : http://www.isnic.is/domain/rules.php',
-			'Confirmed by registry <marius@isgate.is> 2008-12-06',
-		],
-	],
-	'net.is' => [
-		'suffix' => 'net.is',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'com.is' => [
-		'suffix' => 'com.is',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'edu.is' => [
-		'suffix' => 'edu.is',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.is' => [
-		'suffix' => 'gov.is',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.is' => [
-		'suffix' => 'org.is',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'int.is' => [
-		'suffix' => 'int.is',
-		'type' => 'ICANN',
-		'comments' => [
+			'Confirmed by registry <marius@isgate.is> 2024-11-17',
 		],
 	],
 	'it' => [
@@ -55471,6 +55425,20 @@ return [
 	],
 	'herokussl.com' => [
 		'suffix' => 'herokussl.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'heyflow.page' => [
+		'suffix' => 'heyflow.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Heyflow : https://www.heyflow.com',
+			'Submitted by Mirko Nitschke <tech@heyflow.com>',
+		],
+	],
+	'heyflow.site' => [
+		'suffix' => 'heyflow.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
