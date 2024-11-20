@@ -1334,34 +1334,17 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'az : https://www.iana.org/domains/root/db/az.html',
+			'https://whois.az/?page_id=10',
+		],
+	],
+	'biz.az' => [
+		'suffix' => 'biz.az',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'com.az' => [
 		'suffix' => 'com.az',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.az' => [
-		'suffix' => 'net.az',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'int.az' => [
-		'suffix' => 'int.az',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.az' => [
-		'suffix' => 'gov.az',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.az' => [
-		'suffix' => 'org.az',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -1372,14 +1355,20 @@ return [
 		'comments' => [
 		],
 	],
+	'gov.az' => [
+		'suffix' => 'gov.az',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'info.az' => [
 		'suffix' => 'info.az',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'pp.az' => [
-		'suffix' => 'pp.az',
+	'int.az' => [
+		'suffix' => 'int.az',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -1396,14 +1385,26 @@ return [
 		'comments' => [
 		],
 	],
-	'pro.az' => [
-		'suffix' => 'pro.az',
+	'net.az' => [
+		'suffix' => 'net.az',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'biz.az' => [
-		'suffix' => 'biz.az',
+	'org.az' => [
+		'suffix' => 'org.az',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pp.az' => [
+		'suffix' => 'pp.az',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pro.az' => [
+		'suffix' => 'pro.az',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4116,13 +4117,9 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'co : https://www.iana.org/domains/root/db/co.html',
-			'Submitted by registry <tecnico@uniandes.edu.co>',
-		],
-	],
-	'arts.co' => [
-		'suffix' => 'arts.co',
-		'type' => 'ICANN',
-		'comments' => [
+			'https://www.cointernet.com.co/registra',
+			'https://www.cointernet.com.co/como-funciona-un-dominio-restringido',
+			'Confirmed by registry <gonzalo@cointernet.com.co> 2024-11-18',
 		],
 	],
 	'com.co' => [
@@ -4137,26 +4134,8 @@ return [
 		'comments' => [
 		],
 	],
-	'firm.co' => [
-		'suffix' => 'firm.co',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'gov.co' => [
 		'suffix' => 'gov.co',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'info.co' => [
-		'suffix' => 'info.co',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'int.co' => [
-		'suffix' => 'int.co',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4181,18 +4160,6 @@ return [
 	],
 	'org.co' => [
 		'suffix' => 'org.co',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'rec.co' => [
-		'suffix' => 'rec.co',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'web.co' => [
-		'suffix' => 'web.co',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -9439,23 +9406,24 @@ return [
 		'suffix' => 'jo',
 		'type' => 'ICANN',
 		'comments' => [
-			'jo : http://www.dns.jo/Registration_policy.aspx',
+			'jo : https://www.dns.jo/JoFamily.aspx',
+			'Confirmed by registry <DNS@modee.gov.jo> 2024-11-17',
+		],
+	],
+	'agri.jo' => [
+		'suffix' => 'agri.jo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ai.jo' => [
+		'suffix' => 'ai.jo',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'com.jo' => [
 		'suffix' => 'com.jo',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.jo' => [
-		'suffix' => 'org.jo',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.jo' => [
-		'suffix' => 'net.jo',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -9466,8 +9434,14 @@ return [
 		'comments' => [
 		],
 	],
-	'sch.jo' => [
-		'suffix' => 'sch.jo',
+	'eng.jo' => [
+		'suffix' => 'eng.jo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'fm.jo' => [
+		'suffix' => 'fm.jo',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -9484,8 +9458,38 @@ return [
 		'comments' => [
 		],
 	],
-	'name.jo' => [
-		'suffix' => 'name.jo',
+	'net.jo' => [
+		'suffix' => 'net.jo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.jo' => [
+		'suffix' => 'org.jo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'per.jo' => [
+		'suffix' => 'per.jo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'phd.jo' => [
+		'suffix' => 'phd.jo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sch.jo' => [
+		'suffix' => 'sch.jo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tv.jo' => [
+		'suffix' => 'tv.jo',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27647,8 +27651,8 @@ return [
 		'suffix' => 'pl',
 		'type' => 'ICANN',
 		'comments' => [
-			'pl http://www.dns.pl/english/index.html',
-			'Submitted by registry',
+			'pl : https://www.dns.pl/en/',
+			'Confirmed by registry <info@dns.pl> 2024-11-18',
 		],
 	],
 	'com.pl' => [
@@ -27669,15 +27673,15 @@ return [
 		'comments' => [
 		],
 	],
-	'aid.pl' => [
-		'suffix' => 'aid.pl',
-		'type' => 'ICANN',
-		'comments' => [
-			'pl functional domains (http://www.dns.pl/english/index.html)',
-		],
-	],
 	'agro.pl' => [
 		'suffix' => 'agro.pl',
+		'type' => 'ICANN',
+		'comments' => [
+			'pl functional domains : https://www.dns.pl/en/list_of_functional_domain_names',
+		],
+	],
+	'aid.pl' => [
+		'suffix' => 'aid.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27730,14 +27734,14 @@ return [
 		'comments' => [
 		],
 	],
-	'miasta.pl' => [
-		'suffix' => 'miasta.pl',
+	'media.pl' => [
+		'suffix' => 'media.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'media.pl' => [
-		'suffix' => 'media.pl',
+	'miasta.pl' => [
+		'suffix' => 'miasta.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27854,7 +27858,8 @@ return [
 		'suffix' => 'gov.pl',
 		'type' => 'ICANN',
 		'comments' => [
-			'Government domains',
+			'Government domains : https://www.dns.pl/informacje_o_rejestracji_domen_gov_pl',
+			'In accordance with the .gov.pl Domain Name Regulations : https://www.dns.pl/regulamin_gov_pl',
 		],
 	],
 	'ap.gov.pl' => [
@@ -28191,7 +28196,7 @@ return [
 		'suffix' => 'augustow.pl',
 		'type' => 'ICANN',
 		'comments' => [
-			'pl regional domains (http://www.dns.pl/english/index.html)',
+			'pl regional domains : https://www.dns.pl/en/list_of_regional_domain_names',
 		],
 	],
 	'babia-gora.pl' => [
@@ -28344,12 +28349,6 @@ return [
 		'comments' => [
 		],
 	],
-	'kazimierz-dolny.pl' => [
-		'suffix' => 'kazimierz-dolny.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'karpacz.pl' => [
 		'suffix' => 'karpacz.pl',
 		'type' => 'ICANN',
@@ -28370,6 +28369,12 @@ return [
 	],
 	'katowice.pl' => [
 		'suffix' => 'katowice.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kazimierz-dolny.pl' => [
+		'suffix' => 'kazimierz-dolny.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -28626,14 +28631,14 @@ return [
 		'comments' => [
 		],
 	],
-	'pomorze.pl' => [
-		'suffix' => 'pomorze.pl',
+	'pomorskie.pl' => [
+		'suffix' => 'pomorskie.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'pomorskie.pl' => [
-		'suffix' => 'pomorskie.pl',
+	'pomorze.pl' => [
+		'suffix' => 'pomorze.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -28698,6 +28703,12 @@ return [
 		'comments' => [
 		],
 	],
+	'skoczow.pl' => [
+		'suffix' => 'skoczow.pl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'slask.pl' => [
 		'suffix' => 'slask.pl',
 		'type' => 'ICANN',
@@ -28718,12 +28729,6 @@ return [
 	],
 	'stalowa-wola.pl' => [
 		'suffix' => 'stalowa-wola.pl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'skoczow.pl' => [
-		'suffix' => 'skoczow.pl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29364,22 +29369,18 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			're : https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf',
+			'Confirmed by registry <support@afnic.fr> 2024-11-18',
 		],
 	],
 	'asso.re' => [
 		'suffix' => 'asso.re',
 		'type' => 'ICANN',
 		'comments' => [
+			'Closed for registration on 2013-03-15 but domains are still maintained',
 		],
 	],
 	'com.re' => [
 		'suffix' => 'com.re',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'nom.re' => [
-		'suffix' => 'nom.re',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29989,7 +29990,8 @@ return [
 		'suffix' => 'sg',
 		'type' => 'ICANN',
 		'comments' => [
-			'sg : http://www.nic.net.sg/page/registration-policies-procedures-and-guidelines',
+			'sg : https://www.sgnic.sg/domain-registration/sg-categories-rules',
+			'Confirmed by registry <dnq@sgnic.sg> 2024-11-19',
 		],
 	],
 	'com.sg' => [
@@ -30018,12 +30020,6 @@ return [
 	],
 	'edu.sg' => [
 		'suffix' => 'edu.sg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'per.sg' => [
-		'suffix' => 'per.sg',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30702,13 +30698,8 @@ return [
 		'suffix' => 'tm',
 		'type' => 'ICANN',
 		'comments' => [
-			'tm : http://www.nic.tm/local.html',
-		],
-	],
-	'com.tm' => [
-		'suffix' => 'com.tm',
-		'type' => 'ICANN',
-		'comments' => [
+			'tm : https://www.nic.tm/local.html',
+			'Confirmed by registry <admin@nic.TM> - 2024-11-19',
 		],
 	],
 	'co.tm' => [
@@ -30717,20 +30708,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.tm' => [
-		'suffix' => 'org.tm',
+	'com.tm' => [
+		'suffix' => 'com.tm',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'net.tm' => [
-		'suffix' => 'net.tm',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'nom.tm' => [
-		'suffix' => 'nom.tm',
+	'edu.tm' => [
+		'suffix' => 'edu.tm',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30747,8 +30732,20 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.tm' => [
-		'suffix' => 'edu.tm',
+	'net.tm' => [
+		'suffix' => 'net.tm',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'nom.tm' => [
+		'suffix' => 'nom.tm',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.tm' => [
+		'suffix' => 'org.tm',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31036,7 +31033,14 @@ return [
 		'suffix' => 'tt',
 		'type' => 'ICANN',
 		'comments' => [
-			'tt : http://www.nic.tt/',
+			'tt : https://www.nic.tt/',
+			'Confirmed by registry <admin@nic.tt> - 2024-11-19',
+		],
+	],
+	'biz.tt' => [
+		'suffix' => 'biz.tt',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'co.tt' => [
@@ -31051,80 +31055,8 @@ return [
 		'comments' => [
 		],
 	],
-	'org.tt' => [
-		'suffix' => 'org.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.tt' => [
-		'suffix' => 'net.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'biz.tt' => [
-		'suffix' => 'biz.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'info.tt' => [
-		'suffix' => 'info.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'pro.tt' => [
-		'suffix' => 'pro.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'int.tt' => [
-		'suffix' => 'int.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'coop.tt' => [
-		'suffix' => 'coop.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'jobs.tt' => [
-		'suffix' => 'jobs.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mobi.tt' => [
-		'suffix' => 'mobi.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'travel.tt' => [
-		'suffix' => 'travel.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'museum.tt' => [
-		'suffix' => 'museum.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'aero.tt' => [
-		'suffix' => 'aero.tt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'name.tt' => [
-		'suffix' => 'name.tt',
+	'edu.tt' => [
+		'suffix' => 'edu.tt',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31135,8 +31067,38 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.tt' => [
-		'suffix' => 'edu.tt',
+	'info.tt' => [
+		'suffix' => 'info.tt',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.tt' => [
+		'suffix' => 'mil.tt',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'name.tt' => [
+		'suffix' => 'name.tt',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.tt' => [
+		'suffix' => 'net.tt',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.tt' => [
+		'suffix' => 'org.tt',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pro.tt' => [
+		'suffix' => 'pro.tt',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -49014,14 +48976,6 @@ return [
 		'comments' => [
 			'Besties : https://besties.house',
 			'Submitted by Hazel Cora <hazy@besties.house>',
-		],
-	],
-	'betainabox.com' => [
-		'suffix' => 'betainabox.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'BetaInABox',
-			'Submitted by Adrian <adrian@betainabox.com>',
 		],
 	],
 	'bnr.la' => [
