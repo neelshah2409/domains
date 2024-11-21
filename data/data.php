@@ -649,13 +649,7 @@ return [
 		'suffix' => 'af',
 		'type' => 'ICANN',
 		'comments' => [
-			'af : http://www.nic.af/help.jsp',
-		],
-	],
-	'gov.af' => [
-		'suffix' => 'gov.af',
-		'type' => 'ICANN',
-		'comments' => [
+			'af : https://www.nic.af/domain-price',
 		],
 	],
 	'com.af' => [
@@ -664,8 +658,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.af' => [
-		'suffix' => 'org.af',
+	'edu.af' => [
+		'suffix' => 'edu.af',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.af' => [
+		'suffix' => 'gov.af',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -676,8 +676,8 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.af' => [
-		'suffix' => 'edu.af',
+	'org.af' => [
+		'suffix' => 'org.af',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -2065,7 +2065,8 @@ return [
 		'suffix' => 'bo',
 		'type' => 'ICANN',
 		'comments' => [
-			'bo : https://nic.bo/delegacion2015.php#h-1.10',
+			'bo : https://nic.bo',
+			'Confirmed by registry <soporte@nic.bo> 2024-11-19',
 		],
 	],
 	'com.bo' => [
@@ -2092,8 +2093,8 @@ return [
 		'comments' => [
 		],
 	],
-	'org.bo' => [
-		'suffix' => 'org.bo',
+	'mil.bo' => [
+		'suffix' => 'mil.bo',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -2104,8 +2105,8 @@ return [
 		'comments' => [
 		],
 	],
-	'mil.bo' => [
-		'suffix' => 'mil.bo',
+	'org.bo' => [
+		'suffix' => 'org.bo',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -2255,6 +2256,12 @@ return [
 		'comments' => [
 		],
 	],
+	'plurinacional.bo' => [
+		'suffix' => 'plurinacional.bo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'politica.bo' => [
 		'suffix' => 'politica.bo',
 		'type' => 'ICANN',
@@ -2263,12 +2270,6 @@ return [
 	],
 	'profesional.bo' => [
 		'suffix' => 'profesional.bo',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'plurinacional.bo' => [
-		'suffix' => 'plurinacional.bo',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4318,8 +4319,8 @@ return [
 		'suffix' => 'cw',
 		'type' => 'ICANN',
 		'comments' => [
-			'cw : http://www.una.cw/cw_registry/',
-			'Confirmed by registry <registry@una.net> 2013-03-26',
+			'cw : https://www.uoc.cw/cw-registry',
+			'Confirmed by registry <registry@uoc.cw> 2024-11-19',
 		],
 	],
 	'com.cw' => [
@@ -4477,22 +4478,18 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'dm : https://www.iana.org/domains/root/db/dm.html',
+			'https://nic.dm/policies/pdf/DMRulesandGuidelines2024v1.pdf',
+			'Confirmed by registry <admin@dotdm.dm> 2024-11-19',
+		],
+	],
+	'co.dm' => [
+		'suffix' => 'co.dm',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'com.dm' => [
 		'suffix' => 'com.dm',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.dm' => [
-		'suffix' => 'net.dm',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.dm' => [
-		'suffix' => 'org.dm',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4505,6 +4502,18 @@ return [
 	],
 	'gov.dm' => [
 		'suffix' => 'gov.dm',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.dm' => [
+		'suffix' => 'net.dm',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.dm' => [
+		'suffix' => 'org.dm',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21525,47 +21534,11 @@ return [
 		'suffix' => 'mg',
 		'type' => 'ICANN',
 		'comments' => [
-			'mg : http://nic.mg/nicmg/?page_id=39',
+			'mg : https://nic.mg',
 		],
 	],
-	'org.mg' => [
-		'suffix' => 'org.mg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'nom.mg' => [
-		'suffix' => 'nom.mg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.mg' => [
-		'suffix' => 'gov.mg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'prd.mg' => [
-		'suffix' => 'prd.mg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'tm.mg' => [
-		'suffix' => 'tm.mg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'edu.mg' => [
-		'suffix' => 'edu.mg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mil.mg' => [
-		'suffix' => 'mil.mg',
+	'co.mg' => [
+		'suffix' => 'co.mg',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21576,8 +21549,38 @@ return [
 		'comments' => [
 		],
 	],
-	'co.mg' => [
-		'suffix' => 'co.mg',
+	'edu.mg' => [
+		'suffix' => 'edu.mg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.mg' => [
+		'suffix' => 'gov.mg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.mg' => [
+		'suffix' => 'mil.mg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'nom.mg' => [
+		'suffix' => 'nom.mg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.mg' => [
+		'suffix' => 'org.mg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'prd.mg' => [
+		'suffix' => 'prd.mg',
 		'type' => 'ICANN',
 		'comments' => [
 		],
