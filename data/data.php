@@ -5209,7 +5209,8 @@ return [
 		'suffix' => 'ge',
 		'type' => 'ICANN',
 		'comments' => [
-			'ge : http://www.nic.net.ge/policy_en.pdf',
+			'ge : https://nic.ge/en/administrator/the-ge-domain-regulations',
+			'Confirmed by registry <info@nic.ge> 2024-11-20',
 		],
 	],
 	'com.ge' => [
@@ -5230,26 +5231,26 @@ return [
 		'comments' => [
 		],
 	],
-	'org.ge' => [
-		'suffix' => 'org.ge',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mil.ge' => [
-		'suffix' => 'mil.ge',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'net.ge' => [
 		'suffix' => 'net.ge',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
+	'org.ge' => [
+		'suffix' => 'org.ge',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'pvt.ge' => [
 		'suffix' => 'pvt.ge',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'school.ge' => [
+		'suffix' => 'school.ge',
 		'type' => 'ICANN',
 		'comments' => [
 		],
