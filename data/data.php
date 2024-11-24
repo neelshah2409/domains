@@ -61027,8 +61027,8 @@ return [
 		'suffix' => 'runs.onstackit.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'STACKIT : https://www.stackit.de/en/',
-			'Submitted by STACKIT-DNS Team (Simon Stier) <stackit-dns@mail.schwarz>',
+			'STACKIT GmbH & Co. KG : https://www.stackit.de/en/',
+			'Submitted by STACKIT-DNS Team (Simon Stier) <dns@stackit.cloud>',
 		],
 	],
 	'stackit.gg' => [
