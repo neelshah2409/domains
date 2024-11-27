@@ -4282,7 +4282,8 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cv : https://www.iana.org/domains/root/db/cv.html',
-			'cv : http://www.dns.cv/tldcv_portal/do?com=DS;5446457100;111;+PAGE(4000018)+K-CAT-CODIGO(RDOM)+RCNT(100); <- registration rules',
+			'https://ola.cv/domain-extensions-under-cv/',
+			'Confirmed by registry <support@ola.cv> 2024-11-26',
 		],
 	],
 	'com.cv' => [
@@ -4297,8 +4298,20 @@ return [
 		'comments' => [
 		],
 	],
+	'id.cv' => [
+		'suffix' => 'id.cv',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'int.cv' => [
 		'suffix' => 'int.cv',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.cv' => [
+		'suffix' => 'net.cv',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4311,6 +4324,12 @@ return [
 	],
 	'org.cv' => [
 		'suffix' => 'org.cv',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'publ.cv' => [
+		'suffix' => 'publ.cv',
 		'type' => 'ICANN',
 		'comments' => [
 		],
