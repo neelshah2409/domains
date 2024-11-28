@@ -4830,6 +4830,13 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'eg : https://www.iana.org/domains/root/db/eg.html',
+			'https://domain.eg/en/domain-rules/subdomain-names-types/',
+		],
+	],
+	'ac.eg' => [
+		'suffix' => 'ac.eg',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'com.eg' => [
@@ -4852,6 +4859,18 @@ return [
 	],
 	'gov.eg' => [
 		'suffix' => 'gov.eg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'info.eg' => [
+		'suffix' => 'info.eg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'me.eg' => [
+		'suffix' => 'me.eg',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4882,6 +4901,18 @@ return [
 	],
 	'sci.eg' => [
 		'suffix' => 'sci.eg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sport.eg' => [
+		'suffix' => 'sport.eg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tv.eg' => [
+		'suffix' => 'tv.eg',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31140,10 +31171,36 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tw : https://www.iana.org/domains/root/db/tw.html',
+			'https://twnic.tw/dnservice_catag.php',
+			'Confirmed by registry <dns@twnic.tw> 2024-11-26',
+		],
+	],
+	'club.tw' => [
+		'suffix' => 'club.tw',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.tw' => [
+		'suffix' => 'com.tw',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ebiz.tw' => [
+		'suffix' => 'ebiz.tw',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'edu.tw' => [
 		'suffix' => 'edu.tw',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'game.tw' => [
+		'suffix' => 'game.tw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31154,14 +31211,14 @@ return [
 		'comments' => [
 		],
 	],
-	'mil.tw' => [
-		'suffix' => 'mil.tw',
+	'idv.tw' => [
+		'suffix' => 'idv.tw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'com.tw' => [
-		'suffix' => 'com.tw',
+	'mil.tw' => [
+		'suffix' => 'mil.tw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31174,48 +31231,6 @@ return [
 	],
 	'org.tw' => [
 		'suffix' => 'org.tw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'idv.tw' => [
-		'suffix' => 'idv.tw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'game.tw' => [
-		'suffix' => 'game.tw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ebiz.tw' => [
-		'suffix' => 'ebiz.tw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'club.tw' => [
-		'suffix' => 'club.tw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'網路.tw' => [
-		'suffix' => '網路.tw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'組織.tw' => [
-		'suffix' => '組織.tw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'商業.tw' => [
-		'suffix' => '商業.tw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34784,7 +34799,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--kpry57d ("Taiwan", Chinese, Traditional) : TW',
-			'http://www.twnic.net/english/dn/dn_07a.htm',
+			'https://twnic.tw/dnservice_catag.php',
 		],
 	],
 	'台湾' => [
@@ -35092,7 +35107,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-31T15:17:42Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-11-27T15:18:01Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -43198,7 +43213,7 @@ return [
 		'suffix' => '在线',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--3ds443g : TLD REGISTRY LIMITED OY',
+			'xn--3ds443g : Beijing TLD Registry Technology Limited',
 			'https://www.iana.org/domains/root/db/xn--3ds443g.html',
 		],
 	],
@@ -59823,6 +59838,26 @@ return [
 		'comments' => [
 			'Rocky Enterprise Software Foundation : https://resf.org',
 			'Submitted by Neil Hanlon <neil@resf.org>',
+		],
+	],
+	'rub.de' => [
+		'suffix' => 'rub.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Ruhr University Bochum http://ruhr-uni-bochum.de',
+			'Submitted by Andreas Jobs <noc@ruhr-uni-bochum.de>',
+		],
+	],
+	'ruhr-uni-bochum.de' => [
+		'suffix' => 'ruhr-uni-bochum.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'io.noc.ruhr-uni-bochum.de' => [
+		'suffix' => 'io.noc.ruhr-uni-bochum.de',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'биз.рус' => [
