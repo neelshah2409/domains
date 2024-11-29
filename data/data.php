@@ -57290,14 +57290,6 @@ return [
 		'comments' => [
 		],
 	],
-	'mcpe.me' => [
-		'suffix' => 'mcpe.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'mcpe.me : https://mcpe.me',
-			'Submitted by Noa Heyl <hi@noa.dev>',
-		],
-	],
 	'mediatech.by' => [
 		'suffix' => 'mediatech.by',
 		'type' => 'PRIVATE',
