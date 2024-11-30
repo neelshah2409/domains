@@ -26,14 +26,14 @@ return [
 		'comments' => [
 		],
 	],
-	'net.ac' => [
-		'suffix' => 'net.ac',
+	'mil.ac' => [
+		'suffix' => 'mil.ac',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'mil.ac' => [
-		'suffix' => 'mil.ac',
+	'net.ac' => [
+		'suffix' => 'net.ac',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -59,8 +59,26 @@ return [
 			'ae : https://tdra.gov.ae/en/aeda/ae-policies',
 		],
 	],
+	'ac.ae' => [
+		'suffix' => 'ac.ae',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'co.ae' => [
 		'suffix' => 'co.ae',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.ae' => [
+		'suffix' => 'gov.ae',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.ae' => [
+		'suffix' => 'mil.ae',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -79,24 +97,6 @@ return [
 	],
 	'sch.ae' => [
 		'suffix' => 'sch.ae',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ac.ae' => [
-		'suffix' => 'ac.ae',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.ae' => [
-		'suffix' => 'gov.ae',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mil.ae' => [
-		'suffix' => 'mil.ae',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -689,14 +689,14 @@ return [
 			'ag : http://www.nic.ag/prices.htm',
 		],
 	],
-	'com.ag' => [
-		'suffix' => 'com.ag',
+	'co.ag' => [
+		'suffix' => 'co.ag',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'org.ag' => [
-		'suffix' => 'org.ag',
+	'com.ag' => [
+		'suffix' => 'com.ag',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -707,14 +707,14 @@ return [
 		'comments' => [
 		],
 	],
-	'co.ag' => [
-		'suffix' => 'co.ag',
+	'nom.ag' => [
+		'suffix' => 'nom.ag',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'nom.ag' => [
-		'suffix' => 'nom.ag',
+	'org.ag' => [
+		'suffix' => 'org.ag',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -726,12 +726,6 @@ return [
 			'ai : http://nic.com.ai/',
 		],
 	],
-	'off.ai' => [
-		'suffix' => 'off.ai',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'com.ai' => [
 		'suffix' => 'com.ai',
 		'type' => 'ICANN',
@@ -740,6 +734,12 @@ return [
 	],
 	'net.ai' => [
 		'suffix' => 'net.ai',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'off.ai' => [
+		'suffix' => 'off.ai',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -838,6 +838,12 @@ return [
 			'http://www.dns.ao/REGISTR.DOC',
 		],
 	],
+	'co.ao' => [
+		'suffix' => 'co.ao',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'ed.ao' => [
 		'suffix' => 'ed.ao',
 		'type' => 'ICANN',
@@ -862,6 +868,12 @@ return [
 		'comments' => [
 		],
 	],
+	'it.ao' => [
+		'suffix' => 'it.ao',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'og.ao' => [
 		'suffix' => 'og.ao',
 		'type' => 'ICANN',
@@ -874,20 +886,8 @@ return [
 		'comments' => [
 		],
 	],
-	'co.ao' => [
-		'suffix' => 'co.ao',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'pb.ao' => [
 		'suffix' => 'pb.ao',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'it.ao' => [
-		'suffix' => 'it.ao',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -1074,6 +1074,12 @@ return [
 		'comments' => [
 		],
 	],
+	'sth.ac.at' => [
+		'suffix' => 'sth.ac.at',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'co.at' => [
 		'suffix' => 'co.at',
 		'type' => 'ICANN',
@@ -1092,12 +1098,6 @@ return [
 		'comments' => [
 		],
 	],
-	'sth.ac.at' => [
-		'suffix' => 'sth.ac.at',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'au' => [
 		'suffix' => 'au',
 		'type' => 'ICANN',
@@ -1107,21 +1107,15 @@ return [
 			'Confirmed by registry <general@auda.org.au> 2024-11-17',
 		],
 	],
-	'com.au' => [
-		'suffix' => 'com.au',
+	'asn.au' => [
+		'suffix' => 'asn.au',
 		'type' => 'ICANN',
 		'comments' => [
 			'2LDs',
 		],
 	],
-	'net.au' => [
-		'suffix' => 'net.au',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.au' => [
-		'suffix' => 'org.au',
+	'com.au' => [
+		'suffix' => 'com.au',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -1138,14 +1132,20 @@ return [
 		'comments' => [
 		],
 	],
-	'asn.au' => [
-		'suffix' => 'asn.au',
+	'id.au' => [
+		'suffix' => 'id.au',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'id.au' => [
-		'suffix' => 'id.au',
+	'net.au' => [
+		'suffix' => 'net.au',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.au' => [
+		'suffix' => 'org.au',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -1561,6 +1561,66 @@ return [
 			'https://www.register.bg/user/static/rules/en/index.html',
 		],
 	],
+	'0.bg' => [
+		'suffix' => '0.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'1.bg' => [
+		'suffix' => '1.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'2.bg' => [
+		'suffix' => '2.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'3.bg' => [
+		'suffix' => '3.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'4.bg' => [
+		'suffix' => '4.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'5.bg' => [
+		'suffix' => '5.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'6.bg' => [
+		'suffix' => '6.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'7.bg' => [
+		'suffix' => '7.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'8.bg' => [
+		'suffix' => '8.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'9.bg' => [
+		'suffix' => '9.bg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'a.bg' => [
 		'suffix' => 'a.bg',
 		'type' => 'ICANN',
@@ -1717,66 +1777,6 @@ return [
 		'comments' => [
 		],
 	],
-	'0.bg' => [
-		'suffix' => '0.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'1.bg' => [
-		'suffix' => '1.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'2.bg' => [
-		'suffix' => '2.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'3.bg' => [
-		'suffix' => '3.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'4.bg' => [
-		'suffix' => '4.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'5.bg' => [
-		'suffix' => '5.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'6.bg' => [
-		'suffix' => '6.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'7.bg' => [
-		'suffix' => '7.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'8.bg' => [
-		'suffix' => '8.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'9.bg' => [
-		'suffix' => '9.bg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'bh' => [
 		'suffix' => 'bh',
 		'type' => 'ICANN',
@@ -1796,6 +1796,12 @@ return [
 		'comments' => [
 		],
 	],
+	'gov.bh' => [
+		'suffix' => 'gov.bh',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.bh' => [
 		'suffix' => 'net.bh',
 		'type' => 'ICANN',
@@ -1804,12 +1810,6 @@ return [
 	],
 	'org.bh' => [
 		'suffix' => 'org.bh',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.bh' => [
-		'suffix' => 'gov.bh',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -1963,14 +1963,14 @@ return [
 		'comments' => [
 		],
 	],
-	'resto.bj' => [
-		'suffix' => 'resto.bj',
+	'restaurant.bj' => [
+		'suffix' => 'restaurant.bj',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'restaurant.bj' => [
-		'suffix' => 'restaurant.bj',
+	'resto.bj' => [
+		'suffix' => 'resto.bj',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3358,18 +3358,6 @@ return [
 		'comments' => [
 		],
 	],
-	'net.bs' => [
-		'suffix' => 'net.bs',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.bs' => [
-		'suffix' => 'org.bs',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'edu.bs' => [
 		'suffix' => 'edu.bs',
 		'type' => 'ICANN',
@@ -3378,6 +3366,18 @@ return [
 	],
 	'gov.bs' => [
 		'suffix' => 'gov.bs',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.bs' => [
+		'suffix' => 'net.bs',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.bs' => [
+		'suffix' => 'org.bs',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3505,18 +3505,6 @@ return [
 		'comments' => [
 		],
 	],
-	'net.bz' => [
-		'suffix' => 'net.bz',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.bz' => [
-		'suffix' => 'org.bz',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'edu.bz' => [
 		'suffix' => 'edu.bz',
 		'type' => 'ICANN',
@@ -3525,6 +3513,18 @@ return [
 	],
 	'gov.bz' => [
 		'suffix' => 'gov.bz',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.bz' => [
+		'suffix' => 'net.bz',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.bz' => [
+		'suffix' => 'org.bz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3686,62 +3686,8 @@ return [
 			'http://www.nic.ci/index.php?page=charte',
 		],
 	],
-	'org.ci' => [
-		'suffix' => 'org.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'or.ci' => [
-		'suffix' => 'or.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'com.ci' => [
-		'suffix' => 'com.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'co.ci' => [
-		'suffix' => 'co.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'edu.ci' => [
-		'suffix' => 'edu.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ed.ci' => [
-		'suffix' => 'ed.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'ac.ci' => [
 		'suffix' => 'ac.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.ci' => [
-		'suffix' => 'net.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'go.ci' => [
-		'suffix' => 'go.ci',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'asso.ci' => [
-		'suffix' => 'asso.ci',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3752,14 +3698,68 @@ return [
 		'comments' => [
 		],
 	],
-	'int.ci' => [
-		'suffix' => 'int.ci',
+	'asso.ci' => [
+		'suffix' => 'asso.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'co.ci' => [
+		'suffix' => 'co.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.ci' => [
+		'suffix' => 'com.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ed.ci' => [
+		'suffix' => 'ed.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.ci' => [
+		'suffix' => 'edu.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'go.ci' => [
+		'suffix' => 'go.ci',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'gouv.ci' => [
 		'suffix' => 'gouv.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'int.ci' => [
+		'suffix' => 'int.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.ci' => [
+		'suffix' => 'net.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'or.ci' => [
+		'suffix' => 'or.ci',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.ci' => [
+		'suffix' => 'org.ci',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3872,6 +3872,12 @@ return [
 		'comments' => [
 		],
 	],
+	'mil.cn' => [
+		'suffix' => 'mil.cn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.cn' => [
 		'suffix' => 'net.cn',
 		'type' => 'ICANN',
@@ -3884,26 +3890,20 @@ return [
 		'comments' => [
 		],
 	],
-	'mil.cn' => [
-		'suffix' => 'mil.cn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'公司.cn' => [
 		'suffix' => '公司.cn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'网络.cn' => [
-		'suffix' => '网络.cn',
+	'網絡.cn' => [
+		'suffix' => '網絡.cn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'網絡.cn' => [
-		'suffix' => '網絡.cn',
+	'网络.cn' => [
+		'suffix' => '网络.cn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3945,14 +3945,14 @@ return [
 		'comments' => [
 		],
 	],
-	'gz.cn' => [
-		'suffix' => 'gz.cn',
+	'gx.cn' => [
+		'suffix' => 'gx.cn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'gx.cn' => [
-		'suffix' => 'gx.cn',
+	'gz.cn' => [
+		'suffix' => 'gz.cn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3977,6 +3977,12 @@ return [
 	],
 	'hi.cn' => [
 		'suffix' => 'hi.cn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hk.cn' => [
+		'suffix' => 'hk.cn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4013,6 +4019,12 @@ return [
 	],
 	'ln.cn' => [
 		'suffix' => 'ln.cn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mo.cn' => [
+		'suffix' => 'mo.cn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4071,6 +4083,12 @@ return [
 		'comments' => [
 		],
 	],
+	'tw.cn' => [
+		'suffix' => 'tw.cn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'xj.cn' => [
 		'suffix' => 'xj.cn',
 		'type' => 'ICANN',
@@ -4091,24 +4109,6 @@ return [
 	],
 	'zj.cn' => [
 		'suffix' => 'zj.cn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hk.cn' => [
-		'suffix' => 'hk.cn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mo.cn' => [
-		'suffix' => 'mo.cn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'tw.cn' => [
-		'suffix' => 'tw.cn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4641,14 +4641,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.dz' => [
-		'suffix' => 'org.dz',
+	'net.dz' => [
+		'suffix' => 'net.dz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'net.dz' => [
-		'suffix' => 'net.dz',
+	'org.dz' => [
+		'suffix' => 'org.dz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4685,20 +4685,32 @@ return [
 		'comments' => [
 		],
 	],
-	'info.ec' => [
-		'suffix' => 'info.ec',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.ec' => [
-		'suffix' => 'net.ec',
+	'edu.ec' => [
+		'suffix' => 'edu.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'fin.ec' => [
 		'suffix' => 'fin.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gob.ec' => [
+		'suffix' => 'gob.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.ec' => [
+		'suffix' => 'gov.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'info.ec' => [
+		'suffix' => 'info.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4715,8 +4727,14 @@ return [
 		'comments' => [
 		],
 	],
-	'pro.ec' => [
-		'suffix' => 'pro.ec',
+	'mil.ec' => [
+		'suffix' => 'mil.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.ec' => [
+		'suffix' => 'net.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4727,26 +4745,8 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.ec' => [
-		'suffix' => 'edu.ec',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.ec' => [
-		'suffix' => 'gov.ec',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gob.ec' => [
-		'suffix' => 'gob.ec',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mil.ec' => [
-		'suffix' => 'mil.ec',
+	'pro.ec' => [
+		'suffix' => 'pro.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4765,20 +4765,32 @@ return [
 			'ee : http://www.eenet.ee/EENet/dom_reeglid.html#lisa_B',
 		],
 	],
+	'aip.ee' => [
+		'suffix' => 'aip.ee',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.ee' => [
+		'suffix' => 'com.ee',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'edu.ee' => [
 		'suffix' => 'edu.ee',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'gov.ee' => [
-		'suffix' => 'gov.ee',
+	'fie.ee' => [
+		'suffix' => 'fie.ee',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'riik.ee' => [
-		'suffix' => 'riik.ee',
+	'gov.ee' => [
+		'suffix' => 'gov.ee',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4795,8 +4807,8 @@ return [
 		'comments' => [
 		],
 	],
-	'com.ee' => [
-		'suffix' => 'com.ee',
+	'org.ee' => [
+		'suffix' => 'org.ee',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4807,20 +4819,8 @@ return [
 		'comments' => [
 		],
 	],
-	'aip.ee' => [
-		'suffix' => 'aip.ee',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.ee' => [
-		'suffix' => 'org.ee',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'fie.ee' => [
-		'suffix' => 'fie.ee',
+	'riik.ee' => [
+		'suffix' => 'riik.ee',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4937,6 +4937,18 @@ return [
 		'comments' => [
 		],
 	],
+	'edu.es' => [
+		'suffix' => 'edu.es',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gob.es' => [
+		'suffix' => 'gob.es',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'nom.es' => [
 		'suffix' => 'nom.es',
 		'type' => 'ICANN',
@@ -4949,18 +4961,6 @@ return [
 		'comments' => [
 		],
 	],
-	'gob.es' => [
-		'suffix' => 'gob.es',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'edu.es' => [
-		'suffix' => 'edu.es',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'et' => [
 		'suffix' => 'et',
 		'type' => 'ICANN',
@@ -4968,20 +4968,14 @@ return [
 			'et : https://www.iana.org/domains/root/db/et.html',
 		],
 	],
+	'biz.et' => [
+		'suffix' => 'biz.et',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'com.et' => [
 		'suffix' => 'com.et',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.et' => [
-		'suffix' => 'gov.et',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.et' => [
-		'suffix' => 'org.et',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4992,14 +4986,8 @@ return [
 		'comments' => [
 		],
 	],
-	'biz.et' => [
-		'suffix' => 'biz.et',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'name.et' => [
-		'suffix' => 'name.et',
+	'gov.et' => [
+		'suffix' => 'gov.et',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5010,8 +4998,20 @@ return [
 		'comments' => [
 		],
 	],
+	'name.et' => [
+		'suffix' => 'name.et',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.et' => [
 		'suffix' => 'net.et',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.et' => [
+		'suffix' => 'org.et',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5115,11 +5115,17 @@ return [
 			'fk : https://www.iana.org/domains/root/db/fk.html',
 		],
 	],
+	'fm' => [
+		'suffix' => 'fm',
+		'type' => 'ICANN',
+		'comments' => [
+			'fm : https://www.iana.org/domains/root/db/fm.html',
+		],
+	],
 	'com.fm' => [
 		'suffix' => 'com.fm',
 		'type' => 'ICANN',
 		'comments' => [
-			'fm : https://www.iana.org/domains/root/db/fm.html',
 		],
 	],
 	'edu.fm' => [
@@ -5136,12 +5142,6 @@ return [
 	],
 	'org.fm' => [
 		'suffix' => 'org.fm',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'fm' => [
-		'suffix' => 'fm',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5236,21 +5236,21 @@ return [
 			'Submitted by registry <Damien.Shaw@ja.net>',
 		],
 	],
-	'edu.gd' => [
-		'suffix' => 'edu.gd',
+	'gd' => [
+		'suffix' => 'gd',
 		'type' => 'ICANN',
 		'comments' => [
 			'gd : https://www.iana.org/domains/root/db/gd.html',
 		],
 	],
-	'gov.gd' => [
-		'suffix' => 'gov.gd',
+	'edu.gd' => [
+		'suffix' => 'edu.gd',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'gd' => [
-		'suffix' => 'gd',
+	'gov.gd' => [
+		'suffix' => 'gov.gd',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5366,14 +5366,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.gh' => [
-		'suffix' => 'org.gh',
+	'mil.gh' => [
+		'suffix' => 'mil.gh',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'mil.gh' => [
-		'suffix' => 'mil.gh',
+	'org.gh' => [
+		'suffix' => 'org.gh',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5391,8 +5391,8 @@ return [
 		'comments' => [
 		],
 	],
-	'ltd.gi' => [
-		'suffix' => 'ltd.gi',
+	'edu.gi' => [
+		'suffix' => 'edu.gi',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5403,14 +5403,14 @@ return [
 		'comments' => [
 		],
 	],
-	'mod.gi' => [
-		'suffix' => 'mod.gi',
+	'ltd.gi' => [
+		'suffix' => 'ltd.gi',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'edu.gi' => [
-		'suffix' => 'edu.gi',
+	'mod.gi' => [
+		'suffix' => 'mod.gi',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5498,14 +5498,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.gn' => [
-		'suffix' => 'org.gn',
+	'net.gn' => [
+		'suffix' => 'net.gn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'net.gn' => [
-		'suffix' => 'net.gn',
+	'org.gn' => [
+		'suffix' => 'org.gn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5524,20 +5524,14 @@ return [
 			'gp : http://www.nic.gp/index.php?lang=en',
 		],
 	],
+	'asso.gp' => [
+		'suffix' => 'asso.gp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'com.gp' => [
 		'suffix' => 'com.gp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.gp' => [
-		'suffix' => 'net.gp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mobi.gp' => [
-		'suffix' => 'mobi.gp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5548,14 +5542,20 @@ return [
 		'comments' => [
 		],
 	],
-	'org.gp' => [
-		'suffix' => 'org.gp',
+	'mobi.gp' => [
+		'suffix' => 'mobi.gp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'asso.gp' => [
-		'suffix' => 'asso.gp',
+	'net.gp' => [
+		'suffix' => 'net.gp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.gp' => [
+		'suffix' => 'org.gp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5587,6 +5587,12 @@ return [
 		'comments' => [
 		],
 	],
+	'gov.gr' => [
+		'suffix' => 'gov.gr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.gr' => [
 		'suffix' => 'net.gr',
 		'type' => 'ICANN',
@@ -5595,12 +5601,6 @@ return [
 	],
 	'org.gr' => [
 		'suffix' => 'org.gr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.gr' => [
-		'suffix' => 'gov.gr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5814,26 +5814,8 @@ return [
 		'comments' => [
 		],
 	],
-	'公司.hk' => [
-		'suffix' => '公司.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'教育.hk' => [
-		'suffix' => '教育.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'敎育.hk' => [
-		'suffix' => '敎育.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'政府.hk' => [
-		'suffix' => '政府.hk',
+	'个人.hk' => [
+		'suffix' => '个人.hk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5844,50 +5826,32 @@ return [
 		'comments' => [
 		],
 	],
-	'个人.hk' => [
-		'suffix' => '个人.hk',
+	'公司.hk' => [
+		'suffix' => '公司.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'政府.hk' => [
+		'suffix' => '政府.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'敎育.hk' => [
+		'suffix' => '敎育.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'教育.hk' => [
+		'suffix' => '教育.hk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'箇人.hk' => [
 		'suffix' => '箇人.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'網络.hk' => [
-		'suffix' => '網络.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'网络.hk' => [
-		'suffix' => '网络.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'组織.hk' => [
-		'suffix' => '组織.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'網絡.hk' => [
-		'suffix' => '網絡.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'网絡.hk' => [
-		'suffix' => '网絡.hk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'组织.hk' => [
-		'suffix' => '组织.hk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5900,6 +5864,42 @@ return [
 	],
 	'組织.hk' => [
 		'suffix' => '組织.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'網絡.hk' => [
+		'suffix' => '網絡.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'網络.hk' => [
+		'suffix' => '網络.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'组織.hk' => [
+		'suffix' => '组織.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'组织.hk' => [
+		'suffix' => '组织.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'网絡.hk' => [
+		'suffix' => '网絡.hk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'网络.hk' => [
+		'suffix' => '网络.hk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5930,14 +5930,8 @@ return [
 		'comments' => [
 		],
 	],
-	'org.hn' => [
-		'suffix' => 'org.hn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.hn' => [
-		'suffix' => 'net.hn',
+	'gob.hn' => [
+		'suffix' => 'gob.hn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5948,8 +5942,14 @@ return [
 		'comments' => [
 		],
 	],
-	'gob.hn' => [
-		'suffix' => 'gob.hn',
+	'net.hn' => [
+		'suffix' => 'net.hn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.hn' => [
+		'suffix' => 'org.hn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5961,8 +5961,8 @@ return [
 			'hr : http://www.dns.hr/documents/pdf/HRTLD-regulations.pdf',
 		],
 	],
-	'iz.hr' => [
-		'suffix' => 'iz.hr',
+	'com.hr' => [
+		'suffix' => 'com.hr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5973,14 +5973,14 @@ return [
 		'comments' => [
 		],
 	],
-	'name.hr' => [
-		'suffix' => 'name.hr',
+	'iz.hr' => [
+		'suffix' => 'iz.hr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'com.hr' => [
-		'suffix' => 'com.hr',
+	'name.hr' => [
+		'suffix' => 'name.hr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5992,56 +5992,8 @@ return [
 			'ht : http://www.nic.ht/info/charte.cfm',
 		],
 	],
-	'com.ht' => [
-		'suffix' => 'com.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'shop.ht' => [
-		'suffix' => 'shop.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'firm.ht' => [
-		'suffix' => 'firm.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'info.ht' => [
-		'suffix' => 'info.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'adult.ht' => [
 		'suffix' => 'adult.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.ht' => [
-		'suffix' => 'net.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'pro.ht' => [
-		'suffix' => 'pro.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.ht' => [
-		'suffix' => 'org.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'med.ht' => [
-		'suffix' => 'med.ht',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6052,20 +6004,20 @@ return [
 		'comments' => [
 		],
 	],
-	'coop.ht' => [
-		'suffix' => 'coop.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'pol.ht' => [
-		'suffix' => 'pol.ht',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'asso.ht' => [
 		'suffix' => 'asso.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.ht' => [
+		'suffix' => 'com.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'coop.ht' => [
+		'suffix' => 'coop.ht',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6076,8 +6028,8 @@ return [
 		'comments' => [
 		],
 	],
-	'rel.ht' => [
-		'suffix' => 'rel.ht',
+	'firm.ht' => [
+		'suffix' => 'firm.ht',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6088,8 +6040,56 @@ return [
 		'comments' => [
 		],
 	],
+	'info.ht' => [
+		'suffix' => 'info.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'med.ht' => [
+		'suffix' => 'med.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.ht' => [
+		'suffix' => 'net.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.ht' => [
+		'suffix' => 'org.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'perso.ht' => [
 		'suffix' => 'perso.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pol.ht' => [
+		'suffix' => 'pol.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pro.ht' => [
+		'suffix' => 'pro.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'rel.ht' => [
+		'suffix' => 'rel.ht',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'shop.ht' => [
+		'suffix' => 'shop.ht',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6100,42 +6100,6 @@ return [
 		'comments' => [
 			'hu : http://www.domain.hu/domain/English/sld.html',
 			'Confirmed by registry <pasztor@iszt.hu> 2008-06-12',
-		],
-	],
-	'co.hu' => [
-		'suffix' => 'co.hu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'info.hu' => [
-		'suffix' => 'info.hu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.hu' => [
-		'suffix' => 'org.hu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'priv.hu' => [
-		'suffix' => 'priv.hu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sport.hu' => [
-		'suffix' => 'sport.hu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'tm.hu' => [
-		'suffix' => 'tm.hu',
-		'type' => 'ICANN',
-		'comments' => [
 		],
 	],
 	'2000.hu' => [
@@ -6164,6 +6128,12 @@ return [
 	],
 	'city.hu' => [
 		'suffix' => 'city.hu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'co.hu' => [
+		'suffix' => 'co.hu',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6204,6 +6174,12 @@ return [
 		'comments' => [
 		],
 	],
+	'info.hu' => [
+		'suffix' => 'info.hu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'ingatlan.hu' => [
 		'suffix' => 'ingatlan.hu',
 		'type' => 'ICANN',
@@ -6240,6 +6216,18 @@ return [
 		'comments' => [
 		],
 	],
+	'org.hu' => [
+		'suffix' => 'org.hu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'priv.hu' => [
+		'suffix' => 'priv.hu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'reklam.hu' => [
 		'suffix' => 'reklam.hu',
 		'type' => 'ICANN',
@@ -6258,6 +6246,12 @@ return [
 		'comments' => [
 		],
 	],
+	'sport.hu' => [
+		'suffix' => 'sport.hu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'suli.hu' => [
 		'suffix' => 'suli.hu',
 		'type' => 'ICANN',
@@ -6266,6 +6260,12 @@ return [
 	],
 	'szex.hu' => [
 		'suffix' => 'szex.hu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tm.hu' => [
+		'suffix' => 'tm.hu',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6492,14 +6492,20 @@ return [
 		'comments' => [
 		],
 	],
-	'com.im' => [
-		'suffix' => 'com.im',
+	'ltd.co.im' => [
+		'suffix' => 'ltd.co.im',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ltd.co.im' => [
-		'suffix' => 'ltd.co.im',
+	'plc.co.im' => [
+		'suffix' => 'plc.co.im',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.im' => [
+		'suffix' => 'com.im',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6512,12 +6518,6 @@ return [
 	],
 	'org.im' => [
 		'suffix' => 'org.im',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'plc.co.im' => [
-		'suffix' => 'plc.co.im',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6873,8 +6873,8 @@ return [
 			'iq : http://www.cmc.iq/english/iq/iqregister1.htm',
 		],
 	],
-	'gov.iq' => [
-		'suffix' => 'gov.iq',
+	'com.iq' => [
+		'suffix' => 'com.iq',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6885,26 +6885,26 @@ return [
 		'comments' => [
 		],
 	],
+	'gov.iq' => [
+		'suffix' => 'gov.iq',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'mil.iq' => [
 		'suffix' => 'mil.iq',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'com.iq' => [
-		'suffix' => 'com.iq',
+	'net.iq' => [
+		'suffix' => 'net.iq',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'org.iq' => [
 		'suffix' => 'org.iq',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.iq' => [
-		'suffix' => 'net.iq',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6989,14 +6989,14 @@ return [
 			'it : https://www.iana.org/domains/root/db/it.html',
 		],
 	],
-	'gov.it' => [
-		'suffix' => 'gov.it',
+	'edu.it' => [
+		'suffix' => 'edu.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'edu.it' => [
-		'suffix' => 'edu.it',
+	'gov.it' => [
+		'suffix' => 'gov.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -7352,6 +7352,12 @@ return [
 		'comments' => [
 		],
 	],
+	'trentino.it' => [
+		'suffix' => 'trentino.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'trentino-a-adige.it' => [
 		'suffix' => 'trentino-a-adige.it',
 		'type' => 'ICANN',
@@ -7420,12 +7426,6 @@ return [
 	],
 	'trentino-suedtirol.it' => [
 		'suffix' => 'trentino-suedtirol.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'trentino.it' => [
-		'suffix' => 'trentino.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -7851,6 +7851,12 @@ return [
 		'comments' => [
 		],
 	],
+	'balsan.it' => [
+		'suffix' => 'balsan.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'balsan-sudtirol.it' => [
 		'suffix' => 'balsan-sudtirol.it',
 		'type' => 'ICANN',
@@ -7865,12 +7871,6 @@ return [
 	],
 	'balsan-suedtirol.it' => [
 		'suffix' => 'balsan-suedtirol.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'balsan.it' => [
-		'suffix' => 'balsan.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -7953,14 +7953,20 @@ return [
 		'comments' => [
 		],
 	],
+	'bolzano.it' => [
+		'suffix' => 'bolzano.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'bolzano-altoadige.it' => [
 		'suffix' => 'bolzano-altoadige.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bolzano.it' => [
-		'suffix' => 'bolzano.it',
+	'bozen.it' => [
+		'suffix' => 'bozen.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -7979,12 +7985,6 @@ return [
 	],
 	'bozen-suedtirol.it' => [
 		'suffix' => 'bozen-suedtirol.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'bozen.it' => [
-		'suffix' => 'bozen.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -8019,6 +8019,12 @@ return [
 		'comments' => [
 		],
 	],
+	'bulsan.it' => [
+		'suffix' => 'bulsan.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'bulsan-sudtirol.it' => [
 		'suffix' => 'bulsan-sudtirol.it',
 		'type' => 'ICANN',
@@ -8033,12 +8039,6 @@ return [
 	],
 	'bulsan-suedtirol.it' => [
 		'suffix' => 'bulsan-suedtirol.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'bulsan.it' => [
-		'suffix' => 'bulsan.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -8649,6 +8649,12 @@ return [
 		'comments' => [
 		],
 	],
+	'monza.it' => [
+		'suffix' => 'monza.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'monza-brianza.it' => [
 		'suffix' => 'monza-brianza.it',
 		'type' => 'ICANN',
@@ -8657,12 +8663,6 @@ return [
 	],
 	'monza-e-della-brianza.it' => [
 		'suffix' => 'monza-e-della-brianza.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'monza.it' => [
-		'suffix' => 'monza.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -9135,14 +9135,14 @@ return [
 		'comments' => [
 		],
 	],
-	'suedtirol.it' => [
-		'suffix' => 'suedtirol.it',
+	'südtirol.it' => [
+		'suffix' => 'südtirol.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'südtirol.it' => [
-		'suffix' => 'südtirol.it',
+	'suedtirol.it' => [
+		'suffix' => 'suedtirol.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -9908,38 +9908,26 @@ return [
 		'comments' => [
 		],
 	],
-	'栃木.jp' => [
-		'suffix' => '栃木.jp',
+	'三重.jp' => [
+		'suffix' => '三重.jp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'愛知.jp' => [
-		'suffix' => '愛知.jp',
+	'京都.jp' => [
+		'suffix' => '京都.jp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'愛媛.jp' => [
-		'suffix' => '愛媛.jp',
+	'佐賀.jp' => [
+		'suffix' => '佐賀.jp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'兵庫.jp' => [
 		'suffix' => '兵庫.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'熊本.jp' => [
-		'suffix' => '熊本.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'茨城.jp' => [
-		'suffix' => '茨城.jp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -9962,68 +9950,8 @@ return [
 		'comments' => [
 		],
 	],
-	'長崎.jp' => [
-		'suffix' => '長崎.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'長野.jp' => [
-		'suffix' => '長野.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'新潟.jp' => [
-		'suffix' => '新潟.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'青森.jp' => [
-		'suffix' => '青森.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'静岡.jp' => [
-		'suffix' => '静岡.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'東京.jp' => [
-		'suffix' => '東京.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'石川.jp' => [
-		'suffix' => '石川.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'埼玉.jp' => [
 		'suffix' => '埼玉.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'三重.jp' => [
-		'suffix' => '三重.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'京都.jp' => [
-		'suffix' => '京都.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'佐賀.jp' => [
-		'suffix' => '佐賀.jp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -10082,12 +10010,6 @@ return [
 		'comments' => [
 		],
 	],
-	'岩手.jp' => [
-		'suffix' => '岩手.jp',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'岐阜.jp' => [
 		'suffix' => '岐阜.jp',
 		'type' => 'ICANN',
@@ -10096,6 +10018,12 @@ return [
 	],
 	'岡山.jp' => [
 		'suffix' => '岡山.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'岩手.jp' => [
+		'suffix' => '岩手.jp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -10118,6 +10046,36 @@ return [
 		'comments' => [
 		],
 	],
+	'愛媛.jp' => [
+		'suffix' => '愛媛.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'愛知.jp' => [
+		'suffix' => '愛知.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'新潟.jp' => [
+		'suffix' => '新潟.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'東京.jp' => [
+		'suffix' => '東京.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'栃木.jp' => [
+		'suffix' => '栃木.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'沖縄.jp' => [
 		'suffix' => '沖縄.jp',
 		'type' => 'ICANN',
@@ -10126,6 +10084,18 @@ return [
 	],
 	'滋賀.jp' => [
 		'suffix' => '滋賀.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'熊本.jp' => [
+		'suffix' => '熊本.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'石川.jp' => [
+		'suffix' => '石川.jp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -10162,6 +10132,36 @@ return [
 	],
 	'群馬.jp' => [
 		'suffix' => '群馬.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'茨城.jp' => [
+		'suffix' => '茨城.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'長崎.jp' => [
+		'suffix' => '長崎.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'長野.jp' => [
+		'suffix' => '長野.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'青森.jp' => [
+		'suffix' => '青森.jp',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'静岡.jp' => [
+		'suffix' => '静岡.jp',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20383,18 +20383,6 @@ return [
 			'kg : http://www.domain.kg/dmn_n.html',
 		],
 	],
-	'org.kg' => [
-		'suffix' => 'org.kg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.kg' => [
-		'suffix' => 'net.kg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'com.kg' => [
 		'suffix' => 'com.kg',
 		'type' => 'ICANN',
@@ -20419,6 +20407,18 @@ return [
 		'comments' => [
 		],
 	],
+	'net.kg' => [
+		'suffix' => 'net.kg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.kg' => [
+		'suffix' => 'org.kg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'*.kh' => [
 		'suffix' => '*.kh',
 		'type' => 'ICANN',
@@ -20433,26 +20433,20 @@ return [
 			'ki : http://www.ki/dns/index.html',
 		],
 	],
-	'edu.ki' => [
-		'suffix' => 'edu.ki',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'biz.ki' => [
 		'suffix' => 'biz.ki',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'net.ki' => [
-		'suffix' => 'net.ki',
+	'com.ki' => [
+		'suffix' => 'com.ki',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'org.ki' => [
-		'suffix' => 'org.ki',
+	'edu.ki' => [
+		'suffix' => 'edu.ki',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20469,8 +20463,14 @@ return [
 		'comments' => [
 		],
 	],
-	'com.ki' => [
-		'suffix' => 'com.ki',
+	'net.ki' => [
+		'suffix' => 'net.ki',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.ki' => [
+		'suffix' => 'org.ki',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20483,8 +20483,32 @@ return [
 			'http://www.domaine.km/documents/charte.doc',
 		],
 	],
-	'org.km' => [
-		'suffix' => 'org.km',
+	'ass.km' => [
+		'suffix' => 'ass.km',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.km' => [
+		'suffix' => 'com.km',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.km' => [
+		'suffix' => 'edu.km',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.km' => [
+		'suffix' => 'gov.km',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.km' => [
+		'suffix' => 'mil.km',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20495,8 +20519,8 @@ return [
 		'comments' => [
 		],
 	],
-	'gov.km' => [
-		'suffix' => 'gov.km',
+	'org.km' => [
+		'suffix' => 'org.km',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20513,46 +20537,22 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.km' => [
-		'suffix' => 'edu.km',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mil.km' => [
-		'suffix' => 'mil.km',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ass.km' => [
-		'suffix' => 'ass.km',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'com.km' => [
-		'suffix' => 'com.km',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'coop.km' => [
-		'suffix' => 'coop.km',
+	'asso.km' => [
+		'suffix' => 'asso.km',
 		'type' => 'ICANN',
 		'comments' => [
 			'These are only mentioned as proposed suggestions at domaine.km, but',
 			'https://www.iana.org/domains/root/db/km.html says they\'re available for registration:',
 		],
 	],
-	'asso.km' => [
-		'suffix' => 'asso.km',
+	'coop.km' => [
+		'suffix' => 'coop.km',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'presse.km' => [
-		'suffix' => 'presse.km',
+	'gouv.km' => [
+		'suffix' => 'gouv.km',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20575,14 +20575,14 @@ return [
 		'comments' => [
 		],
 	],
-	'veterinaire.km' => [
-		'suffix' => 'veterinaire.km',
+	'presse.km' => [
+		'suffix' => 'presse.km',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'gouv.km' => [
-		'suffix' => 'gouv.km',
+	'veterinaire.km' => [
+		'suffix' => 'veterinaire.km',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20595,18 +20595,6 @@ return [
 			'http://www.dot.kn/domainRules.html',
 		],
 	],
-	'net.kn' => [
-		'suffix' => 'net.kn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.kn' => [
-		'suffix' => 'org.kn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'edu.kn' => [
 		'suffix' => 'edu.kn',
 		'type' => 'ICANN',
@@ -20615,6 +20603,18 @@ return [
 	],
 	'gov.kn' => [
 		'suffix' => 'gov.kn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.kn' => [
+		'suffix' => 'net.kn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.kn' => [
+		'suffix' => 'org.kn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20935,20 +20935,14 @@ return [
 			'see also: http://www.nic.kz/rules/index.jsp',
 		],
 	],
-	'org.kz' => [
-		'suffix' => 'org.kz',
+	'com.kz' => [
+		'suffix' => 'com.kz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'edu.kz' => [
 		'suffix' => 'edu.kz',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.kz' => [
-		'suffix' => 'net.kz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20965,8 +20959,14 @@ return [
 		'comments' => [
 		],
 	],
-	'com.kz' => [
-		'suffix' => 'com.kz',
+	'net.kz' => [
+		'suffix' => 'net.kz',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.kz' => [
+		'suffix' => 'org.kz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20979,20 +20979,8 @@ return [
 			'Submitted by registry <gavin.brown@nic.la>',
 		],
 	],
-	'int.la' => [
-		'suffix' => 'int.la',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.la' => [
-		'suffix' => 'net.la',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'info.la' => [
-		'suffix' => 'info.la',
+	'com.la' => [
+		'suffix' => 'com.la',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21009,20 +20997,32 @@ return [
 		'comments' => [
 		],
 	],
-	'per.la' => [
-		'suffix' => 'per.la',
+	'info.la' => [
+		'suffix' => 'info.la',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'com.la' => [
-		'suffix' => 'com.la',
+	'int.la' => [
+		'suffix' => 'int.la',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.la' => [
+		'suffix' => 'net.la',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'org.la' => [
 		'suffix' => 'org.la',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'per.la' => [
+		'suffix' => 'per.la',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21073,26 +21073,14 @@ return [
 			'see also: http://www.nic.lc/rules.htm',
 		],
 	],
-	'com.lc' => [
-		'suffix' => 'com.lc',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.lc' => [
-		'suffix' => 'net.lc',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'co.lc' => [
 		'suffix' => 'co.lc',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'org.lc' => [
-		'suffix' => 'org.lc',
+	'com.lc' => [
+		'suffix' => 'com.lc',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21105,6 +21093,18 @@ return [
 	],
 	'gov.lc' => [
 		'suffix' => 'gov.lc',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.lc' => [
+		'suffix' => 'net.lc',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.lc' => [
+		'suffix' => 'org.lc',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21123,26 +21123,14 @@ return [
 			'lk : https://www.nic.lk/index.php/domain-registration/lk-domain-naming-structure',
 		],
 	],
-	'gov.lk' => [
-		'suffix' => 'gov.lk',
+	'ac.lk' => [
+		'suffix' => 'ac.lk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'sch.lk' => [
-		'suffix' => 'sch.lk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.lk' => [
-		'suffix' => 'net.lk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'int.lk' => [
-		'suffix' => 'int.lk',
+	'assn.lk' => [
+		'suffix' => 'assn.lk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21153,44 +21141,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.lk' => [
-		'suffix' => 'org.lk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'edu.lk' => [
 		'suffix' => 'edu.lk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ngo.lk' => [
-		'suffix' => 'ngo.lk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'soc.lk' => [
-		'suffix' => 'soc.lk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'web.lk' => [
-		'suffix' => 'web.lk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ltd.lk' => [
-		'suffix' => 'ltd.lk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'assn.lk' => [
-		'suffix' => 'assn.lk',
+	'gov.lk' => [
+		'suffix' => 'gov.lk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21207,8 +21165,50 @@ return [
 		'comments' => [
 		],
 	],
-	'ac.lk' => [
-		'suffix' => 'ac.lk',
+	'int.lk' => [
+		'suffix' => 'int.lk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ltd.lk' => [
+		'suffix' => 'ltd.lk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.lk' => [
+		'suffix' => 'net.lk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ngo.lk' => [
+		'suffix' => 'ngo.lk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.lk' => [
+		'suffix' => 'org.lk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sch.lk' => [
+		'suffix' => 'sch.lk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'soc.lk' => [
+		'suffix' => 'soc.lk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'web.lk' => [
+		'suffix' => 'web.lk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21239,14 +21239,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.lr' => [
-		'suffix' => 'org.lr',
+	'net.lr' => [
+		'suffix' => 'net.lr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'net.lr' => [
-		'suffix' => 'net.lr',
+	'org.lr' => [
+		'suffix' => 'org.lr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21341,8 +21341,20 @@ return [
 			'lv : http://www.nic.lv/DNS/En/generic.php',
 		],
 	],
+	'asn.lv' => [
+		'suffix' => 'asn.lv',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'com.lv' => [
 		'suffix' => 'com.lv',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'conf.lv' => [
+		'suffix' => 'conf.lv',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21359,8 +21371,8 @@ return [
 		'comments' => [
 		],
 	],
-	'org.lv' => [
-		'suffix' => 'org.lv',
+	'id.lv' => [
+		'suffix' => 'id.lv',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21371,26 +21383,14 @@ return [
 		'comments' => [
 		],
 	],
-	'id.lv' => [
-		'suffix' => 'id.lv',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'net.lv' => [
 		'suffix' => 'net.lv',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'asn.lv' => [
-		'suffix' => 'asn.lv',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'conf.lv' => [
-		'suffix' => 'conf.lv',
+	'org.lv' => [
+		'suffix' => 'org.lv',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21408,8 +21408,8 @@ return [
 		'comments' => [
 		],
 	],
-	'net.ly' => [
-		'suffix' => 'net.ly',
+	'edu.ly' => [
+		'suffix' => 'edu.ly',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21420,20 +21420,8 @@ return [
 		'comments' => [
 		],
 	],
-	'plc.ly' => [
-		'suffix' => 'plc.ly',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'edu.ly' => [
-		'suffix' => 'edu.ly',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sch.ly' => [
-		'suffix' => 'sch.ly',
+	'id.ly' => [
+		'suffix' => 'id.ly',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21444,14 +21432,26 @@ return [
 		'comments' => [
 		],
 	],
+	'net.ly' => [
+		'suffix' => 'net.ly',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'org.ly' => [
 		'suffix' => 'org.ly',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'id.ly' => [
-		'suffix' => 'id.ly',
+	'plc.ly' => [
+		'suffix' => 'plc.ly',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sch.ly' => [
+		'suffix' => 'sch.ly',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21464,14 +21464,14 @@ return [
 			'http://www.anrt.ma/fr/admin/download/upload/file_fr782.pdf',
 		],
 	],
-	'co.ma' => [
-		'suffix' => 'co.ma',
+	'ac.ma' => [
+		'suffix' => 'ac.ma',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'net.ma' => [
-		'suffix' => 'net.ma',
+	'co.ma' => [
+		'suffix' => 'co.ma',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21482,14 +21482,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.ma' => [
-		'suffix' => 'org.ma',
+	'net.ma' => [
+		'suffix' => 'net.ma',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ac.ma' => [
-		'suffix' => 'ac.ma',
+	'org.ma' => [
+		'suffix' => 'org.ma',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21507,14 +21507,14 @@ return [
 			'mc : http://www.nic.mc/',
 		],
 	],
-	'tm.mc' => [
-		'suffix' => 'tm.mc',
+	'asso.mc' => [
+		'suffix' => 'asso.mc',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'asso.mc' => [
-		'suffix' => 'asso.mc',
+	'tm.mc' => [
+		'suffix' => 'tm.mc',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21533,32 +21533,20 @@ return [
 			'me : https://www.iana.org/domains/root/db/me.html',
 		],
 	],
+	'ac.me' => [
+		'suffix' => 'ac.me',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'co.me' => [
 		'suffix' => 'co.me',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'net.me' => [
-		'suffix' => 'net.me',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.me' => [
-		'suffix' => 'org.me',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'edu.me' => [
 		'suffix' => 'edu.me',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ac.me' => [
-		'suffix' => 'ac.me',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21571,6 +21559,18 @@ return [
 	],
 	'its.me' => [
 		'suffix' => 'its.me',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.me' => [
+		'suffix' => 'net.me',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.me' => [
+		'suffix' => 'org.me',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21664,18 +21664,6 @@ return [
 		'comments' => [
 		],
 	],
-	'org.mk' => [
-		'suffix' => 'org.mk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.mk' => [
-		'suffix' => 'net.mk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'edu.mk' => [
 		'suffix' => 'edu.mk',
 		'type' => 'ICANN',
@@ -21696,6 +21684,18 @@ return [
 	],
 	'name.mk' => [
 		'suffix' => 'name.mk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.mk' => [
+		'suffix' => 'net.mk',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.mk' => [
+		'suffix' => 'org.mk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21764,14 +21764,14 @@ return [
 			'mn : https://www.iana.org/domains/root/db/mn.html',
 		],
 	],
-	'gov.mn' => [
-		'suffix' => 'gov.mn',
+	'edu.mn' => [
+		'suffix' => 'edu.mn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'edu.mn' => [
-		'suffix' => 'edu.mn',
+	'gov.mn' => [
+		'suffix' => 'gov.mn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21795,18 +21795,6 @@ return [
 		'comments' => [
 		],
 	],
-	'net.mo' => [
-		'suffix' => 'net.mo',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.mo' => [
-		'suffix' => 'org.mo',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'edu.mo' => [
 		'suffix' => 'edu.mo',
 		'type' => 'ICANN',
@@ -21815,6 +21803,18 @@ return [
 	],
 	'gov.mo' => [
 		'suffix' => 'gov.mo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.mo' => [
+		'suffix' => 'net.mo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.mo' => [
+		'suffix' => 'org.mo',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -21930,30 +21930,6 @@ return [
 			'mu : https://www.iana.org/domains/root/db/mu.html',
 		],
 	],
-	'com.mu' => [
-		'suffix' => 'com.mu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.mu' => [
-		'suffix' => 'net.mu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.mu' => [
-		'suffix' => 'org.mu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.mu' => [
-		'suffix' => 'gov.mu',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'ac.mu' => [
 		'suffix' => 'ac.mu',
 		'type' => 'ICANN',
@@ -21966,8 +21942,32 @@ return [
 		'comments' => [
 		],
 	],
+	'com.mu' => [
+		'suffix' => 'com.mu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.mu' => [
+		'suffix' => 'gov.mu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.mu' => [
+		'suffix' => 'net.mu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'or.mu' => [
 		'suffix' => 'or.mu',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.mu' => [
+		'suffix' => 'org.mu',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22152,8 +22152,8 @@ return [
 		'comments' => [
 		],
 	],
-	'org.mx' => [
-		'suffix' => 'org.mx',
+	'edu.mx' => [
+		'suffix' => 'edu.mx',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22164,14 +22164,14 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.mx' => [
-		'suffix' => 'edu.mx',
+	'net.mx' => [
+		'suffix' => 'net.mx',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'net.mx' => [
-		'suffix' => 'net.mx',
+	'org.mx' => [
+		'suffix' => 'org.mx',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22378,38 +22378,14 @@ return [
 			'nf : https://www.iana.org/domains/root/db/nf.html',
 		],
 	],
-	'com.nf' => [
-		'suffix' => 'com.nf',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.nf' => [
-		'suffix' => 'net.nf',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'per.nf' => [
-		'suffix' => 'per.nf',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'rec.nf' => [
-		'suffix' => 'rec.nf',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'web.nf' => [
-		'suffix' => 'web.nf',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'arts.nf' => [
 		'suffix' => 'arts.nf',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.nf' => [
+		'suffix' => 'com.nf',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22426,14 +22402,38 @@ return [
 		'comments' => [
 		],
 	],
+	'net.nf' => [
+		'suffix' => 'net.nf',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'other.nf' => [
 		'suffix' => 'other.nf',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
+	'per.nf' => [
+		'suffix' => 'per.nf',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'rec.nf' => [
+		'suffix' => 'rec.nf',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'store.nf' => [
 		'suffix' => 'store.nf',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'web.nf' => [
+		'suffix' => 'web.nf',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22623,8 +22623,8 @@ return [
 			'Norid category second level domains : https://www.norid.no/en/om-domenenavn/regelverk-for-no/vedlegg-c/',
 		],
 	],
-	'vgs.no' => [
-		'suffix' => 'vgs.no',
+	'folkebibl.no' => [
+		'suffix' => 'folkebibl.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22635,8 +22635,8 @@ return [
 		'comments' => [
 		],
 	],
-	'folkebibl.no' => [
-		'suffix' => 'folkebibl.no',
+	'idrett.no' => [
+		'suffix' => 'idrett.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22647,33 +22647,27 @@ return [
 		'comments' => [
 		],
 	],
-	'idrett.no' => [
-		'suffix' => 'idrett.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'priv.no' => [
 		'suffix' => 'priv.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'mil.no' => [
-		'suffix' => 'mil.no',
-		'type' => 'ICANN',
-		'comments' => [
-			'Norid category second-level domains managed by parties other than Norid : https://www.norid.no/en/om-domenenavn/regelverk-for-no/vedlegg-d/',
-		],
-	],
-	'stat.no' => [
-		'suffix' => 'stat.no',
+	'vgs.no' => [
+		'suffix' => 'vgs.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'dep.no' => [
 		'suffix' => 'dep.no',
+		'type' => 'ICANN',
+		'comments' => [
+			'Norid category second-level domains managed by parties other than Norid : https://www.norid.no/en/om-domenenavn/regelverk-for-no/vedlegg-d/',
+		],
+	],
+	'herad.no' => [
+		'suffix' => 'herad.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22684,8 +22678,14 @@ return [
 		'comments' => [
 		],
 	],
-	'herad.no' => [
-		'suffix' => 'herad.no',
+	'mil.no' => [
+		'suffix' => 'mil.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'stat.no' => [
+		'suffix' => 'stat.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -22976,18 +22976,6 @@ return [
 		'comments' => [
 		],
 	],
-	'brumunddal.no' => [
-		'suffix' => 'brumunddal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'bryne.no' => [
-		'suffix' => 'bryne.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'bronnoysund.no' => [
 		'suffix' => 'bronnoysund.no',
 		'type' => 'ICANN',
@@ -22996,6 +22984,18 @@ return [
 	],
 	'brønnøysund.no' => [
 		'suffix' => 'brønnøysund.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'brumunddal.no' => [
+		'suffix' => 'brumunddal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bryne.no' => [
+		'suffix' => 'bryne.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23252,11 +23252,23 @@ return [
 		'comments' => [
 		],
 	],
+	'aarborte.no' => [
+		'suffix' => 'aarborte.no',
+		'type' => 'ICANN',
+		'comments' => [
+			'communities',
+		],
+	],
+	'aejrie.no' => [
+		'suffix' => 'aejrie.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'afjord.no' => [
 		'suffix' => 'afjord.no',
 		'type' => 'ICANN',
 		'comments' => [
-			'communities',
 		],
 	],
 	'åfjord.no' => [
@@ -23271,6 +23283,24 @@ return [
 		'comments' => [
 		],
 	],
+	'nes.akershus.no' => [
+		'suffix' => 'nes.akershus.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'aknoluokta.no' => [
+		'suffix' => 'aknoluokta.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ákŋoluokta.no' => [
+		'suffix' => 'ákŋoluokta.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'al.no' => [
 		'suffix' => 'al.no',
 		'type' => 'ICANN',
@@ -23279,6 +23309,18 @@ return [
 	],
 	'ål.no' => [
 		'suffix' => 'ål.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'alaheadju.no' => [
+		'suffix' => 'alaheadju.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'álaheadju.no' => [
+		'suffix' => 'álaheadju.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23313,18 +23355,6 @@ return [
 		'comments' => [
 		],
 	],
-	'alaheadju.no' => [
-		'suffix' => 'alaheadju.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'álaheadju.no' => [
-		'suffix' => 'álaheadju.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'alvdal.no' => [
 		'suffix' => 'alvdal.no',
 		'type' => 'ICANN',
@@ -23355,6 +23385,12 @@ return [
 		'comments' => [
 		],
 	],
+	'andasuolo.no' => [
+		'suffix' => 'andasuolo.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'andebu.no' => [
 		'suffix' => 'andebu.no',
 		'type' => 'ICANN',
@@ -23369,12 +23405,6 @@ return [
 	],
 	'andøy.no' => [
 		'suffix' => 'andøy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'andasuolo.no' => [
-		'suffix' => 'andasuolo.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23433,12 +23463,6 @@ return [
 		'comments' => [
 		],
 	],
-	'askvoll.no' => [
-		'suffix' => 'askvoll.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'askoy.no' => [
 		'suffix' => 'askoy.no',
 		'type' => 'ICANN',
@@ -23447,6 +23471,12 @@ return [
 	],
 	'askøy.no' => [
 		'suffix' => 'askøy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'askvoll.no' => [
+		'suffix' => 'askvoll.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23523,32 +23553,32 @@ return [
 		'comments' => [
 		],
 	],
-	'balestrand.no' => [
-		'suffix' => 'balestrand.no',
+	'badaddja.no' => [
+		'suffix' => 'badaddja.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ballangen.no' => [
-		'suffix' => 'ballangen.no',
+	'bådåddjå.no' => [
+		'suffix' => 'bådåddjå.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'balat.no' => [
-		'suffix' => 'balat.no',
+	'bærum.no' => [
+		'suffix' => 'bærum.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bálát.no' => [
-		'suffix' => 'bálát.no',
+	'bahcavuotna.no' => [
+		'suffix' => 'bahcavuotna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'balsfjord.no' => [
-		'suffix' => 'balsfjord.no',
+	'báhcavuotna.no' => [
+		'suffix' => 'báhcavuotna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23565,26 +23595,14 @@ return [
 		'comments' => [
 		],
 	],
-	'bamble.no' => [
-		'suffix' => 'bamble.no',
+	'baidar.no' => [
+		'suffix' => 'baidar.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bardu.no' => [
-		'suffix' => 'bardu.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'beardu.no' => [
-		'suffix' => 'beardu.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'beiarn.no' => [
-		'suffix' => 'beiarn.no',
+	'báidár.no' => [
+		'suffix' => 'báidár.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23601,14 +23619,86 @@ return [
 		'comments' => [
 		],
 	],
-	'baidar.no' => [
-		'suffix' => 'baidar.no',
+	'balat.no' => [
+		'suffix' => 'balat.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'báidár.no' => [
-		'suffix' => 'báidár.no',
+	'bálát.no' => [
+		'suffix' => 'bálát.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'balestrand.no' => [
+		'suffix' => 'balestrand.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ballangen.no' => [
+		'suffix' => 'ballangen.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'balsfjord.no' => [
+		'suffix' => 'balsfjord.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bamble.no' => [
+		'suffix' => 'bamble.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bardu.no' => [
+		'suffix' => 'bardu.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'barum.no' => [
+		'suffix' => 'barum.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'batsfjord.no' => [
+		'suffix' => 'batsfjord.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'båtsfjord.no' => [
+		'suffix' => 'båtsfjord.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bearalvahki.no' => [
+		'suffix' => 'bearalvahki.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bearalváhki.no' => [
+		'suffix' => 'bearalváhki.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'beardu.no' => [
+		'suffix' => 'beardu.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'beiarn.no' => [
+		'suffix' => 'beiarn.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23637,14 +23727,14 @@ return [
 		'comments' => [
 		],
 	],
-	'bearalvahki.no' => [
-		'suffix' => 'bearalvahki.no',
+	'bievat.no' => [
+		'suffix' => 'bievat.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bearalváhki.no' => [
-		'suffix' => 'bearalváhki.no',
+	'bievát.no' => [
+		'suffix' => 'bievát.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23697,26 +23787,20 @@ return [
 		'comments' => [
 		],
 	],
-	'badaddja.no' => [
-		'suffix' => 'badaddja.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'bådåddjå.no' => [
-		'suffix' => 'bådåddjå.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'budejju.no' => [
-		'suffix' => 'budejju.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'bokn.no' => [
 		'suffix' => 'bokn.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bomlo.no' => [
+		'suffix' => 'bomlo.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bømlo.no' => [
+		'suffix' => 'bømlo.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23739,6 +23823,18 @@ return [
 		'comments' => [
 		],
 	],
+	'budejju.no' => [
+		'suffix' => 'budejju.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'nes.buskerud.no' => [
+		'suffix' => 'nes.buskerud.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'bygland.no' => [
 		'suffix' => 'bygland.no',
 		'type' => 'ICANN',
@@ -23751,86 +23847,68 @@ return [
 		'comments' => [
 		],
 	],
-	'barum.no' => [
-		'suffix' => 'barum.no',
+	'cahcesuolo.no' => [
+		'suffix' => 'cahcesuolo.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bærum.no' => [
-		'suffix' => 'bærum.no',
+	'čáhcesuolo.no' => [
+		'suffix' => 'čáhcesuolo.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bo.telemark.no' => [
-		'suffix' => 'bo.telemark.no',
+	'davvenjarga.no' => [
+		'suffix' => 'davvenjarga.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bø.telemark.no' => [
-		'suffix' => 'bø.telemark.no',
+	'davvenjárga.no' => [
+		'suffix' => 'davvenjárga.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bo.nordland.no' => [
-		'suffix' => 'bo.nordland.no',
+	'davvesiida.no' => [
+		'suffix' => 'davvesiida.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bø.nordland.no' => [
-		'suffix' => 'bø.nordland.no',
+	'deatnu.no' => [
+		'suffix' => 'deatnu.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bievat.no' => [
-		'suffix' => 'bievat.no',
+	'dielddanuorri.no' => [
+		'suffix' => 'dielddanuorri.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bievát.no' => [
-		'suffix' => 'bievát.no',
+	'divtasvuodna.no' => [
+		'suffix' => 'divtasvuodna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bomlo.no' => [
-		'suffix' => 'bomlo.no',
+	'divttasvuotna.no' => [
+		'suffix' => 'divttasvuotna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'bømlo.no' => [
-		'suffix' => 'bømlo.no',
+	'donna.no' => [
+		'suffix' => 'donna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'batsfjord.no' => [
-		'suffix' => 'batsfjord.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'båtsfjord.no' => [
-		'suffix' => 'båtsfjord.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'bahcavuotna.no' => [
-		'suffix' => 'bahcavuotna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'báhcavuotna.no' => [
-		'suffix' => 'báhcavuotna.no',
+	'dønna.no' => [
+		'suffix' => 'dønna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23861,18 +23939,6 @@ return [
 	],
 	'dyrøy.no' => [
 		'suffix' => 'dyrøy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'donna.no' => [
-		'suffix' => 'donna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'dønna.no' => [
-		'suffix' => 'dønna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23943,12 +24009,6 @@ return [
 		'comments' => [
 		],
 	],
-	'evenes.no' => [
-		'suffix' => 'evenes.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'evenassi.no' => [
 		'suffix' => 'evenassi.no',
 		'type' => 'ICANN',
@@ -23957,6 +24017,12 @@ return [
 	],
 	'evenášši.no' => [
 		'suffix' => 'evenášši.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'evenes.no' => [
+		'suffix' => 'evenes.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23975,18 +24041,6 @@ return [
 	],
 	'fauske.no' => [
 		'suffix' => 'fauske.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'fuossko.no' => [
-		'suffix' => 'fuossko.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'fuoisku.no' => [
-		'suffix' => 'fuoisku.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24033,6 +24087,18 @@ return [
 		'comments' => [
 		],
 	],
+	'fla.no' => [
+		'suffix' => 'fla.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'flå.no' => [
+		'suffix' => 'flå.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'flakstad.no' => [
 		'suffix' => 'flakstad.no',
 		'type' => 'ICANN',
@@ -24063,20 +24129,20 @@ return [
 		'comments' => [
 		],
 	],
-	'fla.no' => [
-		'suffix' => 'fla.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'flå.no' => [
-		'suffix' => 'flå.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'folldal.no' => [
 		'suffix' => 'folldal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'forde.no' => [
+		'suffix' => 'forde.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'førde.no' => [
+		'suffix' => 'førde.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24089,6 +24155,18 @@ return [
 	],
 	'fosnes.no' => [
 		'suffix' => 'fosnes.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'fræna.no' => [
+		'suffix' => 'fræna.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'frana.no' => [
+		'suffix' => 'frana.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24117,18 +24195,6 @@ return [
 		'comments' => [
 		],
 	],
-	'frana.no' => [
-		'suffix' => 'frana.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'fræna.no' => [
-		'suffix' => 'fræna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'froya.no' => [
 		'suffix' => 'froya.no',
 		'type' => 'ICANN',
@@ -24137,6 +24203,18 @@ return [
 	],
 	'frøya.no' => [
 		'suffix' => 'frøya.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'fuoisku.no' => [
+		'suffix' => 'fuoisku.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'fuossko.no' => [
+		'suffix' => 'fuossko.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24153,14 +24231,26 @@ return [
 		'comments' => [
 		],
 	],
-	'forde.no' => [
-		'suffix' => 'forde.no',
+	'gaivuotna.no' => [
+		'suffix' => 'gaivuotna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'førde.no' => [
-		'suffix' => 'førde.no',
+	'gáivuotna.no' => [
+		'suffix' => 'gáivuotna.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'galsa.no' => [
+		'suffix' => 'galsa.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gálsá.no' => [
+		'suffix' => 'gálsá.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24191,6 +24281,12 @@ return [
 	],
 	'gausdal.no' => [
 		'suffix' => 'gausdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'giehtavuoatna.no' => [
+		'suffix' => 'giehtavuoatna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24297,18 +24393,6 @@ return [
 		'comments' => [
 		],
 	],
-	'kraanghke.no' => [
-		'suffix' => 'kraanghke.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'kråanghke.no' => [
-		'suffix' => 'kråanghke.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'grue.no' => [
 		'suffix' => 'grue.no',
 		'type' => 'ICANN',
@@ -24321,8 +24405,50 @@ return [
 		'comments' => [
 		],
 	],
+	'guovdageaidnu.no' => [
+		'suffix' => 'guovdageaidnu.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ha.no' => [
+		'suffix' => 'ha.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hå.no' => [
+		'suffix' => 'hå.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'habmer.no' => [
+		'suffix' => 'habmer.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hábmer.no' => [
+		'suffix' => 'hábmer.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'hadsel.no' => [
 		'suffix' => 'hadsel.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hægebostad.no' => [
+		'suffix' => 'hægebostad.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hagebostad.no' => [
+		'suffix' => 'hagebostad.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24351,14 +24477,20 @@ return [
 		'comments' => [
 		],
 	],
-	'habmer.no' => [
-		'suffix' => 'habmer.no',
+	'hammarfeasta.no' => [
+		'suffix' => 'hammarfeasta.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'hábmer.no' => [
-		'suffix' => 'hábmer.no',
+	'hámmárfeasta.no' => [
+		'suffix' => 'hámmárfeasta.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hammerfest.no' => [
+		'suffix' => 'hammerfest.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24371,24 +24503,6 @@ return [
 	],
 	'hápmir.no' => [
 		'suffix' => 'hápmir.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hammerfest.no' => [
-		'suffix' => 'hammerfest.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hammarfeasta.no' => [
-		'suffix' => 'hammarfeasta.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hámmárfeasta.no' => [
-		'suffix' => 'hámmárfeasta.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24417,32 +24531,32 @@ return [
 		'comments' => [
 		],
 	],
-	'aknoluokta.no' => [
-		'suffix' => 'aknoluokta.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ákŋoluokta.no' => [
-		'suffix' => 'ákŋoluokta.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'hattfjelldal.no' => [
 		'suffix' => 'hattfjelldal.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'aarborte.no' => [
-		'suffix' => 'aarborte.no',
+	'haugesund.no' => [
+		'suffix' => 'haugesund.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'haugesund.no' => [
-		'suffix' => 'haugesund.no',
+	'os.hedmark.no' => [
+		'suffix' => 'os.hedmark.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'valer.hedmark.no' => [
+		'suffix' => 'valer.hedmark.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'våler.hedmark.no' => [
+		'suffix' => 'våler.hedmark.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24461,30 +24575,6 @@ return [
 	],
 	'hemsedal.no' => [
 		'suffix' => 'hemsedal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'heroy.more-og-romsdal.no' => [
-		'suffix' => 'heroy.more-og-romsdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'herøy.møre-og-romsdal.no' => [
-		'suffix' => 'herøy.møre-og-romsdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'heroy.nordland.no' => [
-		'suffix' => 'heroy.nordland.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'herøy.nordland.no' => [
-		'suffix' => 'herøy.nordland.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24555,6 +24645,12 @@ return [
 		'comments' => [
 		],
 	],
+	'os.hordaland.no' => [
+		'suffix' => 'os.hordaland.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'hornindal.no' => [
 		'suffix' => 'hornindal.no',
 		'type' => 'ICANN',
@@ -24563,42 +24659,6 @@ return [
 	],
 	'horten.no' => [
 		'suffix' => 'horten.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hurdal.no' => [
-		'suffix' => 'hurdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hurum.no' => [
-		'suffix' => 'hurum.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hvaler.no' => [
-		'suffix' => 'hvaler.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hyllestad.no' => [
-		'suffix' => 'hyllestad.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hagebostad.no' => [
-		'suffix' => 'hagebostad.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hægebostad.no' => [
-		'suffix' => 'hægebostad.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24627,14 +24687,26 @@ return [
 		'comments' => [
 		],
 	],
-	'ha.no' => [
-		'suffix' => 'ha.no',
+	'hurdal.no' => [
+		'suffix' => 'hurdal.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'hå.no' => [
-		'suffix' => 'hå.no',
+	'hurum.no' => [
+		'suffix' => 'hurum.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hvaler.no' => [
+		'suffix' => 'hvaler.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hyllestad.no' => [
+		'suffix' => 'hyllestad.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24663,14 +24735,14 @@ return [
 		'comments' => [
 		],
 	],
-	'jevnaker.no' => [
-		'suffix' => 'jevnaker.no',
+	'ivgu.no' => [
+		'suffix' => 'ivgu.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'jondal.no' => [
-		'suffix' => 'jondal.no',
+	'jevnaker.no' => [
+		'suffix' => 'jevnaker.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24687,8 +24759,20 @@ return [
 		'comments' => [
 		],
 	],
-	'karasjok.no' => [
-		'suffix' => 'karasjok.no',
+	'jondal.no' => [
+		'suffix' => 'jondal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kafjord.no' => [
+		'suffix' => 'kafjord.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kåfjord.no' => [
+		'suffix' => 'kåfjord.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24705,20 +24789,14 @@ return [
 		'comments' => [
 		],
 	],
+	'karasjok.no' => [
+		'suffix' => 'karasjok.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'karlsoy.no' => [
 		'suffix' => 'karlsoy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'galsa.no' => [
-		'suffix' => 'galsa.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gálsá.no' => [
-		'suffix' => 'gálsá.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24741,18 +24819,6 @@ return [
 		'comments' => [
 		],
 	],
-	'guovdageaidnu.no' => [
-		'suffix' => 'guovdageaidnu.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'klepp.no' => [
-		'suffix' => 'klepp.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'klabu.no' => [
 		'suffix' => 'klabu.no',
 		'type' => 'ICANN',
@@ -24765,6 +24831,12 @@ return [
 		'comments' => [
 		],
 	],
+	'klepp.no' => [
+		'suffix' => 'klepp.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'kongsberg.no' => [
 		'suffix' => 'kongsberg.no',
 		'type' => 'ICANN',
@@ -24773,6 +24845,18 @@ return [
 	],
 	'kongsvinger.no' => [
 		'suffix' => 'kongsvinger.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kraanghke.no' => [
+		'suffix' => 'kraanghke.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kråanghke.no' => [
+		'suffix' => 'kråanghke.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24813,26 +24897,38 @@ return [
 		'comments' => [
 		],
 	],
+	'kvæfjord.no' => [
+		'suffix' => 'kvæfjord.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kvænangen.no' => [
+		'suffix' => 'kvænangen.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kvafjord.no' => [
+		'suffix' => 'kvafjord.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'kvalsund.no' => [
 		'suffix' => 'kvalsund.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'rahkkeravju.no' => [
-		'suffix' => 'rahkkeravju.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ráhkkerávju.no' => [
-		'suffix' => 'ráhkkerávju.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'kvam.no' => [
 		'suffix' => 'kvam.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kvanangen.no' => [
+		'suffix' => 'kvanangen.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24867,68 +24963,32 @@ return [
 		'comments' => [
 		],
 	],
-	'kvafjord.no' => [
-		'suffix' => 'kvafjord.no',
+	'laakesvuemie.no' => [
+		'suffix' => 'laakesvuemie.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'kvæfjord.no' => [
-		'suffix' => 'kvæfjord.no',
+	'lærdal.no' => [
+		'suffix' => 'lærdal.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'giehtavuoatna.no' => [
-		'suffix' => 'giehtavuoatna.no',
+	'lahppi.no' => [
+		'suffix' => 'lahppi.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'kvanangen.no' => [
-		'suffix' => 'kvanangen.no',
+	'láhppi.no' => [
+		'suffix' => 'láhppi.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'kvænangen.no' => [
-		'suffix' => 'kvænangen.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'navuotna.no' => [
-		'suffix' => 'navuotna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'návuotna.no' => [
-		'suffix' => 'návuotna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'kafjord.no' => [
-		'suffix' => 'kafjord.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'kåfjord.no' => [
-		'suffix' => 'kåfjord.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gaivuotna.no' => [
-		'suffix' => 'gaivuotna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gáivuotna.no' => [
-		'suffix' => 'gáivuotna.no',
+	'lardal.no' => [
+		'suffix' => 'lardal.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24939,38 +24999,32 @@ return [
 		'comments' => [
 		],
 	],
-	'lavangen.no' => [
-		'suffix' => 'lavangen.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'lavagis.no' => [
 		'suffix' => 'lavagis.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'loabat.no' => [
-		'suffix' => 'loabat.no',
+	'lavangen.no' => [
+		'suffix' => 'lavangen.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'loabát.no' => [
-		'suffix' => 'loabát.no',
+	'leangaviika.no' => [
+		'suffix' => 'leangaviika.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'leaŋgaviika.no' => [
+		'suffix' => 'leaŋgaviika.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'lebesby.no' => [
 		'suffix' => 'lebesby.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'davvesiida.no' => [
-		'suffix' => 'davvesiida.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25005,14 +25059,8 @@ return [
 		'comments' => [
 		],
 	],
-	'leangaviika.no' => [
-		'suffix' => 'leangaviika.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'leaŋgaviika.no' => [
-		'suffix' => 'leaŋgaviika.no',
+	'lerdal.no' => [
+		'suffix' => 'lerdal.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25053,12 +25101,6 @@ return [
 		'comments' => [
 		],
 	],
-	'lindesnes.no' => [
-		'suffix' => 'lindesnes.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'lindas.no' => [
 		'suffix' => 'lindas.no',
 		'type' => 'ICANN',
@@ -25067,6 +25109,36 @@ return [
 	],
 	'lindås.no' => [
 		'suffix' => 'lindås.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lindesnes.no' => [
+		'suffix' => 'lindesnes.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'loabat.no' => [
+		'suffix' => 'loabat.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'loabát.no' => [
+		'suffix' => 'loabát.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lodingen.no' => [
+		'suffix' => 'lodingen.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lødingen.no' => [
+		'suffix' => 'lødingen.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25083,14 +25155,26 @@ return [
 		'comments' => [
 		],
 	],
-	'lahppi.no' => [
-		'suffix' => 'lahppi.no',
+	'lorenskog.no' => [
+		'suffix' => 'lorenskog.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'láhppi.no' => [
-		'suffix' => 'láhppi.no',
+	'lørenskog.no' => [
+		'suffix' => 'lørenskog.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'loten.no' => [
+		'suffix' => 'loten.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'løten.no' => [
+		'suffix' => 'løten.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25137,92 +25221,32 @@ return [
 		'comments' => [
 		],
 	],
-	'ivgu.no' => [
-		'suffix' => 'ivgu.no',
+	'malatvuopmi.no' => [
+		'suffix' => 'malatvuopmi.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'lardal.no' => [
-		'suffix' => 'lardal.no',
+	'málatvuopmi.no' => [
+		'suffix' => 'málatvuopmi.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'lerdal.no' => [
-		'suffix' => 'lerdal.no',
+	'malselv.no' => [
+		'suffix' => 'malselv.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'lærdal.no' => [
-		'suffix' => 'lærdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lodingen.no' => [
-		'suffix' => 'lodingen.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lødingen.no' => [
-		'suffix' => 'lødingen.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lorenskog.no' => [
-		'suffix' => 'lorenskog.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lørenskog.no' => [
-		'suffix' => 'lørenskog.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'loten.no' => [
-		'suffix' => 'loten.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'løten.no' => [
-		'suffix' => 'løten.no',
+	'målselv.no' => [
+		'suffix' => 'målselv.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'malvik.no' => [
 		'suffix' => 'malvik.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'masoy.no' => [
-		'suffix' => 'masoy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'måsøy.no' => [
-		'suffix' => 'måsøy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'muosat.no' => [
-		'suffix' => 'muosat.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'muosát.no' => [
-		'suffix' => 'muosát.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25247,6 +25271,30 @@ return [
 	],
 	'masfjorden.no' => [
 		'suffix' => 'masfjorden.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'masoy.no' => [
+		'suffix' => 'masoy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'måsøy.no' => [
+		'suffix' => 'måsøy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'matta-varjjat.no' => [
+		'suffix' => 'matta-varjjat.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mátta-várjjat.no' => [
+		'suffix' => 'mátta-várjjat.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25293,18 +25341,6 @@ return [
 		'comments' => [
 		],
 	],
-	'moareke.no' => [
-		'suffix' => 'moareke.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'moåreke.no' => [
-		'suffix' => 'moåreke.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'midsund.no' => [
 		'suffix' => 'midsund.no',
 		'type' => 'ICANN',
@@ -25313,6 +25349,18 @@ return [
 	],
 	'midtre-gauldal.no' => [
 		'suffix' => 'midtre-gauldal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'moareke.no' => [
+		'suffix' => 'moareke.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'moåreke.no' => [
+		'suffix' => 'moåreke.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25335,6 +25383,30 @@ return [
 		'comments' => [
 		],
 	],
+	'heroy.more-og-romsdal.no' => [
+		'suffix' => 'heroy.more-og-romsdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sande.more-og-romsdal.no' => [
+		'suffix' => 'sande.more-og-romsdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'herøy.møre-og-romsdal.no' => [
+		'suffix' => 'herøy.møre-og-romsdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sande.møre-og-romsdal.no' => [
+		'suffix' => 'sande.møre-og-romsdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'moskenes.no' => [
 		'suffix' => 'moskenes.no',
 		'type' => 'ICANN',
@@ -25353,50 +25425,14 @@ return [
 		'comments' => [
 		],
 	],
-	'malselv.no' => [
-		'suffix' => 'malselv.no',
+	'muosat.no' => [
+		'suffix' => 'muosat.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'målselv.no' => [
-		'suffix' => 'målselv.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'malatvuopmi.no' => [
-		'suffix' => 'malatvuopmi.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'málatvuopmi.no' => [
-		'suffix' => 'málatvuopmi.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'namdalseid.no' => [
-		'suffix' => 'namdalseid.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'aejrie.no' => [
-		'suffix' => 'aejrie.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'namsos.no' => [
-		'suffix' => 'namsos.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'namsskogan.no' => [
-		'suffix' => 'namsskogan.no',
+	'muosát.no' => [
+		'suffix' => 'muosát.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25413,8 +25449,26 @@ return [
 		'comments' => [
 		],
 	],
-	'laakesvuemie.no' => [
-		'suffix' => 'laakesvuemie.no',
+	'nærøy.no' => [
+		'suffix' => 'nærøy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'namdalseid.no' => [
+		'suffix' => 'namdalseid.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'namsos.no' => [
+		'suffix' => 'namsos.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'namsskogan.no' => [
+		'suffix' => 'namsskogan.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25425,8 +25479,8 @@ return [
 		'comments' => [
 		],
 	],
-	'narvik.no' => [
-		'suffix' => 'narvik.no',
+	'naroy.no' => [
+		'suffix' => 'naroy.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25437,26 +25491,32 @@ return [
 		'comments' => [
 		],
 	],
+	'narvik.no' => [
+		'suffix' => 'narvik.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'naustdal.no' => [
 		'suffix' => 'naustdal.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
+	'navuotna.no' => [
+		'suffix' => 'navuotna.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'návuotna.no' => [
+		'suffix' => 'návuotna.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'nedre-eiker.no' => [
 		'suffix' => 'nedre-eiker.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'nes.akershus.no' => [
-		'suffix' => 'nes.akershus.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'nes.buskerud.no' => [
-		'suffix' => 'nes.buskerud.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25475,18 +25535,6 @@ return [
 	],
 	'nesseby.no' => [
 		'suffix' => 'nesseby.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'unjarga.no' => [
-		'suffix' => 'unjarga.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'unjárga.no' => [
-		'suffix' => 'unjárga.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25539,14 +25587,26 @@ return [
 		'comments' => [
 		],
 	],
-	'davvenjarga.no' => [
-		'suffix' => 'davvenjarga.no',
+	'bo.nordland.no' => [
+		'suffix' => 'bo.nordland.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'davvenjárga.no' => [
-		'suffix' => 'davvenjárga.no',
+	'bø.nordland.no' => [
+		'suffix' => 'bø.nordland.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'heroy.nordland.no' => [
+		'suffix' => 'heroy.nordland.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'herøy.nordland.no' => [
+		'suffix' => 'herøy.nordland.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25563,18 +25623,6 @@ return [
 		'comments' => [
 		],
 	],
-	'raisa.no' => [
-		'suffix' => 'raisa.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ráisa.no' => [
-		'suffix' => 'ráisa.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'nore-og-uvdal.no' => [
 		'suffix' => 'nore-og-uvdal.no',
 		'type' => 'ICANN',
@@ -25583,18 +25631,6 @@ return [
 	],
 	'notodden.no' => [
 		'suffix' => 'notodden.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'naroy.no' => [
-		'suffix' => 'naroy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'nærøy.no' => [
-		'suffix' => 'nærøy.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25625,6 +25661,12 @@ return [
 	],
 	'øksnes.no' => [
 		'suffix' => 'øksnes.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'omasvuotna.no' => [
+		'suffix' => 'omasvuotna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25689,18 +25731,6 @@ return [
 		'comments' => [
 		],
 	],
-	'os.hedmark.no' => [
-		'suffix' => 'os.hedmark.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'os.hordaland.no' => [
-		'suffix' => 'os.hordaland.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'osen.no' => [
 		'suffix' => 'osen.no',
 		'type' => 'ICANN',
@@ -25715,6 +25745,18 @@ return [
 	],
 	'osterøy.no' => [
 		'suffix' => 'osterøy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'valer.ostfold.no' => [
+		'suffix' => 'valer.ostfold.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'våler.østfold.no' => [
+		'suffix' => 'våler.østfold.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25809,6 +25851,18 @@ return [
 		'comments' => [
 		],
 	],
+	'rade.no' => [
+		'suffix' => 'rade.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'råde.no' => [
+		'suffix' => 'råde.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'radoy.no' => [
 		'suffix' => 'radoy.no',
 		'type' => 'ICANN',
@@ -25821,20 +25875,50 @@ return [
 		'comments' => [
 		],
 	],
+	'rælingen.no' => [
+		'suffix' => 'rælingen.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'rahkkeravju.no' => [
+		'suffix' => 'rahkkeravju.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ráhkkerávju.no' => [
+		'suffix' => 'ráhkkerávju.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'raisa.no' => [
+		'suffix' => 'raisa.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ráisa.no' => [
+		'suffix' => 'ráisa.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'rakkestad.no' => [
 		'suffix' => 'rakkestad.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'rana.no' => [
-		'suffix' => 'rana.no',
+	'ralingen.no' => [
+		'suffix' => 'ralingen.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ruovat.no' => [
-		'suffix' => 'ruovat.no',
+	'rana.no' => [
+		'suffix' => 'rana.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25899,12 +25983,6 @@ return [
 		'comments' => [
 		],
 	],
-	'rissa.no' => [
-		'suffix' => 'rissa.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'risor.no' => [
 		'suffix' => 'risor.no',
 		'type' => 'ICANN',
@@ -25917,32 +25995,14 @@ return [
 		'comments' => [
 		],
 	],
+	'rissa.no' => [
+		'suffix' => 'rissa.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'roan.no' => [
 		'suffix' => 'roan.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'rollag.no' => [
-		'suffix' => 'rollag.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'rygge.no' => [
-		'suffix' => 'rygge.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ralingen.no' => [
-		'suffix' => 'ralingen.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'rælingen.no' => [
-		'suffix' => 'rælingen.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25955,6 +26015,18 @@ return [
 	],
 	'rødøy.no' => [
 		'suffix' => 'rødøy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'rollag.no' => [
+		'suffix' => 'rollag.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'romsa.no' => [
+		'suffix' => 'romsa.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26019,14 +26091,14 @@ return [
 		'comments' => [
 		],
 	],
-	'rade.no' => [
-		'suffix' => 'rade.no',
+	'ruovat.no' => [
+		'suffix' => 'ruovat.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'råde.no' => [
-		'suffix' => 'råde.no',
+	'rygge.no' => [
+		'suffix' => 'rygge.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26037,26 +26109,8 @@ return [
 		'comments' => [
 		],
 	],
-	'siellak.no' => [
-		'suffix' => 'siellak.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'saltdal.no' => [
-		'suffix' => 'saltdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'salat.no' => [
 		'suffix' => 'salat.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sálát.no' => [
-		'suffix' => 'sálát.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26067,26 +26121,20 @@ return [
 		'comments' => [
 		],
 	],
+	'sálát.no' => [
+		'suffix' => 'sálát.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'saltdal.no' => [
+		'suffix' => 'saltdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'samnanger.no' => [
 		'suffix' => 'samnanger.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sande.more-og-romsdal.no' => [
-		'suffix' => 'sande.more-og-romsdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sande.møre-og-romsdal.no' => [
-		'suffix' => 'sande.møre-og-romsdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sande.vestfold.no' => [
-		'suffix' => 'sande.vestfold.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26157,6 +26205,12 @@ return [
 		'comments' => [
 		],
 	],
+	'siellak.no' => [
+		'suffix' => 'siellak.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'sigdal.no' => [
 		'suffix' => 'sigdal.no',
 		'type' => 'ICANN',
@@ -26171,6 +26225,30 @@ return [
 	],
 	'sirdal.no' => [
 		'suffix' => 'sirdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'skanit.no' => [
+		'suffix' => 'skanit.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'skánit.no' => [
+		'suffix' => 'skánit.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'skanland.no' => [
+		'suffix' => 'skanland.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'skånland.no' => [
+		'suffix' => 'skånland.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26199,24 +26277,6 @@ return [
 		'comments' => [
 		],
 	],
-	'skiptvet.no' => [
-		'suffix' => 'skiptvet.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'skjervoy.no' => [
-		'suffix' => 'skjervoy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'skjervøy.no' => [
-		'suffix' => 'skjervøy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'skierva.no' => [
 		'suffix' => 'skierva.no',
 		'type' => 'ICANN',
@@ -26225,6 +26285,12 @@ return [
 	],
 	'skiervá.no' => [
 		'suffix' => 'skiervá.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'skiptvet.no' => [
+		'suffix' => 'skiptvet.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26241,32 +26307,20 @@ return [
 		'comments' => [
 		],
 	],
+	'skjervoy.no' => [
+		'suffix' => 'skjervoy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'skjervøy.no' => [
+		'suffix' => 'skjervøy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'skodje.no' => [
 		'suffix' => 'skodje.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'skanland.no' => [
-		'suffix' => 'skanland.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'skånland.no' => [
-		'suffix' => 'skånland.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'skanit.no' => [
-		'suffix' => 'skanit.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'skánit.no' => [
-		'suffix' => 'skánit.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26283,8 +26337,14 @@ return [
 		'comments' => [
 		],
 	],
-	'snillfjord.no' => [
-		'suffix' => 'snillfjord.no',
+	'snaase.no' => [
+		'suffix' => 'snaase.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'snåase.no' => [
+		'suffix' => 'snåase.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26301,26 +26361,32 @@ return [
 		'comments' => [
 		],
 	],
+	'snillfjord.no' => [
+		'suffix' => 'snillfjord.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'snoasa.no' => [
 		'suffix' => 'snoasa.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'snaase.no' => [
-		'suffix' => 'snaase.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'snåase.no' => [
-		'suffix' => 'snåase.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'sogndal.no' => [
 		'suffix' => 'sogndal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sogne.no' => [
+		'suffix' => 'sogne.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'søgne.no' => [
+		'suffix' => 'søgne.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26343,14 +26409,122 @@ return [
 		'comments' => [
 		],
 	],
+	'somna.no' => [
+		'suffix' => 'somna.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sømna.no' => [
+		'suffix' => 'sømna.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sondre-land.no' => [
+		'suffix' => 'sondre-land.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'søndre-land.no' => [
+		'suffix' => 'søndre-land.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'songdalen.no' => [
 		'suffix' => 'songdalen.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
+	'sor-aurdal.no' => [
+		'suffix' => 'sor-aurdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sør-aurdal.no' => [
+		'suffix' => 'sør-aurdal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sor-fron.no' => [
+		'suffix' => 'sor-fron.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sør-fron.no' => [
+		'suffix' => 'sør-fron.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sor-odal.no' => [
+		'suffix' => 'sor-odal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sør-odal.no' => [
+		'suffix' => 'sør-odal.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sor-varanger.no' => [
+		'suffix' => 'sor-varanger.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sør-varanger.no' => [
+		'suffix' => 'sør-varanger.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sorfold.no' => [
+		'suffix' => 'sorfold.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sørfold.no' => [
+		'suffix' => 'sørfold.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sorreisa.no' => [
+		'suffix' => 'sorreisa.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sørreisa.no' => [
+		'suffix' => 'sørreisa.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'sortland.no' => [
 		'suffix' => 'sortland.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sorum.no' => [
+		'suffix' => 'sorum.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sørum.no' => [
+		'suffix' => 'sørum.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26427,12 +26601,6 @@ return [
 		'comments' => [
 		],
 	],
-	'omasvuotna.no' => [
-		'suffix' => 'omasvuotna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'strand.no' => [
 		'suffix' => 'strand.no',
 		'type' => 'ICANN',
@@ -26499,146 +26667,20 @@ return [
 		'comments' => [
 		],
 	],
-	'sogne.no' => [
-		'suffix' => 'sogne.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'søgne.no' => [
-		'suffix' => 'søgne.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'somna.no' => [
-		'suffix' => 'somna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sømna.no' => [
-		'suffix' => 'sømna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sondre-land.no' => [
-		'suffix' => 'sondre-land.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'søndre-land.no' => [
-		'suffix' => 'søndre-land.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sor-aurdal.no' => [
-		'suffix' => 'sor-aurdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sør-aurdal.no' => [
-		'suffix' => 'sør-aurdal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sor-fron.no' => [
-		'suffix' => 'sor-fron.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sør-fron.no' => [
-		'suffix' => 'sør-fron.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sor-odal.no' => [
-		'suffix' => 'sor-odal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sør-odal.no' => [
-		'suffix' => 'sør-odal.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sor-varanger.no' => [
-		'suffix' => 'sor-varanger.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sør-varanger.no' => [
-		'suffix' => 'sør-varanger.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'matta-varjjat.no' => [
-		'suffix' => 'matta-varjjat.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mátta-várjjat.no' => [
-		'suffix' => 'mátta-várjjat.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sorfold.no' => [
-		'suffix' => 'sorfold.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sørfold.no' => [
-		'suffix' => 'sørfold.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sorreisa.no' => [
-		'suffix' => 'sorreisa.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sørreisa.no' => [
-		'suffix' => 'sørreisa.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sorum.no' => [
-		'suffix' => 'sorum.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'sørum.no' => [
-		'suffix' => 'sørum.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'tana.no' => [
 		'suffix' => 'tana.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'deatnu.no' => [
-		'suffix' => 'deatnu.no',
+	'bo.telemark.no' => [
+		'suffix' => 'bo.telemark.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bø.telemark.no' => [
+		'suffix' => 'bø.telemark.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26667,12 +26709,6 @@ return [
 		'comments' => [
 		],
 	],
-	'dielddanuorri.no' => [
-		'suffix' => 'dielddanuorri.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'tjome.no' => [
 		'suffix' => 'tjome.no',
 		'type' => 'ICANN',
@@ -26697,8 +26733,32 @@ return [
 		'comments' => [
 		],
 	],
+	'tonsberg.no' => [
+		'suffix' => 'tonsberg.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tønsberg.no' => [
+		'suffix' => 'tønsberg.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'torsken.no' => [
 		'suffix' => 'torsken.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'træna.no' => [
+		'suffix' => 'træna.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'trana.no' => [
+		'suffix' => 'trana.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26715,56 +26775,8 @@ return [
 		'comments' => [
 		],
 	],
-	'tromso.no' => [
-		'suffix' => 'tromso.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'tromsø.no' => [
-		'suffix' => 'tromsø.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'tromsa.no' => [
-		'suffix' => 'tromsa.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'romsa.no' => [
-		'suffix' => 'romsa.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'trondheim.no' => [
-		'suffix' => 'trondheim.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'troandin.no' => [
 		'suffix' => 'troandin.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'trysil.no' => [
-		'suffix' => 'trysil.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'trana.no' => [
-		'suffix' => 'trana.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'træna.no' => [
-		'suffix' => 'træna.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26777,6 +26789,36 @@ return [
 	],
 	'trøgstad.no' => [
 		'suffix' => 'trøgstad.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tromsa.no' => [
+		'suffix' => 'tromsa.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tromso.no' => [
+		'suffix' => 'tromso.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tromsø.no' => [
+		'suffix' => 'tromsø.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'trondheim.no' => [
+		'suffix' => 'trondheim.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'trysil.no' => [
+		'suffix' => 'trysil.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26805,26 +26847,8 @@ return [
 		'comments' => [
 		],
 	],
-	'divtasvuodna.no' => [
-		'suffix' => 'divtasvuodna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'divttasvuotna.no' => [
-		'suffix' => 'divttasvuotna.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'tysnes.no' => [
 		'suffix' => 'tysnes.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'tysvar.no' => [
-		'suffix' => 'tysvar.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26835,14 +26859,8 @@ return [
 		'comments' => [
 		],
 	],
-	'tonsberg.no' => [
-		'suffix' => 'tonsberg.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'tønsberg.no' => [
-		'suffix' => 'tønsberg.no',
+	'tysvar.no' => [
+		'suffix' => 'tysvar.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26865,8 +26883,26 @@ return [
 		'comments' => [
 		],
 	],
+	'unjarga.no' => [
+		'suffix' => 'unjarga.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'unjárga.no' => [
+		'suffix' => 'unjárga.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'utsira.no' => [
 		'suffix' => 'utsira.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vaapste.no' => [
+		'suffix' => 'vaapste.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26883,14 +26919,44 @@ return [
 		'comments' => [
 		],
 	],
-	'cahcesuolo.no' => [
-		'suffix' => 'cahcesuolo.no',
+	'værøy.no' => [
+		'suffix' => 'værøy.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'čáhcesuolo.no' => [
-		'suffix' => 'čáhcesuolo.no',
+	'vaga.no' => [
+		'suffix' => 'vaga.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vågå.no' => [
+		'suffix' => 'vågå.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vagan.no' => [
+		'suffix' => 'vagan.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vågan.no' => [
+		'suffix' => 'vågan.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vagsoy.no' => [
+		'suffix' => 'vagsoy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vågsøy.no' => [
+		'suffix' => 'vågsøy.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26943,14 +27009,14 @@ return [
 		'comments' => [
 		],
 	],
-	'vefsn.no' => [
-		'suffix' => 'vefsn.no',
+	'varoy.no' => [
+		'suffix' => 'varoy.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'vaapste.no' => [
-		'suffix' => 'vaapste.no',
+	'vefsn.no' => [
+		'suffix' => 'vefsn.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26993,6 +27059,12 @@ return [
 	],
 	'vestby.no' => [
 		'suffix' => 'vestby.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sande.vestfold.no' => [
+		'suffix' => 'sande.vestfold.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27051,6 +27123,12 @@ return [
 		'comments' => [
 		],
 	],
+	'voagat.no' => [
+		'suffix' => 'voagat.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'volda.no' => [
 		'suffix' => 'volda.no',
 		'type' => 'ICANN',
@@ -27059,84 +27137,6 @@ return [
 	],
 	'voss.no' => [
 		'suffix' => 'voss.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'varoy.no' => [
-		'suffix' => 'varoy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'værøy.no' => [
-		'suffix' => 'værøy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'vagan.no' => [
-		'suffix' => 'vagan.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'vågan.no' => [
-		'suffix' => 'vågan.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'voagat.no' => [
-		'suffix' => 'voagat.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'vagsoy.no' => [
-		'suffix' => 'vagsoy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'vågsøy.no' => [
-		'suffix' => 'vågsøy.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'vaga.no' => [
-		'suffix' => 'vaga.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'vågå.no' => [
-		'suffix' => 'vågå.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'valer.ostfold.no' => [
-		'suffix' => 'valer.ostfold.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'våler.østfold.no' => [
-		'suffix' => 'våler.østfold.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'valer.hedmark.no' => [
-		'suffix' => 'valer.hedmark.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'våler.hedmark.no' => [
-		'suffix' => 'våler.hedmark.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27162,14 +27162,8 @@ return [
 		'comments' => [
 		],
 	],
-	'info.nr' => [
-		'suffix' => 'info.nr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.nr' => [
-		'suffix' => 'gov.nr',
+	'com.nr' => [
+		'suffix' => 'com.nr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27180,8 +27174,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.nr' => [
-		'suffix' => 'org.nr',
+	'gov.nr' => [
+		'suffix' => 'gov.nr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'info.nr' => [
+		'suffix' => 'info.nr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27192,8 +27192,8 @@ return [
 		'comments' => [
 		],
 	],
-	'com.nr' => [
-		'suffix' => 'com.nr',
+	'org.nr' => [
+		'suffix' => 'org.nr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27273,14 +27273,14 @@ return [
 		'comments' => [
 		],
 	],
-	'mil.nz' => [
-		'suffix' => 'mil.nz',
+	'māori.nz' => [
+		'suffix' => 'māori.nz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'māori.nz' => [
-		'suffix' => 'māori.nz',
+	'mil.nz' => [
+		'suffix' => 'mil.nz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27393,8 +27393,26 @@ return [
 			'pannet.pa, so we add a rule for "pa".',
 		],
 	],
+	'abo.pa' => [
+		'suffix' => 'abo.pa',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'ac.pa' => [
 		'suffix' => 'ac.pa',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.pa' => [
+		'suffix' => 'com.pa',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.pa' => [
+		'suffix' => 'edu.pa',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27405,8 +27423,26 @@ return [
 		'comments' => [
 		],
 	],
-	'com.pa' => [
-		'suffix' => 'com.pa',
+	'ing.pa' => [
+		'suffix' => 'ing.pa',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'med.pa' => [
+		'suffix' => 'med.pa',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.pa' => [
+		'suffix' => 'net.pa',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'nom.pa' => [
+		'suffix' => 'nom.pa',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27423,47 +27459,17 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.pa' => [
-		'suffix' => 'edu.pa',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'net.pa' => [
-		'suffix' => 'net.pa',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ing.pa' => [
-		'suffix' => 'ing.pa',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'abo.pa' => [
-		'suffix' => 'abo.pa',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'med.pa' => [
-		'suffix' => 'med.pa',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'nom.pa' => [
-		'suffix' => 'nom.pa',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'pe' => [
 		'suffix' => 'pe',
 		'type' => 'ICANN',
 		'comments' => [
 			'pe : https://www.nic.pe/InformeFinalComision.pdf',
+		],
+	],
+	'com.pe' => [
+		'suffix' => 'com.pe',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'edu.pe' => [
@@ -27478,32 +27484,26 @@ return [
 		'comments' => [
 		],
 	],
-	'nom.pe' => [
-		'suffix' => 'nom.pe',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'mil.pe' => [
 		'suffix' => 'mil.pe',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'org.pe' => [
-		'suffix' => 'org.pe',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'com.pe' => [
-		'suffix' => 'com.pe',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'net.pe' => [
 		'suffix' => 'net.pe',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'nom.pe' => [
+		'suffix' => 'nom.pe',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.pe' => [
+		'suffix' => 'org.pe',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27521,14 +27521,14 @@ return [
 		'comments' => [
 		],
 	],
-	'org.pf' => [
-		'suffix' => 'org.pf',
+	'edu.pf' => [
+		'suffix' => 'edu.pf',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'edu.pf' => [
-		'suffix' => 'edu.pf',
+	'org.pf' => [
+		'suffix' => 'org.pf',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27554,14 +27554,8 @@ return [
 		'comments' => [
 		],
 	],
-	'net.ph' => [
-		'suffix' => 'net.ph',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.ph' => [
-		'suffix' => 'org.ph',
+	'edu.ph' => [
+		'suffix' => 'edu.ph',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27572,14 +27566,8 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.ph' => [
-		'suffix' => 'edu.ph',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ngo.ph' => [
-		'suffix' => 'ngo.ph',
+	'i.ph' => [
+		'suffix' => 'i.ph',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -27590,8 +27578,20 @@ return [
 		'comments' => [
 		],
 	],
-	'i.ph' => [
-		'suffix' => 'i.ph',
+	'net.ph' => [
+		'suffix' => 'net.ph',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ngo.ph' => [
+		'suffix' => 'ngo.ph',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.ph' => [
+		'suffix' => 'org.ph',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -28975,20 +28975,8 @@ return [
 			'pn : http://www.government.pn/PnRegistry/policies.htm',
 		],
 	],
-	'gov.pn' => [
-		'suffix' => 'gov.pn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'co.pn' => [
 		'suffix' => 'co.pn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.pn' => [
-		'suffix' => 'org.pn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -28999,8 +28987,20 @@ return [
 		'comments' => [
 		],
 	],
+	'gov.pn' => [
+		'suffix' => 'gov.pn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.pn' => [
 		'suffix' => 'net.pn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.pn' => [
+		'suffix' => 'org.pn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29019,8 +29019,44 @@ return [
 			'pr : http://www.nic.pr/index.asp?f=1',
 		],
 	],
+	'biz.pr' => [
+		'suffix' => 'biz.pr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'com.pr' => [
 		'suffix' => 'com.pr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.pr' => [
+		'suffix' => 'edu.pr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.pr' => [
+		'suffix' => 'gov.pr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'info.pr' => [
+		'suffix' => 'info.pr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'isla.pr' => [
+		'suffix' => 'isla.pr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'name.pr' => [
+		'suffix' => 'name.pr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29037,63 +29073,27 @@ return [
 		'comments' => [
 		],
 	],
-	'gov.pr' => [
-		'suffix' => 'gov.pr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'edu.pr' => [
-		'suffix' => 'edu.pr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'isla.pr' => [
-		'suffix' => 'isla.pr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'pro.pr' => [
 		'suffix' => 'pro.pr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'biz.pr' => [
-		'suffix' => 'biz.pr',
+	'ac.pr' => [
+		'suffix' => 'ac.pr',
 		'type' => 'ICANN',
 		'comments' => [
-		],
-	],
-	'info.pr' => [
-		'suffix' => 'info.pr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'name.pr' => [
-		'suffix' => 'name.pr',
-		'type' => 'ICANN',
-		'comments' => [
+			'these aren\'t mentioned on nic.pr, but on https://www.iana.org/domains/root/db/pr.html',
 		],
 	],
 	'est.pr' => [
 		'suffix' => 'est.pr',
 		'type' => 'ICANN',
 		'comments' => [
-			'these aren\'t mentioned on nic.pr, but on https://www.iana.org/domains/root/db/pr.html',
 		],
 	],
 	'prof.pr' => [
 		'suffix' => 'prof.pr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ac.pr' => [
-		'suffix' => 'ac.pr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29179,6 +29179,12 @@ return [
 			'http://www.nic.ps/registration/policy.html#reg',
 		],
 	],
+	'com.ps' => [
+		'suffix' => 'com.ps',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'edu.ps' => [
 		'suffix' => 'edu.ps',
 		'type' => 'ICANN',
@@ -29191,20 +29197,8 @@ return [
 		'comments' => [
 		],
 	],
-	'sec.ps' => [
-		'suffix' => 'sec.ps',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'plo.ps' => [
-		'suffix' => 'plo.ps',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'com.ps' => [
-		'suffix' => 'com.ps',
+	'net.ps' => [
+		'suffix' => 'net.ps',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29215,8 +29209,14 @@ return [
 		'comments' => [
 		],
 	],
-	'net.ps' => [
-		'suffix' => 'net.ps',
+	'plo.ps' => [
+		'suffix' => 'plo.ps',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sec.ps' => [
+		'suffix' => 'sec.ps',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29228,20 +29228,8 @@ return [
 			'pt : https://www.dns.pt/en/domain/pt-terms-and-conditions-registration-rules/',
 		],
 	],
-	'net.pt' => [
-		'suffix' => 'net.pt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.pt' => [
-		'suffix' => 'gov.pt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.pt' => [
-		'suffix' => 'org.pt',
+	'com.pt' => [
+		'suffix' => 'com.pt',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29252,26 +29240,38 @@ return [
 		'comments' => [
 		],
 	],
+	'gov.pt' => [
+		'suffix' => 'gov.pt',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'int.pt' => [
 		'suffix' => 'int.pt',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'publ.pt' => [
-		'suffix' => 'publ.pt',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'com.pt' => [
-		'suffix' => 'com.pt',
+	'net.pt' => [
+		'suffix' => 'net.pt',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'nome.pt' => [
 		'suffix' => 'nome.pt',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.pt' => [
+		'suffix' => 'org.pt',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'publ.pt' => [
+		'suffix' => 'publ.pt',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29283,14 +29283,14 @@ return [
 			'pw : https://www.iana.org/domains/root/db/pw.html',
 		],
 	],
-	'co.pw' => [
-		'suffix' => 'co.pw',
+	'belau.pw' => [
+		'suffix' => 'belau.pw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'or.pw' => [
-		'suffix' => 'or.pw',
+	'co.pw' => [
+		'suffix' => 'co.pw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29307,8 +29307,8 @@ return [
 		'comments' => [
 		],
 	],
-	'belau.pw' => [
-		'suffix' => 'belau.pw',
+	'or.pw' => [
+		'suffix' => 'or.pw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29625,14 +29625,8 @@ return [
 		'comments' => [
 		],
 	],
-	'net.sa' => [
-		'suffix' => 'net.sa',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.sa' => [
-		'suffix' => 'org.sa',
+	'edu.sa' => [
+		'suffix' => 'edu.sa',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29649,14 +29643,20 @@ return [
 		'comments' => [
 		],
 	],
-	'pub.sa' => [
-		'suffix' => 'pub.sa',
+	'net.sa' => [
+		'suffix' => 'net.sa',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'edu.sa' => [
-		'suffix' => 'edu.sa',
+	'org.sa' => [
+		'suffix' => 'org.sa',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pub.sa' => [
+		'suffix' => 'pub.sa',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29718,6 +29718,12 @@ return [
 		'comments' => [
 		],
 	],
+	'edu.sc' => [
+		'suffix' => 'edu.sc',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'gov.sc' => [
 		'suffix' => 'gov.sc',
 		'type' => 'ICANN',
@@ -29736,12 +29742,6 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.sc' => [
-		'suffix' => 'edu.sc',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'sd' => [
 		'suffix' => 'sd',
 		'type' => 'ICANN',
@@ -29752,6 +29752,30 @@ return [
 	],
 	'com.sd' => [
 		'suffix' => 'com.sd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.sd' => [
+		'suffix' => 'edu.sd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.sd' => [
+		'suffix' => 'gov.sd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'info.sd' => [
+		'suffix' => 'info.sd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'med.sd' => [
+		'suffix' => 'med.sd',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29768,32 +29792,8 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.sd' => [
-		'suffix' => 'edu.sd',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'med.sd' => [
-		'suffix' => 'med.sd',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'tv.sd' => [
 		'suffix' => 'tv.sd',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gov.sd' => [
-		'suffix' => 'gov.sd',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'info.sd' => [
-		'suffix' => 'info.sd',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30054,14 +30054,8 @@ return [
 		'comments' => [
 		],
 	],
-	'net.sg' => [
-		'suffix' => 'net.sg',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.sg' => [
-		'suffix' => 'org.sg',
+	'edu.sg' => [
+		'suffix' => 'edu.sg',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30072,8 +30066,14 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.sg' => [
-		'suffix' => 'edu.sg',
+	'net.sg' => [
+		'suffix' => 'net.sg',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.sg' => [
+		'suffix' => 'org.sg',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30091,26 +30091,26 @@ return [
 		'comments' => [
 		],
 	],
-	'net.sh' => [
-		'suffix' => 'net.sh',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'gov.sh' => [
 		'suffix' => 'gov.sh',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'org.sh' => [
-		'suffix' => 'org.sh',
+	'mil.sh' => [
+		'suffix' => 'mil.sh',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'mil.sh' => [
-		'suffix' => 'mil.sh',
+	'net.sh' => [
+		'suffix' => 'net.sh',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.sh' => [
+		'suffix' => 'org.sh',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30151,12 +30151,6 @@ return [
 		'comments' => [
 		],
 	],
-	'net.sl' => [
-		'suffix' => 'net.sl',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'edu.sl' => [
 		'suffix' => 'edu.sl',
 		'type' => 'ICANN',
@@ -30165,6 +30159,12 @@ return [
 	],
 	'gov.sl' => [
 		'suffix' => 'gov.sl',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.sl' => [
+		'suffix' => 'net.sl',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30482,6 +30482,12 @@ return [
 			'see also: http://www.gobin.info/domainname/sy.doc',
 		],
 	],
+	'com.sy' => [
+		'suffix' => 'com.sy',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'edu.sy' => [
 		'suffix' => 'edu.sy',
 		'type' => 'ICANN',
@@ -30494,20 +30500,14 @@ return [
 		'comments' => [
 		],
 	],
-	'net.sy' => [
-		'suffix' => 'net.sy',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'mil.sy' => [
 		'suffix' => 'mil.sy',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'com.sy' => [
-		'suffix' => 'com.sy',
+	'net.sy' => [
+		'suffix' => 'net.sy',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30526,14 +30526,14 @@ return [
 			'http://www.sispa.org.sz/',
 		],
 	],
-	'co.sz' => [
-		'suffix' => 'co.sz',
+	'ac.sz' => [
+		'suffix' => 'ac.sz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ac.sz' => [
-		'suffix' => 'ac.sz',
+	'co.sz' => [
+		'suffix' => 'co.sz',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30904,8 +30904,20 @@ return [
 		'comments' => [
 		],
 	],
+	'edu.to' => [
+		'suffix' => 'edu.to',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'gov.to' => [
 		'suffix' => 'gov.to',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.to' => [
+		'suffix' => 'mil.to',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30918,18 +30930,6 @@ return [
 	],
 	'org.to' => [
 		'suffix' => 'org.to',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'edu.to' => [
-		'suffix' => 'edu.to',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'mil.to' => [
-		'suffix' => 'mil.to',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31003,12 +31003,6 @@ return [
 		'comments' => [
 		],
 	],
-	'mil.tr' => [
-		'suffix' => 'mil.tr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'k12.tr' => [
 		'suffix' => 'k12.tr',
 		'type' => 'ICANN',
@@ -31017,6 +31011,12 @@ return [
 	],
 	'kep.tr' => [
 		'suffix' => 'kep.tr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.tr' => [
+		'suffix' => 'mil.tr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31807,26 +31807,20 @@ return [
 			'ug : https://www.registry.co.ug/',
 		],
 	],
-	'co.ug' => [
-		'suffix' => 'co.ug',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'or.ug' => [
-		'suffix' => 'or.ug',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'ac.ug' => [
 		'suffix' => 'ac.ug',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'sc.ug' => [
-		'suffix' => 'sc.ug',
+	'co.ug' => [
+		'suffix' => 'co.ug',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.ug' => [
+		'suffix' => 'com.ug',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31843,14 +31837,20 @@ return [
 		'comments' => [
 		],
 	],
-	'com.ug' => [
-		'suffix' => 'com.ug',
+	'or.ug' => [
+		'suffix' => 'or.ug',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'org.ug' => [
 		'suffix' => 'org.ug',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sc.ug' => [
+		'suffix' => 'sc.ug',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32255,6 +32255,12 @@ return [
 		'comments' => [
 		],
 	],
+	'va.us' => [
+		'suffix' => 'va.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'vi.us' => [
 		'suffix' => 'vi.us',
 		'type' => 'ICANN',
@@ -32263,12 +32269,6 @@ return [
 	],
 	'vt.us' => [
 		'suffix' => 'vt.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'va.us' => [
-		'suffix' => 'va.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32565,6 +32565,12 @@ return [
 		'comments' => [
 		],
 	],
+	'k12.va.us' => [
+		'suffix' => 'k12.va.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'k12.vi.us' => [
 		'suffix' => 'k12.vi.us',
 		'type' => 'ICANN',
@@ -32573,12 +32579,6 @@ return [
 	],
 	'k12.vt.us' => [
 		'suffix' => 'k12.vt.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'k12.va.us' => [
-		'suffix' => 'k12.va.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32595,15 +32595,15 @@ return [
 		'comments' => [
 		],
 	],
-	'k12.wy.us' => [
-		'suffix' => 'k12.wy.us',
+	'cc.ak.us' => [
+		'suffix' => 'cc.ak.us',
 		'type' => 'ICANN',
 		'comments' => [
 			'k12.wv.us  Bug 947705 - Removed at request of Verne Britton <verne@wvnet.edu>',
 		],
 	],
-	'cc.ak.us' => [
-		'suffix' => 'cc.ak.us',
+	'lib.ak.us' => [
+		'suffix' => 'lib.ak.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32614,8 +32614,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.al.us' => [
+		'suffix' => 'lib.al.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.ar.us' => [
 		'suffix' => 'cc.ar.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.ar.us' => [
+		'suffix' => 'lib.ar.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32626,8 +32638,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.as.us' => [
+		'suffix' => 'lib.as.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.az.us' => [
 		'suffix' => 'cc.az.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.az.us' => [
+		'suffix' => 'lib.az.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32638,8 +32662,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.ca.us' => [
+		'suffix' => 'lib.ca.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.co.us' => [
 		'suffix' => 'cc.co.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.co.us' => [
+		'suffix' => 'lib.co.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32650,8 +32686,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.ct.us' => [
+		'suffix' => 'lib.ct.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.dc.us' => [
 		'suffix' => 'cc.dc.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.dc.us' => [
+		'suffix' => 'lib.dc.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32890,6 +32938,12 @@ return [
 		'comments' => [
 		],
 	],
+	'cc.va.us' => [
+		'suffix' => 'cc.va.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.vi.us' => [
 		'suffix' => 'cc.vi.us',
 		'type' => 'ICANN',
@@ -32898,12 +32952,6 @@ return [
 	],
 	'cc.vt.us' => [
 		'suffix' => 'cc.vt.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'cc.va.us' => [
-		'suffix' => 'cc.va.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -32932,56 +32980,8 @@ return [
 		'comments' => [
 		],
 	],
-	'lib.ak.us' => [
-		'suffix' => 'lib.ak.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.al.us' => [
-		'suffix' => 'lib.al.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ar.us' => [
-		'suffix' => 'lib.ar.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.as.us' => [
-		'suffix' => 'lib.as.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.az.us' => [
-		'suffix' => 'lib.az.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ca.us' => [
-		'suffix' => 'lib.ca.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.co.us' => [
-		'suffix' => 'lib.co.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ct.us' => [
-		'suffix' => 'lib.ct.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.dc.us' => [
-		'suffix' => 'lib.dc.us',
+	'k12.wy.us' => [
+		'suffix' => 'k12.wy.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33215,6 +33215,12 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.va.us' => [
+		'suffix' => 'lib.va.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'lib.vi.us' => [
 		'suffix' => 'lib.vi.us',
 		'type' => 'ICANN',
@@ -33223,12 +33229,6 @@ return [
 	],
 	'lib.vt.us' => [
 		'suffix' => 'lib.vt.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.va.us' => [
-		'suffix' => 'lib.va.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33252,8 +33252,8 @@ return [
 			'lib.wv.us  Bug 941670 - Removed at request of Larry W Arnold <arnold@wvlc.lib.wv.us>',
 		],
 	],
-	'pvt.k12.ma.us' => [
-		'suffix' => 'pvt.k12.ma.us',
+	'chtr.k12.ma.us' => [
+		'suffix' => 'chtr.k12.ma.us',
 		'type' => 'ICANN',
 		'comments' => [
 			'k12.ma.us contains school districts in Massachusetts. The 4LDs are',
@@ -33262,14 +33262,14 @@ return [
 			' 5LD operators.   <k12-ma-hostmaster _ at _ rsuc.gweep.net>',
 		],
 	],
-	'chtr.k12.ma.us' => [
-		'suffix' => 'chtr.k12.ma.us',
+	'paroch.k12.ma.us' => [
+		'suffix' => 'paroch.k12.ma.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'paroch.k12.ma.us' => [
-		'suffix' => 'paroch.k12.ma.us',
+	'pvt.k12.ma.us' => [
+		'suffix' => 'pvt.k12.ma.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33420,14 +33420,8 @@ return [
 		'comments' => [
 		],
 	],
-	'net.vc' => [
-		'suffix' => 'net.vc',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.vc' => [
-		'suffix' => 'org.vc',
+	'edu.vc' => [
+		'suffix' => 'edu.vc',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33444,8 +33438,14 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.vc' => [
-		'suffix' => 'edu.vc',
+	'net.vc' => [
+		'suffix' => 'net.vc',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.vc' => [
+		'suffix' => 'org.vc',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34155,14 +34155,8 @@ return [
 		'comments' => [
 		],
 	],
-	'net.ws' => [
-		'suffix' => 'net.ws',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'org.ws' => [
-		'suffix' => 'org.ws',
+	'edu.ws' => [
+		'suffix' => 'edu.ws',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34173,8 +34167,14 @@ return [
 		'comments' => [
 		],
 	],
-	'edu.ws' => [
-		'suffix' => 'edu.ws',
+	'net.ws' => [
+		'suffix' => 'net.ws',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.ws' => [
+		'suffix' => 'org.ws',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34318,14 +34318,14 @@ return [
 			'https://www.hkirc.hk/content.jsp?id=30#!/34',
 		],
 	],
-	'公司.香港' => [
-		'suffix' => '公司.香港',
+	'個人.香港' => [
+		'suffix' => '個人.香港',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'教育.香港' => [
-		'suffix' => '教育.香港',
+	'公司.香港' => [
+		'suffix' => '公司.香港',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34336,20 +34336,20 @@ return [
 		'comments' => [
 		],
 	],
-	'個人.香港' => [
-		'suffix' => '個人.香港',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'網絡.香港' => [
-		'suffix' => '網絡.香港',
+	'教育.香港' => [
+		'suffix' => '教育.香港',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
 	'組織.香港' => [
 		'suffix' => '組織.香港',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'網絡.香港' => [
+		'suffix' => '網絡.香港',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34624,14 +34624,8 @@ return [
 			'https://www.rnids.rs/en/domains/national-domains',
 		],
 	],
-	'пр.срб' => [
-		'suffix' => 'пр.срб',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'орг.срб' => [
-		'suffix' => 'орг.срб',
+	'ак.срб' => [
+		'suffix' => 'ак.срб',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34648,14 +34642,20 @@ return [
 		'comments' => [
 		],
 	],
-	'упр.срб' => [
-		'suffix' => 'упр.срб',
+	'орг.срб' => [
+		'suffix' => 'орг.срб',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ак.срб' => [
-		'suffix' => 'ак.срб',
+	'пр.срб' => [
+		'suffix' => 'пр.срб',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'упр.срб' => [
+		'suffix' => 'упр.срб',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34750,8 +34750,8 @@ return [
 			'http://www.thnic.co.th',
 		],
 	],
-	'ศึกษา.ไทย' => [
-		'suffix' => 'ศึกษา.ไทย',
+	'ทหาร.ไทย' => [
+		'suffix' => 'ทหาร.ไทย',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34762,20 +34762,20 @@ return [
 		'comments' => [
 		],
 	],
+	'เน็ต.ไทย' => [
+		'suffix' => 'เน็ต.ไทย',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'รัฐบาล.ไทย' => [
 		'suffix' => 'รัฐบาล.ไทย',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'ทหาร.ไทย' => [
-		'suffix' => 'ทหาร.ไทย',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'เน็ต.ไทย' => [
-		'suffix' => 'เน็ต.ไทย',
+	'ศึกษา.ไทย' => [
+		'suffix' => 'ศึกษา.ไทย',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34863,14 +34863,14 @@ return [
 		'comments' => [
 		],
 	],
-	'net.ye' => [
-		'suffix' => 'net.ye',
+	'mil.ye' => [
+		'suffix' => 'mil.ye',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
-	'mil.ye' => [
-		'suffix' => 'mil.ye',
+	'net.ye' => [
+		'suffix' => 'net.ye',
 		'type' => 'ICANN',
 		'comments' => [
 		],
