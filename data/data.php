@@ -57749,6 +57749,12 @@ return [
 			'Submitted by Jan Jaeschke <jan.jaeschke@netatwork.de>',
 		],
 	],
+	'o365.cloud.nospamproxy.com' => [
+		'suffix' => 'o365.cloud.nospamproxy.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'netfy.app' => [
 		'suffix' => 'netfy.app',
 		'type' => 'PRIVATE',
@@ -62045,14 +62051,6 @@ return [
 		'comments' => [
 			'University of Bielsko-Biala regional domain: http://dns.bielsko.pl/',
 			'Submitted by Marcin <dns@ath.bielsko.pl>',
-		],
-	],
-	'upli.io' => [
-		'suffix' => 'upli.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Upli : https://upli.io',
-			'Submitted by Lenny Bakkalian <lenny.bakkalian@gmail.com>',
 		],
 	],
 	'urown.cloud' => [
