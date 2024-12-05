@@ -53568,8 +53568,8 @@ return [
 		'comments' => [
 		],
 	],
-	'0e.vc' => [
-		'suffix' => '0e.vc',
+	'*.0e.vc' => [
+		'suffix' => '*.0e.vc',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Frederik Braun : https://frederik-braun.com',
