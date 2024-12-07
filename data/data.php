@@ -22335,7 +22335,8 @@ return [
 		'suffix' => 'name',
 		'type' => 'ICANN',
 		'comments' => [
-			'name : has 2nd-level tlds, but there\'s no list of them',
+			'name : http://www.nic.name/',
+			'Regarding 2LDs: https://github.com/publicsuffix/list/issues/2306',
 		],
 	],
 	'nc' => [
