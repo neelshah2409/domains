@@ -49947,12 +49947,6 @@ return [
 		'comments' => [
 		],
 	],
-	'test.ru' => [
-		'suffix' => 'test.ru',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'dyn.cosidns.de' => [
 		'suffix' => 'dyn.cosidns.de',
 		'type' => 'PRIVATE',
@@ -53483,6 +53477,14 @@ return [
 			'Submitted by Eric Chan <support@flashdrive.io>',
 		],
 	],
+	'on-fleek.app' => [
+		'suffix' => 'on-fleek.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Fleek Labs Inc : https://fleek.xyz',
+			'Submitted by Parsa Ghadimi <dev@fleek.xyz>',
+		],
+	],
 	'flutterflow.app' => [
 		'suffix' => 'flutterflow.app',
 		'type' => 'PRIVATE',
@@ -53889,20 +53891,6 @@ return [
 	],
 	'cdn-edges.net' => [
 		'suffix' => 'cdn-edges.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'localcert.net' => [
-		'suffix' => 'localcert.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'GetLocalCert : https://getlocalcert.net',
-			'Submitted by William Harrison <psl@getlocalcert.net>',
-		],
-	],
-	'localhostcert.net' => [
-		'suffix' => 'localhostcert.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56875,6 +56863,20 @@ return [
 			'Submitted by Lann Martin <security@localcert.dev>',
 		],
 	],
+	'localcert.net' => [
+		'suffix' => 'localcert.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'LocalCert : https://localcert.net',
+			'Submitted by William Harrison <psl@localcert.net>',
+		],
+	],
+	'localhostcert.net' => [
+		'suffix' => 'localhostcert.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'lodz.pl' => [
 		'suffix' => 'lodz.pl',
 		'type' => 'PRIVATE',
@@ -57754,6 +57756,14 @@ return [
 		'suffix' => 'o365.cloud.nospamproxy.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'netlib.re' => [
+		'suffix' => 'netlib.re',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Net libre : https://www.netlib.re',
+			'Submitted by Philippe PITTOLI <security@netlib.re>',
 		],
 	],
 	'netfy.app' => [
