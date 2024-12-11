@@ -29282,34 +29282,11 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'pw : https://www.iana.org/domains/root/db/pw.html',
+			'Confirmed by registry in private correspondence with @dnsguru 2024-12-09',
 		],
 	],
-	'belau.pw' => [
-		'suffix' => 'belau.pw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'co.pw' => [
-		'suffix' => 'co.pw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ed.pw' => [
-		'suffix' => 'ed.pw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'go.pw' => [
-		'suffix' => 'go.pw',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'or.pw' => [
-		'suffix' => 'or.pw',
+	'gov.pw' => [
+		'suffix' => 'gov.pw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31935,6 +31912,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'us : https://www.iana.org/domains/root/db/us.html',
+			'Confirmed via the .us zone file by William Harrison - 2024-12-10',
 		],
 	],
 	'dni.us' => [
@@ -31943,20 +31921,8 @@ return [
 		'comments' => [
 		],
 	],
-	'fed.us' => [
-		'suffix' => 'fed.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'isa.us' => [
 		'suffix' => 'isa.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'kids.us' => [
-		'suffix' => 'kids.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31971,7 +31937,7 @@ return [
 		'suffix' => 'ak.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'us geographic names',
+			'Geographic Names',
 		],
 	],
 	'al.us' => [
@@ -33258,9 +33224,9 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'k12.ma.us contains school districts in Massachusetts. The 4LDs are',
-			' managed independently except for private (PVT), charter (CHTR) and',
-			' parochial (PAROCH) schools.  Those are delegated directly to the',
-			' 5LD operators.   <k12-ma-hostmaster _ at _ rsuc.gweep.net>',
+			'managed independently except for private (PVT), charter (CHTR) and',
+			'parochial (PAROCH) schools. Those are delegated directly to the',
+			'5LD operators. <k12-ma-hostmaster@rsuc.gweep.net>',
 		],
 	],
 	'paroch.k12.ma.us' => [
@@ -33280,8 +33246,8 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'Merit Network, Inc. maintains the registry for =~ /(k12|cc|lib).mi.us/ and the following',
-			'   see also: http://domreg.merit.edu',
-			'   see also: whois -h whois.domreg.merit.edu help',
+			'see also: https://domreg.merit.edu : domreg@merit.edu',
+			'see also: whois -h whois.domreg.merit.edu help',
 		],
 	],
 	'cog.mi.us' => [
@@ -44278,12 +44244,18 @@ return [
 		'comments' => [
 		],
 	],
+	'aiven.app' => [
+		'suffix' => 'aiven.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Aiven : https://aiven.io/',
+			'Submitted by Aiven Security Team <security+appdomains@aiven.io>',
+		],
+	],
 	'aivencloud.com' => [
 		'suffix' => 'aivencloud.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Aiven: https://aiven.io/',
-			'Submitted by Etienne Stalmans <security@aiven.io>',
 		],
 	],
 	'akadns.net' => [
@@ -50061,26 +50033,6 @@ return [
 	],
 	'cyon.site' => [
 		'suffix' => 'cyon.site',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'platform0.app' => [
-		'suffix' => 'platform0.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Danger Science Group: https://dangerscience.com/',
-			'Submitted by Skylar MacDonald <skylar@dangerscience.com>',
-		],
-	],
-	'fnwk.site' => [
-		'suffix' => 'fnwk.site',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'folionetwork.site' => [
-		'suffix' => 'folionetwork.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
