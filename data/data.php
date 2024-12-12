@@ -6987,6 +6987,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'it : https://www.iana.org/domains/root/db/it.html',
+			'https://www.nic.it/',
 		],
 	],
 	'edu.it' => [
@@ -7005,9 +7006,8 @@ return [
 		'suffix' => 'abr.it',
 		'type' => 'ICANN',
 		'comments' => [
-			'Reserved geo-names (regions and provinces):',
-			'https://www.nic.it/sites/default/files/archivio/docs/Regulation_assignation_v7.1.pdf',
-			'Regions',
+			'Regions (3.3.1)',
+			'https://www.nic.it/en/manage-your-it/forms-and-docs -> "Assignment and Management of domain names"',
 		],
 	],
 	'abruzzo.it' => [
@@ -7692,7 +7692,7 @@ return [
 		'suffix' => 'ag.it',
 		'type' => 'ICANN',
 		'comments' => [
-			'Provinces',
+			'Provinces (3.3.2)',
 		],
 	],
 	'agrigento.it' => [
@@ -9567,7 +9567,7 @@ return [
 		'comments' => [
 			'jp : https://www.iana.org/domains/root/db/jp.html',
 			'http://jprs.co.jp/en/jpdomain.html',
-			'Submitted by registry <info@jprs.jp>',
+			'Confirmed by registry <info@jprs.jp> 2024-11-22',
 		],
 	],
 	'ac.jp' => [
@@ -9630,6 +9630,9 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jp prefecture type names',
+			'2024-11-22: JPRS confirmed that regional .jp suffixes no longer accept new registrations.',
+			'Once all existing registrations expire (marking full discontinuation), these suffixes',
+			'will be removed from the PSL.',
 		],
 	],
 	'akita.jp' => [
@@ -29781,7 +29784,8 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'se : https://www.iana.org/domains/root/db/se.html',
-			'Submitted by registry <patrik.wallstrom@iis.se>',
+			'https://data.internetstiftelsen.se/barred_domains_list.txt -> Second level domains & Sub-domains',
+			'Confirmed by Registry Services <registry@internetstiftelsen.se> 2024-11-20',
 		],
 	],
 	'a.se' => [
@@ -34210,7 +34214,7 @@ return [
 		'comments' => [
 			'xn--fiqs8s ("Zhongguo/China", Chinese, Simplified) : CN',
 			'CNNIC',
-			'http://cnnic.cn/html/Dir/2005/10/11/3218.htm',
+			'https://www.cnnic.cn/11/192/index.html',
 		],
 	],
 	'中國' => [
@@ -34219,7 +34223,7 @@ return [
 		'comments' => [
 			'xn--fiqz9s ("Zhongguo/China", Chinese, Traditional) : CN',
 			'CNNIC',
-			'http://cnnic.cn/html/Dir/2005/10/11/3218.htm',
+			'https://www.cnnic.com.cn/AU/MediaC/Announcement/201609/t20160905_54470.htm',
 		],
 	],
 	'الجزائر' => [
@@ -35074,7 +35078,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-11-27T15:18:01Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-10T15:19:18Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -43892,7 +43896,7 @@ return [
 		'suffix' => 'yandex',
 		'type' => 'ICANN',
 		'comments' => [
-			'yandex : Yandex Europe B.V.',
+			'yandex : ADC Tech Netherlands B.V.',
 			'https://www.iana.org/domains/root/db/yandex.html',
 		],
 	],
@@ -44112,14 +44116,6 @@ return [
 		'comments' => [
 		],
 	],
-	'aaa.vodka' => [
-		'suffix' => 'aaa.vodka',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'AAA workspace : https://aaa.vodka',
-			'Submitted by Kirill Rezraf <admin@aaa.vodka>',
-		],
-	],
 	'*.on-acorn.io' => [
 		'suffix' => '*.on-acorn.io',
 		'type' => 'PRIVATE',
@@ -44142,6 +44138,32 @@ return [
 		'comments' => [
 			'Adaptable.io : https://adaptable.io',
 			'Submitted by Mark Terrel <support@adaptable.io>',
+		],
+	],
+	'myaddr.dev' => [
+		'suffix' => 'myaddr.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'addr.tools : https://addr.tools/',
+			'Submitted by Brian Shea <publicsuffixlist@addr.tools>',
+		],
+	],
+	'myaddr.io' => [
+		'suffix' => 'myaddr.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dyn.addr.tools' => [
+		'suffix' => 'dyn.addr.tools',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'myaddr.tools' => [
+		'suffix' => 'myaddr.tools',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'adobeaemcloud.com' => [
@@ -55353,13 +55375,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Heroku : https://www.heroku.com/',
-			'Submitted by Tom Maher <tmaher@heroku.com>',
-		],
-	],
-	'herokussl.com' => [
-		'suffix' => 'herokussl.com',
-		'type' => 'PRIVATE',
-		'comments' => [
+			'Submitted by Shumon Huque <public-dns@salesforce.com>',
 		],
 	],
 	'heyflow.page' => [
