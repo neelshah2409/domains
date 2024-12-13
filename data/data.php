@@ -798,6 +798,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'am : https://www.amnic.net/policy/en/Policy_EN.pdf',
+			'Confirmed by ISOC AM <isoc@isoc.am> 2024-11-18',
 		],
 	],
 	'co.am' => [
@@ -835,7 +836,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ao : https://www.iana.org/domains/root/db/ao.html',
-			'http://www.dns.ao/REGISTR.DOC',
+			'https://www.dns.ao/ao/',
 		],
 	],
 	'co.ao' => [
@@ -1334,11 +1335,17 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'az : https://www.iana.org/domains/root/db/az.html',
-			'https://whois.az/?page_id=10',
+			'Confirmed via https://whois.az/?page_id=10 2024-12-11',
 		],
 	],
 	'biz.az' => [
 		'suffix' => 'biz.az',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'co.az' => [
+		'suffix' => 'co.az',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -1407,6 +1414,8 @@ return [
 		'suffix' => 'pro.az',
 		'type' => 'ICANN',
 		'comments' => [
+			'No longer available for registration, however domains exist as of 2024-12-11',
+			'see https://whois.az/?page_id=783',
 		],
 	],
 	'ba' => [
@@ -1991,7 +2000,7 @@ return [
 		'suffix' => 'bm',
 		'type' => 'ICANN',
 		'comments' => [
-			'bm : http://www.bermudanic.bm/dnr-text.txt',
+			'bm : https://www.bermudanic.bm/domain-registration/index.php',
 		],
 	],
 	'com.bm' => [
@@ -3432,12 +3441,29 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bw : https://www.iana.org/domains/root/db/bw.html',
-			'http://www.gobin.info/domainname/bw.doc',
-			'list of other 2nd level tlds ?',
+			'https://nic.net.bw/bw-name-structure',
+		],
+	],
+	'ac.bw' => [
+		'suffix' => 'ac.bw',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'co.bw' => [
 		'suffix' => 'co.bw',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.bw' => [
+		'suffix' => 'gov.bw',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.bw' => [
+		'suffix' => 'net.bw',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3648,7 +3674,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cd : https://www.iana.org/domains/root/db/cd.html',
-			'see also: https://www.nic.cd/domain/insertDomain_2.jsp?act=1',
+			'https://www.nic.cd',
 		],
 	],
 	'gov.cd' => [
@@ -3683,7 +3709,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ci : https://www.iana.org/domains/root/db/ci.html',
-			'http://www.nic.ci/index.php?page=charte',
 		],
 	],
 	'ac.ci' => [
@@ -4183,7 +4208,7 @@ return [
 		'suffix' => 'cr',
 		'type' => 'ICANN',
 		'comments' => [
-			'cr : http://www.nic.cr/niccr_publico/showRegistroDominiosScreen.do',
+			'cr : https://nic.cr/capitulo-1-registro-de-un-nombre-de-dominio/',
 		],
 	],
 	'ac.cr' => [
@@ -4385,8 +4410,8 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cy : http://www.nic.cy/',
-			'Submitted by registry Panayiotou Fotia <cydns@ucy.ac.cy>',
-			'namespace policies URL https://www.nic.cy/portal//sites/default/files/symfonia_gia_eggrafi.pdf',
+			'Submitted by Panayiotou Fotia <cydns@ucy.ac.cy>',
+			'https://nic.cy/wp-content/uploads/2024/01/Create-Request-for-domain-name-registration-1.pdf',
 		],
 	],
 	'ac.cy' => [
@@ -4675,7 +4700,7 @@ return [
 		'suffix' => 'ec',
 		'type' => 'ICANN',
 		'comments' => [
-			'ec : http://www.nic.ec/reg/paso1.asp',
+			'ec : https://www.nic.ec/',
 			'Submitted by registry <vabboud@nic.ec>',
 		],
 	],
@@ -4762,7 +4787,7 @@ return [
 		'suffix' => 'ee',
 		'type' => 'ICANN',
 		'comments' => [
-			'ee : http://www.eenet.ee/EENet/dom_reeglid.html#lisa_B',
+			'ee : https://www.internet.ee/domains/general-domains-and-procedure-for-registration-of-sub-domains-under-general-domains',
 		],
 	],
 	'aip.ee' => [
@@ -4928,7 +4953,7 @@ return [
 		'suffix' => 'es',
 		'type' => 'ICANN',
 		'comments' => [
-			'es : https://www.nic.es/site_ingles/ingles/dominios/index.html',
+			'es : https://www.dominios.es/en',
 		],
 	],
 	'com.es' => [
@@ -5316,7 +5341,7 @@ return [
 		'suffix' => 'gg',
 		'type' => 'ICANN',
 		'comments' => [
-			'gg : http://www.channelisles.net/register-domains/',
+			'gg : https://www.channelisles.net/register-1/register-direct',
 			'Confirmed by registry <nigel@channelisles.net> 2013-11-28',
 		],
 	],
@@ -5343,7 +5368,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'gh : https://www.iana.org/domains/root/db/gh.html',
-			'see also: http://www.nic.gh/reg_now.php',
+			'https://www.nic.gh/',
 			'Although domains directly at second level are not possible at the moment,',
 			'they have been possible for some time and may come back.',
 		],
@@ -35078,7 +35103,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-10T15:19:18Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-12T15:18:58Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -35536,7 +35561,7 @@ return [
 		'suffix' => 'asda',
 		'type' => 'ICANN',
 		'comments' => [
-			'asda : Wal-Mart Stores, Inc.',
+			'asda : Asda Stores Limited',
 			'https://www.iana.org/domains/root/db/asda.html',
 		],
 	],
@@ -44001,7 +44026,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'(Note: these are in alphabetical order by company name)',
-			'.KRD : http://nic.krd/data/krd/Registration%20Policy.pdf',
+			'.KRD : https://nic.krd',
 		],
 	],
 	'edu.krd' => [
@@ -49299,7 +49324,7 @@ return [
 		'suffix' => 'za.bz',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'CentralNic : http://www.centralnic.com/names/domains',
+			'CentralNic : https://teaminternet.com/',
 			'Submitted by registry <gavin.brown@centralnic.com>',
 		],
 	],
@@ -54609,30 +54634,12 @@ return [
 			'Submitted by Christian Poulter <milchstrasse@goip.de>',
 		],
 	],
-	'blogspot.ae' => [
-		'suffix' => 'blogspot.ae',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Google, Inc.',
-			'Submitted by Shannon McCabe <public-suffix-editors@google.com>',
-		],
-	],
-	'blogspot.al' => [
-		'suffix' => 'blogspot.al',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.am' => [
-		'suffix' => 'blogspot.am',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'*.hosted.app' => [
 		'suffix' => '*.hosted.app',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Google, Inc.',
+			'Submitted by Shannon McCabe <public-suffix-editors@google.com>',
 		],
 	],
 	'*.run.app' => [
@@ -54643,90 +54650,6 @@ return [
 	],
 	'web.app' => [
 		'suffix' => 'web.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.ar' => [
-		'suffix' => 'blogspot.com.ar',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.at' => [
-		'suffix' => 'blogspot.co.at',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.au' => [
-		'suffix' => 'blogspot.com.au',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ba' => [
-		'suffix' => 'blogspot.ba',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.be' => [
-		'suffix' => 'blogspot.be',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.bg' => [
-		'suffix' => 'blogspot.bg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.bj' => [
-		'suffix' => 'blogspot.bj',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.br' => [
-		'suffix' => 'blogspot.com.br',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.by' => [
-		'suffix' => 'blogspot.com.by',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ca' => [
-		'suffix' => 'blogspot.ca',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.cf' => [
-		'suffix' => 'blogspot.cf',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ch' => [
-		'suffix' => 'blogspot.ch',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.cl' => [
-		'suffix' => 'blogspot.cl',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.co' => [
-		'suffix' => 'blogspot.com.co',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -54791,68 +54714,8 @@ return [
 		'comments' => [
 		],
 	],
-	'blogspot.cv' => [
-		'suffix' => 'blogspot.cv',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.cy' => [
-		'suffix' => 'blogspot.com.cy',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.cz' => [
-		'suffix' => 'blogspot.cz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.de' => [
-		'suffix' => 'blogspot.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'*.gateway.dev' => [
 		'suffix' => '*.gateway.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.dk' => [
-		'suffix' => 'blogspot.dk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.ee' => [
-		'suffix' => 'blogspot.com.ee',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.eg' => [
-		'suffix' => 'blogspot.com.eg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.es' => [
-		'suffix' => 'blogspot.com.es',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.fi' => [
-		'suffix' => 'blogspot.fi',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.fr' => [
-		'suffix' => 'blogspot.fr',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -54875,278 +54738,8 @@ return [
 		'comments' => [
 		],
 	],
-	'blogspot.gr' => [
-		'suffix' => 'blogspot.gr',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.hk' => [
-		'suffix' => 'blogspot.hk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.hr' => [
-		'suffix' => 'blogspot.hr',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.hu' => [
-		'suffix' => 'blogspot.hu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.id' => [
-		'suffix' => 'blogspot.co.id',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ie' => [
-		'suffix' => 'blogspot.ie',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.il' => [
-		'suffix' => 'blogspot.co.il',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.in' => [
-		'suffix' => 'blogspot.in',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.is' => [
-		'suffix' => 'blogspot.is',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.it' => [
-		'suffix' => 'blogspot.it',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.jp' => [
-		'suffix' => 'blogspot.jp',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.ke' => [
-		'suffix' => 'blogspot.co.ke',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.kr' => [
-		'suffix' => 'blogspot.kr',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.li' => [
-		'suffix' => 'blogspot.li',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.lt' => [
-		'suffix' => 'blogspot.lt',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.lu' => [
-		'suffix' => 'blogspot.lu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.md' => [
-		'suffix' => 'blogspot.md',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.mk' => [
-		'suffix' => 'blogspot.mk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.mt' => [
-		'suffix' => 'blogspot.com.mt',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.mx' => [
-		'suffix' => 'blogspot.mx',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.my' => [
-		'suffix' => 'blogspot.my',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'cloudfunctions.net' => [
 		'suffix' => 'cloudfunctions.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.ng' => [
-		'suffix' => 'blogspot.com.ng',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.nl' => [
-		'suffix' => 'blogspot.nl',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.no' => [
-		'suffix' => 'blogspot.no',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.nz' => [
-		'suffix' => 'blogspot.co.nz',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.pe' => [
-		'suffix' => 'blogspot.pe',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.pt' => [
-		'suffix' => 'blogspot.pt',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.qa' => [
-		'suffix' => 'blogspot.qa',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.re' => [
-		'suffix' => 'blogspot.re',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ro' => [
-		'suffix' => 'blogspot.ro',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.rs' => [
-		'suffix' => 'blogspot.rs',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ru' => [
-		'suffix' => 'blogspot.ru',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.se' => [
-		'suffix' => 'blogspot.se',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.sg' => [
-		'suffix' => 'blogspot.sg',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.si' => [
-		'suffix' => 'blogspot.si',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.sk' => [
-		'suffix' => 'blogspot.sk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.sn' => [
-		'suffix' => 'blogspot.sn',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.td' => [
-		'suffix' => 'blogspot.td',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.tr' => [
-		'suffix' => 'blogspot.com.tr',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.tw' => [
-		'suffix' => 'blogspot.tw',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.ug' => [
-		'suffix' => 'blogspot.ug',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.uk' => [
-		'suffix' => 'blogspot.co.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.com.uy' => [
-		'suffix' => 'blogspot.com.uy',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.vn' => [
-		'suffix' => 'blogspot.vn',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'blogspot.co.za' => [
-		'suffix' => 'blogspot.co.za',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56691,14 +56284,6 @@ return [
 		'suffix' => 'lpusercontent.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'lelux.site' => [
-		'suffix' => 'lelux.site',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Lelux.fi : https://lelux.fi/',
-			'Submitted by Lelux Admin <publisuffix@lelux.site>',
 		],
 	],
 	'libp2p.direct' => [
@@ -58929,7 +58514,7 @@ return [
 		'suffix' => 'authgear-staging.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Oursky Limited : https://authgear.com/, https://skygear.io/',
+			'Oursky Limited : https://authgear.com/',
 			'Submitted by Authgear Team <hello@authgear.com>, Skygear Developer <hello@skygear.io>',
 		],
 	],
@@ -60641,14 +60226,6 @@ return [
 			'Submitted by Nyoom <admin@sheezy.art>',
 		],
 	],
-	'shiftedit.io' => [
-		'suffix' => 'shiftedit.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'ShiftEdit : https://shiftedit.net/',
-			'Submitted by Adam Jimenez <adam@shiftcreate.com>',
-		],
-	],
 	'myshopblocks.com' => [
 		'suffix' => 'myshopblocks.com',
 		'type' => 'PRIVATE',
@@ -61457,7 +61034,7 @@ return [
 		'suffix' => 'gda.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'TASK geographical domains (https://www.task.gda.pl/uslugi/dns)',
+			'TASK geographical domains : https://task.gda.pl/en/services/for-entrepreneurs/',
 		],
 	],
 	'gdansk.pl' => [
@@ -62511,14 +62088,6 @@ return [
 		'comments' => [
 			'Yola : https://www.yola.com/',
 			'Submitted by Stefano Rivera <stefano@yola.com>',
-		],
-	],
-	'yombo.me' => [
-		'suffix' => 'yombo.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Yombo : https://yombo.net',
-			'Submitted by Mitch Schwenk <mitch@yombo.net>',
 		],
 	],
 	'ynh.fr' => [
