@@ -55039,14 +55039,6 @@ return [
 		'comments' => [
 		],
 	],
-	'secaas.hk' => [
-		'suffix' => 'secaas.hk',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Hong Kong Productivity Council: https://www.hkpc.org/',
-			'Submitted by SECaaS Team <summchan@hkpc.org>',
-		],
-	],
 	'hoplix.shop' => [
 		'suffix' => 'hoplix.shop',
 		'type' => 'PRIVATE',
