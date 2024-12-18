@@ -53882,12 +53882,6 @@ return [
 		'comments' => [
 		],
 	],
-	'lab.ms' => [
-		'suffix' => 'lab.ms',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'cdn-edges.net' => [
 		'suffix' => 'cdn-edges.net',
 		'type' => 'PRIVATE',
@@ -58062,18 +58056,6 @@ return [
 		'comments' => [
 		],
 	],
-	'n4t.co' => [
-		'suffix' => 'n4t.co',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'001www.com' => [
-		'suffix' => '001www.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'myiphost.com' => [
 		'suffix' => 'myiphost.com',
 		'type' => 'PRIVATE',
@@ -58142,12 +58124,6 @@ return [
 	],
 	'x443.pw' => [
 		'suffix' => 'x443.pw',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'now-dns.top' => [
-		'suffix' => 'now-dns.top',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
