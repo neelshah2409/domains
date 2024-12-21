@@ -61843,7 +61843,7 @@ return [
 		'suffix' => 'wdh.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'William Harrison : https://wdh.gg',
+			'William Harrison : https://wharrison.com.au',
 			'Submitted by William Harrison <william@harrison.id.au>',
 		],
 	],
