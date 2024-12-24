@@ -35103,7 +35103,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-12T15:18:58Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-23T15:16:32Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -40329,7 +40329,7 @@ return [
 		'suffix' => 'nowruz',
 		'type' => 'ICANN',
 		'comments' => [
-			'nowruz : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'nowruz',
 			'https://www.iana.org/domains/root/db/nowruz.html',
 		],
 	],
@@ -40577,7 +40577,7 @@ return [
 		'suffix' => 'pars',
 		'type' => 'ICANN',
 		'comments' => [
-			'pars : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'pars',
 			'https://www.iana.org/domains/root/db/pars.html',
 		],
 	],
@@ -41689,7 +41689,7 @@ return [
 		'suffix' => 'shia',
 		'type' => 'ICANN',
 		'comments' => [
-			'shia : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'shia',
 			'https://www.iana.org/domains/root/db/shia.html',
 		],
 	],
@@ -42241,7 +42241,7 @@ return [
 		'suffix' => 'tci',
 		'type' => 'ICANN',
 		'comments' => [
-			'tci : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'tci',
 			'https://www.iana.org/domains/root/db/tci.html',
 		],
 	],
@@ -43657,7 +43657,7 @@ return [
 		'suffix' => 'همراه',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgbt3dhd : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.',
+			'xn--mgbt3dhd',
 			'https://www.iana.org/domains/root/db/xn--mgbt3dhd.html',
 		],
 	],
