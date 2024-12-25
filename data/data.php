@@ -1104,7 +1104,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'au : https://www.iana.org/domains/root/db/au.html',
-			'http://www.auda.org.au/',
+			'https://www.auda.org.au/',
 			'Confirmed by registry <general@auda.org.au> 2024-11-17',
 		],
 	],
@@ -1168,7 +1168,7 @@ return [
 		'suffix' => 'act.au',
 		'type' => 'ICANN',
 		'comments' => [
-			'CGDNs - http://www.cgdn.org.au/',
+			'CGDNs : https://www.auda.org.au/au-domain-names/the-different-au-domain-names/state-and-territory-domain-names/',
 		],
 	],
 	'nsw.au' => [
@@ -1273,9 +1273,9 @@ return [
 		'suffix' => 'qld.gov.au',
 		'type' => 'ICANN',
 		'comments' => [
-			'act.gov.au  Bug 984824 - Removed at request of Greg Tankard',
-			'nsw.gov.au  Bug 547985 - Removed at request of <Shae.Donelan@services.nsw.gov.au>',
-			'nt.gov.au  Bug 940478 - Removed at request of Greg Connors <Greg.Connors@nt.gov.au>',
+			'act.gov.au - Bug 984824 - Removed at request of Greg Tankard',
+			'nsw.gov.au - Bug 547985 - Removed at request of <Shae.Donelan@services.nsw.gov.au>',
+			'nt.gov.au - Bug 940478 - Removed at request of Greg Connors <Greg.Connors@nt.gov.au>',
 		],
 	],
 	'sa.gov.au' => [
@@ -1422,7 +1422,7 @@ return [
 		'suffix' => 'ba',
 		'type' => 'ICANN',
 		'comments' => [
-			'ba : http://nic.ba/users_data/files/pravilnik_o_registraciji.pdf',
+			'ba : https://www.iana.org/domains/root/db/ba.html',
 		],
 	],
 	'com.ba' => [
@@ -1873,7 +1873,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bj : https://nic.bj/bj-suffixes.txt',
-			'submitted by registry <contact@nic.bj>',
+			'Submitted by registry <contact@nic.bj>',
 		],
 	],
 	'africa.bj' => [
@@ -6409,9 +6409,9 @@ return [
 		'suffix' => 'il',
 		'type' => 'ICANN',
 		'comments' => [
-			'il :         http://www.isoc.org.il/domains/',
-			'see also:    https://en.isoc.org.il/il-cctld/registration-rules',
-			'ISOC-IL      (operated by .il Registry)',
+			'il : http://www.isoc.org.il/domains/',
+			'see also: https://en.isoc.org.il/il-cctld/registration-rules',
+			'ISOC-IL (operated by .il Registry)',
 		],
 	],
 	'ac.il' => [
@@ -22630,8 +22630,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'nl : https://www.iana.org/domains/root/db/nl.html',
-			'     https://www.sidn.nl/',
-			'     ccTLD for the Netherlands',
+			'https://www.sidn.nl/',
 		],
 	],
 	'no' => [
@@ -27629,9 +27628,8 @@ return [
 		'suffix' => 'pk',
 		'type' => 'ICANN',
 		'comments' => [
-			'pk : https://pknic.net.pk',
-			'pk : http://pk5.pknic.net.pk/pk5/msgNamepk.PK + grandfathered old gon.pk',
-			'Contact Email: staff@pknic.net.pk    PKNIC .PK Registry',
+			'pk : https://pk5.pknic.net.pk/pk5/msgNamepk.PK',
+			'Contact Email: staff@pknic.net.pk',
 		],
 	],
 	'ac.pk' => [
@@ -27684,12 +27682,6 @@ return [
 	],
 	'gok.pk' => [
 		'suffix' => 'gok.pk',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'gon.pk' => [
-		'suffix' => 'gon.pk',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -30569,7 +30561,7 @@ return [
 		'suffix' => 'tel',
 		'type' => 'ICANN',
 		'comments' => [
-			'tel: https://www.iana.org/domains/root/db/tel.html',
+			'tel : https://www.iana.org/domains/root/db/tel.html',
 			'http://www.telnic.org/',
 		],
 	],
@@ -30760,7 +30752,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tm : https://www.nic.tm/local.html',
-			'Confirmed by registry <admin@nic.TM> - 2024-11-19',
+			'Confirmed by registry <admin@nic.TM> 2024-11-19',
 		],
 	],
 	'co.tm' => [
@@ -31095,7 +31087,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'tt : https://www.nic.tt/',
-			'Confirmed by registry <admin@nic.tt> - 2024-11-19',
+			'Confirmed by registry <admin@nic.tt> 2024-11-19',
 		],
 	],
 	'biz.tt' => [
@@ -31941,7 +31933,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'us : https://www.iana.org/domains/root/db/us.html',
-			'Confirmed via the .us zone file by William Harrison - 2024-12-10',
+			'Confirmed via the .us zone file by William Harrison 2024-12-10',
 		],
 	],
 	'dni.us' => [
@@ -32375,7 +32367,7 @@ return [
 		'suffix' => 'k12.ia.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'k12.hi.us  Bug 614565 - Hawaii has a state-wide DOE login',
+			'k12.hi.us - Bug 614565 - Hawaii has a state-wide DOE login',
 		],
 	],
 	'k12.id.us' => [
@@ -32472,7 +32464,7 @@ return [
 		'suffix' => 'k12.ne.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'k12.nd.us  Bug 1028347 - Removed at request of Travis Rosso <trossow@nd.gov>',
+			'k12.nd.us - Bug 1028347 - Removed at request of Travis Rosso <trossow@nd.gov>',
 		],
 	],
 	'k12.nh.us' => [
@@ -32539,14 +32531,14 @@ return [
 		'suffix' => 'k12.sc.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'k12.ri.us  Removed at request of Kim Cournoyer <netsupport@staff.ri.net>',
+			'k12.ri.us - Removed at request of Kim Cournoyer <netsupport@staff.ri.net>',
 		],
 	],
 	'k12.tn.us' => [
 		'suffix' => 'k12.tn.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'k12.sd.us  Bug 934131 - Removed at request of James Booze <James.Booze@k12.sd.us>',
+			'k12.sd.us - Bug 934131 - Removed at request of James Booze <James.Booze@k12.sd.us>',
 		],
 	],
 	'k12.tx.us' => [
@@ -32595,7 +32587,7 @@ return [
 		'suffix' => 'cc.ak.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'k12.wv.us  Bug 947705 - Removed at request of Verne Britton <verne@wvnet.edu>',
+			'k12.wv.us - Bug 947705 - Removed at request of Verne Britton <verne@wvnet.edu>',
 		],
 	],
 	'lib.ak.us' => [
@@ -32986,7 +32978,7 @@ return [
 		'suffix' => 'lib.fl.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'lib.de.us  Issue #243 - Moved to Private section at request of Ed Moore <Ed.Moore@lib.de.us>',
+			'lib.de.us - Issue #243 - Moved to Private section at request of Ed Moore <Ed.Moore@lib.de.us>',
 		],
 	],
 	'lib.ga.us' => [
@@ -33245,7 +33237,7 @@ return [
 		'suffix' => 'lib.wy.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'lib.wv.us  Bug 941670 - Removed at request of Larry W Arnold <arnold@wvlc.lib.wv.us>',
+			'lib.wv.us - Bug 941670 - Removed at request of Larry W Arnold <arnold@wvlc.lib.wv.us>',
 		],
 	],
 	'chtr.k12.ma.us' => [
@@ -34685,7 +34677,7 @@ return [
 		'suffix' => 'السعودیة',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--mgberp4a5d4a87g ("AlSaudiah", Arabic, variant)  : SA',
+			'xn--mgberp4a5d4a87g ("AlSaudiah", Arabic, variant): SA',
 		],
 	],
 	'السعودیۃ' => [
@@ -44084,7 +44076,7 @@ return [
 		'suffix' => '12chars.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'12CHARS: https://12chars.com',
+			'12CHARS : https://12chars.com',
 			'Submitted by Kenny Niehage <psl@12chars.com>',
 		],
 	],
@@ -44153,7 +44145,7 @@ return [
 		'suffix' => 'activetrail.biz',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'ActiveTrail: https://www.activetrail.biz/',
+			'ActiveTrail : https://www.activetrail.biz/',
 			'Submitted by Ofer Kalaora <postmaster@activetrail.com>',
 		],
 	],
@@ -44431,7 +44423,7 @@ return [
 		'suffix' => 'altervista.org',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Altervista: https://www.altervista.org',
+			'Altervista : https://www.altervista.org',
 			'Submitted by Carlo Cannas <tech_staff@altervista.it>',
 		],
 	],
@@ -49446,7 +49438,7 @@ return [
 		'suffix' => 'cx.ua',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Cityhost LLC  : https://cityhost.ua',
+			'Cityhost LLC : https://cityhost.ua',
 			'Submitted by Maksym Rivtin <support@cityhost.net.ua>',
 		],
 	],
@@ -50054,14 +50046,6 @@ return [
 			'Submitted by Andrew Cady <public-suffix-list@cryptonomic.net>',
 		],
 	],
-	'curv.dev' => [
-		'suffix' => 'curv.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Curv UG : https://curv-labs.de/',
-			'Submitted by Marvin Wiesner <Marvin@curv-labs.de>',
-		],
-	],
 	'cfolks.pl' => [
 		'suffix' => 'cfolks.pl',
 		'type' => 'PRIVATE',
@@ -50302,7 +50286,7 @@ return [
 		'suffix' => 'deta.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Deta: https://www.deta.sh/',
+			'Deta : https://www.deta.sh/',
 			'Submitted by Aavash Shrestha <aavash@deta.sh>',
 		],
 	],
@@ -50316,7 +50300,7 @@ return [
 		'suffix' => 'dfirma.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'dhosting.pl Sp. z o.o.: https://dhosting.pl/',
+			'dhosting.pl Sp. z o.o. : https://dhosting.pl/',
 			'Submitted by Michal Kokoszkiewicz <bok@dhosting.pl>',
 		],
 	],
@@ -50356,20 +50340,6 @@ return [
 			'Submitted by Edward Hsing <contact@digitalplat.org>',
 		],
 	],
-	'rss.my.id' => [
-		'suffix' => 'rss.my.id',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Diher Solutions : https://diher.solutions',
-			'Submitted by Didi Hermawan <mail@diher.solutions>',
-		],
-	],
-	'diher.solutions' => [
-		'suffix' => 'diher.solutions',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'discordsays.com' => [
 		'suffix' => 'discordsays.com',
 		'type' => 'PRIVATE',
@@ -50388,7 +50358,7 @@ return [
 		'suffix' => 'jozi.biz',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'DNS Africa Ltd https://dns.business',
+			'DNS Africa Ltd : https://dns.business',
 			'Submitted by Calvin Browne <calvin@dns.business>',
 		],
 	],
@@ -50452,20 +50422,6 @@ return [
 		'comments' => [
 			'Drobo : http://www.drobo.com/',
 			'Submitted by Ricardo Padilha <rpadilha@drobo.com>',
-		],
-	],
-	'drud.io' => [
-		'suffix' => 'drud.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Drud Holdings, LLC. : https://www.drud.com/',
-			'Submitted by Kevin Bridges <kevin@drud.com>',
-		],
-	],
-	'drud.us' => [
-		'suffix' => 'drud.us',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'duckdns.org' => [
@@ -52375,7 +52331,7 @@ return [
 		'suffix' => 'mytuleap.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Enalean SAS: https://www.enalean.com',
+			'Enalean SAS : https://www.enalean.com',
 			'Submitted by Enalean Security Team <security@enalean.com>',
 		],
 	],
@@ -52389,7 +52345,7 @@ return [
 		'suffix' => 'encr.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Encoretivity AB: https://encore.dev',
+			'Encoretivity AB : https://encore.dev',
 			'Submitted by André Eriksson <andre@encore.dev>',
 		],
 	],
@@ -52411,7 +52367,7 @@ return [
 		'suffix' => 'eu.org',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'EU.org https://eu.org/',
+			'EU.org : https://eu.org/',
 			'Submitted by Pierre Beyssac <hostmaster@eu.org>',
 		],
 	],
@@ -53389,7 +53345,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'FearWorks Media Ltd. : https://fearworksmedia.co.uk',
-			'submitted by Keith Fairley <domains@fearworksmedia.co.uk>',
+			'Submitted by Keith Fairley <domains@fearworksmedia.co.uk>',
 		],
 	],
 	'copro.uk' => [
@@ -53409,7 +53365,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Fedora : https://fedoraproject.org/',
-			'submitted by Patrick Uiterwijk <puiterwijk@fedoraproject.org>',
+			'Submitted by Patrick Uiterwijk <puiterwijk@fedoraproject.org>',
 		],
 	],
 	'fedorapeople.org' => [
@@ -53441,7 +53397,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Fermax : https://fermax.com/',
-			'submitted by Koen Van Isterdael <k.vanisterdael@fermax.be>',
+			'Submitted by Koen Van Isterdael <k.vanisterdael@fermax.be>',
 		],
 	],
 	'fh-muenster.io' => [
@@ -53496,7 +53452,7 @@ return [
 		'suffix' => 'fly.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'fly.io: https://fly.io',
+			'fly.io : https://fly.io',
 			'Submitted by Kurt Mackey <kurt@fly.io>',
 		],
 	],
@@ -53892,7 +53848,7 @@ return [
 		'suffix' => 'gsj.bz',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'GignoSystemJapan: http://gsj.bz',
+			'GignoSystemJapan : http://gsj.bz',
 			'Submitted by GignoSystemJapan <kakutou-ec@gsj.bz>',
 		],
 	],
@@ -53920,7 +53876,7 @@ return [
 		'suffix' => 'gitlab.io',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'GitLab, Inc.',
+			'GitLab, Inc. : https://about.gitlab.com/',
 			'Submitted by Alex Hanselka <alex@gitlab.com>',
 		],
 	],
@@ -53928,7 +53884,7 @@ return [
 		'suffix' => 'gitapp.si',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Gitplac.si - https://gitplac.si',
+			'Gitplac.si : https://gitplac.si',
 			'Submitted by Aljaž Starc <me@aljaxus.eu>',
 		],
 	],
@@ -54772,7 +54728,7 @@ return [
 		'suffix' => 'gov.nl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Government of the Netherlands: https://www.government.nl',
+			'Government of the Netherlands : https://www.government.nl',
 			'Submitted by <domeinnaam@minaz.nl>',
 		],
 	],
@@ -54780,7 +54736,7 @@ return [
 		'suffix' => 'grafana-dev.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Grafana Labs: https://grafana.com/',
+			'Grafana Labs : https://grafana.com/',
 			'Submitted by Platform Engineering <info@grafana.com>',
 		],
 	],
@@ -54810,7 +54766,7 @@ return [
 		'suffix' => 'fin.ci',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Hakaran group: http://hakaran.cz',
+			'Hakaran group : http://hakaran.cz',
 			'Submitted by Arseniy Sokolov <security@hakaran.cz>',
 		],
 	],
@@ -54842,7 +54798,7 @@ return [
 		'suffix' => 'häkkinen.fi',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Häkkinen.fi',
+			'Häkkinen.fi : https://www.häkkinen.fi/',
 			'Submitted by Eero Häkkinen <Eero+psl@Häkkinen.fi>',
 		],
 	],
@@ -54917,7 +54873,7 @@ return [
 		'suffix' => 'pages.it.hs-heilbronn.de',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Heilbronn University of Applied Sciences - Faculty Informatics (GitLab Pages): https://www.hs-heilbronn.de',
+			'Heilbronn University of Applied Sciences - Faculty Informatics (GitLab Pages) : https://www.hs-heilbronn.de',
 			'Submitted by Richard Zowalla <it-admin@hs-heilbronn.de>',
 		],
 	],
@@ -54931,7 +54887,7 @@ return [
 		'suffix' => 'heiyu.space',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'HeiyuSpace: https://lazycat.cloud',
+			'HeiyuSpace : https://lazycat.cloud',
 			'Submitted by Xia Bin <admin@lazycat.cloud>',
 		],
 	],
@@ -55009,7 +54965,7 @@ return [
 		'suffix' => 'homesklep.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'home.pl S.A.: https://home.pl',
+			'home.pl S.A. : https://home.pl',
 			'Submitted by Krzysztof Wolski <krzysztof.wolski@home.eu>',
 		],
 	],
@@ -55146,7 +55102,7 @@ return [
 		'suffix' => 'hf.space',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Hugging Face: https://huggingface.co',
+			'Hugging Face : https://huggingface.co',
 			'Submitted by Eliott Coyac <website@huggingface.co>',
 		],
 	],
@@ -55519,13 +55475,51 @@ return [
 			'Submitted by Vasiliy Sheredeko <piphon@gmail.com>',
 		],
 	],
+	'botdash.app' => [
+		'suffix' => 'botdash.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Inventor Services : https://inventor.gg/',
+			'Submitted by Inventor Team <psl@inventor.gg>',
+		],
+	],
+	'botdash.dev' => [
+		'suffix' => 'botdash.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'botdash.gg' => [
+		'suffix' => 'botdash.gg',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'botdash.net' => [
+		'suffix' => 'botdash.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'botda.sh' => [
+		'suffix' => 'botda.sh',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'botdash.xyz' => [
+		'suffix' => 'botdash.xyz',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'apps-1and1.com' => [
 		'suffix' => 'apps-1and1.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'IONOS SE : https://www.ionos.com/,',
-			'IONOS Group SE: https://www.ionos-group.com/',
-			'submitted by Henrik Willert <security@ionos.com>',
+			'IONOS SE : https://www.ionos.com/',
+			'IONOS Group SE : https://www.ionos-group.com/',
+			'Submitted by Henrik Willert <security@ionos.com>',
 		],
 	],
 	'live-website.com' => [
@@ -56162,7 +56156,7 @@ return [
 		'suffix' => 'ezproxy.kuleuven.be',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Katholieke Universiteit Leuven: https://www.kuleuven.be',
+			'Katholieke Universiteit Leuven : https://www.kuleuven.be',
 			'Submitted by Abuse KU Leuven <abuse@kuleuven.be>',
 		],
 	],
@@ -56206,7 +56200,7 @@ return [
 		'suffix' => 'koobin.events',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'KoobinEvent, SL: https://www.koobin.com',
+			'KoobinEvent, SL : https://www.koobin.com',
 			'Submitted by Iván Oliva <ivan.oliva@koobin.com>',
 		],
 	],
@@ -56336,7 +56330,7 @@ return [
 		'suffix' => 'linkyard-cloud.ch',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'linkyard ldt: https://www.linkyard.ch/',
+			'linkyard ldt : https://www.linkyard.ch/',
 			'Submitted by Mario Siegenthaler <mario.siegenthaler@linkyard.ch>',
 		],
 	],
@@ -56420,7 +56414,7 @@ return [
 		'suffix' => 'lodz.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Lodz University of Technology LODMAN regional domains https://www.man.lodz.pl/dns',
+			'Lodz University of Technology LODMAN regional domains : https://www.man.lodz.pl/dns',
 			'Submitted by Piotr Wilk <dns@man.lodz.pl>',
 		],
 	],
@@ -56490,8 +56484,8 @@ return [
 		'suffix' => 'lohmus.me',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Lõhmus Family, The',
-			'Submitted by Heiki Lõhmus <hostmaster at lohmus dot me>',
+			'Lõhmus Family, The : https://lohmus.me/',
+			'Submitted by Heiki Lõhmus <hostmaster@lohmus.me>',
 		],
 	],
 	'servers.run' => [
@@ -56802,7 +56796,7 @@ return [
 		'suffix' => 'mazeplay.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Maze Play: https://www.mazeplay.com',
+			'Maze Play : https://www.mazeplay.com',
 			'Submitted by Adam Humpherys <adam@mws.dev>',
 		],
 	],
@@ -57091,7 +57085,7 @@ return [
 		'suffix' => 'routingthecloud.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'MikroTik: https://mikrotik.com',
+			'MikroTik : https://mikrotik.com',
 			'Submitted by MikroTik SysAdmin Team <support@mikrotik.com>',
 		],
 	],
@@ -57443,7 +57437,7 @@ return [
 		'suffix' => 'torun.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Nicolaus Copernicus University in Torun - MSK TORMAN (https://www.man.torun.pl)',
+			'Nicolaus Copernicus University in Torun - MSK TORMAN : https://www.man.torun.pl',
 		],
 	],
 	'nh-serv.co.uk' => [
@@ -58174,7 +58168,7 @@ return [
 		'suffix' => 'obl.ong',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Obl.ong : <https://obl.ong>',
+			'Obl.ong : https://obl.ong',
 			'Submitted by Reese Armstrong <team@obl.ong>',
 		],
 	],
@@ -58212,7 +58206,7 @@ return [
 		'suffix' => 'omniwe.site',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'OmniWe Limited: https://omniwe.com',
+			'OmniWe Limited : https://omniwe.com',
 			'Submitted by Vicary Archangel <vicary@omniwe.com>',
 		],
 	],
@@ -58220,7 +58214,7 @@ return [
 		'suffix' => '123webseite.at',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'One.com: https://www.one.com/',
+			'One.com : https://www.one.com/',
 			'Submitted by Jacob Bunk Nielsen <jbn@one.com>',
 		],
 	],
@@ -58404,7 +58398,7 @@ return [
 		'suffix' => 'orsites.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'OpenResearch GmbH: https://openresearch.com/',
+			'OpenResearch GmbH : https://openresearch.com/',
 			'Submitted by Philipp Schmid <ops@openresearch.com>',
 		],
 	],
@@ -58474,8 +58468,8 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'OsSav Technology Ltd. : https://ossav.com/',
-			'TLD Nic: http://nic.can.re - TLD Whois Server: whois.can.re',
 			'Submitted by OsSav Technology Ltd. <support@ossav.com>',
+			'https://nic.can.re',
 		],
 	],
 	'authgear-staging.com' => [
@@ -58483,7 +58477,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Oursky Limited : https://authgear.com/',
-			'Submitted by Authgear Team <hello@authgear.com>, Skygear Developer <hello@skygear.io>',
+			'Submitted by Authgear Team <hello@authgear.com> & Skygear Developer <hello@skygear.io>',
 		],
 	],
 	'authgearapps.com' => [
@@ -58510,7 +58504,7 @@ return [
 		'suffix' => '*.hosting.ovh.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'OVHcloud: https://ovhcloud.com',
+			'OVHcloud : https://ovhcloud.com',
 			'Submitted by Vincent Cassé <vincent.casse@ovhcloud.com>',
 		],
 	],
@@ -58524,7 +58518,7 @@ return [
 		'suffix' => 'ownprovider.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'OwnProvider GmbH: http://www.ownprovider.com',
+			'OwnProvider GmbH : http://www.ownprovider.com',
 			'Submitted by Jan Moennich <jan.moennich@ownprovider.com>',
 		],
 	],
@@ -58600,7 +58594,7 @@ return [
 		'suffix' => '*.xmit.co',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'pcarrier.ca Software Inc: https://pcarrier.ca/',
+			'pcarrier.ca Software Inc : https://pcarrier.ca/',
 			'Submitted by Pierre Carrier <pc@rrier.ca>',
 		],
 	],
@@ -58710,18 +58704,12 @@ return [
 		'comments' => [
 		],
 	],
-	'platter-app.com' => [
-		'suffix' => 'platter-app.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Platter: https://platter.dev',
-			'Submitted by Patrick Flor <patrick@platter.dev>',
-		],
-	],
 	'platter-app.dev' => [
 		'suffix' => 'platter-app.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Platter : https://platter.dev',
+			'Submitted by Patrick Flor <patrick@platter.dev>',
 		],
 	],
 	'platterp.us' => [
@@ -58830,7 +58818,7 @@ return [
 		'suffix' => 'pubtls.org',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'pubtls.org: https://www.pubtls.org',
+			'pubtls.org : https://www.pubtls.org',
 			'Submitted by Kor Nielsen <kor@pubtls.org>',
 		],
 	],
@@ -58838,7 +58826,7 @@ return [
 		'suffix' => 'pythonanywhere.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'PythonAnywhere LLP: https://www.pythonanywhere.com',
+			'PythonAnywhere LLP : https://www.pythonanywhere.com',
 			'Submitted by Giles Thomas <giles@pythonanywhere.com>',
 		],
 	],
@@ -58853,7 +58841,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'QA2',
-			'Submitted by Daniel Dent (https://www.danieldent.com/)',
+			'Submitted by Daniel Dent : https://www.danieldent.com/',
 		],
 	],
 	'qcx.io' => [
@@ -58936,7 +58924,7 @@ return [
 		'suffix' => 'qbuser.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'QuickBackend: https://www.quickbackend.com',
+			'QuickBackend : https://www.quickbackend.com',
 			'Submitted by Dani Biro <dani@pymet.com>',
 		],
 	],
@@ -58980,7 +58968,7 @@ return [
 		'suffix' => 'cloudsite.builders',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Rad Web Hosting: https://radwebhosting.com',
+			'Rad Web Hosting : https://radwebhosting.com',
 			'Submitted by Scott Claeys <s.claeys@radwebhosting.com>',
 		],
 	],
@@ -59078,7 +59066,7 @@ return [
 		'suffix' => 'instances.spawn.cc',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Redgate Software: https://red-gate.com',
+			'Redgate Software : https://red-gate.com',
 			'Submitted by Andrew Farries <andrew.farries@red-gate.com>',
 		],
 	],
@@ -59374,7 +59362,7 @@ return [
 		'suffix' => 'rub.de',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Ruhr University Bochum http://ruhr-uni-bochum.de',
+			'Ruhr University Bochum : https://www.ruhr-uni-bochum.de/',
 			'Submitted by Andreas Jobs <noc@ruhr-uni-bochum.de>',
 		],
 	],
@@ -59394,7 +59382,7 @@ return [
 		'suffix' => 'биз.рус',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Rusnames Limited: http://rusnames.ru/',
+			'Rusnames Limited : http://rusnames.ru/',
 			'Submitted by Sergey Zotov <admin@rusnames.ru>',
 		],
 	],
@@ -59756,7 +59744,7 @@ return [
 		'suffix' => '*.builder.code.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Salesforce.com, Inc. https://salesforce.com/',
+			'Salesforce.com, Inc. : https://salesforce.com/',
 			'Submitted by Salesforce Public Suffix List Team <public-suffix-list@salesforce.com>',
 		],
 	],
@@ -60030,7 +60018,7 @@ return [
 		'suffix' => 'gov.scot',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Scottish Government: https://www.gov.scot',
+			'Scottish Government : https://www.gov.scot',
 			'Submitted by Martin Ellis <martin.ellis@gov.scot>',
 		],
 	],
@@ -60138,7 +60126,7 @@ return [
 		'suffix' => 'minisite.ms',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Sendmsg: https://www.sendmsg.co.il',
+			'Sendmsg : https://www.sendmsg.co.il',
 			'Submitted by Assaf Stern <domains@comstar.co.il>',
 		],
 	],
@@ -60154,7 +60142,7 @@ return [
 		'suffix' => 'servebolt.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Servebolt AS: https://servebolt.com',
+			'Servebolt AS : https://servebolt.com',
 			'Submitted by Daniel Kjeserud <cloudops@servebolt.com>',
 		],
 	],
@@ -60292,7 +60280,7 @@ return [
 		'suffix' => 'aeroport.fr',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Smallregistry by Promopixel SARL: https://www.smallregistry.net',
+			'Smallregistry by Promopixel SARL : https://www.smallregistry.net',
 			'Former AFNIC\'s SLDs',
 			'Submitted by Jérôme Lipowicz <support@promopixel.com>',
 		],
@@ -60431,14 +60419,6 @@ return [
 		'comments' => [
 		],
 	],
-	'spacekit.io' => [
-		'suffix' => 'spacekit.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'SpaceKit : https://www.spacekit.io/',
-			'Submitted by Reza Akhavan <spacekit.io@gmail.com>',
-		],
-	],
 	'ind.mom' => [
 		'suffix' => 'ind.mom',
 		'type' => 'PRIVATE',
@@ -60451,7 +60431,7 @@ return [
 		'suffix' => 'customer.speedpartner.de',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'SpeedPartner GmbH: https://www.speedpartner.de/',
+			'SpeedPartner GmbH : https://www.speedpartner.de/',
 			'Submitted by Stefan Neufeind <info@speedpartner.de>',
 		],
 	],
@@ -60758,7 +60738,7 @@ return [
 		'suffix' => 'vps-host.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Strategic System Consulting (eApps Hosting): https://www.eapps.com/',
+			'Strategic System Consulting (eApps Hosting) : https://www.eapps.com/',
 			'Submitted by Alex Oancea <aoancea@cloudscale365.com>',
 		],
 	],
@@ -60826,7 +60806,7 @@ return [
 		'suffix' => 'temp-dns.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Sub 6 Limited: http://www.sub6.com',
+			'Sub 6 Limited : http://www.sub6.com',
 			'Submitted by Dan Miller <dm@sub6.com>',
 		],
 	],
@@ -61055,7 +61035,7 @@ return [
 		'suffix' => 'site.tb-hosting.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'team.blue https://team.blue',
+			'team.blue : https://team.blue',
 			'Submitted by Cedric Dubois <cedric.dubois@team.blue>',
 		],
 	],
@@ -61573,7 +61553,7 @@ return [
 		'suffix' => 'bielsko.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'University of Bielsko-Biala regional domain: http://dns.bielsko.pl/',
+			'University of Bielsko-Biala regional domain : http://dns.bielsko.pl/',
 			'Submitted by Marcin <dns@ath.bielsko.pl>',
 		],
 	],
@@ -61681,7 +61661,7 @@ return [
 		'suffix' => 'voorloper.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Voorloper.com: https://voorloper.com',
+			'Voorloper.com : https://voorloper.com',
 			'Submitted by Nathan van Bakel <info@voorloper.com>',
 		],
 	],
@@ -61844,7 +61824,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'William Harrison : https://wharrison.com.au',
-			'Submitted by William Harrison <william@harrison.id.au>',
+			'Submitted by William Harrison <psl@wharrison.com.au>',
 		],
 	],
 	'panel.gg' => [
@@ -61978,7 +61958,7 @@ return [
 		'suffix' => 'half.host',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'XenonCloud GbR: https://xenoncloud.net',
+			'XenonCloud GbR : https://xenoncloud.net',
 			'Submitted by Julian Uphoff <publicsuffixlist@xenoncloud.net>',
 		],
 	],
