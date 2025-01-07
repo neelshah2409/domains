@@ -54762,38 +54762,6 @@ return [
 		'comments' => [
 		],
 	],
-	'fin.ci' => [
-		'suffix' => 'fin.ci',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Hakaran group : http://hakaran.cz',
-			'Submitted by Arseniy Sokolov <security@hakaran.cz>',
-		],
-	],
-	'free.hr' => [
-		'suffix' => 'free.hr',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'caa.li' => [
-		'suffix' => 'caa.li',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'ua.rs' => [
-		'suffix' => 'ua.rs',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'conf.se' => [
-		'suffix' => 'conf.se',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'häkkinen.fi' => [
 		'suffix' => 'häkkinen.fi',
 		'type' => 'PRIVATE',
