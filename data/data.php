@@ -56,7 +56,7 @@ return [
 		'suffix' => 'ae',
 		'type' => 'ICANN',
 		'comments' => [
-			'ae : https://tdra.gov.ae/en/aeda/ae-policies',
+			'ae : https://www.iana.org/domains/root/db/ae.html',
 		],
 	],
 	'ac.ae' => [
@@ -4143,7 +4143,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'co : https://www.iana.org/domains/root/db/co.html',
-			'https://www.cointernet.com.co/registra',
 			'https://www.cointernet.com.co/como-funciona-un-dominio-restringido',
 			'Confirmed by registry <gonzalo@cointernet.com.co> 2024-11-18',
 		],
@@ -5596,7 +5595,7 @@ return [
 		'suffix' => 'gr',
 		'type' => 'ICANN',
 		'comments' => [
-			'gr : https://grweb.ics.forth.gr/english/1617-B-2005.html',
+			'gr : https://www.iana.org/domains/root/db/gr.html',
 			'Submitted by registry <segred@ics.forth.gr>',
 		],
 	],
@@ -5940,7 +5939,7 @@ return [
 		'suffix' => 'hn',
 		'type' => 'ICANN',
 		'comments' => [
-			'hn : http://www.nic.hn/politicas/ps02,,05.html',
+			'hn : https://www.iana.org/domains/root/db/hn.html',
 		],
 	],
 	'com.hn' => [
@@ -6123,7 +6122,7 @@ return [
 		'suffix' => 'hu',
 		'type' => 'ICANN',
 		'comments' => [
-			'hu : http://www.domain.hu/domain/English/sld.html',
+			'hu : https://www.iana.org/domains/root/db/hu.html',
 			'Confirmed by registry <pasztor@iszt.hu> 2008-06-12',
 		],
 	],
@@ -6317,7 +6316,7 @@ return [
 		'suffix' => 'id',
 		'type' => 'ICANN',
 		'comments' => [
-			'id : https://pandi.id/en/domain/registration-requirements/',
+			'id : https://www.iana.org/domains/root/db/id.html',
 		],
 	],
 	'ac.id' => [
@@ -9458,7 +9457,7 @@ return [
 		'suffix' => 'je',
 		'type' => 'ICANN',
 		'comments' => [
-			'je : http://www.channelisles.net/register-domains/',
+			'je : https://www.iana.org/domains/root/db/je.html',
 			'Confirmed by registry <nigel@channelisles.net> 2013-11-28',
 		],
 	],
@@ -20458,7 +20457,7 @@ return [
 		'suffix' => 'ki',
 		'type' => 'ICANN',
 		'comments' => [
-			'ki : http://www.ki/dns/index.html',
+			'ki : https://www.iana.org/domains/root/db/ki.html',
 		],
 	],
 	'biz.ki' => [
@@ -21148,7 +21147,7 @@ return [
 		'suffix' => 'lk',
 		'type' => 'ICANN',
 		'comments' => [
-			'lk : https://www.nic.lk/index.php/domain-registration/lk-domain-naming-structure',
+			'lk : https://www.iana.org/domains/root/db/lk.html',
 		],
 	],
 	'ac.lk' => [
@@ -21366,7 +21365,7 @@ return [
 		'suffix' => 'lv',
 		'type' => 'ICANN',
 		'comments' => [
-			'lv : http://www.nic.lv/DNS/En/generic.php',
+			'lv : https://www.iana.org/domains/root/db/lv.html',
 		],
 	],
 	'asn.lv' => [
@@ -21732,8 +21731,7 @@ return [
 		'suffix' => 'ml',
 		'type' => 'ICANN',
 		'comments' => [
-			'ml : http://www.gobin.info/domainname/ml-template.doc',
-			'see also: https://www.iana.org/domains/root/db/ml.html',
+			'ml : https://www.iana.org/domains/root/db/ml.html',
 		],
 	],
 	'com.ml' => [
@@ -21886,7 +21884,7 @@ return [
 		'suffix' => 'ms',
 		'type' => 'ICANN',
 		'comments' => [
-			'ms : http://www.nic.ms/pdf/MS_Domain_Name_Rules.pdf',
+			'ms : https://www.iana.org/domains/root/db/ms.html',
 		],
 	],
 	'com.ms' => [
@@ -27572,7 +27570,7 @@ return [
 		'suffix' => 'ph',
 		'type' => 'ICANN',
 		'comments' => [
-			'ph : http://www.domains.ph/FAQ2.asp',
+			'ph : https://www.iana.org/domains/root/db/ph.html',
 			'Submitted by registry <jed@email.com.ph>',
 		],
 	],
@@ -28993,7 +28991,7 @@ return [
 		'suffix' => 'pn',
 		'type' => 'ICANN',
 		'comments' => [
-			'pn : http://www.government.pn/PnRegistry/policies.htm',
+			'pn : https://www.iana.org/domains/root/db/pn.html',
 		],
 	],
 	'co.pn' => [
@@ -29315,7 +29313,7 @@ return [
 		'suffix' => 'py',
 		'type' => 'ICANN',
 		'comments' => [
-			'py : http://www.nic.py/pautas.html#seccion_9',
+			'py : https://www.iana.org/domains/root/db/py.html',
 			'Submitted by registry',
 		],
 	],
@@ -29565,7 +29563,7 @@ return [
 		'suffix' => 'rw',
 		'type' => 'ICANN',
 		'comments' => [
-			'rw : https://www.ricta.org.rw/sites/default/files/resources/registry_registrar_contract_0.pdf',
+			'rw : https://www.iana.org/domains/root/db/rw.html',
 		],
 	],
 	'ac.rw' => [
@@ -29744,7 +29742,7 @@ return [
 		'suffix' => 'sd',
 		'type' => 'ICANN',
 		'comments' => [
-			'sd : http://www.isoc.sd/sudanic.isoc.sd/billing_pricing.htm',
+			'sd : https://www.iana.org/domains/root/db/sd.html',
 			'Submitted by registry <admin@isoc.sd>',
 		],
 	],
@@ -30426,7 +30424,7 @@ return [
 		'suffix' => 'sv',
 		'type' => 'ICANN',
 		'comments' => [
-			'sv : http://www.svnet.org.sv/niveldos.pdf',
+			'sv : https://www.iana.org/domains/root/db/sv.html',
 		],
 	],
 	'com.sv' => [
@@ -30478,7 +30476,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sy : https://www.iana.org/domains/root/db/sy.html',
-			'see also: http://www.gobin.info/domainname/sy.doc',
 		],
 	],
 	'com.sy' => [
@@ -33577,10 +33574,7 @@ return [
 		'suffix' => 'vi',
 		'type' => 'ICANN',
 		'comments' => [
-			'vi : http://www.nic.vi/newdomainform.htm',
-			'http://www.nic.vi/Domain_Rules/body_domain_rules.html indicates some other',
-			'TLDs are "reserved", such as edu.vi and gov.vi, but doesn\'t actually say they',
-			'are available for registration (which they do not seem to be).',
+			'vi : https://www.iana.org/domains/root/db/vi.html',
 		],
 	],
 	'co.vi' => [
@@ -34873,7 +34867,7 @@ return [
 		'suffix' => 'ac.za',
 		'type' => 'ICANN',
 		'comments' => [
-			'za : https://www.zadna.org.za/content/page/domain-information/',
+			'za : https://www.iana.org/domains/root/db/za.html',
 		],
 	],
 	'agric.za' => [
@@ -49726,6 +49720,14 @@ return [
 		'comments' => [
 		],
 	],
+	'cloudbeesusercontent.io' => [
+		'suffix' => 'cloudbeesusercontent.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Cloudbees, Inc. : https://www.cloudbees.com/',
+			'Submitted by Mohideen Shajith <jaas-sre-infra@cloudbees.com>',
+		],
+	],
 	'*.cloudera.site' => [
 		'suffix' => '*.cloudera.site',
 		'type' => 'PRIVATE',
@@ -58766,6 +58768,38 @@ return [
 		'comments' => [
 			'Protonet GmbH : http://protonet.io',
 			'Submitted by Martin Meier <admin@protonet.io>',
+		],
+	],
+	'sub.psl.hrsn.dev' => [
+		'suffix' => 'sub.psl.hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PSL Sandbox : https://psl.hrsn.dev',
+			'Submitted by William Harrison <psl@hrsn.net>',
+		],
+	],
+	'*.wc.psl.hrsn.dev' => [
+		'suffix' => '*.wc.psl.hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'!ignored.wc.psl.hrsn.dev' => [
+		'suffix' => '!ignored.wc.psl.hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.sub.wc.psl.hrsn.dev' => [
+		'suffix' => '*.sub.wc.psl.hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'!ignored.sub.wc.psl.hrsn.dev' => [
+		'suffix' => '!ignored.sub.wc.psl.hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'chirurgiens-dentistes-en-france.fr' => [
