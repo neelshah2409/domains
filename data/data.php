@@ -47833,7 +47833,7 @@ return [
 		'comments' => [
 			'Amazon SageMaker Studio',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 69c723d9-6e1a-4bff-a203-48eecd203183',
+			'Reference: 475f237e-ab88-4041-9f41-7cfccdf66aeb',
 		],
 	],
 	'studio.ap-east-1.sagemaker.aws' => [
@@ -47892,6 +47892,12 @@ return [
 	],
 	'studio.eu-central-1.sagemaker.aws' => [
 		'suffix' => 'studio.eu-central-1.sagemaker.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'studio.eu-central-2.sagemaker.aws' => [
+		'suffix' => 'studio.eu-central-2.sagemaker.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -48710,6 +48716,63 @@ return [
 			'AWS re:Post Private',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
 			'Reference: 83385945-225f-416e-9aa0-ad0632bfdcee',
+		],
+	],
+	'transfer-webapp.ap-northeast-1.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-northeast-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AWS Transfer Family web apps',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: 67e9cfe6-ac57-49c7-b197-6652711c8e8d',
+		],
+	],
+	'transfer-webapp.ap-southeast-1.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-southeast-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-southeast-2.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-southeast-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.eu-central-1.on.aws' => [
+		'suffix' => 'transfer-webapp.eu-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.eu-north-1.on.aws' => [
+		'suffix' => 'transfer-webapp.eu-north-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.eu-west-1.on.aws' => [
+		'suffix' => 'transfer-webapp.eu-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.us-east-1.on.aws' => [
+		'suffix' => 'transfer-webapp.us-east-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.us-east-2.on.aws' => [
+		'suffix' => 'transfer-webapp.us-east-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.us-west-2.on.aws' => [
+		'suffix' => 'transfer-webapp.us-west-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'eero.online' => [
@@ -56232,6 +56295,20 @@ return [
 	],
 	'lpusercontent.com' => [
 		'suffix' => 'lpusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'liara.run' => [
+		'suffix' => 'liara.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Liara : https://liara.ir',
+			'Submitted by Amirhossein Badinloo <info@liara.ir>',
+		],
+	],
+	'iran.liara.run' => [
+		'suffix' => 'iran.liara.run',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
