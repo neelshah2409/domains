@@ -33568,6 +33568,13 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vg : https://www.iana.org/domains/root/db/vg.html',
+			'Confirmed by registry <tld.ops@centralnic.com> 2025-01-10',
+		],
+	],
+	'edu.vg' => [
+		'suffix' => 'edu.vg',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'vi' => [
