@@ -59428,6 +59428,20 @@ return [
 		'comments' => [
 		],
 	],
+	'subsc-pay.com' => [
+		'suffix' => 'subsc-pay.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ROBOT PAYMENT INC. : https://www.robotpayment.co.jp/',
+			'Submitted by Kentaro Takamori <takamori.kentaro@robotpayment.co.jp>',
+		],
+	],
+	'subsc-pay.net' => [
+		'suffix' => 'subsc-pay.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'git-pages.rit.edu' => [
 		'suffix' => 'git-pages.rit.edu',
 		'type' => 'PRIVATE',
