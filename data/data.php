@@ -21732,6 +21732,25 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ml : https://www.iana.org/domains/root/db/ml.html',
+			'Confirmed by Boubacar NDIAYE <bndiaye@agetic.gouv.ml> 2024-12-31',
+		],
+	],
+	'ac.ml' => [
+		'suffix' => 'ac.ml',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'art.ml' => [
+		'suffix' => 'art.ml',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'asso.ml' => [
+		'suffix' => 'asso.ml',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'com.ml' => [
@@ -21758,6 +21777,18 @@ return [
 		'comments' => [
 		],
 	],
+	'info.ml' => [
+		'suffix' => 'info.ml',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'inst.ml' => [
+		'suffix' => 'inst.ml',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.ml' => [
 		'suffix' => 'net.ml',
 		'type' => 'ICANN',
@@ -21766,6 +21797,12 @@ return [
 	],
 	'org.ml' => [
 		'suffix' => 'org.ml',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pr.ml' => [
+		'suffix' => 'pr.ml',
 		'type' => 'ICANN',
 		'comments' => [
 		],
