@@ -31838,6 +31838,8 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ug : https://www.registry.co.ug/',
+			'https://www.registry.co.ug, https://whois.co.ug',
+			'Confirmed by registry <support@i3c.co.ug> 2025-01-20',
 		],
 	],
 	'ac.ug' => [
@@ -31858,8 +31860,26 @@ return [
 		'comments' => [
 		],
 	],
+	'edu.ug' => [
+		'suffix' => 'edu.ug',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'go.ug' => [
 		'suffix' => 'go.ug',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.ug' => [
+		'suffix' => 'gov.ug',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.ug' => [
+		'suffix' => 'mil.ug',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -31884,6 +31904,12 @@ return [
 	],
 	'sc.ug' => [
 		'suffix' => 'sc.ug',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'us.ug' => [
+		'suffix' => 'us.ug',
 		'type' => 'ICANN',
 		'comments' => [
 		],
