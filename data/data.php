@@ -49257,12 +49257,30 @@ return [
 		'comments' => [
 		],
 	],
-	'*.s.brave.io' => [
-		'suffix' => '*.s.brave.io',
+	'brave.app' => [
+		'suffix' => 'brave.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Brave : https://brave.com',
 			'Submitted by Andrea Brancaleoni <abrancaleoni@brave.com>',
+		],
+	],
+	'*.s.brave.app' => [
+		'suffix' => '*.s.brave.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'brave.io' => [
+		'suffix' => 'brave.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.s.brave.io' => [
+		'suffix' => '*.s.brave.io',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'shop.brendly.hr' => [
@@ -56527,6 +56545,20 @@ return [
 		'comments' => [
 		],
 	],
+	'localtonet.com' => [
+		'suffix' => 'localtonet.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Localtonet : https://localtonet.com/',
+			'Submitted by Burak Isleyici <support@localtonet.com>',
+		],
+	],
+	'*.localto.net' => [
+		'suffix' => '*.localto.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'lodz.pl' => [
 		'suffix' => 'lodz.pl',
 		'type' => 'PRIVATE',
@@ -61668,6 +61700,14 @@ return [
 		'suffix' => 'virtualuser.de',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'obj.ag' => [
+		'suffix' => 'obj.ag',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'United States Writing Corporation : https://uswriting.co',
+			'Submitted by Andrew Sampson <security@obj.ag>',
 		],
 	],
 	'name.pm' => [
