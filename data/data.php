@@ -44475,6 +44475,14 @@ return [
 		'comments' => [
 		],
 	],
+	'alibabacloudcs.com' => [
+		'suffix' => 'alibabacloudcs.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Alibaba Cloud API Gateway',
+			'Submitted by Alibaba Cloud Security <cloud_product_security_team@alibaba-inc.com>',
+		],
+	],
 	'kasserver.com' => [
 		'suffix' => 'kasserver.com',
 		'type' => 'PRIVATE',
