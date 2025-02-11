@@ -9654,9 +9654,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'jp prefecture type names',
-			'2024-11-22: JPRS confirmed that regional .jp suffixes no longer accept new registrations.',
-			'Once all existing registrations expire (marking full discontinuation), these suffixes',
-			'will be removed from the PSL.',
 		],
 	],
 	'akita.jp' => [
@@ -10223,6 +10220,9 @@ return [
 		'comments' => [
 			'jp geographic type names',
 			'http://jprs.jp/doc/rule/saisoku-1.html',
+			'2024-11-22: JPRS confirmed that jp geographic type names no longer accept new registrations.',
+			'Once all existing registrations expire (marking full discontinuation), these suffixes',
+			'will be removed from the PSL.',
 		],
 	],
 	'!city.kawasaki.jp' => [
@@ -56353,6 +56353,14 @@ return [
 		'comments' => [
 			'KUROKU LTD : https://kuroku.ltd/',
 			'Submitted by DisposaBoy <security@oya.to>',
+		],
+	],
+	'laravel.cloud' => [
+		'suffix' => 'laravel.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Laravel Holdings, Inc. : https://laravel.com',
+			'Submitted by André Valentin <security@laravel.com>',
 		],
 	],
 	'git-repos.de' => [
