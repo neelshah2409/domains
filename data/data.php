@@ -49327,6 +49327,20 @@ return [
 		'comments' => [
 		],
 	],
+	'cdn.bubble.io' => [
+		'suffix' => 'cdn.bubble.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Bubble : https://bubble.io/',
+			'Submitted by Merlin Zhao <devops@bubble.io>',
+		],
+	],
+	'bubbleapps.io' => [
+		'suffix' => 'bubbleapps.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'uk0.bigv.io' => [
 		'suffix' => 'uk0.bigv.io',
 		'type' => 'PRIVATE',
