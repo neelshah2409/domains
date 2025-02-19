@@ -56675,6 +56675,20 @@ return [
 			'Submitted by Noah Taheij <noah@lokalized.nl>',
 		],
 	],
+	'lovable.app' => [
+		'suffix' => 'lovable.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Lovable : https://lovable.dev',
+			'Submitted by Fabian Hedin <security@lovable.dev>',
+		],
+	],
+	'lovableproject.com' => [
+		'suffix' => 'lovableproject.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'krasnik.pl' => [
 		'suffix' => 'krasnik.pl',
 		'type' => 'PRIVATE',
