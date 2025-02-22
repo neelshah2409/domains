@@ -35159,7 +35159,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-23T15:16:32Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-02-21T15:17:09Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -38033,7 +38033,7 @@ return [
 		'suffix' => 'fun',
 		'type' => 'ICANN',
 		'comments' => [
-			'fun : Radix Technologies Inc.',
+			'fun : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/fun.html',
 		],
 	],
@@ -38697,7 +38697,7 @@ return [
 		'suffix' => 'host',
 		'type' => 'ICANN',
 		'comments' => [
-			'host : Radix Technologies Inc.',
+			'host : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/host.html',
 		],
 	],
@@ -40521,7 +40521,7 @@ return [
 		'suffix' => 'online',
 		'type' => 'ICANN',
 		'comments' => [
-			'online : Radix Technologies Inc.',
+			'online : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/online.html',
 		],
 	],
@@ -40929,7 +40929,7 @@ return [
 		'suffix' => 'press',
 		'type' => 'ICANN',
 		'comments' => [
-			'press : Radix Technologies Inc.',
+			'press : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/press.html',
 		],
 	],
@@ -41825,7 +41825,7 @@ return [
 		'suffix' => 'site',
 		'type' => 'ICANN',
 		'comments' => [
-			'site : Radix Technologies Inc.',
+			'site : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/site.html',
 		],
 	],
@@ -41985,7 +41985,7 @@ return [
 		'suffix' => 'space',
 		'type' => 'ICANN',
 		'comments' => [
-			'space : Radix Technologies Inc.',
+			'space : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/space.html',
 		],
 	],
@@ -42089,7 +42089,7 @@ return [
 		'suffix' => 'store',
 		'type' => 'ICANN',
 		'comments' => [
-			'store : Radix Technologies Inc.',
+			'store : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/store.html',
 		],
 	],
@@ -42321,7 +42321,7 @@ return [
 		'suffix' => 'tech',
 		'type' => 'ICANN',
 		'comments' => [
-			'tech : Radix Technologies Inc.',
+			'tech : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/tech.html',
 		],
 	],
@@ -42689,7 +42689,7 @@ return [
 		'suffix' => 'uno',
 		'type' => 'ICANN',
 		'comments' => [
-			'uno : Radix Technologies Inc.',
+			'uno : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/uno.html',
 		],
 	],
@@ -43017,7 +43017,7 @@ return [
 		'suffix' => 'website',
 		'type' => 'ICANN',
 		'comments' => [
-			'website : Radix Technologies Inc.',
+			'website : Radix Technologies Inc SEZC',
 			'https://www.iana.org/domains/root/db/website.html',
 		],
 	],
