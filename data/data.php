@@ -33542,6 +33542,12 @@ return [
 		'comments' => [
 		],
 	],
+	'emprende.ve' => [
+		'suffix' => 'emprende.ve',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'firm.ve' => [
 		'suffix' => 'firm.ve',
 		'type' => 'ICANN',
@@ -49193,6 +49199,14 @@ return [
 		'comments' => [
 			'Blatech : http://www.blatech.net',
 			'Submitted by Luke Bratch <luke@bratch.co.uk>',
+		],
+	],
+	'square.site' => [
+		'suffix' => 'square.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Block, Inc. : https://block.xyz',
+			'Submitted by Jonathan Boice <security@block.xyz>',
 		],
 	],
 	'bluebite.io' => [
