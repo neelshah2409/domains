@@ -35165,7 +35165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-02-21T15:17:09Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-02-26T15:18:44Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -43983,7 +43983,7 @@ return [
 		'suffix' => 'yandex',
 		'type' => 'ICANN',
 		'comments' => [
-			'yandex : ADC Tech Netherlands B.V.',
+			'yandex : YANDEX, LLC',
 			'https://www.iana.org/domains/root/db/yandex.html',
 		],
 	],
@@ -62347,6 +62347,14 @@ return [
 		'comments' => [
 			'Zeabur : https://zeabur.com/',
 			'Submitted by Zeabur Team <contact@zeabur.com>',
+		],
+	],
+	'*.zerops.app' => [
+		'suffix' => '*.zerops.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Zerops : https://zerops.io/',
+			'Submitted by Zerops Team <security@zerops.io>',
 		],
 	],
 	'bss.design' => [
