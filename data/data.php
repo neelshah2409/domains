@@ -62385,4 +62385,12 @@ return [
 		'comments' => [
 		],
 	],
+	'zone.id' => [
+		'suffix' => 'zone.id',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Zone.ID: https://zone.id',
+			'Submitted by Gx1.org <security@gx1.org>',
+		],
+	],
 ];
