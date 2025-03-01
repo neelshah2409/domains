@@ -35165,7 +35165,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-02-26T15:18:44Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-02-28T15:18:00Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39179,14 +39179,6 @@ return [
 			'https://www.iana.org/domains/root/db/kerryhotels.html',
 		],
 	],
-	'kerrylogistics' => [
-		'suffix' => 'kerrylogistics',
-		'type' => 'ICANN',
-		'comments' => [
-			'kerrylogistics : Kerry Trading Co. Limited',
-			'https://www.iana.org/domains/root/db/kerrylogistics.html',
-		],
-	],
 	'kerryproperties' => [
 		'suffix' => 'kerryproperties',
 		'type' => 'ICANN',
@@ -39577,14 +39569,6 @@ return [
 		'comments' => [
 			'link : Nova Registry Ltd',
 			'https://www.iana.org/domains/root/db/link.html',
-		],
-	],
-	'lipsy' => [
-		'suffix' => 'lipsy',
-		'type' => 'ICANN',
-		'comments' => [
-			'lipsy : Lipsy Ltd',
-			'https://www.iana.org/domains/root/db/lipsy.html',
 		],
 	],
 	'live' => [
@@ -62018,6 +62002,12 @@ return [
 	],
 	'plesk.page' => [
 		'suffix' => 'plesk.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'cpanel.site' => [
+		'suffix' => 'cpanel.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
