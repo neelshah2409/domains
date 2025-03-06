@@ -50447,6 +50447,12 @@ return [
 		'comments' => [
 		],
 	],
+	'deno.net' => [
+		'suffix' => 'deno.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'dedyn.io' => [
 		'suffix' => 'dedyn.io',
 		'type' => 'PRIVATE',
