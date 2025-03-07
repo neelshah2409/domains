@@ -55421,6 +55421,14 @@ return [
 		'comments' => [
 		],
 	],
+	'oninferno.net' => [
+		'suffix' => 'oninferno.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Inferno Communications : https://inferno.co.uk',
+			'Submitted by Connor McFarlane <noc@inferno.co.uk>',
+		],
+	],
 	'biz.at' => [
 		'suffix' => 'biz.at',
 		'type' => 'PRIVATE',
@@ -61906,6 +61914,14 @@ return [
 		'comments' => [
 			'Virtual-Info : https://www.virtual-info.info/',
 			'Submitted by Adnan RIHAN <hostmaster@v-info.info>',
+		],
+	],
+	'deus-canvas.com' => [
+		'suffix' => 'deus-canvas.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Viva Republica, Inc. : https://toss.im/',
+			'Submitted by Deus Team <deus@toss.im>',
 		],
 	],
 	'voorloper.cloud' => [
