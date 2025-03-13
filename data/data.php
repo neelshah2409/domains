@@ -20694,11 +20694,17 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'kr : https://www.iana.org/domains/root/db/kr.html',
-			'see also: http://domain.nida.or.kr/eng/registration.jsp',
+			'see also: https://krnic.kisa.or.kr/jsp/infoboard/law/domBylawsReg.jsp',
 		],
 	],
 	'ac.kr' => [
 		'suffix' => 'ac.kr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ai.kr' => [
+		'suffix' => 'ai.kr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -20727,8 +20733,26 @@ return [
 		'comments' => [
 		],
 	],
+	'io.kr' => [
+		'suffix' => 'io.kr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'it.kr' => [
+		'suffix' => 'it.kr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'kg.kr' => [
 		'suffix' => 'kg.kr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'me.kr' => [
+		'suffix' => 'me.kr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -61685,7 +61709,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Typeform : https://www.typeform.com',
-			'Submitted by Sergi Ferriz <sergi.ferriz@typeform.com>',
+			'Submitted by Typeform <ops@typeform.com>',
 		],
 	],
 	'*.uberspace.de' => [
