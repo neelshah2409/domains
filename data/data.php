@@ -55733,12 +55733,24 @@ return [
 			'Submitted by Roman Azarenko <roman.azarenko@iopsys.eu>',
 		],
 	],
-	'*.dweb.link' => [
-		'suffix' => '*.dweb.link',
+	'*.inbrowser.dev' => [
+		'suffix' => '*.inbrowser.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'IPFS Project : https://ipfs.tech/',
 			'Submitted by Interplanetary Shipyard <domains@ipshipyard.com>',
+		],
+	],
+	'*.dweb.link' => [
+		'suffix' => '*.dweb.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.inbrowser.link' => [
+		'suffix' => '*.inbrowser.link',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'ipifony.net' => [
@@ -59019,6 +59031,20 @@ return [
 		'comments' => [
 			'priv.at : http://www.nic.priv.at/',
 			'Submitted by registry <lendl@nic.at>',
+		],
+	],
+	'c01.kr' => [
+		'suffix' => 'c01.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PROJECT ELIV : https://eliv.kr/',
+			'Submitted by ELIV Team <team@eliv.kr>',
+		],
+	],
+	'eliv-dns.kr' => [
+		'suffix' => 'eliv-dns.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'protonet.io' => [
