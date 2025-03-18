@@ -50093,6 +50093,20 @@ return [
 		'comments' => [
 		],
 	],
+	'devinapps.com' => [
+		'suffix' => 'devinapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Cognition AI, Inc. : https://cognition.ai',
+			'Submitted by Philip Papurt <domains@cognition.ai>',
+		],
+	],
+	'staging.devinapps.com' => [
+		'suffix' => 'staging.devinapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'webhosting.be' => [
 		'suffix' => 'webhosting.be',
 		'type' => 'PRIVATE',
@@ -50541,6 +50555,12 @@ return [
 		'comments' => [
 			'DigitalPlat : https://www.digitalplat.org/',
 			'Submitted by Edward Hsing <contact@digitalplat.org>',
+		],
+	],
+	'dpdns.org' => [
+		'suffix' => 'dpdns.org',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'discordsays.com' => [
