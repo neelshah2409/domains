@@ -61970,14 +61970,6 @@ return [
 			'Submitted by Danko Aleksejevs <danko@very.lv>',
 		],
 	],
-	'router.management' => [
-		'suffix' => 'router.management',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Viprinet Europe GmbH : http://www.viprinet.com',
-			'Submitted by Simon Kissel <hostmaster@viprinet.com>',
-		],
-	],
 	'v-info.info' => [
 		'suffix' => 'v-info.info',
 		'type' => 'PRIVATE',
