@@ -61017,6 +61017,20 @@ return [
 		'comments' => [
 		],
 	],
+	'ipfs.storacha.link' => [
+		'suffix' => 'ipfs.storacha.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Storacha Network : https://storacha.network',
+			'Submitted by Alan Shaw <support@storacha.network>',
+		],
+	],
+	'ipfs.w3s.link' => [
+		'suffix' => 'ipfs.w3s.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'storebase.store' => [
 		'suffix' => 'storebase.store',
 		'type' => 'PRIVATE',
