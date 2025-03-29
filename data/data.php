@@ -35189,7 +35189,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-02-28T15:18:00Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-03-28T15:18:17Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39863,7 +39863,7 @@ return [
 		'suffix' => 'mattel',
 		'type' => 'ICANN',
 		'comments' => [
-			'mattel : Mattel Sites, Inc.',
+			'mattel : Mattel IT Services, Inc.',
 			'https://www.iana.org/domains/root/db/mattel.html',
 		],
 	],
@@ -48182,6 +48182,20 @@ return [
 	],
 	'analytics-gateway.us-west-2.amazonaws.com' => [
 		'suffix' => 'analytics-gateway.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'appwrite.global' => [
+		'suffix' => 'appwrite.global',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Appwrite : https://appwrite.io',
+			'Submitted by Steven Nguyen <security@appwrite.io>',
+		],
+	],
+	'*.appwrite.run' => [
+		'suffix' => '*.appwrite.run',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
