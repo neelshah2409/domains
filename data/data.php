@@ -62190,6 +62190,20 @@ return [
 			'Submitted by William Harrison <psl@wharrison.com.au>',
 		],
 	],
+	'windsurf.app' => [
+		'suffix' => 'windsurf.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Windsurf : https://windsurf.com',
+			'Submitted by Douglas Chen <psl@windsurf.com>',
+		],
+	],
+	'windsurf.build' => [
+		'suffix' => 'windsurf.build',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'panel.gg' => [
 		'suffix' => 'panel.gg',
 		'type' => 'PRIVATE',
