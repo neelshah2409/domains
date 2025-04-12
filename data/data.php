@@ -979,6 +979,12 @@ return [
 		'comments' => [
 		],
 	],
+	'seg.ar' => [
+		'suffix' => 'seg.ar',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'senasa.ar' => [
 		'suffix' => 'senasa.ar',
 		'type' => 'ICANN',
@@ -44754,7 +44760,7 @@ return [
 		'comments' => [
 			'Amazon Cognito',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: cb38c251-c93d-4cda-81ec-e72c4f0fdb72',
+			'Reference: eb4652f0-20f0-43f5-b323-e6cc6ae02ad7',
 		],
 	],
 	'auth.ap-east-1.amazoncognito.com' => [
@@ -44813,6 +44819,12 @@ return [
 	],
 	'auth.ap-southeast-4.amazoncognito.com' => [
 		'suffix' => 'auth.ap-southeast-4.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-southeast-5.amazoncognito.com' => [
+		'suffix' => 'auth.ap-southeast-5.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -44921,6 +44933,12 @@ return [
 	],
 	'auth-fips.us-east-2.amazoncognito.com' => [
 		'suffix' => 'auth-fips.us-east-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth-fips.us-gov-east-1.amazoncognito.com' => [
+		'suffix' => 'auth-fips.us-gov-east-1.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50107,18 +50125,12 @@ return [
 		'comments' => [
 		],
 	],
-	'devinapps.com' => [
-		'suffix' => 'devinapps.com',
+	'*.devinapps.com' => [
+		'suffix' => '*.devinapps.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Cognition AI, Inc. : https://cognition.ai',
 			'Submitted by Philip Papurt <domains@cognition.ai>',
-		],
-	],
-	'staging.devinapps.com' => [
-		'suffix' => 'staging.devinapps.com',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'webhosting.be' => [
@@ -50143,12 +50155,24 @@ return [
 			'Submitted by Contentful Developer Experience Team <prd-ecosystem-dx@contentful.com>',
 		],
 	],
-	'convex.site' => [
-		'suffix' => 'convex.site',
+	'convex.app' => [
+		'suffix' => 'convex.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Convex : https://convex.dev/',
 			'Submitted by James Cowling <security@convex.dev>',
+		],
+	],
+	'convex.cloud' => [
+		'suffix' => 'convex.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'convex.site' => [
+		'suffix' => 'convex.site',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'ac.ru' => [
@@ -53645,6 +53669,14 @@ return [
 			'Submitted by Robin Naundorf <r.naundorf@fh-muenster.de>',
 		],
 	],
+	'figma.site' => [
+		'suffix' => 'figma.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Figma : https://www.figma.com',
+			'Submitted by Nick Frost <psl@figma.com>',
+		],
+	],
 	'filegear.me' => [
 		'suffix' => 'filegear.me',
 		'type' => 'PRIVATE',
@@ -53717,6 +53749,14 @@ return [
 		'suffix' => 'id.forgerock.io',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'e2b.app' => [
+		'suffix' => 'e2b.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'FoundryLabs, Inc : https://e2b.dev/',
+			'Submitted by Jiri Sveceny <security@e2b.dev>',
 		],
 	],
 	'framer.ai' => [
