@@ -55328,14 +55328,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ie.ua' => [
-		'suffix' => 'ie.ua',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'HostFly : https://www.ie.ua',
-			'Submitted by Bohdan Dub <support@hostfly.com.ua>',
-		],
-	],
 	'hostyhosting.io' => [
 		'suffix' => 'hostyhosting.io',
 		'type' => 'PRIVATE',
