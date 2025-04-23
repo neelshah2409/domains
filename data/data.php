@@ -50051,6 +50051,18 @@ return [
 		'comments' => [
 		],
 	],
+	'lpg.objectstorage.ch' => [
+		'suffix' => 'lpg.objectstorage.ch',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rma.objectstorage.ch' => [
+		'suffix' => 'rma.objectstorage.ch',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'wnext.app' => [
 		'suffix' => 'wnext.app',
 		'type' => 'PRIVATE',
@@ -57043,6 +57055,20 @@ return [
 		'comments' => [
 		],
 	],
+	'luyani.app' => [
+		'suffix' => 'luyani.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Luyani Inc. : https://luyani.com/',
+			'Submitted by Umut Gumeli <public-suffix-list@luyani.com>',
+		],
+	],
+	'luyani.net' => [
+		'suffix' => 'luyani.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.magentosite.cloud' => [
 		'suffix' => '*.magentosite.cloud',
 		'type' => 'PRIVATE',
@@ -61976,8 +62002,8 @@ return [
 			'Submitted by Serhii Rostilo <sergey@rostilo.kiev.ua>',
 		],
 	],
-	'express.val.run' => [
-		'suffix' => 'express.val.run',
+	'val.run' => [
+		'suffix' => 'val.run',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Val Town, Inc : https://val.town/',
