@@ -52618,12 +52618,18 @@ return [
 		'suffix' => 'encr.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Encoretivity AB : https://encore.dev',
-			'Submitted by André Eriksson <andre@encore.dev>',
+			'Encoretivity AB : https://encore.cloud',
+			'Submitted by André Eriksson <security@encore.cloud>',
 		],
 	],
 	'encoreapi.com' => [
 		'suffix' => 'encoreapi.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'lp.dev' => [
+		'suffix' => 'lp.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53687,6 +53693,12 @@ return [
 		'comments' => [
 			'Figma : https://www.figma.com',
 			'Submitted by Nick Frost <psl@figma.com>',
+		],
+	],
+	'preview.site' => [
+		'suffix' => 'preview.site',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'filegear.me' => [
@@ -59130,13 +59142,33 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'PROJECT ELIV : https://eliv.kr/',
-			'Submitted by ELIV Team <team@eliv.kr>',
+			'Submitted by PROJECT ELIV Domain Team <team@eliv.kr>',
 		],
 	],
 	'eliv-dns.kr' => [
 		'suffix' => 'eliv-dns.kr',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'mmv.kr' => [
+		'suffix' => 'mmv.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'vki.kr' => [
+		'suffix' => 'vki.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dev.project-study.com' => [
+		'suffix' => 'dev.project-study.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'project-study : https://project-study.com',
+			'Submitted by yumenewa <admin@project-study.com>',
 		],
 	],
 	'protonet.io' => [
