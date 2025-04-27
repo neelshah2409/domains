@@ -35195,7 +35195,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-03-28T15:18:17Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-04-24T15:19:53Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -35951,14 +35951,6 @@ return [
 		'comments' => [
 			'beer : Registry Services, LLC',
 			'https://www.iana.org/domains/root/db/beer.html',
-		],
-	],
-	'bentley' => [
-		'suffix' => 'bentley',
-		'type' => 'ICANN',
-		'comments' => [
-			'bentley : Bentley Motors Limited',
-			'https://www.iana.org/domains/root/db/bentley.html',
 		],
 	],
 	'berlin' => [
