@@ -35195,7 +35195,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-04-24T15:19:53Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-04-26T15:16:32Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -40781,7 +40781,7 @@ return [
 		'suffix' => 'pictet',
 		'type' => 'ICANN',
 		'comments' => [
-			'pictet : Pictet Europe S.A.',
+			'pictet : Banque Pictet & Cie SA',
 			'https://www.iana.org/domains/root/db/pictet.html',
 		],
 	],
