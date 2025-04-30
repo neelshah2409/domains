@@ -58663,6 +58663,14 @@ return [
 		'comments' => [
 		],
 	],
+	'onid.ca' => [
+		'suffix' => 'onid.ca',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ONID : https://get.onid.ca',
+			'Submitted by ONID Engineering Team <psl@onid.ca>',
+		],
+	],
 	'is-a-fullstack.dev' => [
 		'suffix' => 'is-a-fullstack.dev',
 		'type' => 'PRIVATE',
