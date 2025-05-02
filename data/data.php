@@ -35195,7 +35195,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-04-26T15:16:32Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-04-30T15:19:32Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39359,14 +39359,6 @@ return [
 		'comments' => [
 			'lamer : The Estée Lauder Companies Inc.',
 			'https://www.iana.org/domains/root/db/lamer.html',
-		],
-	],
-	'lancaster' => [
-		'suffix' => 'lancaster',
-		'type' => 'ICANN',
-		'comments' => [
-			'lancaster : LANCASTER',
-			'https://www.iana.org/domains/root/db/lancaster.html',
 		],
 	],
 	'land' => [
