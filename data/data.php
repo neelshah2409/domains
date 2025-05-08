@@ -55055,14 +55055,6 @@ return [
 			'Submitted by Eero Häkkinen <Eero+psl@Häkkinen.fi>',
 		],
 	],
-	'hrsn.dev' => [
-		'suffix' => 'hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Harrison Network : https://hrsn.net',
-			'Submitted by William Harrison <psl@hrsn.net>',
-		],
-	],
 	'hashbang.sh' => [
 		'suffix' => 'hashbang.sh',
 		'type' => 'PRIVATE',
@@ -55856,7 +55848,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'is-a.dev : https://is-a.dev',
-			'Submitted by William Harrison <psl@is-a.dev>',
+			'Submitted by William Harrison <security@is-a.dev>',
 		],
 	],
 	'iservschule.de' => [
@@ -56688,13 +56680,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'LocalCert : https://localcert.net',
-			'Submitted by William Harrison <psl@localcert.net>',
-		],
-	],
-	'localhostcert.net' => [
-		'suffix' => 'localhostcert.net',
-		'type' => 'PRIVATE',
-		'comments' => [
+			'Submitted by William Harrison <security@localcert.net>',
 		],
 	],
 	'localtonet.com' => [
@@ -59169,38 +59155,6 @@ return [
 		'comments' => [
 			'Protonet GmbH : http://protonet.io',
 			'Submitted by Martin Meier <admin@protonet.io>',
-		],
-	],
-	'sub.psl.hrsn.dev' => [
-		'suffix' => 'sub.psl.hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'PSL Sandbox : https://psl.hrsn.dev',
-			'Submitted by William Harrison <psl@hrsn.net>',
-		],
-	],
-	'*.wc.psl.hrsn.dev' => [
-		'suffix' => '*.wc.psl.hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'!ignored.wc.psl.hrsn.dev' => [
-		'suffix' => '!ignored.wc.psl.hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'*.sub.wc.psl.hrsn.dev' => [
-		'suffix' => '*.sub.wc.psl.hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'!ignored.sub.wc.psl.hrsn.dev' => [
-		'suffix' => '!ignored.sub.wc.psl.hrsn.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'chirurgiens-dentistes-en-france.fr' => [
@@ -62269,7 +62223,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'William Harrison : https://wharrison.com.au',
-			'Submitted by William Harrison <psl@wharrison.com.au>',
+			'Submitted by William Harrison <security@wharrison.com.au>',
+		],
+	],
+	'hrsn.dev' => [
+		'suffix' => 'hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'windsurf.app' => [
