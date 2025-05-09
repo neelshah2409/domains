@@ -48188,20 +48188,6 @@ return [
 		'comments' => [
 		],
 	],
-	'appwrite.global' => [
-		'suffix' => 'appwrite.global',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Appwrite : https://appwrite.io',
-			'Submitted by Steven Nguyen <security@appwrite.io>',
-		],
-	],
-	'*.appwrite.run' => [
-		'suffix' => '*.appwrite.run',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'amplifyapp.com' => [
 		'suffix' => 'amplifyapp.com',
 		'type' => 'PRIVATE',
@@ -48943,6 +48929,20 @@ return [
 		'comments' => [
 			'Appudo UG (haftungsbeschränkt) : https://www.appudo.com',
 			'Submitted by Alexander Hochbaum <admin@appudo.com>',
+		],
+	],
+	'appwrite.global' => [
+		'suffix' => 'appwrite.global',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Appwrite : https://appwrite.io',
+			'Submitted by Steven Nguyen <security@appwrite.io>',
+		],
+	],
+	'*.appwrite.run' => [
+		'suffix' => '*.appwrite.run',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'on-aptible.com' => [
