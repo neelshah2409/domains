@@ -50583,12 +50583,24 @@ return [
 			'Submitted by Robin H. Johnson <psl-maintainers@digitalocean.com>',
 		],
 	],
-	'us.kg' => [
-		'suffix' => 'us.kg',
+	'qzz.io' => [
+		'suffix' => 'qzz.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'DigitalPlat : https://www.digitalplat.org/',
 			'Submitted by Edward Hsing <contact@digitalplat.org>',
+		],
+	],
+	'us.kg' => [
+		'suffix' => 'us.kg',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xx.kg' => [
+		'suffix' => 'xx.kg',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'dpdns.org' => [
