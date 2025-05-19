@@ -35195,7 +35195,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-04-30T15:19:32Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-05-17T15:16:58Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -40911,14 +40911,6 @@ return [
 		'comments' => [
 			'porn : ICM Registry PN LLC',
 			'https://www.iana.org/domains/root/db/porn.html',
-		],
-	],
-	'pramerica' => [
-		'suffix' => 'pramerica',
-		'type' => 'ICANN',
-		'comments' => [
-			'pramerica : Prudential Financial, Inc.',
-			'https://www.iana.org/domains/root/db/pramerica.html',
 		],
 	],
 	'praxi' => [
