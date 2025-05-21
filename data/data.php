@@ -5378,6 +5378,12 @@ return [
 			'they have been possible for some time and may come back.',
 		],
 	],
+	'biz.gh' => [
+		'suffix' => 'biz.gh',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'com.gh' => [
 		'suffix' => 'com.gh',
 		'type' => 'ICANN',
@@ -5398,6 +5404,12 @@ return [
 	],
 	'mil.gh' => [
 		'suffix' => 'mil.gh',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.gh' => [
+		'suffix' => 'net.gh',
 		'type' => 'ICANN',
 		'comments' => [
 		],
