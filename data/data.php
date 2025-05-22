@@ -4706,11 +4706,95 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'ec : https://www.nic.ec/',
-			'Submitted by registry <vabboud@nic.ec>',
+			'Submitted by registry <infraestructura@nic.ec>',
+		],
+	],
+	'abg.ec' => [
+		'suffix' => 'abg.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'adm.ec' => [
+		'suffix' => 'adm.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'agron.ec' => [
+		'suffix' => 'agron.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'arqt.ec' => [
+		'suffix' => 'arqt.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'art.ec' => [
+		'suffix' => 'art.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bar.ec' => [
+		'suffix' => 'bar.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'chef.ec' => [
+		'suffix' => 'chef.ec',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'com.ec' => [
 		'suffix' => 'com.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'cont.ec' => [
+		'suffix' => 'cont.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'cpa.ec' => [
+		'suffix' => 'cpa.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'cue.ec' => [
+		'suffix' => 'cue.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'dent.ec' => [
+		'suffix' => 'dent.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'dgn.ec' => [
+		'suffix' => 'dgn.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'disco.ec' => [
+		'suffix' => 'disco.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'doc.ec' => [
+		'suffix' => 'doc.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4721,8 +4805,32 @@ return [
 		'comments' => [
 		],
 	],
+	'eng.ec' => [
+		'suffix' => 'eng.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'esm.ec' => [
+		'suffix' => 'esm.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'fin.ec' => [
 		'suffix' => 'fin.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'fot.ec' => [
+		'suffix' => 'fot.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gal.ec' => [
+		'suffix' => 'gal.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4739,6 +4847,18 @@ return [
 		'comments' => [
 		],
 	],
+	'gye.ec' => [
+		'suffix' => 'gye.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ibr.ec' => [
+		'suffix' => 'ibr.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'info.ec' => [
 		'suffix' => 'info.ec',
 		'type' => 'ICANN',
@@ -4747,6 +4867,18 @@ return [
 	],
 	'k12.ec' => [
 		'suffix' => 'k12.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lat.ec' => [
+		'suffix' => 'lat.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'loj.ec' => [
+		'suffix' => 'loj.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4763,8 +4895,32 @@ return [
 		'comments' => [
 		],
 	],
+	'mktg.ec' => [
+		'suffix' => 'mktg.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mon.ec' => [
+		'suffix' => 'mon.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.ec' => [
 		'suffix' => 'net.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ntr.ec' => [
+		'suffix' => 'ntr.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'odont.ec' => [
+		'suffix' => 'odont.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -4777,6 +4933,84 @@ return [
 	],
 	'pro.ec' => [
 		'suffix' => 'pro.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'prof.ec' => [
+		'suffix' => 'prof.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'psic.ec' => [
+		'suffix' => 'psic.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'psiq.ec' => [
+		'suffix' => 'psiq.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'pub.ec' => [
+		'suffix' => 'pub.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'rio.ec' => [
+		'suffix' => 'rio.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'rrpp.ec' => [
+		'suffix' => 'rrpp.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sal.ec' => [
+		'suffix' => 'sal.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tech.ec' => [
+		'suffix' => 'tech.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tul.ec' => [
+		'suffix' => 'tul.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tur.ec' => [
+		'suffix' => 'tur.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'uio.ec' => [
+		'suffix' => 'uio.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'vet.ec' => [
+		'suffix' => 'vet.ec',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'xxx.ec' => [
+		'suffix' => 'xxx.ec',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -49419,8 +49653,8 @@ return [
 			'Submitted by Joel Aquilina <publicsuffixlist@canva.com>',
 		],
 	],
-	'*.my.canvasite.cn' => [
-		'suffix' => '*.my.canvasite.cn',
+	'my.canvasite.cn' => [
+		'suffix' => 'my.canvasite.cn',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49431,8 +49665,8 @@ return [
 		'comments' => [
 		],
 	],
-	'*.my.canva.site' => [
-		'suffix' => '*.my.canva.site',
+	'my.canva.site' => [
+		'suffix' => 'my.canva.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
