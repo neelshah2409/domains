@@ -50131,12 +50131,6 @@ return [
 		'comments' => [
 		],
 	],
-	'cloud66.zone' => [
-		'suffix' => 'cloud66.zone',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'jdevcloud.com' => [
 		'suffix' => 'jdevcloud.com',
 		'type' => 'PRIVATE',
@@ -52856,6 +52850,12 @@ return [
 			'Submitted by André Eriksson <security@encore.cloud>',
 		],
 	],
+	'frontend.encr.app' => [
+		'suffix' => 'frontend.encr.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'encoreapi.com' => [
 		'suffix' => 'encoreapi.com',
 		'type' => 'PRIVATE',
@@ -52864,6 +52864,18 @@ return [
 	],
 	'lp.dev' => [
 		'suffix' => 'lp.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'api.lp.dev' => [
+		'suffix' => 'api.lp.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'objects.lp.dev' => [
+		'suffix' => 'objects.lp.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -54387,12 +54399,18 @@ return [
 			'Submitted by GignoSystemJapan <kakutou-ec@gsj.bz>',
 		],
 	],
-	'githubusercontent.com' => [
-		'suffix' => 'githubusercontent.com',
+	'github.app' => [
+		'suffix' => 'github.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'GitHub, Inc.',
 			'Submitted by Patrick Toomey <security@github.com>',
+		],
+	],
+	'githubusercontent.com' => [
+		'suffix' => 'githubusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'githubpreview.dev' => [
@@ -56106,7 +56124,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'IServ GmbH : https://iserv.de',
-			'Submitted by Mario Hoberg <info@iserv.de>',
+			'Submitted by Kim Brodowski <info@iserv.de>',
 		],
 	],
 	'mein-iserv.de' => [
@@ -56135,6 +56153,12 @@ return [
 	],
 	'iserv.dev' => [
 		'suffix' => 'iserv.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'iserv.host' => [
+		'suffix' => 'iserv.host',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59371,6 +59395,12 @@ return [
 		'comments' => [
 			'PROJECT ELIV : https://eliv.kr/',
 			'Submitted by PROJECT ELIV Domain Team <team@eliv.kr>',
+		],
+	],
+	'eliv-cdn.kr' => [
+		'suffix' => 'eliv-cdn.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'eliv-dns.kr' => [
