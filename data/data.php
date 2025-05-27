@@ -50779,6 +50779,56 @@ return [
 		'comments' => [
 		],
 	],
+	'caffeine.ai' => [
+		'suffix' => 'caffeine.ai',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Dfinity Foundation: https://dfinity.org/',
+			'Submitted by Dfinity Team <domains@dfinity.org>',
+		],
+	],
+	'id.ai' => [
+		'suffix' => 'id.ai',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'icp-api.io' => [
+		'suffix' => 'icp-api.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'icp0.io' => [
+		'suffix' => 'icp0.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.raw.icp0.io' => [
+		'suffix' => '*.raw.icp0.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'icp1.io' => [
+		'suffix' => 'icp1.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.raw.icp1.io' => [
+		'suffix' => '*.raw.icp1.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'caffeine.site' => [
+		'suffix' => 'caffeine.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'dfirma.pl' => [
 		'suffix' => 'dfirma.pl',
 		'type' => 'PRIVATE',
