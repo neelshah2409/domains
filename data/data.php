@@ -6601,6 +6601,12 @@ return [
 		'comments' => [
 		],
 	],
+	'kop.id' => [
+		'suffix' => 'kop.id',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'mil.id' => [
 		'suffix' => 'mil.id',
 		'type' => 'ICANN',
@@ -56179,6 +56185,12 @@ return [
 	],
 	'mein-iserv.de' => [
 		'suffix' => 'mein-iserv.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'schuldock.de' => [
+		'suffix' => 'schuldock.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
