@@ -61132,14 +61132,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ind.mom' => [
-		'suffix' => 'ind.mom',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'SparrowHost : https://sparrowhost.in/',
-			'Submitted by Anant Pandey <info@sparrowhost.in>',
-		],
-	],
 	'customer.speedpartner.de' => [
 		'suffix' => 'customer.speedpartner.de',
 		'type' => 'PRIVATE',
