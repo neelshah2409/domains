@@ -61750,6 +61750,14 @@ return [
 		'comments' => [
 		],
 	],
+	'tche.br' => [
+		'suffix' => 'tche.br',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tche.br : https://tche.br',
+			'Submitted by Bruno Lorensi <suporte@tche.br>',
+		],
+	],
 	'site.tb-hosting.com' => [
 		'suffix' => 'site.tb-hosting.com',
 		'type' => 'PRIVATE',
