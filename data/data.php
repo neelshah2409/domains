@@ -57373,6 +57373,14 @@ return [
 		'comments' => [
 		],
 	],
+	'*.lutrausercontent.com' => [
+		'suffix' => '*.lutrausercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Lutra : https://lutra.ai',
+			'Submitted by Joshua Newman <public-suffix-list@lutra.ai>',
+		],
+	],
 	'luyani.app' => [
 		'suffix' => 'luyani.app',
 		'type' => 'PRIVATE',
@@ -62341,7 +62349,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Vercel, Inc : https://vercel.com/',
-			'Submitted by Max Leiter <security@vercel.com>',
+			'Submitted by Laurens Duijvesteijn <security@vercel.com>',
 		],
 	],
 	'v0.build' => [
@@ -62358,6 +62366,12 @@ return [
 	],
 	'vusercontent.net' => [
 		'suffix' => 'vusercontent.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'vercel.run' => [
+		'suffix' => 'vercel.run',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
