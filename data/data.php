@@ -56103,6 +56103,12 @@ return [
 		'comments' => [
 		],
 	],
+	'webspace-host.com' => [
+		'suffix' => 'webspace-host.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'apps-1and1.net' => [
 		'suffix' => 'apps-1and1.net',
 		'type' => 'PRIVATE',
