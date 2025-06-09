@@ -35447,7 +35447,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-05-17T15:16:58Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-06-07T15:17:54Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -38995,6 +38995,14 @@ return [
 		'comments' => [
 			'hot : Amazon Registry Services, Inc.',
 			'https://www.iana.org/domains/root/db/hot.html',
+		],
+	],
+	'hotel' => [
+		'suffix' => 'hotel',
+		'type' => 'ICANN',
+		'comments' => [
+			'hotel : HOTEL Top-Level-Domain S.a.r.l',
+			'https://www.iana.org/domains/root/db/hotel.html',
 		],
 	],
 	'hotels' => [
