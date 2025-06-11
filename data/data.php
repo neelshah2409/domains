@@ -61160,6 +61160,38 @@ return [
 		'comments' => [
 		],
 	],
+	'4.at' => [
+		'suffix' => '4.at',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'sourceWAY GmbH : https://sourceway.de',
+			'Submitted by Richard Reiber <mail@sourceway.de>',
+		],
+	],
+	'my.at' => [
+		'suffix' => 'my.at',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'my.de' => [
+		'suffix' => 'my.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.nxa.eu' => [
+		'suffix' => '*.nxa.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nx.gw' => [
+		'suffix' => 'nx.gw',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'customer.speedpartner.de' => [
 		'suffix' => 'customer.speedpartner.de',
 		'type' => 'PRIVATE',
