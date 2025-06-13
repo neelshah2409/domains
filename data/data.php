@@ -44535,6 +44535,12 @@ return [
 		'comments' => [
 		],
 	],
+	'aem.network' => [
+		'suffix' => 'aem.network',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'aem.page' => [
 		'suffix' => 'aem.page',
 		'type' => 'PRIVATE',
@@ -44547,8 +44553,8 @@ return [
 		'comments' => [
 		],
 	],
-	'hlx3.page' => [
-		'suffix' => 'hlx3.page',
+	'aem.reviews' => [
+		'suffix' => 'aem.reviews',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
