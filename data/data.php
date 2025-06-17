@@ -62456,6 +62456,14 @@ return [
 			'Submitted by Adnan RIHAN <hostmaster@v-info.info>',
 		],
 	],
+	'vistablog.ir' => [
+		'suffix' => 'vistablog.ir',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'VistaBlog : https://vistablog.ir/',
+			'Submitted by Hossein Piri <info@vistablog.ir>',
+		],
+	],
 	'deus-canvas.com' => [
 		'suffix' => 'deus-canvas.com',
 		'type' => 'PRIVATE',
