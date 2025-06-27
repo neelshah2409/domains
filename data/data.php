@@ -60588,7 +60588,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Scaleway : https://www.scaleway.com/',
-			'Submitted by Rémy Léone <rleone@scaleway.com>',
+			'Submitted by Scaleway PSL Maintainer <psl-maintainers@scaleway.com>',
 		],
 	],
 	'fr-par-2.baremetal.scw.cloud' => [
@@ -60609,6 +60609,18 @@ return [
 		'comments' => [
 		],
 	],
+	'ddl.fr-par.scw.cloud' => [
+		'suffix' => 'ddl.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dtwh.fr-par.scw.cloud' => [
+		'suffix' => 'dtwh.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'fnc.fr-par.scw.cloud' => [
 		'suffix' => 'fnc.fr-par.scw.cloud',
 		'type' => 'PRIVATE',
@@ -60617,6 +60629,12 @@ return [
 	],
 	'functions.fnc.fr-par.scw.cloud' => [
 		'suffix' => 'functions.fnc.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ifr.fr-par.scw.cloud' => [
+		'suffix' => 'ifr.fr-par.scw.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60633,6 +60651,24 @@ return [
 		'comments' => [
 		],
 	],
+	'kafk.fr-par.scw.cloud' => [
+		'suffix' => 'kafk.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mgdb.fr-par.scw.cloud' => [
+		'suffix' => 'mgdb.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rdb.fr-par.scw.cloud' => [
+		'suffix' => 'rdb.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.fr-par.scw.cloud' => [
 		'suffix' => 's3.fr-par.scw.cloud',
 		'type' => 'PRIVATE',
@@ -60641,6 +60677,12 @@ return [
 	],
 	's3-website.fr-par.scw.cloud' => [
 		'suffix' => 's3-website.fr-par.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'scbl.fr-par.scw.cloud' => [
+		'suffix' => 'scbl.fr-par.scw.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60675,6 +60717,24 @@ return [
 		'comments' => [
 		],
 	],
+	'ddl.nl-ams.scw.cloud' => [
+		'suffix' => 'ddl.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dtwh.nl-ams.scw.cloud' => [
+		'suffix' => 'dtwh.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ifr.nl-ams.scw.cloud' => [
+		'suffix' => 'ifr.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'k8s.nl-ams.scw.cloud' => [
 		'suffix' => 'k8s.nl-ams.scw.cloud',
 		'type' => 'PRIVATE',
@@ -60683,6 +60743,24 @@ return [
 	],
 	'nodes.k8s.nl-ams.scw.cloud' => [
 		'suffix' => 'nodes.k8s.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kafk.nl-ams.scw.cloud' => [
+		'suffix' => 'kafk.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mgdb.nl-ams.scw.cloud' => [
+		'suffix' => 'mgdb.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rdb.nl-ams.scw.cloud' => [
+		'suffix' => 'rdb.nl-ams.scw.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60699,6 +60777,12 @@ return [
 		'comments' => [
 		],
 	],
+	'scbl.nl-ams.scw.cloud' => [
+		'suffix' => 'scbl.nl-ams.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'whm.nl-ams.scw.cloud' => [
 		'suffix' => 'whm.nl-ams.scw.cloud',
 		'type' => 'PRIVATE',
@@ -60707,6 +60791,24 @@ return [
 	],
 	'cockpit.pl-waw.scw.cloud' => [
 		'suffix' => 'cockpit.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddl.pl-waw.scw.cloud' => [
+		'suffix' => 'ddl.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dtwh.pl-waw.scw.cloud' => [
+		'suffix' => 'dtwh.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ifr.pl-waw.scw.cloud' => [
+		'suffix' => 'ifr.pl-waw.scw.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60723,6 +60825,24 @@ return [
 		'comments' => [
 		],
 	],
+	'kafk.pl-waw.scw.cloud' => [
+		'suffix' => 'kafk.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mgdb.pl-waw.scw.cloud' => [
+		'suffix' => 'mgdb.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'rdb.pl-waw.scw.cloud' => [
+		'suffix' => 'rdb.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.pl-waw.scw.cloud' => [
 		'suffix' => 's3.pl-waw.scw.cloud',
 		'type' => 'PRIVATE',
@@ -60731,6 +60851,12 @@ return [
 	],
 	's3-website.pl-waw.scw.cloud' => [
 		'suffix' => 's3-website.pl-waw.scw.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'scbl.pl-waw.scw.cloud' => [
+		'suffix' => 'scbl.pl-waw.scw.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
