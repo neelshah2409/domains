@@ -62510,8 +62510,8 @@ return [
 		'suffix' => 'v.ua',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'V.UA Domain Administrator : https://domain.v.ua/',
-			'Submitted by Serhii Rostilo <sergey@rostilo.kiev.ua>',
+			'V.UA Domain Registry: https://www.v.ua/',
+			'Submitted by Serhii Rostilo <admin@v.ua>',
 		],
 	],
 	'val.run' => [
