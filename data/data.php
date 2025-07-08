@@ -59059,6 +59059,14 @@ return [
 			'Submitted by Alexander Varwijk <security@getopensocial.com>',
 		],
 	],
+	'*.oaiusercontent.com' => [
+		'suffix' => '*.oaiusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'OpenAI : https://openai.com',
+			'Submitted by Thomas Shadwell <security@openai.com>',
+		],
+	],
 	'opencraft.hosting' => [
 		'suffix' => 'opencraft.hosting',
 		'type' => 'PRIVATE',
