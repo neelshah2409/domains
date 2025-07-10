@@ -35447,7 +35447,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-06-07T15:17:54Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-09T15:20:49Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -35873,7 +35873,7 @@ return [
 		'suffix' => 'archi',
 		'type' => 'ICANN',
 		'comments' => [
-			'archi : Identity Digital Limited',
+			'archi : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/archi.html',
 		],
 	],
@@ -36233,7 +36233,7 @@ return [
 		'suffix' => 'bet',
 		'type' => 'ICANN',
 		'comments' => [
-			'bet : Identity Digital Limited',
+			'bet : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/bet.html',
 		],
 	],
@@ -36289,7 +36289,7 @@ return [
 		'suffix' => 'bio',
 		'type' => 'ICANN',
 		'comments' => [
-			'bio : Identity Digital Limited',
+			'bio : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/bio.html',
 		],
 	],
@@ -36297,7 +36297,7 @@ return [
 		'suffix' => 'black',
 		'type' => 'ICANN',
 		'comments' => [
-			'black : Identity Digital Limited',
+			'black : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/black.html',
 		],
 	],
@@ -36337,7 +36337,7 @@ return [
 		'suffix' => 'blue',
 		'type' => 'ICANN',
 		'comments' => [
-			'blue : Identity Digital Limited',
+			'blue : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/blue.html',
 		],
 	],
@@ -38529,7 +38529,7 @@ return [
 		'suffix' => 'global',
 		'type' => 'ICANN',
 		'comments' => [
-			'global : Identity Digital Limited',
+			'global : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/global.html',
 		],
 	],
@@ -38681,7 +38681,7 @@ return [
 		'suffix' => 'green',
 		'type' => 'ICANN',
 		'comments' => [
-			'green : Identity Digital Limited',
+			'green : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/green.html',
 		],
 	],
@@ -39497,7 +39497,7 @@ return [
 		'suffix' => 'kim',
 		'type' => 'ICANN',
 		'comments' => [
-			'kim : Identity Digital Limited',
+			'kim : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/kim.html',
 		],
 	],
@@ -39753,7 +39753,7 @@ return [
 		'suffix' => 'lgbt',
 		'type' => 'ICANN',
 		'comments' => [
-			'lgbt : Identity Digital Limited',
+			'lgbt : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/lgbt.html',
 		],
 	],
@@ -39865,7 +39865,7 @@ return [
 		'suffix' => 'llc',
 		'type' => 'ICANN',
 		'comments' => [
-			'llc : Identity Digital Limited',
+			'llc : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/llc.html',
 		],
 	],
@@ -39937,7 +39937,7 @@ return [
 		'suffix' => 'lotto',
 		'type' => 'ICANN',
 		'comments' => [
-			'lotto : Identity Digital Limited',
+			'lotto : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/lotto.html',
 		],
 	],
@@ -40825,7 +40825,7 @@ return [
 		'suffix' => 'organic',
 		'type' => 'ICANN',
 		'comments' => [
-			'organic : Identity Digital Limited',
+			'organic : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/organic.html',
 		],
 	],
@@ -40945,7 +40945,7 @@ return [
 		'suffix' => 'pet',
 		'type' => 'ICANN',
 		'comments' => [
-			'pet : Identity Digital Limited',
+			'pet : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/pet.html',
 		],
 	],
@@ -41073,7 +41073,7 @@ return [
 		'suffix' => 'pink',
 		'type' => 'ICANN',
 		'comments' => [
-			'pink : Identity Digital Limited',
+			'pink : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/pink.html',
 		],
 	],
@@ -41153,7 +41153,7 @@ return [
 		'suffix' => 'poker',
 		'type' => 'ICANN',
 		'comments' => [
-			'poker : Identity Digital Limited',
+			'poker : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/poker.html',
 		],
 	],
@@ -41233,7 +41233,7 @@ return [
 		'suffix' => 'promo',
 		'type' => 'ICANN',
 		'comments' => [
-			'promo : Identity Digital Limited',
+			'promo : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/promo.html',
 		],
 	],
@@ -41377,7 +41377,7 @@ return [
 		'suffix' => 'red',
 		'type' => 'ICANN',
 		'comments' => [
-			'red : Identity Digital Limited',
+			'red : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/red.html',
 		],
 	],
@@ -42009,7 +42009,7 @@ return [
 		'suffix' => 'shiksha',
 		'type' => 'ICANN',
 		'comments' => [
-			'shiksha : Identity Digital Limited',
+			'shiksha : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/shiksha.html',
 		],
 	],
@@ -42089,7 +42089,7 @@ return [
 		'suffix' => 'ski',
 		'type' => 'ICANN',
 		'comments' => [
-			'ski : Identity Digital Limited',
+			'ski : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/ski.html',
 		],
 	],
@@ -43233,7 +43233,7 @@ return [
 		'suffix' => 'watches',
 		'type' => 'ICANN',
 		'comments' => [
-			'watches : Identity Digital Limited',
+			'watches : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/watches.html',
 		],
 	],
@@ -43593,7 +43593,7 @@ return [
 		'suffix' => '移动',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--6frz82g : Identity Digital Limited',
+			'xn--6frz82g : Identity Digital Domains Limited',
 			'https://www.iana.org/domains/root/db/xn--6frz82g.html',
 		],
 	],
