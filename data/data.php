@@ -35447,7 +35447,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-09T15:20:49Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -36993,7 +36993,7 @@ return [
 		'suffix' => 'click',
 		'type' => 'ICANN',
 		'comments' => [
-			'click : Internet Naming Company LLC',
+			'click : Waterford Limited',
 			'https://www.iana.org/domains/root/db/click.html',
 		],
 	],
@@ -45002,7 +45002,7 @@ return [
 		'comments' => [
 			'Amazon Cognito',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: eb4652f0-20f0-43f5-b323-e6cc6ae02ad7',
+			'Reference: e7c02dc1-02f4-4a23-bde3-a8527c830127',
 		],
 	],
 	'auth.ap-east-1.amazoncognito.com' => [
@@ -45067,6 +45067,12 @@ return [
 	],
 	'auth.ap-southeast-5.amazoncognito.com' => [
 		'suffix' => 'auth.ap-southeast-5.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-southeast-7.amazoncognito.com' => [
+		'suffix' => 'auth.ap-southeast-7.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45145,6 +45151,12 @@ return [
 	],
 	'auth.me-south-1.amazoncognito.com' => [
 		'suffix' => 'auth.me-south-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.mx-central-1.amazoncognito.com' => [
+		'suffix' => 'auth.mx-central-1.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45839,17 +45851,209 @@ return [
 		'comments' => [
 		],
 	],
-	'*.cn-north-1.airflow.amazonaws.com.cn' => [
-		'suffix' => '*.cn-north-1.airflow.amazonaws.com.cn',
+	'*.airflow.af-south-1.on.aws' => [
+		'suffix' => '*.airflow.af-south-1.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Amazon Managed Workflows for Apache Airflow',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: f5ea5d0a-ec6a-4f23-ac1c-553fbff13f5c',
+			'Reference: 2f697e23-58d6-4b97-be6b-77a26e811dad',
+		],
+	],
+	'*.airflow.ap-east-1.on.aws' => [
+		'suffix' => '*.airflow.ap-east-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-northeast-1.on.aws' => [
+		'suffix' => '*.airflow.ap-northeast-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-northeast-2.on.aws' => [
+		'suffix' => '*.airflow.ap-northeast-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-northeast-3.on.aws' => [
+		'suffix' => '*.airflow.ap-northeast-3.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-south-1.on.aws' => [
+		'suffix' => '*.airflow.ap-south-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-south-2.on.aws' => [
+		'suffix' => '*.airflow.ap-south-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-southeast-1.on.aws' => [
+		'suffix' => '*.airflow.ap-southeast-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-southeast-2.on.aws' => [
+		'suffix' => '*.airflow.ap-southeast-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-southeast-3.on.aws' => [
+		'suffix' => '*.airflow.ap-southeast-3.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-southeast-4.on.aws' => [
+		'suffix' => '*.airflow.ap-southeast-4.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-southeast-5.on.aws' => [
+		'suffix' => '*.airflow.ap-southeast-5.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ca-central-1.on.aws' => [
+		'suffix' => '*.airflow.ca-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ca-west-1.on.aws' => [
+		'suffix' => '*.airflow.ca-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.eu-central-1.on.aws' => [
+		'suffix' => '*.airflow.eu-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.eu-central-2.on.aws' => [
+		'suffix' => '*.airflow.eu-central-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.eu-north-1.on.aws' => [
+		'suffix' => '*.airflow.eu-north-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.eu-south-1.on.aws' => [
+		'suffix' => '*.airflow.eu-south-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.eu-south-2.on.aws' => [
+		'suffix' => '*.airflow.eu-south-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.eu-west-1.on.aws' => [
+		'suffix' => '*.airflow.eu-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.eu-west-2.on.aws' => [
+		'suffix' => '*.airflow.eu-west-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.eu-west-3.on.aws' => [
+		'suffix' => '*.airflow.eu-west-3.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.il-central-1.on.aws' => [
+		'suffix' => '*.airflow.il-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.me-central-1.on.aws' => [
+		'suffix' => '*.airflow.me-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.me-south-1.on.aws' => [
+		'suffix' => '*.airflow.me-south-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.sa-east-1.on.aws' => [
+		'suffix' => '*.airflow.sa-east-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.us-east-1.on.aws' => [
+		'suffix' => '*.airflow.us-east-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.us-east-2.on.aws' => [
+		'suffix' => '*.airflow.us-east-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.us-west-1.on.aws' => [
+		'suffix' => '*.airflow.us-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.us-west-2.on.aws' => [
+		'suffix' => '*.airflow.us-west-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.cn-north-1.airflow.amazonaws.com.cn' => [
+		'suffix' => '*.cn-north-1.airflow.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.cn-northwest-1.airflow.amazonaws.com.cn' => [
 		'suffix' => '*.cn-northwest-1.airflow.amazonaws.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.cn-north-1.on.amazonwebservices.com.cn' => [
+		'suffix' => '*.airflow.cn-north-1.on.amazonwebservices.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.cn-northwest-1.on.amazonwebservices.com.cn' => [
+		'suffix' => '*.airflow.cn-northwest-1.on.amazonwebservices.com.cn',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45916,6 +46120,12 @@ return [
 	],
 	'*.ap-southeast-4.airflow.amazonaws.com' => [
 		'suffix' => '*.ap-southeast-4.airflow.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-southeast-5.airflow.amazonaws.com' => [
+		'suffix' => '*.ap-southeast-5.airflow.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49070,13 +49280,49 @@ return [
 			'Reference: 83385945-225f-416e-9aa0-ad0632bfdcee',
 		],
 	],
-	'transfer-webapp.ap-northeast-1.on.aws' => [
-		'suffix' => 'transfer-webapp.ap-northeast-1.on.aws',
+	'transfer-webapp.af-south-1.on.aws' => [
+		'suffix' => 'transfer-webapp.af-south-1.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'AWS Transfer Family web apps',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 67e9cfe6-ac57-49c7-b197-6652711c8e8d',
+			'Reference: 57a658c4-8899-410c-aa24-5b01e4a178d2',
+		],
+	],
+	'transfer-webapp.ap-east-1.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-east-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-northeast-1.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-northeast-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-northeast-2.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-northeast-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-northeast-3.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-northeast-3.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-south-1.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-south-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-south-2.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-south-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'transfer-webapp.ap-southeast-1.on.aws' => [
@@ -49091,8 +49337,44 @@ return [
 		'comments' => [
 		],
 	],
+	'transfer-webapp.ap-southeast-3.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-southeast-3.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-southeast-4.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-southeast-4.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-southeast-5.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-southeast-5.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ca-central-1.on.aws' => [
+		'suffix' => 'transfer-webapp.ca-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ca-west-1.on.aws' => [
+		'suffix' => 'transfer-webapp.ca-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'transfer-webapp.eu-central-1.on.aws' => [
 		'suffix' => 'transfer-webapp.eu-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.eu-central-2.on.aws' => [
+		'suffix' => 'transfer-webapp.eu-central-2.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49103,8 +49385,56 @@ return [
 		'comments' => [
 		],
 	],
+	'transfer-webapp.eu-south-1.on.aws' => [
+		'suffix' => 'transfer-webapp.eu-south-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.eu-south-2.on.aws' => [
+		'suffix' => 'transfer-webapp.eu-south-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'transfer-webapp.eu-west-1.on.aws' => [
 		'suffix' => 'transfer-webapp.eu-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.eu-west-2.on.aws' => [
+		'suffix' => 'transfer-webapp.eu-west-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.eu-west-3.on.aws' => [
+		'suffix' => 'transfer-webapp.eu-west-3.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.il-central-1.on.aws' => [
+		'suffix' => 'transfer-webapp.il-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.me-central-1.on.aws' => [
+		'suffix' => 'transfer-webapp.me-central-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.me-south-1.on.aws' => [
+		'suffix' => 'transfer-webapp.me-south-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.sa-east-1.on.aws' => [
+		'suffix' => 'transfer-webapp.sa-east-1.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49121,8 +49451,50 @@ return [
 		'comments' => [
 		],
 	],
+	'transfer-webapp.us-gov-east-1.on.aws' => [
+		'suffix' => 'transfer-webapp.us-gov-east-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp-fips.us-gov-east-1.on.aws' => [
+		'suffix' => 'transfer-webapp-fips.us-gov-east-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.us-gov-west-1.on.aws' => [
+		'suffix' => 'transfer-webapp.us-gov-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp-fips.us-gov-west-1.on.aws' => [
+		'suffix' => 'transfer-webapp-fips.us-gov-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.us-west-1.on.aws' => [
+		'suffix' => 'transfer-webapp.us-west-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'transfer-webapp.us-west-2.on.aws' => [
 		'suffix' => 'transfer-webapp.us-west-2.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.cn-north-1.on.amazonwebservices.com.cn' => [
+		'suffix' => 'transfer-webapp.cn-north-1.on.amazonwebservices.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn' => [
+		'suffix' => 'transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -62758,12 +63130,18 @@ return [
 		'suffix' => 'toolforge.org',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Wikimedia Labs : https://wikitech.wikimedia.org',
-			'Submitted by Arturo Borrero Gonzalez <aborrero@wikimedia.org>',
+			'Wikimedia Foundation : https://wikitech.wikimedia.org',
+			'Submitted by Timo Tijhof <noc@wikimedia.org>',
 		],
 	],
 	'wmcloud.org' => [
 		'suffix' => 'wmcloud.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'beta.wmcloud.org' => [
+		'suffix' => 'beta.wmcloud.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
