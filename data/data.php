@@ -62736,18 +62736,12 @@ return [
 			'Submitted by Typeform <ops@typeform.com>',
 		],
 	],
-	'*.uberspace.de' => [
-		'suffix' => '*.uberspace.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Uberspace : https://uberspace.de',
-			'Submitted by Moritz Werner <mwerner@jonaspasche.com>',
-		],
-	],
 	'uber.space' => [
 		'suffix' => 'uber.space',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Uberspace : https://uberspace.de',
+			'Submitted by Moritz Werner <mwerner@jonaspasche.com>',
 		],
 	],
 	'hk.com' => [
