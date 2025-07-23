@@ -57531,6 +57531,18 @@ return [
 		'comments' => [
 		],
 	],
+	'lovable.run' => [
+		'suffix' => 'lovable.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'lovable.sh' => [
+		'suffix' => 'lovable.sh',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'krasnik.pl' => [
 		'suffix' => 'krasnik.pl',
 		'type' => 'PRIVATE',
