@@ -57217,6 +57217,15 @@ return [
 			'Submitted by DisposaBoy <security@oya.to>',
 		],
 	],
+	'co.de' => [
+		'suffix' => 'co.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'KV GmbH : https://www.nic.co.de',
+			'Submitted by KV GmbH <registry@kv-gmbh.de>',
+			'Abuse reports to <registry@kv-gmbh.de>',
+		],
+	],
 	'laravel.cloud' => [
 		'suffix' => 'laravel.cloud',
 		'type' => 'PRIVATE',
