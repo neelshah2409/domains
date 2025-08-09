@@ -51171,30 +51171,12 @@ return [
 		'comments' => [
 		],
 	],
-	'caffeine.ai' => [
-		'suffix' => 'caffeine.ai',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Dfinity Foundation: https://dfinity.org/',
-			'Submitted by Dfinity Team <domains@dfinity.org>',
-		],
-	],
-	'id.ai' => [
-		'suffix' => 'id.ai',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'icp-api.io' => [
-		'suffix' => 'icp-api.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'icp0.io' => [
 		'suffix' => 'icp0.io',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Dfinity Foundation: https://dfinity.org/',
+			'Submitted by Dfinity Team <domains@dfinity.org>',
 		],
 	],
 	'*.raw.icp0.io' => [
@@ -55922,6 +55904,20 @@ return [
 		'comments' => [
 		],
 	],
+	'hidns.co' => [
+		'suffix' => 'hidns.co',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'HiDNS : https://www.hidoha.net',
+			'Submitted by ifeng <admin@hidoha.net>',
+		],
+	],
+	'hidns.vip' => [
+		'suffix' => 'hidns.vip',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'homesklep.pl' => [
 		'suffix' => 'homesklep.pl',
 		'type' => 'PRIVATE',
@@ -55964,12 +55960,6 @@ return [
 		'comments' => [
 			'HOSTBIP REGISTRY : https://www.hostbip.com/',
 			'Submitted by Atanunu Igbunuroghene <publicsuffixlist@hostbip.com>',
-		],
-	],
-	'biz.gl' => [
-		'suffix' => 'biz.gl',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'biz.ng' => [
