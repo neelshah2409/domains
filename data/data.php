@@ -60136,6 +60136,14 @@ return [
 		'comments' => [
 		],
 	],
+	'up.railway.app' => [
+		'suffix' => 'up.railway.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Railway Corporation : https://railway.com',
+			'Submitted by Phineas Walton <dns@railway.com>',
+		],
+	],
 	'*.on-rancher.cloud' => [
 		'suffix' => '*.on-rancher.cloud',
 		'type' => 'PRIVATE',
