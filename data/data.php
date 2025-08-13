@@ -57221,7 +57221,19 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Laravel Holdings, Inc. : https://laravel.com',
-			'Submitted by André Valentin <security@laravel.com>',
+			'Submitted by André Valentin & James Brooks <security@laravel.com>',
+		],
+	],
+	'on-forge.com' => [
+		'suffix' => 'on-forge.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'on-vapor.com' => [
+		'suffix' => 'on-vapor.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'git-repos.de' => [
@@ -62272,6 +62284,20 @@ return [
 		'comments' => [
 			'TAIFUN Software AG : http://taifun-software.de',
 			'Submitted by Bjoern Henke <dev-server@taifun-software.de>',
+		],
+	],
+	'erp.dev' => [
+		'suffix' => 'erp.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tailor Inc. : https://www.tailor.tech',
+			'Submitted by Ryuzo Yamamoto <psl-maintainers@tailor.tech>',
+		],
+	],
+	'web.erp.dev' => [
+		'suffix' => 'web.erp.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'ts.net' => [
