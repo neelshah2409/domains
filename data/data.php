@@ -60056,6 +60056,20 @@ return [
 			'Submitted by Vasyl Tsalko <vtsalko@qualityunit.com>',
 		],
 	],
+	'*.qualyhqpartner.com' => [
+		'suffix' => '*.qualyhqpartner.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Qualy : https://qualyhq.com',
+			'Submitted by Raphael Arias <security@qualyhq.com>',
+		],
+	],
+	'*.qualyhqportal.com' => [
+		'suffix' => '*.qualyhqportal.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'qbuser.com' => [
 		'suffix' => 'qbuser.com',
 		'type' => 'PRIVATE',
