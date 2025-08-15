@@ -4496,6 +4496,13 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'cz : https://www.iana.org/domains/root/db/cz.html',
+			'Confirmed by registry <tech@nic.cz> 2025-08-06',
+		],
+	],
+	'gov.cz' => [
+		'suffix' => 'gov.cz',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'de' => [
@@ -51197,6 +51204,12 @@ return [
 		'comments' => [
 		],
 	],
+	'*.icp.net' => [
+		'suffix' => '*.icp.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'caffeine.site' => [
 		'suffix' => 'caffeine.site',
 		'type' => 'PRIVATE',
@@ -63536,6 +63549,14 @@ return [
 		'comments' => [
 			'Zone.ID: https://zone.id',
 			'Submitted by Gx1.org <security@gx1.org>',
+		],
+	],
+	'zabc.net' => [
+		'suffix' => 'zabc.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ZoneABC : https://zoneabc.net',
+			'Submitted by ZoneABC Team <support@zoneabc.net>',
 		],
 	],
 ];
