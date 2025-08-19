@@ -54884,14 +54884,6 @@ return [
 		'comments' => [
 		],
 	],
-	'glitch.me' => [
-		'suffix' => 'glitch.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Glitch, Inc : https://glitch.com',
-			'Submitted by Mads Hartmann <mads@glitch.com>',
-		],
-	],
 	'nog.community' => [
 		'suffix' => 'nog.community',
 		'type' => 'PRIVATE',
@@ -58196,6 +58188,20 @@ return [
 	],
 	'routingthecloud.org' => [
 		'suffix' => 'routingthecloud.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'same-app.com' => [
+		'suffix' => 'same-app.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Million Software, Inc : https://million.dev/',
+			'Submitted by Rayhan Noufal Arayilakath <security@million.dev>',
+		],
+	],
+	'same-preview.com' => [
+		'suffix' => 'same-preview.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
