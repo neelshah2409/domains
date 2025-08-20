@@ -35454,7 +35454,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-19T15:20:18Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -40672,7 +40672,7 @@ return [
 		'suffix' => 'nra',
 		'type' => 'ICANN',
 		'comments' => [
-			'nra : NRA Holdings Company, INC.',
+			'nra : National Rifle Association of America',
 			'https://www.iana.org/domains/root/db/nra.html',
 		],
 	],
@@ -63232,6 +63232,18 @@ return [
 			'Submitted by William Harrison <security@wharrison.com.au>',
 		],
 	],
+	'hrsn.au' => [
+		'suffix' => 'hrsn.au',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'vps.hrsn.au' => [
+		'suffix' => 'vps.hrsn.au',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'hrsn.dev' => [
 		'suffix' => 'hrsn.dev',
 		'type' => 'PRIVATE',
@@ -63443,6 +63455,12 @@ return [
 	],
 	'website.yandexcloud.net' => [
 		'suffix' => 'website.yandexcloud.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sourcecraft.site' => [
+		'suffix' => 'sourcecraft.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
