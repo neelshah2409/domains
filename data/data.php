@@ -44443,7 +44443,7 @@ return [
 		'suffix' => '611.to',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'611 blockchain domain name system : https://611project.net/',
+			'611 blockchain domain name system : https://sixone.one/',
 		],
 	],
 	'a2hosted.com' => [
