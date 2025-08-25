@@ -1111,7 +1111,7 @@ return [
 		'comments' => [
 			'au : https://www.iana.org/domains/root/db/au.html',
 			'https://www.auda.org.au/',
-			'Confirmed by registry <general@auda.org.au> 2024-11-17',
+			'Confirmed by registry <general@auda.org.au> 2025-07-16',
 		],
 	],
 	'asn.au' => [
@@ -1308,18 +1308,13 @@ return [
 		'comments' => [
 		],
 	],
-	'schools.nsw.edu.au' => [
-		'suffix' => 'schools.nsw.edu.au',
-		'type' => 'ICANN',
-		'comments' => [
-			'4LDs',
-			'education.tas.edu.au - Removed at the request of the Department of Education Tasmania',
-		],
-	],
 	'aw' => [
 		'suffix' => 'aw',
 		'type' => 'ICANN',
 		'comments' => [
+			'4LDs',
+			'education.tas.edu.au - Removed at the request of the Department of Education Tasmania',
+			'schools.nsw.edu.au - Removed at the request of the New South Wales Department of Education.',
 			'aw : https://www.iana.org/domains/root/db/aw.html',
 		],
 	],
