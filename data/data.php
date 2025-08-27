@@ -2388,6 +2388,12 @@ return [
 		'comments' => [
 		],
 	],
+	'api.br' => [
+		'suffix' => 'api.br',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'app.br' => [
 		'suffix' => 'app.br',
 		'type' => 'ICANN',
@@ -2893,6 +2899,12 @@ return [
 		'comments' => [
 		],
 	],
+	'ia.br' => [
+		'suffix' => 'ia.br',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'imb.br' => [
 		'suffix' => 'imb.br',
 		'type' => 'ICANN',
@@ -3253,6 +3265,12 @@ return [
 		'comments' => [
 		],
 	],
+	'social.br' => [
+		'suffix' => 'social.br',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'sorocaba.br' => [
 		'suffix' => 'sorocaba.br',
 		'type' => 'ICANN',
@@ -3345,6 +3363,12 @@ return [
 	],
 	'wiki.br' => [
 		'suffix' => 'wiki.br',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'xyz.br' => [
+		'suffix' => 'xyz.br',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33048,8 +33072,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.fl.us' => [
+		'suffix' => 'lib.fl.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.ga.us' => [
 		'suffix' => 'cc.ga.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.ga.us' => [
+		'suffix' => 'lib.ga.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33060,8 +33096,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.gu.us' => [
+		'suffix' => 'lib.gu.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.hi.us' => [
 		'suffix' => 'cc.hi.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.hi.us' => [
+		'suffix' => 'lib.hi.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33072,8 +33120,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.ia.us' => [
+		'suffix' => 'lib.ia.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.id.us' => [
 		'suffix' => 'cc.id.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.id.us' => [
+		'suffix' => 'lib.id.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33084,8 +33144,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.il.us' => [
+		'suffix' => 'lib.il.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.in.us' => [
 		'suffix' => 'cc.in.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.in.us' => [
+		'suffix' => 'lib.in.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33096,8 +33168,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.ks.us' => [
+		'suffix' => 'lib.ks.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.ky.us' => [
 		'suffix' => 'cc.ky.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.ky.us' => [
+		'suffix' => 'lib.ky.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33108,8 +33192,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.la.us' => [
+		'suffix' => 'lib.la.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.ma.us' => [
 		'suffix' => 'cc.ma.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.ma.us' => [
+		'suffix' => 'lib.ma.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33120,8 +33216,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.md.us' => [
+		'suffix' => 'lib.md.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.me.us' => [
 		'suffix' => 'cc.me.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.me.us' => [
+		'suffix' => 'lib.me.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33132,8 +33240,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.mi.us' => [
+		'suffix' => 'lib.mi.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.mn.us' => [
 		'suffix' => 'cc.mn.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.mn.us' => [
+		'suffix' => 'lib.mn.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33144,8 +33264,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.mo.us' => [
+		'suffix' => 'lib.mo.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.ms.us' => [
 		'suffix' => 'cc.ms.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.ms.us' => [
+		'suffix' => 'lib.ms.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33156,8 +33288,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.mt.us' => [
+		'suffix' => 'lib.mt.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.nc.us' => [
 		'suffix' => 'cc.nc.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.nc.us' => [
+		'suffix' => 'lib.nc.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33168,8 +33312,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.nd.us' => [
+		'suffix' => 'lib.nd.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.ne.us' => [
 		'suffix' => 'cc.ne.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.ne.us' => [
+		'suffix' => 'lib.ne.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33180,8 +33336,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.nh.us' => [
+		'suffix' => 'lib.nh.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.nj.us' => [
 		'suffix' => 'cc.nj.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.nj.us' => [
+		'suffix' => 'lib.nj.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33192,8 +33360,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.nm.us' => [
+		'suffix' => 'lib.nm.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.nv.us' => [
 		'suffix' => 'cc.nv.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.nv.us' => [
+		'suffix' => 'lib.nv.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33204,8 +33384,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.ny.us' => [
+		'suffix' => 'lib.ny.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.oh.us' => [
 		'suffix' => 'cc.oh.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.oh.us' => [
+		'suffix' => 'lib.oh.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33216,8 +33408,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.ok.us' => [
+		'suffix' => 'lib.ok.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.or.us' => [
 		'suffix' => 'cc.or.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.or.us' => [
+		'suffix' => 'lib.or.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33228,8 +33432,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.pa.us' => [
+		'suffix' => 'lib.pa.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.pr.us' => [
 		'suffix' => 'cc.pr.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.pr.us' => [
+		'suffix' => 'lib.pr.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33240,8 +33456,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.ri.us' => [
+		'suffix' => 'lib.ri.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.sc.us' => [
 		'suffix' => 'cc.sc.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.sc.us' => [
+		'suffix' => 'lib.sc.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33252,8 +33480,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.sd.us' => [
+		'suffix' => 'lib.sd.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.tn.us' => [
 		'suffix' => 'cc.tn.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.tn.us' => [
+		'suffix' => 'lib.tn.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33264,8 +33504,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.tx.us' => [
+		'suffix' => 'lib.tx.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.ut.us' => [
 		'suffix' => 'cc.ut.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.ut.us' => [
+		'suffix' => 'lib.ut.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33276,8 +33528,20 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.va.us' => [
+		'suffix' => 'lib.va.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.vi.us' => [
 		'suffix' => 'cc.vi.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.vi.us' => [
+		'suffix' => 'lib.vi.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33288,14 +33552,32 @@ return [
 		'comments' => [
 		],
 	],
+	'lib.vt.us' => [
+		'suffix' => 'lib.vt.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.wa.us' => [
 		'suffix' => 'cc.wa.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
 	],
+	'lib.wa.us' => [
+		'suffix' => 'lib.wa.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'cc.wi.us' => [
 		'suffix' => 'cc.wi.us',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'lib.wi.us' => [
+		'suffix' => 'lib.wi.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -33314,265 +33596,6 @@ return [
 	],
 	'k12.wy.us' => [
 		'suffix' => 'k12.wy.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.fl.us' => [
-		'suffix' => 'lib.fl.us',
-		'type' => 'ICANN',
-		'comments' => [
-			'lib.de.us - Issue #243 - Moved to Private section at request of Ed Moore <Ed.Moore@lib.de.us>',
-		],
-	],
-	'lib.ga.us' => [
-		'suffix' => 'lib.ga.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.gu.us' => [
-		'suffix' => 'lib.gu.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.hi.us' => [
-		'suffix' => 'lib.hi.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ia.us' => [
-		'suffix' => 'lib.ia.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.id.us' => [
-		'suffix' => 'lib.id.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.il.us' => [
-		'suffix' => 'lib.il.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.in.us' => [
-		'suffix' => 'lib.in.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ks.us' => [
-		'suffix' => 'lib.ks.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ky.us' => [
-		'suffix' => 'lib.ky.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.la.us' => [
-		'suffix' => 'lib.la.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ma.us' => [
-		'suffix' => 'lib.ma.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.md.us' => [
-		'suffix' => 'lib.md.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.me.us' => [
-		'suffix' => 'lib.me.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.mi.us' => [
-		'suffix' => 'lib.mi.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.mn.us' => [
-		'suffix' => 'lib.mn.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.mo.us' => [
-		'suffix' => 'lib.mo.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ms.us' => [
-		'suffix' => 'lib.ms.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.mt.us' => [
-		'suffix' => 'lib.mt.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.nc.us' => [
-		'suffix' => 'lib.nc.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.nd.us' => [
-		'suffix' => 'lib.nd.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ne.us' => [
-		'suffix' => 'lib.ne.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.nh.us' => [
-		'suffix' => 'lib.nh.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.nj.us' => [
-		'suffix' => 'lib.nj.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.nm.us' => [
-		'suffix' => 'lib.nm.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.nv.us' => [
-		'suffix' => 'lib.nv.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ny.us' => [
-		'suffix' => 'lib.ny.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.oh.us' => [
-		'suffix' => 'lib.oh.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ok.us' => [
-		'suffix' => 'lib.ok.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.or.us' => [
-		'suffix' => 'lib.or.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.pa.us' => [
-		'suffix' => 'lib.pa.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.pr.us' => [
-		'suffix' => 'lib.pr.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ri.us' => [
-		'suffix' => 'lib.ri.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.sc.us' => [
-		'suffix' => 'lib.sc.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.sd.us' => [
-		'suffix' => 'lib.sd.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.tn.us' => [
-		'suffix' => 'lib.tn.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.tx.us' => [
-		'suffix' => 'lib.tx.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.ut.us' => [
-		'suffix' => 'lib.ut.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.va.us' => [
-		'suffix' => 'lib.va.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.vi.us' => [
-		'suffix' => 'lib.vi.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.vt.us' => [
-		'suffix' => 'lib.vt.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.wa.us' => [
-		'suffix' => 'lib.wa.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.wi.us' => [
-		'suffix' => 'lib.wi.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -44384,14 +44407,6 @@ return [
 		'suffix' => 'zakopane.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'lib.de.us' => [
-		'suffix' => 'lib.de.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'.US',
-			'Submitted by Ed Moore <Ed.Moore@lib.de.us>',
 		],
 	],
 	'12chars.dev' => [
