@@ -57074,12 +57074,18 @@ return [
 		'comments' => [
 		],
 	],
-	'jotelulu.cloud' => [
-		'suffix' => 'jotelulu.cloud',
+	'jote.cloud' => [
+		'suffix' => 'jote.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Jotelulu S.L. : https://jotelulu.com',
 			'Submitted by Daniel Fariña <ingenieria@jotelulu.com>',
+		],
+	],
+	'jotelulu.cloud' => [
+		'suffix' => 'jotelulu.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'webadorsite.com' => [
