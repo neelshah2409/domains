@@ -33276,12 +33276,6 @@ return [
 		'comments' => [
 		],
 	],
-	'lib.ms.us' => [
-		'suffix' => 'lib.ms.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'cc.mt.us' => [
 		'suffix' => 'cc.mt.us',
 		'type' => 'ICANN',
@@ -49968,12 +49962,18 @@ return [
 		'comments' => [
 		],
 	],
-	'shop.brendly.hr' => [
-		'suffix' => 'shop.brendly.hr',
+	'shop.brendly.ba' => [
+		'suffix' => 'shop.brendly.ba',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Brendly : https://brendly.rs',
 			'Submitted by Dusan Radovanovic <administracija@brendly.rs>',
+		],
+	],
+	'shop.brendly.hr' => [
+		'suffix' => 'shop.brendly.hr',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'shop.brendly.rs' => [
@@ -55750,6 +55750,14 @@ return [
 		'suffix' => 'günstigliefern.de',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'hackclub.app' => [
+		'suffix' => 'hackclub.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Hackclub Nest : https://hackclub.app',
+			'Submitted by Cyteon <admins@hackclub.app>',
 		],
 	],
 	'häkkinen.fi' => [
