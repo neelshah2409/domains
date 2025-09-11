@@ -51356,14 +51356,6 @@ return [
 			'Submitted by Infra Team <infra@durumis.com>',
 		],
 	],
-	'mydrobo.com' => [
-		'suffix' => 'mydrobo.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Drobo : http://www.drobo.com/',
-			'Submitted by Ricardo Padilha <rpadilha@drobo.com>',
-		],
-	],
 	'duckdns.org' => [
 		'suffix' => 'duckdns.org',
 		'type' => 'PRIVATE',
@@ -57539,14 +57531,6 @@ return [
 		'comments' => [
 			'Lõhmus Family, The : https://lohmus.me/',
 			'Submitted by Heiki Lõhmus <hostmaster@lohmus.me>',
-		],
-	],
-	'servers.run' => [
-		'suffix' => 'servers.run',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Lokalized : https://lokalized.nl',
-			'Submitted by Noah Taheij <noah@lokalized.nl>',
 		],
 	],
 	'lovable.app' => [
