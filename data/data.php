@@ -57088,6 +57088,18 @@ return [
 		'comments' => [
 		],
 	],
+	'jote-dr-lt1.com' => [
+		'suffix' => 'jote-dr-lt1.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jote-rd-lt1.com' => [
+		'suffix' => 'jote-rd-lt1.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'webadorsite.com' => [
 		'suffix' => 'webadorsite.com',
 		'type' => 'PRIVATE',
@@ -59765,6 +59777,14 @@ return [
 		'comments' => [
 			'Perspecta : https://perspecta.com/',
 			'Submitted by Kenneth Van Alstyne <kvanalstyne@perspecta.com>',
+		],
+	],
+	'support.site' => [
+		'suffix' => 'support.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Plain : https://www.plain.com/',
+			'Submitted by Jesús Hernández <security@plain.com>',
 		],
 	],
 	'on-web.fr' => [
