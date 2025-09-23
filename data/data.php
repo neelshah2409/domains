@@ -44592,26 +44592,6 @@ return [
 			'Submitted by Przemyslaw Plewa <it-admin@domena.pl>',
 		],
 	],
-	'airkitapps.com' => [
-		'suffix' => 'airkitapps.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Airkit : https://www.airkit.com/',
-			'Submitted by Grant Cooksey <security@airkit.com>',
-		],
-	],
-	'airkitapps-au.com' => [
-		'suffix' => 'airkitapps-au.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'airkitapps.eu' => [
-		'suffix' => 'airkitapps.eu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'aiven.app' => [
 		'suffix' => 'aiven.app',
 		'type' => 'PRIVATE',
@@ -59973,6 +59953,14 @@ return [
 		'comments' => [
 			'Protonet GmbH : http://protonet.io',
 			'Submitted by Martin Meier <admin@protonet.io>',
+		],
+	],
+	'e.id' => [
+		'suffix' => 'e.id',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PT Ekossistim Indo Digital : https://e.id',
+			'Submitted by Eid Team <support@corp.e.id>',
 		],
 	],
 	'chirurgiens-dentistes-en-france.fr' => [
