@@ -62470,6 +62470,14 @@ return [
 		'comments' => [
 		],
 	],
+	'teleport.sh' => [
+		'suffix' => 'teleport.sh',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Teleport : https://goteleport.com',
+			'Submitted by Rob Picard <security@goteleport.com>',
+		],
+	],
 	'*.firenet.ch' => [
 		'suffix' => '*.firenet.ch',
 		'type' => 'PRIVATE',
