@@ -50046,6 +50046,18 @@ return [
 		'comments' => [
 		],
 	],
+	'rice-labs.com' => [
+		'suffix' => 'rice-labs.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'canva.run' => [
+		'suffix' => 'canva.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'my.canva.site' => [
 		'suffix' => 'my.canva.site',
 		'type' => 'PRIVATE',
@@ -63427,12 +63439,18 @@ return [
 		'comments' => [
 		],
 	],
-	'half.host' => [
-		'suffix' => 'half.host',
+	'*.xenonconnect.de' => [
+		'suffix' => '*.xenonconnect.de',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'XenonCloud GbR : https://xenoncloud.net',
 			'Submitted by Julian Uphoff <publicsuffixlist@xenoncloud.net>',
+		],
+	],
+	'half.host' => [
+		'suffix' => 'half.host',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'xnbay.com' => [
