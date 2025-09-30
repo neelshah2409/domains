@@ -57293,6 +57293,26 @@ return [
 		'comments' => [
 		],
 	],
+	'leapcell.app' => [
+		'suffix' => 'leapcell.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Leapcell : https://leapcell.io/',
+			'Submitted by Leapcell Team <support@leapcell.io>',
+		],
+	],
+	'leapcell.dev' => [
+		'suffix' => 'leapcell.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'leapcell.online' => [
+		'suffix' => 'leapcell.online',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'liara.run' => [
 		'suffix' => 'liara.run',
 		'type' => 'PRIVATE',
@@ -61917,7 +61937,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'StackBlitz : https://stackblitz.com',
-			'Submitted by Dominic Elm <hello@stackblitz.com>',
+			'Submitted by Dominic Elm & Albert Pai <security@bolt.new>',
 		],
 	],
 	'w-credentialless-staticblitz.com' => [
@@ -61928,6 +61948,12 @@ return [
 	],
 	'w-staticblitz.com' => [
 		'suffix' => 'w-staticblitz.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'bolt.host' => [
+		'suffix' => 'bolt.host',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
