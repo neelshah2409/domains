@@ -50390,6 +50390,12 @@ return [
 		'comments' => [
 		],
 	],
+	'cloud-ip.cc' => [
+		'suffix' => 'cloud-ip.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cloudns.cc' => [
 		'suffix' => 'cloudns.cc',
 		'type' => 'PRIVATE',
@@ -50410,6 +50416,12 @@ return [
 	],
 	'cloudns.club' => [
 		'suffix' => 'cloudns.club',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'abrdns.com' => [
+		'suffix' => 'abrdns.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
