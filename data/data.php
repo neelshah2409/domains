@@ -35466,7 +35466,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-08-27T15:19:08Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-01T15:18:26Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -43260,7 +43260,7 @@ return [
 		'suffix' => 'weatherchannel',
 		'type' => 'ICANN',
 		'comments' => [
-			'weatherchannel : International Business Machines Corporation',
+			'weatherchannel : The Weather Company, LLC',
 			'https://www.iana.org/domains/root/db/weatherchannel.html',
 		],
 	],
