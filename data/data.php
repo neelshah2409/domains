@@ -56566,14 +56566,6 @@ return [
 			'Submitted by William Harrison <webmaster@is-a-good.dev>',
 		],
 	],
-	'is-a.dev' => [
-		'suffix' => 'is-a.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'is-a.dev : https://is-a.dev',
-			'Submitted by William Harrison <security@is-a.dev>',
-		],
-	],
 	'iservschule.de' => [
 		'suffix' => 'iservschule.de',
 		'type' => 'PRIVATE',
@@ -57467,14 +57459,6 @@ return [
 		'comments' => [
 			'Localcert : https://localcert.dev',
 			'Submitted by Lann Martin <security@localcert.dev>',
-		],
-	],
-	'localcert.net' => [
-		'suffix' => 'localcert.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'LocalCert : https://localcert.net',
-			'Submitted by William Harrison <security@localcert.net>',
 		],
 	],
 	'localtonet.com' => [
@@ -63315,7 +63299,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'William Harrison : https://wharrison.com.au',
-			'Submitted by William Harrison <security@wharrison.com.au>',
+			'Submitted by William Harrison <security@hrsn.net>',
 		],
 	],
 	'hrsn.au' => [
@@ -63332,6 +63316,18 @@ return [
 	],
 	'hrsn.dev' => [
 		'suffix' => 'hrsn.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'is-a.dev' => [
+		'suffix' => 'is-a.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'localcert.net' => [
+		'suffix' => 'localcert.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
