@@ -50046,6 +50046,18 @@ return [
 		'comments' => [
 		],
 	],
+	'canva-hosted-embed.com' => [
+		'suffix' => 'canva-hosted-embed.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'canvacode.com' => [
+		'suffix' => 'canvacode.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'rice-labs.com' => [
 		'suffix' => 'rice-labs.com',
 		'type' => 'PRIVATE',
@@ -51218,6 +51230,12 @@ return [
 	],
 	'caffeine.site' => [
 		'suffix' => 'caffeine.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'caffeine.xyz' => [
+		'suffix' => 'caffeine.xyz',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57084,14 +57102,20 @@ return [
 		'comments' => [
 		],
 	],
-	'jote-dr-lt1.com' => [
-		'suffix' => 'jote-dr-lt1.com',
+	'eu1-plenit.com' => [
+		'suffix' => 'eu1-plenit.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'jote-rd-lt1.com' => [
-		'suffix' => 'jote-rd-lt1.com',
+	'la1-plenit.com' => [
+		'suffix' => 'la1-plenit.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us1-plenit.com' => [
+		'suffix' => 'us1-plenit.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
