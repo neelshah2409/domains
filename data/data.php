@@ -59451,6 +59451,12 @@ return [
 		'comments' => [
 		],
 	],
+	'website.one' => [
+		'suffix' => 'website.one',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'simplesite.pl' => [
 		'suffix' => 'simplesite.pl',
 		'type' => 'PRIVATE',
