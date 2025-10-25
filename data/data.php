@@ -58420,6 +58420,14 @@ return [
 			'Submitted by Paulus Schoutsen <infra@nabucasa.com>',
 		],
 	],
+	'needle.run' => [
+		'suffix' => 'needle.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Needle Tools GmbH : https://needle.tools',
+			'Submitted by Felix Herbst <security@needle.tools>',
+		],
+	],
 	'cloud.nospamproxy.com' => [
 		'suffix' => 'cloud.nospamproxy.com',
 		'type' => 'PRIVATE',
