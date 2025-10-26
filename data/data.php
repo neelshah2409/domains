@@ -35466,7 +35466,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-01T15:18:26Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-24T15:19:14Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37686,14 +37686,6 @@ return [
 		'comments' => [
 			'dubai : Dubai Smart Government Department',
 			'https://www.iana.org/domains/root/db/dubai.html',
-		],
-	],
-	'dunlop' => [
-		'suffix' => 'dunlop',
-		'type' => 'ICANN',
-		'comments' => [
-			'dunlop : The Goodyear Tire & Rubber Company',
-			'https://www.iana.org/domains/root/db/dunlop.html',
 		],
 	],
 	'dupont' => [
@@ -49788,6 +49780,14 @@ return [
 		'comments' => [
 			'BeagleBoard.org Foundation : https://beagleboard.org',
 			'Submitted by Jason Kridner <jkridner@beagleboard.org>',
+		],
+	],
+	'bearblog.dev' => [
+		'suffix' => 'bearblog.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Bear Blog : https://bearblog.dev',
+			'Submitted by Herman Martinus <admin@bearblog.dev>',
 		],
 	],
 	'*.beget.app' => [
