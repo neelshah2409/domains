@@ -1529,11 +1529,96 @@ return [
 		'comments' => [
 		],
 	],
-	'*.bd' => [
-		'suffix' => '*.bd',
+	'bd' => [
+		'suffix' => 'bd',
 		'type' => 'ICANN',
 		'comments' => [
 			'bd : https://www.iana.org/domains/root/db/bd.html',
+			'Confirmed by registry <dgm.domain@btcl.gov.bd>',
+		],
+	],
+	'ac.bd' => [
+		'suffix' => 'ac.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ai.bd' => [
+		'suffix' => 'ai.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'co.bd' => [
+		'suffix' => 'co.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'com.bd' => [
+		'suffix' => 'com.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.bd' => [
+		'suffix' => 'edu.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.bd' => [
+		'suffix' => 'gov.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'id.bd' => [
+		'suffix' => 'id.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'info.bd' => [
+		'suffix' => 'info.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'it.bd' => [
+		'suffix' => 'it.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'mil.bd' => [
+		'suffix' => 'mil.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.bd' => [
+		'suffix' => 'net.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.bd' => [
+		'suffix' => 'org.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sch.bd' => [
+		'suffix' => 'sch.bd',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tv.bd' => [
+		'suffix' => 'tv.bd',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'be' => [
@@ -33804,6 +33889,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			've : https://registro.nic.ve/',
+			'https://nic.ve/site/user-agreement -> under "III. Clasificación de Nombres de Dominio"',
 			'Submitted by registry nic@nic.ve and nicve@conatel.gob.ve',
 		],
 	],
@@ -33863,6 +33949,12 @@ return [
 	],
 	'gov.ve' => [
 		'suffix' => 'gov.ve',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ia.ve' => [
+		'suffix' => 'ia.ve',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -54852,6 +54944,14 @@ return [
 			'Submitted by GignoSystemJapan <kakutou-ec@gsj.bz>',
 		],
 	],
+	'gitbook.io' => [
+		'suffix' => 'gitbook.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'GitBook Inc. : https://www.gitbook.com/',
+			'Submitted by Samy Pesse <devs@gitbook.com>',
+		],
+	],
 	'github.app' => [
 		'suffix' => 'github.app',
 		'type' => 'PRIVATE',
@@ -62055,6 +62155,14 @@ return [
 			'Submitted by Jacob Lee <jacob@stdlib.com>',
 		],
 	],
+	'statichost.page' => [
+		'suffix' => 'statichost.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'statichost.eu : https://www.statichost.eu',
+			'Submitted by Eric Selin <admin@statichost.eu>',
+		],
+	],
 	'feedback.ac' => [
 		'suffix' => 'feedback.ac',
 		'type' => 'PRIVATE',
@@ -62505,7 +62613,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'team.blue : https://team.blue',
-			'Submitted by Cedric Dubois <cedric.dubois@team.blue>',
+			'Submitted by Cedric Dubois <psl-sh@team.blue>',
+		],
+	],
+	'directwp.eu' => [
+		'suffix' => 'directwp.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'edugit.io' => [
