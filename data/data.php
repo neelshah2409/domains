@@ -63302,6 +63302,14 @@ return [
 			'Submitted by Max Spector <info@walrus.xyz>',
 		],
 	],
+	'wasmer.app' => [
+		'suffix' => 'wasmer.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Wasmer: https://wasmer.io',
+			'Submitted by Lorentz Kinde <security@wasmer.io>',
+		],
+	],
 	'webflow.io' => [
 		'suffix' => 'webflow.io',
 		'type' => 'PRIVATE',
