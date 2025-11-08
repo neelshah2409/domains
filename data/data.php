@@ -6935,6 +6935,7 @@ return [
 			'see also: https://registry.in/policies',
 			'Please note, that nic.in is not an official eTLD, but used by most',
 			'government institutions.',
+			'Confirmed by Gaurav Kansal <gaurav.kansal@nic.in> 2025-11-06',
 		],
 	],
 	'5g.in' => [
@@ -6963,6 +6964,12 @@ return [
 	],
 	'am.in' => [
 		'suffix' => 'am.in',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'bank.in' => [
+		'suffix' => 'bank.in',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -7041,6 +7048,12 @@ return [
 	],
 	'er.in' => [
 		'suffix' => 'er.in',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'fin.in' => [
+		'suffix' => 'fin.in',
 		'type' => 'ICANN',
 		'comments' => [
 		],
