@@ -35571,7 +35571,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-10-24T15:19:14Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-11-08T15:16:38Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -43901,7 +43901,7 @@ return [
 		'suffix' => '中文网',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--fiq228c5hs : TLD REGISTRY LIMITED OY',
+			'xn--fiq228c5hs : Beijing TLD Registry Technology Limited',
 			'https://www.iana.org/domains/root/db/xn--fiq228c5hs.html',
 		],
 	],
