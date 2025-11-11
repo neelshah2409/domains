@@ -58415,6 +58415,26 @@ return [
 		'comments' => [
 		],
 	],
+	'mocha.app' => [
+		'suffix' => 'mocha.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Mocha : https://getmocha.com',
+			'Submitted by Ben Reinhart <security@getmocha.com>',
+		],
+	],
+	'mochausercontent.com' => [
+		'suffix' => 'mochausercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mocha-sandbox.dev' => [
+		'suffix' => 'mocha-sandbox.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'modx.dev' => [
 		'suffix' => 'modx.dev',
 		'type' => 'PRIVATE',
