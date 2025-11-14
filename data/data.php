@@ -59004,6 +59004,14 @@ return [
 			'Submitted by Felix Herbst <security@needle.tools>',
 		],
 	],
+	'co.site' => [
+		'suffix' => 'co.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Neo : https://www.neo.space',
+			'Submitted by Ankit Kulkarni <devops@co.site>',
+		],
+	],
 	'cloud.nospamproxy.com' => [
 		'suffix' => 'cloud.nospamproxy.com',
 		'type' => 'PRIVATE',
