@@ -53807,6 +53807,20 @@ return [
 		'comments' => [
 		],
 	],
+	'emergent.cloud' => [
+		'suffix' => 'emergent.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Emergent : https://emergent.sh',
+			'Submitted by Emergent Security Team <security@emergent.sh>',
+		],
+	],
+	'emergent.host' => [
+		'suffix' => 'emergent.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'en-root.fr' => [
 		'suffix' => 'en-root.fr',
 		'type' => 'PRIVATE',
@@ -63552,6 +63566,14 @@ return [
 		'comments' => [
 			'UK Intis Telecom LTD : https://it.com',
 			'Submitted by ITComdomains <to@it.com>',
+		],
+	],
+	'umso.co' => [
+		'suffix' => 'umso.co',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Umso Software Inc. : https://www.umso.com',
+			'Submitted by Alexis Taylor <security@umso.com>',
 		],
 	],
 	'unison-services.cloud' => [
