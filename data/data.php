@@ -51271,7 +51271,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Combell.com : https://www.combell.com',
-			'Submitted by Thomas Wouters <thomas.wouters@combellgroup.com>',
+			'Submitted by Combell Team <support@combell.com>',
+		],
+	],
+	'prvw.eu' => [
+		'suffix' => 'prvw.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'hosting-cluster.nl' => [
@@ -63960,24 +63966,12 @@ return [
 		'comments' => [
 		],
 	],
-	'wdh.app' => [
-		'suffix' => 'wdh.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'William Harrison : https://wharrison.com.au',
-			'Submitted by William Harrison <security@hrsn.net>',
-		],
-	],
-	'hrsn.au' => [
-		'suffix' => 'hrsn.au',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'vps.hrsn.au' => [
 		'suffix' => 'vps.hrsn.au',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'William Harrison : https://wharrison.com.au',
+			'Submitted by William Harrison <security@hrsn.net>',
 		],
 	],
 	'hrsn.dev' => [
