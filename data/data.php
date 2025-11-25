@@ -6771,6 +6771,13 @@ return [
 		'comments' => [
 		],
 	],
+	'ᬩᬮᬶ.id' => [
+		'suffix' => 'ᬩᬮᬶ.id',
+		'type' => 'ICANN',
+		'comments' => [
+			'xn--9tfky.id (<bali>.id, Und-Bali)',
+		],
+	],
 	'ie' => [
 		'suffix' => 'ie',
 		'type' => 'ICANN',
@@ -56320,6 +56327,14 @@ return [
 			'Submitted by Matt Yamkowy <info@grayjaysports.ca>',
 		],
 	],
+	'grebedoc.dev' => [
+		'suffix' => 'grebedoc.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Grebedoc : https://grebedoc.dev',
+			'Submitted by Catherine Zotova <admin@grebedoc.dev>',
+		],
+	],
 	'günstigbestellen.de' => [
 		'suffix' => 'günstigbestellen.de',
 		'type' => 'PRIVATE',
@@ -64185,6 +64200,14 @@ return [
 		'suffix' => 'xs4all.space',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'xtooldevice.com' => [
+		'suffix' => 'xtooldevice.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'xTool : https://xtool.com',
+			'Submitted by Echo <admin@xtool.com>',
 		],
 	],
 	'yandexcloud.net' => [
