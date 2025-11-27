@@ -50419,6 +50419,18 @@ return [
 		'comments' => [
 		],
 	],
+	'brave.dev' => [
+		'suffix' => 'brave.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.s.brave.dev' => [
+		'suffix' => '*.s.brave.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'brave.io' => [
 		'suffix' => 'brave.io',
 		'type' => 'PRIVATE',
