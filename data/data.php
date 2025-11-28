@@ -55325,6 +55325,20 @@ return [
 		'comments' => [
 		],
 	],
+	'gadget.app' => [
+		'suffix' => 'gadget.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Gadget Software Inc. : https://gadget.dev',
+			'Submitted by Harry Brundage <security@gadget.dev>',
+		],
+	],
+	'gadget.host' => [
+		'suffix' => 'gadget.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'aliases121.com' => [
 		'suffix' => 'aliases121.com',
 		'type' => 'PRIVATE',
@@ -58801,6 +58815,18 @@ return [
 		'comments' => [
 		],
 	],
+	'servicebus.usgovcloudapi.net' => [
+		'suffix' => 'servicebus.usgovcloudapi.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'usgovcloudapp.net' => [
+		'suffix' => 'usgovcloudapp.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'blob.core.windows.net' => [
 		'suffix' => 'blob.core.windows.net',
 		'type' => 'PRIVATE',
@@ -58809,6 +58835,18 @@ return [
 	],
 	'servicebus.windows.net' => [
 		'suffix' => 'servicebus.windows.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'azure-api.us' => [
+		'suffix' => 'azure-api.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'azurewebsites.us' => [
+		'suffix' => 'azurewebsites.us',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59936,14 +59974,6 @@ return [
 		'comments' => [
 			'O3O.Foundation : https://o3o.foundation/',
 			'Submitted by the prvcy.page Registry Team <info@o3o.foundation>',
-		],
-	],
-	'obl.ong' => [
-		'suffix' => 'obl.ong',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Obl.ong : https://obl.ong',
-			'Submitted by Reese Armstrong <team@obl.ong>',
 		],
 	],
 	'observablehq.cloud' => [
