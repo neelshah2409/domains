@@ -44681,6 +44681,14 @@ return [
 			'Submitted by Gavin Brown <gavin.brown@centralnic.com>',
 		],
 	],
+	'*.auiusercontent.com' => [
+		'suffix' => '*.auiusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AgentbaseAI Inc. : https://assistant-ui.com',
+			'Submitted by Simon Farshid <security@assistant-ui.com>',
+		],
+	],
 	'beep.pl' => [
 		'suffix' => 'beep.pl',
 		'type' => 'PRIVATE',
