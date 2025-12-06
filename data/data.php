@@ -53848,6 +53848,12 @@ return [
 			'Submitted by Emergent Security Team <security@emergent.sh>',
 		],
 	],
+	'preview.emergentagent.com' => [
+		'suffix' => 'preview.emergentagent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'emergent.host' => [
 		'suffix' => 'emergent.host',
 		'type' => 'PRIVATE',
@@ -60462,14 +60468,6 @@ return [
 		'comments' => [
 		],
 	],
-	'lk3.ru' => [
-		'suffix' => 'lk3.ru',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'PE Ulyanov Kirill Sergeevich : https://airy.host',
-			'Submitted by Kirill Ulyanov <k.ulyanov@airy.host>',
-		],
-	],
 	'mypep.link' => [
 		'suffix' => 'mypep.link',
 		'type' => 'PRIVATE',
@@ -60980,6 +60978,20 @@ return [
 		'comments' => [
 			'Redgate Software : https://red-gate.com',
 			'Submitted by Andrew Farries <andrew.farries@red-gate.com>',
+		],
+	],
+	'*.clusters.rdpa.co' => [
+		'suffix' => '*.clusters.rdpa.co',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Redpanda Data : https://redpanda.com',
+			'Submitted by Infrastructure Team <security@redpanda.com>',
+		],
+	],
+	'*.srvrless.rdpa.co' => [
+		'suffix' => '*.srvrless.rdpa.co',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'onrender.com' => [
