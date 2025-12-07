@@ -35571,7 +35571,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-11-08T15:16:38Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-12-06T15:17:27Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -42325,7 +42325,7 @@ return [
 		'suffix' => 'sony',
 		'type' => 'ICANN',
 		'comments' => [
-			'sony : Sony Corporation',
+			'sony : Sony Group Corporation',
 			'https://www.iana.org/domains/root/db/sony.html',
 		],
 	],
