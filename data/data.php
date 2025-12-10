@@ -51913,6 +51913,26 @@ return [
 		'comments' => [
 		],
 	],
+	'co.scot' => [
+		'suffix' => 'co.scot',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'dotScot Domains : https://domains.scot/',
+			'Submitted by DNS Team <dns@domains.scot>',
+		],
+	],
+	'me.scot' => [
+		'suffix' => 'me.scot',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'org.scot' => [
+		'suffix' => 'org.scot',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'drayddns.com' => [
 		'suffix' => 'drayddns.com',
 		'type' => 'PRIVATE',
