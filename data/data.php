@@ -61780,6 +61780,14 @@ return [
 			'Submitted by Asheesh Laroia <asheesh@sandstorm.io>',
 		],
 	],
+	'sav.case' => [
+		'suffix' => 'sav.case',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Sav.com, LLC : https://marketing.sav.com/',
+			'Submitted by Mukul Kudegave <mukul@sav.com>',
+		],
+	],
 	'logoip.com' => [
 		'suffix' => 'logoip.com',
 		'type' => 'PRIVATE',
