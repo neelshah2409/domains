@@ -50031,6 +50031,98 @@ return [
 			'Submitted by Alexander Selivanov <alex@apphud.com>',
 		],
 	],
+	'int.apple' => [
+		'suffix' => 'int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Apple : https://www.apple.com',
+			'Submitted by Apple DNS <dnscontact@apple.com>',
+		],
+	],
+	'*.cloud.int.apple' => [
+		'suffix' => '*.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.r.cloud.int.apple' => [
+		'suffix' => '*.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-north-1.r.cloud.int.apple' => [
+		'suffix' => '*.ap-north-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-south-1.r.cloud.int.apple' => [
+		'suffix' => '*.ap-south-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-south-2.r.cloud.int.apple' => [
+		'suffix' => '*.ap-south-2.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-central-1.r.cloud.int.apple' => [
+		'suffix' => '*.eu-central-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-north-1.r.cloud.int.apple' => [
+		'suffix' => '*.eu-north-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-central-1.r.cloud.int.apple' => [
+		'suffix' => '*.us-central-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-central-2.r.cloud.int.apple' => [
+		'suffix' => '*.us-central-2.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-east-1.r.cloud.int.apple' => [
+		'suffix' => '*.us-east-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-east-2.r.cloud.int.apple' => [
+		'suffix' => '*.us-east-2.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-1.r.cloud.int.apple' => [
+		'suffix' => '*.us-west-1.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-2.r.cloud.int.apple' => [
+		'suffix' => '*.us-west-2.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-3.r.cloud.int.apple' => [
+		'suffix' => '*.us-west-3.r.cloud.int.apple',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'appspacehosted.com' => [
 		'suffix' => 'appspacehosted.com',
 		'type' => 'PRIVATE',
@@ -50059,6 +50151,12 @@ return [
 		'comments' => [
 			'Appwrite : https://appwrite.io',
 			'Submitted by Steven Nguyen <security@appwrite.io>',
+		],
+	],
+	'appwrite.network' => [
+		'suffix' => 'appwrite.network',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.appwrite.run' => [
@@ -55083,22 +55181,16 @@ return [
 			'Submitted by Anton Emelyanov <anton@flutterflow.io>',
 		],
 	],
-	'fly.dev' => [
-		'suffix' => 'fly.dev',
+	'sprites.app' => [
+		'suffix' => 'sprites.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'fly.io : https://fly.io',
-			'Submitted by Kurt Mackey <kurt@fly.io>',
+			'Submitted by Kurt Mackey <ops@fly.io>',
 		],
 	],
-	'shw.io' => [
-		'suffix' => 'shw.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'edgeapp.net' => [
-		'suffix' => 'edgeapp.net',
+	'fly.dev' => [
+		'suffix' => 'fly.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56857,6 +56949,14 @@ return [
 		'comments' => [
 		],
 	],
+	'indevs.in' => [
+		'suffix' => 'indevs.in',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Indevs : https://indevs.in',
+			'Submitted by Sudheer Bhuvana <security@admin.indevs.in>',
+		],
+	],
 	'dyn-berlin.de' => [
 		'suffix' => 'dyn-berlin.de',
 		'type' => 'PRIVATE',
@@ -58552,6 +58652,20 @@ return [
 		'comments' => [
 			'Magento Commerce',
 			'Submitted by Damien Tournoud <dtournoud@magento.cloud>',
+		],
+	],
+	'magicpatterns.app' => [
+		'suffix' => 'magicpatterns.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Magic Patterns : https://www.magicpatterns.com',
+			'Submitted by Teddy Ni <security@magicpatterns.com>',
+		],
+	],
+	'magicpatternsapp.com' => [
+		'suffix' => 'magicpatternsapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'hb.cldmail.ru' => [
