@@ -50006,11 +50006,19 @@ return [
 		'comments' => [
 		],
 	],
+	'antagonist.cloud' => [
+		'suffix' => 'antagonist.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'concludes Amazon',
+			'Antagonist B.V. : https://www.antagonist.nl/',
+			'Submitted by Sander Hoentjen <systeembeheer@antagonist.nl>',
+		],
+	],
 	'apigee.io' => [
 		'suffix' => 'apigee.io',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'concludes Amazon',
 			'Apigee : https://apigee.com/',
 			'Submitted by Apigee Security Team <security@apigee.com>',
 		],
@@ -55191,20 +55199,6 @@ return [
 	],
 	'fly.dev' => [
 		'suffix' => 'fly.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'forgeblocks.com' => [
-		'suffix' => 'forgeblocks.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Forgerock : https://www.forgerock.com',
-			'Submitted by Roderick Parr <roderick.parr@forgerock.com>',
-		],
-	],
-	'id.forgerock.io' => [
-		'suffix' => 'id.forgerock.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -60646,6 +60640,20 @@ return [
 		'comments' => [
 			'Perspecta : https://perspecta.com/',
 			'Submitted by Kenneth Van Alstyne <kvanalstyne@perspecta.com>',
+		],
+	],
+	'forgeblocks.com' => [
+		'suffix' => 'forgeblocks.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Ping Identity : https://www.pingidentity.com',
+			'Submitted by Ping Identity <security@pingidentity.com>',
+		],
+	],
+	'id.forgerock.io' => [
+		'suffix' => 'id.forgerock.io',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'support.site' => [
