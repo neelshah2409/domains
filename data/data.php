@@ -56911,6 +56911,14 @@ return [
 		'comments' => [
 		],
 	],
+	'imagine-proxy.work' => [
+		'suffix' => 'imagine-proxy.work',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Imagine : https://imagine.dev',
+			'Submitted by Steven Nguyen <security@imagine.dev>',
+		],
+	],
 	'smushcdn.com' => [
 		'suffix' => 'smushcdn.com',
 		'type' => 'PRIVATE',
@@ -60132,14 +60140,6 @@ return [
 		'comments' => [
 		],
 	],
-	'nyc.mn' => [
-		'suffix' => 'nyc.mn',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'NYC.mn : https://dot.nyc.mn/',
-			'Submitted by NYC.mn Subdomain Service <nyc.mn@mailfence.com>',
-		],
-	],
 	'prvcy.page' => [
 		'suffix' => 'prvcy.page',
 		'type' => 'PRIVATE',
@@ -60864,6 +60864,20 @@ return [
 	],
 	'byen.site' => [
 		'suffix' => 'byen.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'nyc.mn' => [
+		'suffix' => 'nyc.mn',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PublicZone : https://publiczone.org/',
+			'Submitted by PublicZone NOC Team <noc@publiczone.org>',
+		],
+	],
+	'*.cn.st' => [
+		'suffix' => '*.cn.st',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
