@@ -30595,6 +30595,13 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'sk : https://www.iana.org/domains/root/db/sk.html',
+			'https://sk-nic.sk/',
+		],
+	],
+	'org.sk' => [
+		'suffix' => 'org.sk',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'sl' => [
@@ -57975,6 +57982,14 @@ return [
 		'comments' => [
 		],
 	],
+	'ae.kg' => [
+		'suffix' => 'ae.kg',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Kevin Service : https://kevsrv.me',
+			'Submitted by Kevin Service Team <cs@kevsrv.me>',
+		],
+	],
 	'keymachine.de' => [
 		'suffix' => 'keymachine.de',
 		'type' => 'PRIVATE',
@@ -64586,6 +64601,12 @@ return [
 		'comments' => [
 			'Zone.ID: https://zone.id',
 			'Submitted by Gx1.org <security@gx1.org>',
+		],
+	],
+	'nett.to' => [
+		'suffix' => 'nett.to',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'zabc.net' => [
