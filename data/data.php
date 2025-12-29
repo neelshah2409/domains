@@ -56532,6 +56532,14 @@ return [
 		'comments' => [
 		],
 	],
+	'gv.uy' => [
+		'suffix' => 'gv.uy',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'GV.UY : https://nic.gv.uy',
+			'Submitted by cheng <admin@mailto.al>',
+		],
+	],
 	'hackclub.app' => [
 		'suffix' => 'hackclub.app',
 		'type' => 'PRIVATE',
@@ -63386,6 +63394,38 @@ return [
 	],
 	'directwp.eu' => [
 		'suffix' => 'directwp.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ec.cc' => [
+		'suffix' => 'ec.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'TechEdge Limited: https://www.nic.uk.cc/',
+			'Submitted by TechEdge Developer <support@nic.uk.cc>',
+		],
+	],
+	'eu.cc' => [
+		'suffix' => 'eu.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gu.cc' => [
+		'suffix' => 'gu.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'uk.cc' => [
+		'suffix' => 'uk.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us.cc' => [
+		'suffix' => 'us.cc',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
