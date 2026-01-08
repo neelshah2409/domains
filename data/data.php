@@ -6168,26 +6168,6 @@ return [
 		'comments' => [
 		],
 	],
-	'onhercules.app' => [
-		'suffix' => 'onhercules.app',
-		'type' => 'ICANN',
-		'comments' => [
-			'Hercules : https://hercules.app',
-			'Submitted by Brendan Falk <security@hercules.app>',
-		],
-	],
-	'hercules-app.com' => [
-		'suffix' => 'hercules-app.com',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'hercules-dev.com' => [
-		'suffix' => 'hercules-dev.com',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'hk' => [
 		'suffix' => 'hk',
 		'type' => 'ICANN',
@@ -30686,12 +30666,6 @@ return [
 		'comments' => [
 		],
 	],
-	'perso.sn' => [
-		'suffix' => 'perso.sn',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'univ.sn' => [
 		'suffix' => 'univ.sn',
 		'type' => 'ICANN',
@@ -50274,14 +50248,6 @@ return [
 			'Submitted by Sam Smyth <devloop@atlassian.com>',
 		],
 	],
-	'translated.page' => [
-		'suffix' => 'translated.page',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Authentick UG (haftungsbeschränkt) : https://authentick.net',
-			'Submitted by Lukas Reschke <lukas@authentick.net>',
-		],
-	],
 	'myfritz.link' => [
 		'suffix' => 'myfritz.link',
 		'type' => 'PRIVATE',
@@ -50294,14 +50260,6 @@ return [
 		'suffix' => 'myfritz.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'onavstack.net' => [
-		'suffix' => 'onavstack.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'AVStack Pte. Ltd. : https://avstack.io',
-			'Submitted by Jasper Hugo <jasper@avstack.io>',
 		],
 	],
 	'*.awdev.ca' => [
@@ -56659,6 +56617,26 @@ return [
 			'Submitted by David Grellscheid <admin@hepforge.org>',
 		],
 	],
+	'onhercules.app' => [
+		'suffix' => 'onhercules.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Hercules : https://hercules.app',
+			'Submitted by Brendan Falk <security@hercules.app>',
+		],
+	],
+	'hercules-app.com' => [
+		'suffix' => 'hercules-app.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hercules-dev.com' => [
+		'suffix' => 'hercules-dev.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'herokuapp.com' => [
 		'suffix' => 'herokuapp.com',
 		'type' => 'PRIVATE',
@@ -56964,14 +56942,6 @@ return [
 		'suffix' => 'wpmudev.host',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'indevs.in' => [
-		'suffix' => 'indevs.in',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Indevs : https://indevs.in',
-			'Submitted by Sudheer Bhuvana <security@admin.indevs.in>',
 		],
 	],
 	'dyn-berlin.de' => [
@@ -60507,12 +60477,6 @@ return [
 		'comments' => [
 		],
 	],
-	'skygearapp.com' => [
-		'suffix' => 'skygearapp.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'outsystemscloud.com' => [
 		'suffix' => 'outsystemscloud.com',
 		'type' => 'PRIVATE',
@@ -62916,6 +62880,14 @@ return [
 		'comments' => [
 		],
 	],
+	'indevs.in' => [
+		'suffix' => 'indevs.in',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Stackryze : https://stackryze.com',
+			'Submitted by Sudheer Bhuvana <security@stackryze.com>',
+		],
+	],
 	'musician.io' => [
 		'suffix' => 'musician.io',
 		'type' => 'PRIVATE',
@@ -63746,86 +63718,6 @@ return [
 		'comments' => [
 			'TuxFamily : http://tuxfamily.org',
 			'Submitted by TuxFamily administrators <adm@staff.tuxfamily.org>',
-		],
-	],
-	'dd-dns.de' => [
-		'suffix' => 'dd-dns.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'TwoDNS : https://www.twodns.de/',
-			'Submitted by TwoDNS-Support <support@two-dns.de>',
-		],
-	],
-	'dray-dns.de' => [
-		'suffix' => 'dray-dns.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'draydns.de' => [
-		'suffix' => 'draydns.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dyn-vpn.de' => [
-		'suffix' => 'dyn-vpn.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dynvpn.de' => [
-		'suffix' => 'dynvpn.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mein-vigor.de' => [
-		'suffix' => 'mein-vigor.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'my-vigor.de' => [
-		'suffix' => 'my-vigor.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'my-wan.de' => [
-		'suffix' => 'my-wan.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'syno-ds.de' => [
-		'suffix' => 'syno-ds.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'synology-diskstation.de' => [
-		'suffix' => 'synology-diskstation.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'synology-ds.de' => [
-		'suffix' => 'synology-ds.de',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'diskstation.eu' => [
-		'suffix' => 'diskstation.eu',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'diskstation.org' => [
-		'suffix' => 'diskstation.org',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'typedream.app' => [
