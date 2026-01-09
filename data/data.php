@@ -50598,6 +50598,14 @@ return [
 		'comments' => [
 		],
 	],
+	'*.bwcloud-os-instance.de' => [
+		'suffix' => '*.bwcloud-os-instance.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'bwCloud-OS : https://bwcloud-os.de/',
+			'Submitted by Klara Mall <dns@bwcloud-os.de>',
+		],
+	],
 	'uk0.bigv.io' => [
 		'suffix' => 'uk0.bigv.io',
 		'type' => 'PRIVATE',
@@ -51804,6 +51812,20 @@ return [
 	],
 	'deta.dev' => [
 		'suffix' => 'deta.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'deuxfleurs.eu' => [
+		'suffix' => 'deuxfleurs.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Deuxfleurs : https://deuxfleurs.fr',
+			'Submitted by Aeddis Desauw <ca@deuxfleurs.fr>',
+		],
+	],
+	'deuxfleurs.page' => [
+		'suffix' => 'deuxfleurs.page',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
