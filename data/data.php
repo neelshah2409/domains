@@ -35572,7 +35572,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-12-06T15:17:27Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-08T15:25:34Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -42854,7 +42854,7 @@ return [
 		'suffix' => 'top',
 		'type' => 'ICANN',
 		'comments' => [
-			'top : .TOP Registry',
+			'top : Hong Kong Zhongze International Limited',
 			'https://www.iana.org/domains/root/db/top.html',
 		],
 	],
