@@ -60804,7 +60804,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'PROJECT ELIV : https://eliv.kr/',
-			'Submitted by PROJECT ELIV Domain Team <team@eliv.kr>',
+			'Submitted by PROJECT ELIV DomainName Team <team@eliv.kr>',
+		],
+	],
+	'eliv-api.kr' => [
+		'suffix' => 'eliv-api.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'eliv-cdn.kr' => [
