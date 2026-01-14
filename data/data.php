@@ -64252,12 +64252,24 @@ return [
 		'comments' => [
 		],
 	],
-	'wixsite.com' => [
-		'suffix' => 'wixsite.com',
+	'base44.app' => [
+		'suffix' => 'base44.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Wix.com, Inc. : https://www.wix.com',
 			'Submitted by Shahar Talmi / Alon Kochba <publicsuffixlist@wix.com>',
+		],
+	],
+	'base44-sandbox.com' => [
+		'suffix' => 'base44-sandbox.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wixsite.com' => [
+		'suffix' => 'wixsite.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'wixstudio.com' => [
