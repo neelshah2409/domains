@@ -57998,6 +57998,20 @@ return [
 			'Submitted by Martin Dannehl <postmaster@keymachine.de>',
 		],
 	],
+	'kiloapps.ai' => [
+		'suffix' => 'kiloapps.ai',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Kilo Code, Inc. : https://kilo.ai',
+			'Submitted by Remon Oldenbeuving <security@kilocode.ai>',
+		],
+	],
+	'kiloapps.io' => [
+		'suffix' => 'kiloapps.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'kinghost.net' => [
 		'suffix' => 'kinghost.net',
 		'type' => 'PRIVATE',
