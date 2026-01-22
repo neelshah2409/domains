@@ -62732,6 +62732,14 @@ return [
 		'comments' => [
 		],
 	],
+	'spawnbase.app' => [
+		'suffix' => 'spawnbase.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Spawnbase : https://spawnbase.ai',
+			'Submitted by Alexander Zuev <security@spawnbase.ai>',
+		],
+	],
 	'customer.speedpartner.de' => [
 		'suffix' => 'customer.speedpartner.de',
 		'type' => 'PRIVATE',
