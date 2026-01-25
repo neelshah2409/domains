@@ -50898,12 +50898,18 @@ return [
 			'Submitted by Maksym Rivtin <support@cityhost.net.ua>',
 		],
 	],
+	'discourse.diy' => [
+		'suffix' => 'discourse.diy',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Civilized Discourse Construction Kit, Inc. : https://www.discourse.org/',
+			'Submitted by Rishabh Nambiar, Michael Brown, Rafael dos Santos Silva <team@discourse.org>',
+		],
+	],
 	'discourse.group' => [
 		'suffix' => 'discourse.group',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Civilized Discourse Construction Kit, Inc. : https://www.discourse.org/',
-			'Submitted by Rishabh Nambiar & Michael Brown <team@discourse.org>',
 		],
 	],
 	'discourse.team' => [
@@ -51470,6 +51476,14 @@ return [
 		'suffix' => 'mil.ru',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'corespeed.app' => [
+		'suffix' => 'corespeed.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'CoreSpeed, Inc. : https://corespeed.io',
+			'Submitted by CoreSpeed Team <ops@corespeed.io>',
 		],
 	],
 	'dyn.cosidns.de' => [
@@ -58073,12 +58087,24 @@ return [
 			'Abuse reports to <registry@kv-gmbh.de>',
 		],
 	],
-	'laravel.cloud' => [
-		'suffix' => 'laravel.cloud',
+	'shiptoday.app' => [
+		'suffix' => 'shiptoday.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Laravel Holdings, Inc. : https://laravel.com',
 			'Submitted by André Valentin & James Brooks <security@laravel.com>',
+		],
+	],
+	'shiptoday.build' => [
+		'suffix' => 'shiptoday.build',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'laravel.cloud' => [
+		'suffix' => 'laravel.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'on-forge.com' => [
@@ -59106,6 +59132,20 @@ return [
 		'comments' => [
 			'minion.systems : http://minion.systems',
 			'Submitted by Robert Böttinger <r@minion.systems>',
+		],
+	],
+	'miren.app' => [
+		'suffix' => 'miren.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Miren, Inc. : https://miren.dev',
+			'Submitted by Miren Product Team <team-product@miren.dev>',
+		],
+	],
+	'miren.systems' => [
+		'suffix' => 'miren.systems',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'mydbserver.com' => [
