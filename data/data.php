@@ -45091,7 +45091,7 @@ return [
 		'comments' => [
 			'Amazon Cognito',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: e7c02dc1-02f4-4a23-bde3-a8527c830127',
+			'Reference: d7d4a954-976e-403e-a010-de9ed0cfbbd1',
 		],
 	],
 	'auth.ap-east-1.amazoncognito.com' => [
@@ -45312,6 +45312,12 @@ return [
 	],
 	'auth-fips.us-west-2.amazoncognito.com' => [
 		'suffix' => 'auth-fips.us-west-2.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu' => [
+		'suffix' => 'auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -46558,7 +46564,7 @@ return [
 		'comments' => [
 			'Amazon S3',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: ada5c9df-55e1-4195-a1ce-732d6c81e357',
+			'Reference: 6f374c1c-1cc9-47de-8b2a-69ca56a3a3b6',
 		],
 	],
 	's3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn' => [
@@ -48145,6 +48151,12 @@ return [
 		'comments' => [
 		],
 	],
+	's3-website.dualstack.us-gov-east-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.us-gov-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	's3.us-gov-east-1.amazonaws.com' => [
 		'suffix' => 's3.us-gov-east-1.amazonaws.com',
 		'type' => 'PRIVATE',
@@ -48201,6 +48213,12 @@ return [
 	],
 	's3-fips.dualstack.us-gov-west-1.amazonaws.com' => [
 		'suffix' => 's3-fips.dualstack.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.dualstack.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 's3-website.dualstack.us-gov-west-1.amazonaws.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49759,7 +49777,7 @@ return [
 		'comments' => [
 			'AWS Transfer Family web apps',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 57a658c4-8899-410c-aa24-5b01e4a178d2',
+			'Reference: 9265cdd3-f017-42ab-98bb-08bf427d3fc9',
 		],
 	],
 	'transfer-webapp.ap-east-1.on.aws' => [
@@ -49824,6 +49842,12 @@ return [
 	],
 	'transfer-webapp.ap-southeast-5.on.aws' => [
 		'suffix' => 'transfer-webapp.ap-southeast-5.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-southeast-7.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-southeast-7.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49902,6 +49926,12 @@ return [
 	],
 	'transfer-webapp.me-south-1.on.aws' => [
 		'suffix' => 'transfer-webapp.me-south-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.mx-central-1.on.aws' => [
+		'suffix' => 'transfer-webapp.mx-central-1.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
