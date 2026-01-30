@@ -35572,7 +35572,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-08T15:25:34Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-29T15:35:06Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -41446,7 +41446,7 @@ return [
 		'suffix' => 'radio',
 		'type' => 'ICANN',
 		'comments' => [
-			'radio : European Broadcasting Union (EBU)',
+			'radio : Digity, LLC',
 			'https://www.iana.org/domains/root/db/radio.html',
 		],
 	],
@@ -43350,7 +43350,7 @@ return [
 		'suffix' => 'weather',
 		'type' => 'ICANN',
 		'comments' => [
-			'weather : International Business Machines Corporation',
+			'weather : The Weather Company, LLC',
 			'https://www.iana.org/domains/root/db/weather.html',
 		],
 	],
@@ -58026,6 +58026,32 @@ return [
 		'comments' => [
 		],
 	],
+	'keenetic.io' => [
+		'suffix' => 'keenetic.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Keenetic : https://keenetic.com',
+			'Submitted by Alexey Nikitin <cloud@keenetic.net>',
+		],
+	],
+	'keenetic.link' => [
+		'suffix' => 'keenetic.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'keenetic.name' => [
+		'suffix' => 'keenetic.name',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'keenetic.pro' => [
+		'suffix' => 'keenetic.pro',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'ae.kg' => [
 		'suffix' => 'ae.kg',
 		'type' => 'PRIVATE',
@@ -61983,8 +62009,86 @@ return [
 		'comments' => [
 		],
 	],
+	'*.aa.crm.dev' => [
+		'suffix' => '*.aa.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ab.crm.dev' => [
+		'suffix' => '*.ab.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ac.crm.dev' => [
+		'suffix' => '*.ac.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ad.crm.dev' => [
+		'suffix' => '*.ad.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ae.crm.dev' => [
+		'suffix' => '*.ae.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.af.crm.dev' => [
+		'suffix' => '*.af.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ci.crm.dev' => [
+		'suffix' => '*.ci.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.d.crm.dev' => [
 		'suffix' => '*.d.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.pa.crm.dev' => [
+		'suffix' => '*.pa.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.pb.crm.dev' => [
+		'suffix' => '*.pb.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.pc.crm.dev' => [
+		'suffix' => '*.pc.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.pd.crm.dev' => [
+		'suffix' => '*.pd.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.pe.crm.dev' => [
+		'suffix' => '*.pe.crm.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.pf.crm.dev' => [
+		'suffix' => '*.pf.crm.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -62738,6 +62842,14 @@ return [
 		'comments' => [
 			'Software Consulting Michal Zalewski : https://www.mafelo.com',
 			'Submitted by Michal Zalewski <security@mafelo.com>',
+		],
+	],
+	'sol.site' => [
+		'suffix' => 'sol.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Solana Name Service :  https://sns.id',
+			'Submitted by Solana Name Service <contact@sns.id>',
 		],
 	],
 	'playstation-cloud.com' => [
