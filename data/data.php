@@ -44493,26 +44493,6 @@ return [
 		'comments' => [
 		],
 	],
-	'12chars.dev' => [
-		'suffix' => '12chars.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'12CHARS : https://12chars.com',
-			'Submitted by Kenny Niehage <psl@12chars.com>',
-		],
-	],
-	'12chars.it' => [
-		'suffix' => '12chars.it',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'12chars.pro' => [
-		'suffix' => '12chars.pro',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'cc.ua' => [
 		'suffix' => 'cc.ua',
 		'type' => 'PRIVATE',
@@ -59112,14 +59092,50 @@ return [
 		'comments' => [
 		],
 	],
+	'blob.core.usgovcloudapi.net' => [
+		'suffix' => 'blob.core.usgovcloudapi.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'file.core.usgovcloudapi.net' => [
+		'suffix' => 'file.core.usgovcloudapi.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'web.core.usgovcloudapi.net' => [
+		'suffix' => 'web.core.usgovcloudapi.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'usgovcloudapp.net' => [
 		'suffix' => 'usgovcloudapp.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
+	'usgovtrafficmanager.net' => [
+		'suffix' => 'usgovtrafficmanager.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'blob.core.windows.net' => [
 		'suffix' => 'blob.core.windows.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'file.core.windows.net' => [
+		'suffix' => 'file.core.windows.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'web.core.windows.net' => [
+		'suffix' => 'web.core.windows.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
