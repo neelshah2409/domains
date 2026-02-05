@@ -57948,18 +57948,12 @@ return [
 		'comments' => [
 		],
 	],
-	'*.cns.joyent.com' => [
-		'suffix' => '*.cns.joyent.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Joyent : https://www.joyent.com/',
-			'Submitted by Brian Bennett <brian.bennett@joyent.com>',
-		],
-	],
 	'*.triton.zone' => [
 		'suffix' => '*.triton.zone',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Joyent : https://www.joyent.com/',
+			'Submitted by Brian Bennett <brian.bennett@joyent.com>',
 		],
 	],
 	'js.org' => [
@@ -59086,12 +59080,6 @@ return [
 		'comments' => [
 		],
 	],
-	'servicebus.usgovcloudapi.net' => [
-		'suffix' => 'servicebus.usgovcloudapi.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'blob.core.usgovcloudapi.net' => [
 		'suffix' => 'blob.core.usgovcloudapi.net',
 		'type' => 'PRIVATE',
@@ -59106,6 +59094,12 @@ return [
 	],
 	'web.core.usgovcloudapi.net' => [
 		'suffix' => 'web.core.usgovcloudapi.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'servicebus.usgovcloudapi.net' => [
+		'suffix' => 'servicebus.usgovcloudapi.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
