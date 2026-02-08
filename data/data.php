@@ -35572,7 +35572,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-29T15:35:06Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-07T15:24:45Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -38720,14 +38720,6 @@ return [
 		'comments' => [
 			'golf : Binky Moon, LLC',
 			'https://www.iana.org/domains/root/db/golf.html',
-		],
-	],
-	'goo' => [
-		'suffix' => 'goo',
-		'type' => 'ICANN',
-		'comments' => [
-			'goo : NTT DOCOMO, INC.',
-			'https://www.iana.org/domains/root/db/goo.html',
 		],
 	],
 	'goodyear' => [
@@ -53817,16 +53809,46 @@ return [
 		'comments' => [
 		],
 	],
+	'1cooldns.com' => [
+		'suffix' => '1cooldns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Dynu.com : https://www.dynu.com/',
+			'Submitted by Sue Ye <psl-contact@dynu.com>',
+		],
+	],
+	'bumbleshrimp.com' => [
+		'suffix' => 'bumbleshrimp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'ddnsfree.com' => [
 		'suffix' => 'ddnsfree.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Dynu.com : https://www.dynu.com/',
-			'Submitted by Sue Ye <sue@dynu.com>',
 		],
 	],
 	'ddnsgeek.com' => [
 		'suffix' => 'ddnsgeek.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddnsguru.com' => [
+		'suffix' => 'ddnsguru.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynuddns.com' => [
+		'suffix' => 'dynuddns.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynuhosting.com' => [
+		'suffix' => 'dynuhosting.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53861,8 +53883,20 @@ return [
 		'comments' => [
 		],
 	],
+	'pivohosting.com' => [
+		'suffix' => 'pivohosting.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'theworkpc.com' => [
 		'suffix' => 'theworkpc.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wiredbladehosting.com' => [
+		'suffix' => 'wiredbladehosting.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53875,6 +53909,30 @@ return [
 	],
 	'dynu.net' => [
 		'suffix' => 'dynu.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dynuddns.net' => [
+		'suffix' => 'dynuddns.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mysynology.net' => [
+		'suffix' => 'mysynology.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'opik.net' => [
+		'suffix' => 'opik.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'spryt.net' => [
+		'suffix' => 'spryt.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -53899,6 +53957,12 @@ return [
 	],
 	'mywire.org' => [
 		'suffix' => 'mywire.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'roxa.org' => [
+		'suffix' => 'roxa.org',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
