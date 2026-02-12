@@ -34363,6 +34363,12 @@ return [
 		'comments' => [
 		],
 	],
+	'hue.vn' => [
+		'suffix' => 'hue.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'hungyen.vn' => [
 		'suffix' => 'hungyen.vn',
 		'type' => 'ICANN',
@@ -51806,6 +51812,12 @@ return [
 	],
 	'deno.net' => [
 		'suffix' => 'deno.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sandbox.deno.net' => [
+		'suffix' => 'sandbox.deno.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
