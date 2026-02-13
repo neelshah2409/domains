@@ -51448,8 +51448,32 @@ return [
 		'comments' => [
 		],
 	],
+	'eu-west-1.convex.cloud' => [
+		'suffix' => 'eu-west-1.convex.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us-east-1.convex.cloud' => [
+		'suffix' => 'us-east-1.convex.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'convex.site' => [
 		'suffix' => 'convex.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eu-west-1.convex.site' => [
+		'suffix' => 'eu-west-1.convex.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us-east-1.convex.site' => [
+		'suffix' => 'us-east-1.convex.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -57026,12 +57050,18 @@ return [
 		'comments' => [
 		],
 	],
-	'imagine-proxy.work' => [
-		'suffix' => 'imagine-proxy.work',
+	'imagine.diy' => [
+		'suffix' => 'imagine.diy',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Imagine : https://imagine.dev',
 			'Submitted by Steven Nguyen <security@imagine.dev>',
+		],
+	],
+	'imagine-proxy.work' => [
+		'suffix' => 'imagine-proxy.work',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'smushcdn.com' => [
