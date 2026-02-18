@@ -58084,6 +58084,14 @@ return [
 			'Submitted by Tomi Juntunen <erani@kapsi.fi>',
 		],
 	],
+	'kdns.fr' => [
+		'suffix' => 'kdns.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'KataBump : https://katabump.com',
+			'Submitted by Thibault Lapeyre <contact@katabump.com>',
+		],
+	],
 	'ezproxy.kuleuven.be' => [
 		'suffix' => 'ezproxy.kuleuven.be',
 		'type' => 'PRIVATE',
