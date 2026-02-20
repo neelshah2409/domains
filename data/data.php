@@ -35578,7 +35578,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-15T15:24:49Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:51:43Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -40892,7 +40892,7 @@ return [
 		'suffix' => 'onl',
 		'type' => 'ICANN',
 		'comments' => [
-			'onl : iRegistry GmbH',
+			'onl : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/onl.html',
 		],
 	],
@@ -43428,7 +43428,7 @@ return [
 		'suffix' => 'wien',
 		'type' => 'ICANN',
 		'comments' => [
-			'wien : punkt.wien GmbH',
+			'wien : domainworx Service & Management GmbH',
 			'https://www.iana.org/domains/root/db/wien.html',
 		],
 	],
