@@ -50382,8 +50382,14 @@ return [
 		'suffix' => '*.beget.app',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Beget Ltd',
-			'Submitted by Lev Nekrasov <lnekrasov@beget.com>',
+			'Beget LLC : https://beget.com',
+			'Submitted by Lev Nekrasov & Nikita Radchenko <admin@beget.com>',
+		],
+	],
+	'*.begetcdn.cloud' => [
+		'suffix' => '*.begetcdn.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'pages.gay' => [
@@ -64554,6 +64560,20 @@ return [
 	],
 	'windsurf.build' => [
 		'suffix' => 'windsurf.build',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'drive-platform.com' => [
+		'suffix' => 'drive-platform.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'WirelessCar : https://wirelesscar.com',
+			'Submitted by Martin Lindberg <drive-platform@wirelesscar.com>',
+		],
+	],
+	'drive-platform.io' => [
+		'suffix' => 'drive-platform.io',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
