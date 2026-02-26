@@ -51962,12 +51962,36 @@ return [
 		'comments' => [
 		],
 	],
+	'mybox.company' => [
+		'suffix' => 'mybox.company',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'dhosting.pl Sp. z o.o. : https://dhosting.pl/',
+			'Submitted by Szczepan Redzioch <bok@dhosting.pl>',
+		],
+	],
+	'intouch.email' => [
+		'suffix' => 'intouch.email',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mybox.me' => [
+		'suffix' => 'mybox.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mybox.page' => [
+		'suffix' => 'mybox.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'dfirma.pl' => [
 		'suffix' => 'dfirma.pl',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'dhosting.pl Sp. z o.o. : https://dhosting.pl/',
-			'Submitted by Michal Kokoszkiewicz <bok@dhosting.pl>',
 		],
 	],
 	'dkonto.pl' => [
