@@ -20846,11 +20846,42 @@ return [
 		'comments' => [
 		],
 	],
-	'*.kh' => [
-		'suffix' => '*.kh',
+	'kh' => [
+		'suffix' => 'kh',
 		'type' => 'ICANN',
 		'comments' => [
-			'kh : http://www.mptc.gov.kh/dns_registration.htm',
+			'kh : https://trc.gov.kh',
+			'Submitted by khnic@trc.gov.kh',
+		],
+	],
+	'com.kh' => [
+		'suffix' => 'com.kh',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'edu.kh' => [
+		'suffix' => 'edu.kh',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'gov.kh' => [
+		'suffix' => 'gov.kh',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'net.kh' => [
+		'suffix' => 'net.kh',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'org.kh' => [
+		'suffix' => 'org.kh',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'ki' => [
