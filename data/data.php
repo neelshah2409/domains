@@ -44835,6 +44835,18 @@ return [
 			'Submitted by Alibaba Cloud Security <cloud_product_security_team@alibaba-inc.com>',
 		],
 	],
+	'ms.fun' => [
+		'suffix' => 'ms.fun',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ms.show' => [
+		'suffix' => 'ms.show',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'kasserver.com' => [
 		'suffix' => 'kasserver.com',
 		'type' => 'PRIVATE',
@@ -59473,6 +59485,14 @@ return [
 		'suffix' => 'pp.ru',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'my.be' => [
+		'suffix' => 'my.be',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MyOwn srl : https://www.myown.eu/',
+			'Submitted by Stephane Bouvard <support@myown.eu>',
 		],
 	],
 	'hostedpi.com' => [
