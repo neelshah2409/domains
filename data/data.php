@@ -58982,14 +58982,6 @@ return [
 		'comments' => [
 		],
 	],
-	'mazeplay.com' => [
-		'suffix' => 'mazeplay.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Maze Play : https://www.mazeplay.com',
-			'Submitted by Adam Humpherys <adam@mws.dev>',
-		],
-	],
 	'mcdir.me' => [
 		'suffix' => 'mcdir.me',
 		'type' => 'PRIVATE',
