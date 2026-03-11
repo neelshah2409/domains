@@ -54657,11 +54657,23 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Expo : https://expo.dev/',
-			'Submitted by James Ide <psl@expo.dev>',
+			'Submitted by Phil Pluckthun <psl@expo.dev>',
+		],
+	],
+	'on.expo.app' => [
+		'suffix' => 'on.expo.app',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'staging.expo.app' => [
 		'suffix' => 'staging.expo.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'on.staging.expo.app' => [
+		'suffix' => 'on.staging.expo.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58117,14 +58129,6 @@ return [
 		'suffix' => 'jouwweb.site',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'*.triton.zone' => [
-		'suffix' => '*.triton.zone',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Joyent : https://www.joyent.com/',
-			'Submitted by Brian Bennett <brian.bennett@joyent.com>',
 		],
 	],
 	'js.org' => [
@@ -64123,6 +64127,14 @@ return [
 		'suffix' => '*.transurl.nl',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'*.triton.zone' => [
+		'suffix' => '*.triton.zone',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Triton Data Center project : https://tritondatacenter.com',
+			'Submitted by Triton Data Center staff <tickets@tritondatacenter.com>',
 		],
 	],
 	'tunnelmole.net' => [
