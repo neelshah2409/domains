@@ -54652,6 +54652,14 @@ return [
 		'comments' => [
 		],
 	],
+	'exe.xyz' => [
+		'suffix' => 'exe.xyz',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Exe : https://exe.dev',
+			'Submitted by Josh Bleecher Snyder <security@exe.dev>',
+		],
+	],
 	'expo.app' => [
 		'suffix' => 'expo.app',
 		'type' => 'PRIVATE',
