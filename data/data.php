@@ -55325,12 +55325,18 @@ return [
 			'Submitted by Robin Naundorf <r.naundorf@fh-muenster.de>',
 		],
 	],
-	'figma.site' => [
-		'suffix' => 'figma.site',
+	'payload.dev' => [
+		'suffix' => 'payload.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Figma : https://www.figma.com',
 			'Submitted by Nick Frost <psl@figma.com>',
+		],
+	],
+	'figma.site' => [
+		'suffix' => 'figma.site',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'figma-gov.site' => [
@@ -60952,6 +60958,14 @@ return [
 		'comments' => [
 			'Peplink | Pepwave : http://peplink.com/',
 			'Submitted by Steve Leung <steveleung@peplink.com>',
+		],
+	],
+	'pplx.app' => [
+		'suffix' => 'pplx.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Perplexity AI : https://www.perplexity.ai/',
+			'Submitted by Alec Xiang <security@perplexity.ai>',
 		],
 	],
 	'perspecta.cloud' => [
