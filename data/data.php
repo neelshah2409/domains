@@ -50030,11 +50030,19 @@ return [
 		'comments' => [
 		],
 	],
+	'opentunnel.xyz' => [
+		'suffix' => 'opentunnel.xyz',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'concludes Amazon',
+			'Anomaly : https://opencode.ai',
+			'Submitted by Dax Raad <security@anoma.ly>',
+		],
+	],
 	'antagonist.cloud' => [
 		'suffix' => 'antagonist.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'concludes Amazon',
 			'Antagonist B.V. : https://www.antagonist.nl/',
 			'Submitted by Sander Hoentjen <systeembeheer@antagonist.nl>',
 		],
@@ -56964,6 +56972,14 @@ return [
 		'comments' => [
 		],
 	],
+	'seprox.hooc.me' => [
+		'suffix' => 'seprox.hooc.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'HOOC AG : https://www.hooc.ch',
+			'Submitted by Fabrizio Steiner <info@hooc.ch>',
+		],
+	],
 	'hoplix.shop' => [
 		'suffix' => 'hoplix.shop',
 		'type' => 'PRIVATE',
@@ -63327,12 +63343,18 @@ return [
 		'comments' => [
 		],
 	],
-	'indevs.in' => [
-		'suffix' => 'indevs.in',
+	'sryze.cc' => [
+		'suffix' => 'sryze.cc',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Stackryze : https://stackryze.com',
 			'Submitted by Sudheer Bhuvana <security@stackryze.com>',
+		],
+	],
+	'indevs.in' => [
+		'suffix' => 'indevs.in',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'musician.io' => [
