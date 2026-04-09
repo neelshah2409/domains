@@ -60900,14 +60900,6 @@ return [
 			'Submitted by Derek Myers <derek@pagefog.com>',
 		],
 	],
-	'pagexl.com' => [
-		'suffix' => 'pagexl.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'PageXL : https://pagexl.com',
-			'Submitted by Yann Guichard <yann@pagexl.com>',
-		],
-	],
 	'gotpantheon.com' => [
 		'suffix' => 'gotpantheon.com',
 		'type' => 'PRIVATE',
