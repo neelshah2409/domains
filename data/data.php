@@ -35609,7 +35609,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:51:43Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-10T15:53:10Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37091,7 +37091,7 @@ return [
 		'suffix' => 'circle',
 		'type' => 'ICANN',
 		'comments' => [
-			'circle : Amazon Registry Services, Inc.',
+			'circle : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/circle.html',
 		],
 	],
@@ -38795,7 +38795,7 @@ return [
 		'suffix' => 'got',
 		'type' => 'ICANN',
 		'comments' => [
-			'got : Amazon Registry Services, Inc.',
+			'got : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/got.html',
 		],
 	],
@@ -39539,7 +39539,7 @@ return [
 		'suffix' => 'jot',
 		'type' => 'ICANN',
 		'comments' => [
-			'jot : Amazon Registry Services, Inc.',
+			'jot : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/jot.html',
 		],
 	],
@@ -51895,6 +51895,14 @@ return [
 		'comments' => [
 		],
 	],
+	'deployagent.com' => [
+		'suffix' => 'deployagent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'DeployAgent : https://deployagent.com',
+			'Submitted by Danny <security@deployagent.com>',
+		],
+	],
 	'dedyn.io' => [
 		'suffix' => 'dedyn.io',
 		'type' => 'PRIVATE',
@@ -58169,6 +58177,62 @@ return [
 			'Submitted by Stefan Keim <admin@js.org>',
 		],
 	],
+	'elastic.k2.cloud' => [
+		'suffix' => 'elastic.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'K2 Cloud : https://k2.cloud/',
+			'Submitted by K2 Cloud <compliance@k2.cloud>',
+		],
+	],
+	'lb.ru-msk.k2.cloud' => [
+		'suffix' => 'lb.ru-msk.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ru-msk.k2.cloud' => [
+		'suffix' => 's3.ru-msk.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'website.ru-msk.k2.cloud' => [
+		'suffix' => 'website.ru-msk.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'lb.ru-spb.k2.cloud' => [
+		'suffix' => 'lb.ru-spb.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.ru-spb.k2.cloud' => [
+		'suffix' => 's3.ru-spb.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'website.ru-spb.k2.cloud' => [
+		'suffix' => 'website.ru-spb.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3.k2.cloud' => [
+		'suffix' => 's3.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'website.k2.cloud' => [
+		'suffix' => 'website.k2.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'kaas.gg' => [
 		'suffix' => 'kaas.gg',
 		'type' => 'PRIVATE',
@@ -60356,6 +60420,159 @@ return [
 	],
 	'*.migration.run' => [
 		'suffix' => '*.migration.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'aberdeen.wa.us' => [
+		'suffix' => 'aberdeen.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Northwest Nexus dba NuOz : https://nuoz.net/',
+			'An RFC 1480 locality domain delegate host',
+			'Submitted by Peter Briggs on behalf of NuOz <domainsadmin@nuoz.com>',
+		],
+	],
+	'bainbridge-isl.wa.us' => [
+		'suffix' => 'bainbridge-isl.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'bellevue.wa.us' => [
+		'suffix' => 'bellevue.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'bremerton.wa.us' => [
+		'suffix' => 'bremerton.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'centralia.wa.us' => [
+		'suffix' => 'centralia.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'chehalis.wa.us' => [
+		'suffix' => 'chehalis.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'forks.wa.us' => [
+		'suffix' => 'forks.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gig-harbor.wa.us' => [
+		'suffix' => 'gig-harbor.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'hoquiam.wa.us' => [
+		'suffix' => 'hoquiam.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'keyport.wa.us' => [
+		'suffix' => 'keyport.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kingston.wa.us' => [
+		'suffix' => 'kingston.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'olympia.wa.us' => [
+		'suffix' => 'olympia.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'port-angeles.wa.us' => [
+		'suffix' => 'port-angeles.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'port-ludlow.wa.us' => [
+		'suffix' => 'port-ludlow.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'port-orchard.wa.us' => [
+		'suffix' => 'port-orchard.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'port-townsend.wa.us' => [
+		'suffix' => 'port-townsend.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'poulsbo.wa.us' => [
+		'suffix' => 'poulsbo.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'redmond.wa.us' => [
+		'suffix' => 'redmond.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'renton.wa.us' => [
+		'suffix' => 'renton.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sea.wa.us' => [
+		'suffix' => 'sea.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'seattle.wa.us' => [
+		'suffix' => 'seattle.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sequim.wa.us' => [
+		'suffix' => 'sequim.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'shelton.wa.us' => [
+		'suffix' => 'shelton.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'silverdale.wa.us' => [
+		'suffix' => 'silverdale.wa.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'yarrow-point.wa.us' => [
+		'suffix' => 'yarrow-point.wa.us',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -64447,6 +64664,20 @@ return [
 		'comments' => [
 			'Viva Republica, Inc. : https://toss.im/',
 			'Submitted by Deus Team <deus@toss.im>',
+		],
+	],
+	'vivenushop.com' => [
+		'suffix' => 'vivenushop.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'vivenu GmbH : https://vivenu.com/',
+			'Submitted by Marvin Frick <ops@vivenu.com>',
+		],
+	],
+	'vivenushop.dev' => [
+		'suffix' => 'vivenushop.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'voorloper.cloud' => [
