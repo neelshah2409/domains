@@ -35609,7 +35609,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-10T15:53:10Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-15T16:04:02Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -41811,7 +41811,7 @@ return [
 		'suffix' => 'safety',
 		'type' => 'ICANN',
 		'comments' => [
-			'safety : Safety Registry Services, LLC.',
+			'safety : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/safety.html',
 		],
 	],
