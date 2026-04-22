@@ -50047,6 +50047,14 @@ return [
 			'Submitted by Sander Hoentjen <systeembeheer@antagonist.nl>',
 		],
 	],
+	'claude.app' => [
+		'suffix' => 'claude.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Anthropic : https://www.anthropic.com/',
+			'Submitted by Sid Bidasaria <security@anthropic.com>',
+		],
+	],
 	'apigee.io' => [
 		'suffix' => 'apigee.io',
 		'type' => 'PRIVATE',
@@ -56681,20 +56689,6 @@ return [
 		'comments' => [
 			'GOV.UK Pay : https://www.payments.service.gov.uk/',
 			'Submitted by Richard Baker <richard.baker@digital.cabinet-office.gov.uk>',
-		],
-	],
-	'cloudapps.digital' => [
-		'suffix' => 'cloudapps.digital',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'GOV.UK Platform as a Service : https://www.cloud.service.gov.uk/',
-			'Submitted by Tom Whitwell <gov-uk-paas-support@digital.cabinet-office.gov.uk>',
-		],
-	],
-	'london.cloudapps.digital' => [
-		'suffix' => 'london.cloudapps.digital',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'gov.nl' => [
