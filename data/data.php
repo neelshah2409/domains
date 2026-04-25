@@ -50299,12 +50299,30 @@ return [
 			'Submitted by Vincent Tseng <vincenttseng@asustor.com>',
 		],
 	],
+	'*.atlassian-3p.com' => [
+		'suffix' => '*.atlassian-3p.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Atlassian : https://atlassian.com',
+			'Submitted by Benjamin McAlary <edge-services@atlassian.com>',
+		],
+	],
+	'*.atlassian-3p-us-gov-mod.com' => [
+		'suffix' => '*.atlassian-3p-us-gov-mod.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.atlassian-isolated-3p.com' => [
+		'suffix' => '*.atlassian-isolated-3p.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cdn.prod.atlassian-dev.net' => [
 		'suffix' => 'cdn.prod.atlassian-dev.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Atlassian : https://atlassian.com',
-			'Submitted by Sam Smyth <devloop@atlassian.com>',
 		],
 	],
 	'myfritz.link' => [
@@ -51909,6 +51927,18 @@ return [
 		'comments' => [
 			'DeployAgent : https://deployagent.com',
 			'Submitted by Danny <security@deployagent.com>',
+		],
+	],
+	'piebox.site' => [
+		'suffix' => 'piebox.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'deployagent.space' => [
+		'suffix' => 'deployagent.space',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'dedyn.io' => [
@@ -54716,6 +54746,14 @@ return [
 		'comments' => [
 			'Fabrica Technologies, Inc. : https://www.fabrica.dev/',
 			'Submitted by Eric Jiang <eric@fabrica.dev>',
+		],
+	],
+	'fspages.org' => [
+		'suffix' => 'fspages.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'fachschaften.org: https://fachschaften.org/',
+			'Submitted by Felix Schäfer <security@fachschaften.org>',
 		],
 	],
 	'ru.net' => [
@@ -59162,6 +59200,12 @@ return [
 	],
 	'apps.fbsbx.com' => [
 		'suffix' => 'apps.fbsbx.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.metaaiusercontent.com' => [
+		'suffix' => '*.metaaiusercontent.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
