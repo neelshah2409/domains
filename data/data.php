@@ -63107,6 +63107,26 @@ return [
 			'Submitted by Information Administration <info@sasf.org.cn>',
 		],
 	],
+	'vicp.fun' => [
+		'suffix' => 'vicp.fun',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Shanghai Oray Information Technology Co., Ltd.: https://www.oray.com/',
+			'Submitted by: Shanghai Oray Information Technology Co., Ltd. <registrar@oray.com>',
+		],
+	],
+	'yicp.fun' => [
+		'suffix' => 'yicp.fun',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'zicp.fun' => [
+		'suffix' => 'zicp.fun',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'sheezy.games' => [
 		'suffix' => 'sheezy.games',
 		'type' => 'PRIVATE',
