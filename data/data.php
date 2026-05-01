@@ -35609,7 +35609,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-15T16:04:02Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-30T16:18:08Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -35979,7 +35979,7 @@ return [
 		'suffix' => 'aol',
 		'type' => 'ICANN',
 		'comments' => [
-			'aol : Yahoo Inc.',
+			'aol : AOL Media LLC',
 			'https://www.iana.org/domains/root/db/aol.html',
 		],
 	],
