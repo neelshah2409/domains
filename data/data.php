@@ -51665,14 +51665,6 @@ return [
 			'Submitted by Ales Krajnik <ales.krajnik@craynic.com>',
 		],
 	],
-	'on.crisp.email' => [
-		'suffix' => 'on.crisp.email',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Crisp IM SAS : https://crisp.chat/',
-			'Submitted by Baptiste Jamin <hostmaster@crisp.chat>',
-		],
-	],
 	'*.cryptonomic.net' => [
 		'suffix' => '*.cryptonomic.net',
 		'type' => 'PRIVATE',
