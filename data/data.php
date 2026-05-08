@@ -65275,6 +65275,18 @@ return [
 			'Submitted by Zerops Team <security@zerops.io>',
 		],
 	],
+	'prg1-zerops.zone' => [
+		'suffix' => 'prg1-zerops.zone',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.zerops.zone' => [
+		'suffix' => '*.zerops.zone',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'bss.design' => [
 		'suffix' => 'bss.design',
 		'type' => 'PRIVATE',
