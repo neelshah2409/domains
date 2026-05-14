@@ -57100,6 +57100,14 @@ return [
 		'comments' => [
 		],
 	],
+	'hstgr.cloud' => [
+		'suffix' => 'hstgr.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Hostinger : https://hostinger.com',
+			'Submitted by Valentinas Cirba <domains@hostinger.com>',
+		],
+	],
 	'hostyhosting.io' => [
 		'suffix' => 'hostyhosting.io',
 		'type' => 'PRIVATE',
