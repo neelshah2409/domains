@@ -32962,7 +32962,6 @@ return [
 		'suffix' => 'k12.ne.us',
 		'type' => 'ICANN',
 		'comments' => [
-			'k12.nd.us - Bug 1028347 - Removed at request of Travis Rosso <trossow@nd.gov>',
 		],
 	],
 	'k12.nh.us' => [
@@ -33426,18 +33425,6 @@ return [
 	],
 	'lib.nc.us' => [
 		'suffix' => 'lib.nc.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'cc.nd.us' => [
-		'suffix' => 'cc.nd.us',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'lib.nd.us' => [
-		'suffix' => 'lib.nd.us',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -64254,6 +64241,20 @@ return [
 		'comments' => [
 			'ticket i/O GmbH : https://ticket.io',
 			'Submitted by Christian Franke <it@ticket.io>',
+		],
+	],
+	't3.storage.dev' => [
+		'suffix' => 't3.storage.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tigris Data, Inc. : https://www.tigrisdata.com',
+			'Submitted by Bo Cao <security@tigrisdata.com>',
+		],
+	],
+	't3.storageapi.dev' => [
+		'suffix' => 't3.storageapi.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'arvo.network' => [
