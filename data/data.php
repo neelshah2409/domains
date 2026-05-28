@@ -6699,6 +6699,12 @@ return [
 		'comments' => [
 		],
 	],
+	'ai.id' => [
+		'suffix' => 'ai.id',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'biz.id' => [
 		'suffix' => 'biz.id',
 		'type' => 'ICANN',
@@ -64801,28 +64807,22 @@ return [
 			'Submitted by Arnold Hendriks <info@webhare.com>',
 		],
 	],
-	'bookonline.app' => [
-		'suffix' => 'bookonline.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'WebHotelier Technologies Ltd : https://www.webhotelier.net/',
-			'Submitted by Apostolos Tsakpinis <apostolos.tsakpinis@gmail.com>',
-		],
-	],
 	'hotelwithflight.com' => [
 		'suffix' => 'hotelwithflight.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'reserve-online.com' => [
-		'suffix' => 'reserve-online.com',
-		'type' => 'PRIVATE',
-		'comments' => [
+			'WebHotelier Technologies Ltd : https://www.webhotelier.net/',
+			'Submitted by Apostolos Tsakpinis <cto@webhotelier.net>',
 		],
 	],
 	'reserve-online.net' => [
 		'suffix' => 'reserve-online.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'book.online' => [
+		'suffix' => 'book.online',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
