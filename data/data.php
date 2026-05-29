@@ -50724,6 +50724,12 @@ return [
 		'comments' => [
 		],
 	],
+	'khsj.cn' => [
+		'suffix' => 'khsj.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'canva-apps.com' => [
 		'suffix' => 'canva-apps.com',
 		'type' => 'PRIVATE',
@@ -50744,6 +50750,12 @@ return [
 	],
 	'rice-labs.com' => [
 		'suffix' => 'rice-labs.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'canva.link' => [
+		'suffix' => 'canva.link',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
