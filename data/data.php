@@ -56578,6 +56578,14 @@ return [
 		'comments' => [
 		],
 	],
+	'vibehost.space' => [
+		'suffix' => 'vibehost.space',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'GNTC, Inc. : https://gntc.com/',
+			'Submitted by VibeHost Security <security@vibehost.com>',
+		],
+	],
 	'graphic.design' => [
 		'suffix' => 'graphic.design',
 		'type' => 'PRIVATE',
@@ -60970,6 +60978,12 @@ return [
 		'comments' => [
 			'OpenAI : https://openai.com',
 			'Submitted by Thomas Shadwell <security@openai.com>',
+		],
+	],
+	'chatgpt.site' => [
+		'suffix' => 'chatgpt.site',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'opencraft.hosting' => [
