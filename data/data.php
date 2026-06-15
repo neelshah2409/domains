@@ -35602,7 +35602,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-30T16:18:08Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-06-13T16:12:40Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -43708,7 +43708,7 @@ return [
 		'suffix' => '网站',
 		'type' => 'ICANN',
 		'comments' => [
-			'xn--5tzm5g : Global Website TLD Asia Limited',
+			'xn--5tzm5g : Jolly Host, LLC',
 			'https://www.iana.org/domains/root/db/xn--5tzm5g.html',
 		],
 	],
