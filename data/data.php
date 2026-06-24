@@ -59572,6 +59572,14 @@ return [
 		'comments' => [
 		],
 	],
+	'mkm.fan' => [
+		'suffix' => 'mkm.fan',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MKM : https://mkm.fan/',
+			'Submitted by Kashi Ahmer <admin@mkm.fan>',
+		],
+	],
 	'mocha.app' => [
 		'suffix' => 'mocha.app',
 		'type' => 'PRIVATE',
@@ -61510,6 +61518,26 @@ return [
 		'comments' => [
 			'pubtls.org : https://www.pubtls.org',
 			'Submitted by Kor Nielsen <kor@pubtls.org>',
+		],
+	],
+	'puter.app' => [
+		'suffix' => 'puter.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Puter : https://puter.com',
+			'Submitted by Puter Security Team <security@puter.com>',
+		],
+	],
+	'puter.site' => [
+		'suffix' => 'puter.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'puter.work' => [
+		'suffix' => 'puter.work',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'pythonanywhere.com' => [
