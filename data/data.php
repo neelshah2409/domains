@@ -52190,12 +52190,90 @@ return [
 		'comments' => [
 		],
 	],
+	'dnshome.at' => [
+		'suffix' => 'dnshome.at',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'dnsHome : https://www.dnshome.de/',
+			'Submitted by Norbert Auler <mail@dnshome.de>',
+		],
+	],
+	'resolve.bar' => [
+		'suffix' => 'resolve.bar',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddns.berlin' => [
+		'suffix' => 'ddns.berlin',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnshome.cloud' => [
+		'suffix' => 'dnshome.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddnssec.de' => [
+		'suffix' => 'ddnssec.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'dnshome.de' => [
 		'suffix' => 'dnshome.de',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'DNShome : https://www.dnshome.de/',
-			'Submitted by Norbert Auler <mail@dnshome.de>',
+		],
+	],
+	'dyndnssec.de' => [
+		'suffix' => 'dyndnssec.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'heimdns.de' => [
+		'suffix' => 'heimdns.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'srvdns.de' => [
+		'suffix' => 'srvdns.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnshome.eu' => [
+		'suffix' => 'dnshome.eu',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dnshome.it' => [
+		'suffix' => 'dnshome.it',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dyn.now' => [
+		'suffix' => 'dyn.now',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'heimdns.online' => [
+		'suffix' => 'heimdns.online',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ddns.wtf' => [
+		'suffix' => 'ddns.wtf',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'online.th' => [
