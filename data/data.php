@@ -59197,12 +59197,6 @@ return [
 			'Submitted by Jamie McClelland <info@mayfirst.org>',
 		],
 	],
-	'mayfirst.org' => [
-		'suffix' => 'mayfirst.org',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'mcdir.me' => [
 		'suffix' => 'mcdir.me',
 		'type' => 'PRIVATE',
