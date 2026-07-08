@@ -57404,19 +57404,6 @@ return [
 			'Submitted by Connor McFarlane <noc@inferno.co.uk>',
 		],
 	],
-	'biz.at' => [
-		'suffix' => 'biz.at',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'info.at : http://www.info.at/',
-		],
-	],
-	'info.at' => [
-		'suffix' => 'info.at',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'info.cx' => [
 		'suffix' => 'info.cx',
 		'type' => 'PRIVATE',
@@ -65246,6 +65233,14 @@ return [
 		'suffix' => 'js.wpenginepowered.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'grok.me' => [
+		'suffix' => 'grok.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'xAI : https://x.ai/',
+			'Submitted by Asim Shrestha <security@x.ai>',
 		],
 	],
 	'*.xenonconnect.de' => [
