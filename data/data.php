@@ -51443,6 +51443,26 @@ return [
 			'Submitted by Gavin Brown <gavin.brown@centralnic.com>',
 		],
 	],
+	'sch.ac' => [
+		'suffix' => 'sch.ac',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Code For Host Inc Ltd : https://codeforhost.com',
+			'Submitted by Mehedi Hasan <support@codeforhost.com>',
+		],
+	],
+	'dev.cv' => [
+		'suffix' => 'dev.cv',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'store.cv' => [
+		'suffix' => 'store.cv',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'codeberg.page' => [
 		'suffix' => 'codeberg.page',
 		'type' => 'PRIVATE',
