@@ -5655,6 +5655,12 @@ return [
 		'comments' => [
 		],
 	],
+	'cyb.ge' => [
+		'suffix' => 'cyb.ge',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'edu.ge' => [
 		'suffix' => 'edu.ge',
 		'type' => 'ICANN',
@@ -5667,8 +5673,20 @@ return [
 		'comments' => [
 		],
 	],
+	'llc.ge' => [
+		'suffix' => 'llc.ge',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'net.ge' => [
 		'suffix' => 'net.ge',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'online.ge' => [
+		'suffix' => 'online.ge',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -5687,6 +5705,12 @@ return [
 	],
 	'school.ge' => [
 		'suffix' => 'school.ge',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tnx.ge' => [
+		'suffix' => 'tnx.ge',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -6960,6 +6984,7 @@ return [
 			'Please note, that nic.in is not an official eTLD, but used by most',
 			'government institutions.',
 			'Confirmed by Gaurav Kansal <gaurav.kansal@nic.in> 2025-11-06',
+			'Added aero.in, alumni.in, school.in and ub.in by Gaurav Kansal <gaurav.kansal@nic.in> 2026-06-25',
 		],
 	],
 	'5g.in' => [
@@ -6980,8 +7005,20 @@ return [
 		'comments' => [
 		],
 	],
+	'aero.in' => [
+		'suffix' => 'aero.in',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'ai.in' => [
 		'suffix' => 'ai.in',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'alumni.in' => [
+		'suffix' => 'alumni.in',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -7190,6 +7227,12 @@ return [
 		'comments' => [
 		],
 	],
+	'school.in' => [
+		'suffix' => 'school.in',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'travel.in' => [
 		'suffix' => 'travel.in',
 		'type' => 'ICANN',
@@ -7198,6 +7241,12 @@ return [
 	],
 	'tv.in' => [
 		'suffix' => 'tv.in',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ub.in' => [
+		'suffix' => 'ub.in',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23159,8 +23208,26 @@ return [
 		'comments' => [
 		],
 	],
+	'gielda.no' => [
+		'suffix' => 'gielda.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'herad.no' => [
+		'suffix' => 'herad.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'idrett.no' => [
 		'suffix' => 'idrett.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'kommune.no' => [
+		'suffix' => 'kommune.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -23177,6 +23244,24 @@ return [
 		'comments' => [
 		],
 	],
+	'suohkan.no' => [
+		'suffix' => 'suohkan.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'tjielte.no' => [
+		'suffix' => 'tjielte.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'uenorge.no' => [
+		'suffix' => 'uenorge.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'vgs.no' => [
 		'suffix' => 'vgs.no',
 		'type' => 'ICANN',
@@ -23188,18 +23273,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'Norid category second-level domains managed by parties other than Norid : https://www.norid.no/en/om-domenenavn/regelverk-for-no/vedlegg-d/',
-		],
-	],
-	'herad.no' => [
-		'suffix' => 'herad.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'kommune.no' => [
-		'suffix' => 'kommune.no',
-		'type' => 'ICANN',
-		'comments' => [
 		],
 	],
 	'mil.no' => [
@@ -24017,8 +24090,8 @@ return [
 		'comments' => [
 		],
 	],
-	'audnedaln.no' => [
-		'suffix' => 'audnedaln.no',
+	'audnedal.no' => [
+		'suffix' => 'audnedal.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -24683,12 +24756,6 @@ return [
 		'comments' => [
 		],
 	],
-	'frei.no' => [
-		'suffix' => 'frei.no',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'frogn.no' => [
 		'suffix' => 'frogn.no',
 		'type' => 'ICANN',
@@ -24985,6 +25052,12 @@ return [
 	],
 	'hamaroy.no' => [
 		'suffix' => 'hamaroy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'hamarøy.no' => [
+		'suffix' => 'hamarøy.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -25309,6 +25382,12 @@ return [
 	],
 	'karlsoy.no' => [
 		'suffix' => 'karlsoy.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'karlsøy.no' => [
+		'suffix' => 'karlsøy.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -26441,6 +26520,12 @@ return [
 		'comments' => [
 		],
 	],
+	're.no' => [
+		'suffix' => 're.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'rendalen.no' => [
 		'suffix' => 'rendalen.no',
 		'type' => 'ICANN',
@@ -27379,6 +27464,12 @@ return [
 	],
 	'ullensvang.no' => [
 		'suffix' => 'ullensvang.no',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ulstein.no' => [
+		'suffix' => 'ulstein.no',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -57725,6 +57816,26 @@ return [
 			'Submitted by Matthew Hardeman <mhardeman@ipifony.com>',
 		],
 	],
+	'home64.de' => [
+		'suffix' => 'home64.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'IPv64.net : https://ipv64.net/',
+			'Submitted by Dennis Schröder <info@ipv64.net>',
+		],
+	],
+	'ipv64.de' => [
+		'suffix' => 'ipv64.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ipv64.net' => [
+		'suffix' => 'ipv64.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'ir.md' => [
 		'suffix' => 'ir.md',
 		'type' => 'PRIVATE',
@@ -63078,11 +63189,17 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Scottish Government : https://www.gov.scot',
-			'Submitted by Martin Ellis <martin.ellis@gov.scot>',
+			'Submitted by Martin Ellis <digital-publishing@gov.scot>',
 		],
 	],
 	'service.gov.scot' => [
 		'suffix' => 'service.gov.scot',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mygov.scot' => [
+		'suffix' => 'mygov.scot',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
