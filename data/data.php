@@ -31206,12 +31206,6 @@ return [
 			'tj : http://www.nic.tj/policy.html',
 		],
 	],
-	'ac.tj' => [
-		'suffix' => 'ac.tj',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'biz.tj' => [
 		'suffix' => 'biz.tj',
 		'type' => 'ICANN',
