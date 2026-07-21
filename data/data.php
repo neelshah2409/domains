@@ -7831,12 +7831,6 @@ return [
 		'comments' => [
 		],
 	],
-	'trentino.it' => [
-		'suffix' => 'trentino.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'trentino-a-adige.it' => [
 		'suffix' => 'trentino-a-adige.it',
 		'type' => 'ICANN',
@@ -7957,12 +7951,6 @@ return [
 		'comments' => [
 		],
 	],
-	'trentinosudtirol.it' => [
-		'suffix' => 'trentinosudtirol.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
 	'trentinosüdtirol.it' => [
 		'suffix' => 'trentinosüdtirol.it',
 		'type' => 'ICANN',
@@ -8049,12 +8037,6 @@ return [
 	],
 	'vald-aosta.it' => [
 		'suffix' => 'vald-aosta.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'valdaosta.it' => [
-		'suffix' => 'valdaosta.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -8266,12 +8248,6 @@ return [
 	],
 	'aq.it' => [
 		'suffix' => 'aq.it',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'aquila.it' => [
-		'suffix' => 'aquila.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -9614,6 +9590,24 @@ return [
 		'comments' => [
 		],
 	],
+	'su.it' => [
+		'suffix' => 'su.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sud-sardegna.it' => [
+		'suffix' => 'sud-sardegna.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'sudsardegna.it' => [
+		'suffix' => 'sudsardegna.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'südtirol.it' => [
 		'suffix' => 'südtirol.it',
 		'type' => 'ICANN',
@@ -9734,6 +9728,12 @@ return [
 		'comments' => [
 		],
 	],
+	'trentino.it' => [
+		'suffix' => 'trentino.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'trento.it' => [
 		'suffix' => 'trento.it',
 		'type' => 'ICANN',
@@ -9838,6 +9838,12 @@ return [
 	],
 	'verbania.it' => [
 		'suffix' => 'verbania.it',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'verbano-cusio-ossola.it' => [
+		'suffix' => 'verbano-cusio-ossola.it',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -51775,14 +51781,6 @@ return [
 			'Submitted by Ales Krajnik <ales.krajnik@craynic.com>',
 		],
 	],
-	'*.cryptonomic.net' => [
-		'suffix' => '*.cryptonomic.net',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Cryptonomic : https://cryptonomic.net/',
-			'Submitted by Andrew Cady <public-suffix-list@cryptonomic.net>',
-		],
-	],
 	'cfolks.pl' => [
 		'suffix' => 'cfolks.pl',
 		'type' => 'PRIVATE',
@@ -61644,14 +61642,6 @@ return [
 			'Submitted by yumenewa <admin@project-study.com>',
 		],
 	],
-	'protonet.io' => [
-		'suffix' => 'protonet.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Protonet GmbH : http://protonet.io',
-			'Submitted by Martin Meier <admin@protonet.io>',
-		],
-	],
 	'platter-app.dev' => [
 		'suffix' => 'platter-app.dev',
 		'type' => 'PRIVATE',
@@ -62240,14 +62230,6 @@ return [
 		'suffix' => 'devices.resinstaging.io',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'hzc.io' => [
-		'suffix' => 'hzc.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'RethinkDB : https://www.rethinkdb.com/',
-			'Submitted by Chris Kastorff <info@rethinkdb.com>',
 		],
 	],
 	'adimo.co.uk' => [
@@ -63876,14 +63858,6 @@ return [
 		'comments' => [
 		],
 	],
-	'api.stdlib.com' => [
-		'suffix' => 'api.stdlib.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Standard Library : https://stdlib.com',
-			'Submitted by Jacob Lee <jacob@stdlib.com>',
-		],
-	],
 	'statichost.page' => [
 		'suffix' => 'statichost.page',
 		'type' => 'PRIVATE',
@@ -63974,14 +63948,6 @@ return [
 		'comments' => [
 			'Storebase : https://www.storebase.io',
 			'Submitted by Tony Schirmer <tony@storebase.io>',
-		],
-	],
-	'storj.farm' => [
-		'suffix' => 'storj.farm',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Storj Labs Inc. : https://storj.io/',
-			'Submitted by Philip Hutchins <hostmaster@storj.io>',
 		],
 	],
 	'strapiapp.com' => [
