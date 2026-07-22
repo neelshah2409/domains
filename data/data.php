@@ -50773,26 +50773,6 @@ return [
 			'Submitted by Klara Mall <dns@bwcloud-os.de>',
 		],
 	],
-	'uk0.bigv.io' => [
-		'suffix' => 'uk0.bigv.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Bytemark Hosting : https://www.bytemark.co.uk',
-			'Submitted by Paul Cammish <paul.cammish@bytemark.co.uk>',
-		],
-	],
-	'dh.bytemark.co.uk' => [
-		'suffix' => 'dh.bytemark.co.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'vm.bytemark.co.uk' => [
-		'suffix' => 'vm.bytemark.co.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'cafjs.com' => [
 		'suffix' => 'cafjs.com',
 		'type' => 'PRIVATE',
