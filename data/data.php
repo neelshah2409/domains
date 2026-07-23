@@ -54898,14 +54898,6 @@ return [
 		'comments' => [
 		],
 	],
-	'onfabrica.com' => [
-		'suffix' => 'onfabrica.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Fabrica Technologies, Inc. : https://www.fabrica.dev/',
-			'Submitted by Eric Jiang <eric@fabrica.dev>',
-		],
-	],
 	'fspages.org' => [
 		'suffix' => 'fspages.org',
 		'type' => 'PRIVATE',
