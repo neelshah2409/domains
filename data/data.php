@@ -52029,20 +52029,6 @@ return [
 			'Submitted by Peter Thomassen <peter@desec.io>',
 		],
 	],
-	'deta.app' => [
-		'suffix' => 'deta.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Deta : https://www.deta.sh/',
-			'Submitted by Aavash Shrestha <aavash@deta.sh>',
-		],
-	],
-	'deta.dev' => [
-		'suffix' => 'deta.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'deuxfleurs.eu' => [
 		'suffix' => 'deuxfleurs.eu',
 		'type' => 'PRIVATE',
