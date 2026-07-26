@@ -44647,14 +44647,6 @@ return [
 		'comments' => [
 		],
 	],
-	'*.on-acorn.io' => [
-		'suffix' => '*.on-acorn.io',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Acorn Labs : https://acorn.io',
-			'Submitted by Craig Jellick <domains@acorn.io>',
-		],
-	],
 	'activetrail.biz' => [
 		'suffix' => 'activetrail.biz',
 		'type' => 'PRIVATE',
