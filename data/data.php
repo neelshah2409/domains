@@ -65105,22 +65105,22 @@ return [
 		'comments' => [
 		],
 	],
-	'vps.hrsn.au' => [
-		'suffix' => 'vps.hrsn.au',
+	'hrsn.dev' => [
+		'suffix' => 'hrsn.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'William Harrison : https://wharrison.com.au',
 			'Submitted by William Harrison <security@hrsn.net>',
 		],
 	],
-	'hrsn.dev' => [
-		'suffix' => 'hrsn.dev',
+	'is-a.dev' => [
+		'suffix' => 'is-a.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
-	'is-a.dev' => [
-		'suffix' => 'is-a.dev',
+	'vps.hrsn.net' => [
+		'suffix' => 'vps.hrsn.net',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
