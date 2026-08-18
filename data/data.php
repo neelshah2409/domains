@@ -44655,14 +44655,6 @@ return [
 			'Submitted by Ofer Kalaora <postmaster@activetrail.com>',
 		],
 	],
-	'adaptable.app' => [
-		'suffix' => 'adaptable.app',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Adaptable.io : https://adaptable.io',
-			'Submitted by Mark Terrel <support@adaptable.io>',
-		],
-	],
 	'myaddr.dev' => [
 		'suffix' => 'myaddr.dev',
 		'type' => 'PRIVATE',
@@ -44793,6 +44785,12 @@ return [
 	],
 	'aivencloud.com' => [
 		'suffix' => 'aivencloud.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.aivencloud.com' => [
+		'suffix' => '*.aivencloud.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50139,6 +50137,14 @@ return [
 			'Submitted by Sid Bidasaria <security@anthropic.com>',
 		],
 	],
+	'*.cursorusercontent.com' => [
+		'suffix' => '*.cursorusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Anysphere Inc : https://cursor.com',
+			'Submitted by Benson Liu <security@cursor.com>',
+		],
+	],
 	'apigee.io' => [
 		'suffix' => 'apigee.io',
 		'type' => 'PRIVATE',
@@ -51540,6 +51546,20 @@ return [
 		'comments' => [
 			'Codeberg e. V. : https://codeberg.org',
 			'Submitted by Moritz Marquardt <git@momar.de>',
+		],
+	],
+	'codepen.app' => [
+		'suffix' => 'codepen.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'CodePen : https://codepen.io',
+			'Submitted by Stephen Shaw <support@codepen.io>',
+		],
+	],
+	'codepen.dev' => [
+		'suffix' => 'codepen.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'csb.app' => [
@@ -57066,6 +57086,14 @@ return [
 		'comments' => [
 		],
 	],
+	'here.now' => [
+		'suffix' => 'here.now',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'here.now : https://here.now/',
+			'Submitted by Adam Ludwin <hello@here.now>',
+		],
+	],
 	'herokuapp.com' => [
 		'suffix' => 'herokuapp.com',
 		'type' => 'PRIVATE',
@@ -57691,13 +57719,19 @@ return [
 		'comments' => [
 		],
 	],
-	'apps-1and1.com' => [
-		'suffix' => 'apps-1and1.com',
+	'online-server.cloud' => [
+		'suffix' => 'online-server.cloud',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'IONOS SE : https://www.ionos.com/',
 			'IONOS Group SE : https://www.ionos-group.com/',
-			'Submitted by Henrik Willert <security@ionos.com>',
+			'Submitted by Anton Mehlmann <security@ionos.com>',
+		],
+	],
+	'apps-1and1.com' => [
+		'suffix' => 'apps-1and1.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'live-website.com' => [
@@ -63114,6 +63148,24 @@ return [
 	],
 	'dedibox.fr' => [
 		'suffix' => 'dedibox.fr',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'scw.site' => [
+		'suffix' => 'scw.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ams.scw.site' => [
+		'suffix' => 'ams.scw.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'waw.scw.site' => [
+		'suffix' => 'waw.scw.site',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
