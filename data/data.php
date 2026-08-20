@@ -44783,12 +44783,6 @@ return [
 			'Submitted by Aiven Security Team <security+appdomains@aiven.io>',
 		],
 	],
-	'aivencloud.com' => [
-		'suffix' => 'aivencloud.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'*.aivencloud.com' => [
 		'suffix' => '*.aivencloud.com',
 		'type' => 'PRIVATE',
@@ -50135,6 +50129,18 @@ return [
 		'comments' => [
 			'Anthropic : https://www.anthropic.com/',
 			'Submitted by Sid Bidasaria <security@anthropic.com>',
+		],
+	],
+	'claudeusercontent.com' => [
+		'suffix' => 'claudeusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'frame.claudeusercontent.com' => [
+		'suffix' => 'frame.claudeusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'*.cursorusercontent.com' => [
