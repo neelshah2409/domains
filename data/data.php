@@ -50801,6 +50801,12 @@ return [
 			'Submitted by Joel Aquilina <publicsuffixlist@canva.com>',
 		],
 	],
+	'canva-code.cn' => [
+		'suffix' => 'canva-code.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'my.canvasite.cn' => [
 		'suffix' => 'my.canvasite.cn',
 		'type' => 'PRIVATE',
@@ -58118,18 +58124,6 @@ return [
 		'comments' => [
 		],
 	],
-	'demo.datacenter.fi' => [
-		'suffix' => 'demo.datacenter.fi',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'paas.datacenter.fi' => [
-		'suffix' => 'paas.datacenter.fi',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'jele.host' => [
 		'suffix' => 'jele.host',
 		'type' => 'PRIVATE',
@@ -58653,6 +58647,20 @@ return [
 	],
 	'on-vapor.com' => [
 		'suffix' => 'on-vapor.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eth.limo' => [
+		'suffix' => '*.eth.limo',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Last Mile Labs, Inc : https://eth.limo',
+			'Submitted by eth.limo team <security@eth.limo>',
+		],
+	],
+	'*.eth.link' => [
+		'suffix' => '*.eth.link',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -64900,7 +64908,7 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Vercel, Inc : https://vercel.com/',
-			'Submitted by Laurens Duijvesteijn <security@vercel.com>',
+			'Submitted by Thibault Miranda de Oliveira <security@vercel.com>',
 		],
 	],
 	'v0.build' => [
@@ -64917,6 +64925,12 @@ return [
 	],
 	'vusercontent.net' => [
 		'suffix' => 'vusercontent.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'tmp.now' => [
+		'suffix' => 'tmp.now',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -65374,26 +65388,6 @@ return [
 	],
 	'half.host' => [
 		'suffix' => 'half.host',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'xnbay.com' => [
-		'suffix' => 'xnbay.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'XnBay Technology : http://www.xnbay.com/',
-			'Submitted by XnBay Developer <developer.xncloud@gmail.com>',
-		],
-	],
-	'u2.xnbay.com' => [
-		'suffix' => 'u2.xnbay.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'u2-local.xnbay.com' => [
-		'suffix' => 'u2-local.xnbay.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
