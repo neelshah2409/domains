@@ -62298,6 +62298,20 @@ return [
 			'Submitted by Jennifer Herting <jchits@rit.edu>',
 		],
 	],
+	'*.builtwithrocket.new' => [
+		'suffix' => '*.builtwithrocket.new',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Rocket : https://rocket.new',
+			'Submitted by Rahul Shingala <support@rocket.new>',
+		],
+	],
+	'rocketpreview.app' => [
+		'suffix' => 'rocketpreview.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'rocky.page' => [
 		'suffix' => 'rocky.page',
 		'type' => 'PRIVATE',
