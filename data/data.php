@@ -59576,6 +59576,438 @@ return [
 		'comments' => [
 		],
 	],
+	'australiacentral-01.azurewebsites.net' => [
+		'suffix' => 'australiacentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'australiacentral2-01.azurewebsites.net' => [
+		'suffix' => 'australiacentral2-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'australiaeast-01.azurewebsites.net' => [
+		'suffix' => 'australiaeast-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'australiasoutheast-01.azurewebsites.net' => [
+		'suffix' => 'australiasoutheast-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'austriaeast-01.azurewebsites.net' => [
+		'suffix' => 'austriaeast-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'belgiumcentral-01.azurewebsites.net' => [
+		'suffix' => 'belgiumcentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'brazilsouth-01.azurewebsites.net' => [
+		'suffix' => 'brazilsouth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'brazilsoutheast-01.azurewebsites.net' => [
+		'suffix' => 'brazilsoutheast-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'canadacentral-01.azurewebsites.net' => [
+		'suffix' => 'canadacentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'canadaeast-01.azurewebsites.net' => [
+		'suffix' => 'canadaeast-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'centralindia-01.azurewebsites.net' => [
+		'suffix' => 'centralindia-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'centralus-01.azurewebsites.net' => [
+		'suffix' => 'centralus-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'centraluseuap-01.azurewebsites.net' => [
+		'suffix' => 'centraluseuap-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'chilecentral-01.azurewebsites.net' => [
+		'suffix' => 'chilecentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'denmarkeast-01.azurewebsites.net' => [
+		'suffix' => 'denmarkeast-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eastasia-01.azurewebsites.net' => [
+		'suffix' => 'eastasia-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eastasiastage-01.azurewebsites.net' => [
+		'suffix' => 'eastasiastage-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eastus-01.azurewebsites.net' => [
+		'suffix' => 'eastus-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eastus2-01.azurewebsites.net' => [
+		'suffix' => 'eastus2-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eastus2euap-01.azurewebsites.net' => [
+		'suffix' => 'eastus2euap-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eastus3-01.azurewebsites.net' => [
+		'suffix' => 'eastus3-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'francecentral-01.azurewebsites.net' => [
+		'suffix' => 'francecentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'francesouth-01.azurewebsites.net' => [
+		'suffix' => 'francesouth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'germanynorth-01.azurewebsites.net' => [
+		'suffix' => 'germanynorth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'germanywestcentral-01.azurewebsites.net' => [
+		'suffix' => 'germanywestcentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'indiasouthcentral-01.azurewebsites.net' => [
+		'suffix' => 'indiasouthcentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'indonesiacentral-01.azurewebsites.net' => [
+		'suffix' => 'indonesiacentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'israelcentral-01.azurewebsites.net' => [
+		'suffix' => 'israelcentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'israelnorthwest-01.azurewebsites.net' => [
+		'suffix' => 'israelnorthwest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'italynorth-01.azurewebsites.net' => [
+		'suffix' => 'italynorth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'japaneast-01.azurewebsites.net' => [
+		'suffix' => 'japaneast-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'japanwest-01.azurewebsites.net' => [
+		'suffix' => 'japanwest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jioindiacentral-01.azurewebsites.net' => [
+		'suffix' => 'jioindiacentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jioindiawest-01.azurewebsites.net' => [
+		'suffix' => 'jioindiawest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'koreacentral-01.azurewebsites.net' => [
+		'suffix' => 'koreacentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'koreasouth-01.azurewebsites.net' => [
+		'suffix' => 'koreasouth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'malaysiawest-01.azurewebsites.net' => [
+		'suffix' => 'malaysiawest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'mexicocentral-01.azurewebsites.net' => [
+		'suffix' => 'mexicocentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'newzealandnorth-01.azurewebsites.net' => [
+		'suffix' => 'newzealandnorth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'northcentralus-01.azurewebsites.net' => [
+		'suffix' => 'northcentralus-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'northcentralusstage-01.azurewebsites.net' => [
+		'suffix' => 'northcentralusstage-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'northeastus5-01.azurewebsites.net' => [
+		'suffix' => 'northeastus5-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'northeurope-01.azurewebsites.net' => [
+		'suffix' => 'northeurope-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'norwayeast-01.azurewebsites.net' => [
+		'suffix' => 'norwayeast-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'norwaywest-01.azurewebsites.net' => [
+		'suffix' => 'norwaywest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.p.azurewebsites.net' => [
+		'suffix' => '*.p.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'polandcentral-01.azurewebsites.net' => [
+		'suffix' => 'polandcentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'qatarcentral-01.azurewebsites.net' => [
+		'suffix' => 'qatarcentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'southafricanorth-01.azurewebsites.net' => [
+		'suffix' => 'southafricanorth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'southafricawest-01.azurewebsites.net' => [
+		'suffix' => 'southafricawest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'southcentralus-01.azurewebsites.net' => [
+		'suffix' => 'southcentralus-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'southcentralus2-01.azurewebsites.net' => [
+		'suffix' => 'southcentralus2-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'southeastasia-01.azurewebsites.net' => [
+		'suffix' => 'southeastasia-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'southeastus5-01.azurewebsites.net' => [
+		'suffix' => 'southeastus5-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'southindia-01.azurewebsites.net' => [
+		'suffix' => 'southindia-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'spaincentral-01.azurewebsites.net' => [
+		'suffix' => 'spaincentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'swedencentral-01.azurewebsites.net' => [
+		'suffix' => 'swedencentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'swedensouth-01.azurewebsites.net' => [
+		'suffix' => 'swedensouth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'switzerlandnorth-01.azurewebsites.net' => [
+		'suffix' => 'switzerlandnorth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'switzerlandwest-01.azurewebsites.net' => [
+		'suffix' => 'switzerlandwest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'taiwannorth-01.azurewebsites.net' => [
+		'suffix' => 'taiwannorth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'taiwannorthwest-01.azurewebsites.net' => [
+		'suffix' => 'taiwannorthwest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'uaecentral-01.azurewebsites.net' => [
+		'suffix' => 'uaecentral-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'uaenorth-01.azurewebsites.net' => [
+		'suffix' => 'uaenorth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'uksouth-01.azurewebsites.net' => [
+		'suffix' => 'uksouth-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ukwest-01.azurewebsites.net' => [
+		'suffix' => 'ukwest-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'westcentralus-01.azurewebsites.net' => [
+		'suffix' => 'westcentralus-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'westeurope-01.azurewebsites.net' => [
+		'suffix' => 'westeurope-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'westindia-01.azurewebsites.net' => [
+		'suffix' => 'westindia-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'westus-01.azurewebsites.net' => [
+		'suffix' => 'westus-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'westus2-01.azurewebsites.net' => [
+		'suffix' => 'westus2-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'westus3-01.azurewebsites.net' => [
+		'suffix' => 'westus3-01.azurewebsites.net',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cloudapp.net' => [
 		'suffix' => 'cloudapp.net',
 		'type' => 'PRIVATE',
