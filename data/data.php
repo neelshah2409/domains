@@ -723,7 +723,7 @@ return [
 		'suffix' => 'ai',
 		'type' => 'ICANN',
 		'comments' => [
-			'ai : http://nic.com.ai/',
+			'ai : https://www.nic.ai/',
 		],
 	],
 	'com.ai' => [
@@ -754,7 +754,7 @@ return [
 		'suffix' => 'al',
 		'type' => 'ICANN',
 		'comments' => [
-			'al : http://www.ert.gov.al/ert_alb/faq_det.html?Id=31',
+			'al : https://akep.al/en/domain-e-application/ -> "Regulations and Decisions"',
 		],
 	],
 	'com.al' => [
@@ -835,8 +835,7 @@ return [
 		'suffix' => 'ao',
 		'type' => 'ICANN',
 		'comments' => [
-			'ao : https://www.iana.org/domains/root/db/ao.html',
-			'https://www.dns.ao/ao/',
+			'ao : https://www.dns.ao/ao/',
 		],
 	],
 	'co.ao' => [
@@ -1652,8 +1651,7 @@ return [
 		'suffix' => 'bg',
 		'type' => 'ICANN',
 		'comments' => [
-			'bg : https://www.iana.org/domains/root/db/bg.html',
-			'https://www.register.bg/user/static/rules/en/index.html',
+			'bg : https://www.register.bg/ -> "Terms and Conditions"',
 		],
 	],
 	'0.bg' => [
@@ -1913,8 +1911,7 @@ return [
 		'suffix' => 'bi',
 		'type' => 'ICANN',
 		'comments' => [
-			'bi : https://www.iana.org/domains/root/db/bi.html',
-			'http://whois.nic.bi/',
+			'bi : http://whois.nic.bi/',
 		],
 	],
 	'co.bi' => [
@@ -2161,7 +2158,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'bo : https://nic.bo',
-			'Confirmed by registry <soporte@nic.bo> 2024-11-19',
+			'Confirmed by registry <soporte@nic.bo> 2026-09-01',
 		],
 	],
 	'com.bo' => [
@@ -2287,6 +2284,12 @@ return [
 	],
 	'empresa.bo' => [
 		'suffix' => 'empresa.bo',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ia.bo' => [
+		'suffix' => 'ia.bo',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -3468,7 +3471,7 @@ return [
 		'suffix' => 'bs',
 		'type' => 'ICANN',
 		'comments' => [
-			'bs : http://www.nic.bs/rules.html',
+			'bs : http://www.register.bs/rules.html',
 		],
 	],
 	'com.bs' => [
@@ -3550,8 +3553,7 @@ return [
 		'suffix' => 'bw',
 		'type' => 'ICANN',
 		'comments' => [
-			'bw : https://www.iana.org/domains/root/db/bw.html',
-			'https://nic.net.bw/bw-name-structure',
+			'bw : https://nic.net.bw/bw-name-structure',
 		],
 	],
 	'ac.bw' => [
@@ -3625,8 +3627,7 @@ return [
 		'suffix' => 'bz',
 		'type' => 'ICANN',
 		'comments' => [
-			'bz : https://www.iana.org/domains/root/db/bz.html',
-			'http://www.belizenic.bz/',
+			'bz : http://www.belizenic.bz/',
 		],
 	],
 	'co.bz' => [
@@ -3783,8 +3784,7 @@ return [
 		'suffix' => 'cd',
 		'type' => 'ICANN',
 		'comments' => [
-			'cd : https://www.iana.org/domains/root/db/cd.html',
-			'https://www.nic.cd',
+			'cd : https://www.nic.cd',
 		],
 	],
 	'gov.cd' => [
@@ -5204,8 +5204,7 @@ return [
 		'suffix' => 'eg',
 		'type' => 'ICANN',
 		'comments' => [
-			'eg : https://www.iana.org/domains/root/db/eg.html',
-			'https://domain.eg/en/domain-rules/subdomain-names-types/',
+			'eg : https://domain.eg/subdomain-names',
 		],
 	],
 	'ac.eg' => [
@@ -5804,7 +5803,7 @@ return [
 		'suffix' => 'gi',
 		'type' => 'ICANN',
 		'comments' => [
-			'gi : http://www.nic.gi/rules.html',
+			'gi : https://www.nic.gi/rules.html',
 		],
 	],
 	'com.gi' => [
@@ -5847,8 +5846,7 @@ return [
 		'suffix' => 'gl',
 		'type' => 'ICANN',
 		'comments' => [
-			'gl : https://www.iana.org/domains/root/db/gl.html',
-			'http://nic.gl',
+			'gl : http://nic.gl',
 		],
 	],
 	'co.gl' => [
@@ -5885,7 +5883,7 @@ return [
 		'suffix' => 'gm',
 		'type' => 'ICANN',
 		'comments' => [
-			'gm : http://www.nic.gm/htmlpages%5Cgm-policy.htm',
+			'gm : https://www.nic.gm/NIC2/policies.html',
 		],
 	],
 	'gn' => [
@@ -6087,7 +6085,7 @@ return [
 		'suffix' => 'gu',
 		'type' => 'ICANN',
 		'comments' => [
-			'gu : http://gadao.gov.gu/register.html',
+			'gu : https://give.uog.edu/gu-domain-application-form/',
 			'University of Guam : https://www.uog.edu',
 			'Submitted by uognoc@triton.uog.edu',
 		],
@@ -6152,8 +6150,7 @@ return [
 		'suffix' => 'gy',
 		'type' => 'ICANN',
 		'comments' => [
-			'gy : https://www.iana.org/domains/root/db/gy.html',
-			'http://registry.gy/',
+			'gy : http://registry.gy/',
 		],
 	],
 	'co.gy' => [
@@ -6380,7 +6377,7 @@ return [
 		'suffix' => 'hr',
 		'type' => 'ICANN',
 		'comments' => [
-			'hr : http://www.dns.hr/documents/pdf/HRTLD-regulations.pdf',
+			'hr : https://domene.hr/en/portal/faq',
 		],
 	],
 	'com.hr' => [
@@ -6393,6 +6390,7 @@ return [
 		'suffix' => 'from.hr',
 		'type' => 'ICANN',
 		'comments' => [
+			'From.hr domene : http://from.hr/',
 		],
 	],
 	'iz.hr' => [
@@ -7349,7 +7347,7 @@ return [
 		'suffix' => 'iq',
 		'type' => 'ICANN',
 		'comments' => [
-			'iq : http://www.cmc.iq/english/iq/iqregister1.htm',
+			'iq : https://cmc.iq/',
 		],
 	],
 	'com.iq' => [
@@ -7465,8 +7463,7 @@ return [
 		'suffix' => 'it',
 		'type' => 'ICANN',
 		'comments' => [
-			'it : https://www.iana.org/domains/root/db/it.html',
-			'https://www.nic.it/',
+			'it : https://www.nic.it/',
 		],
 	],
 	'edu.it' => [
@@ -9944,7 +9941,7 @@ return [
 		'suffix' => '*.jm',
 		'type' => 'ICANN',
 		'comments' => [
-			'jm : http://www.com.jm/register.html',
+			'jm : https://www.iana.org/domains/root/db/jm.html',
 		],
 	],
 	'jo' => [
@@ -20998,8 +20995,7 @@ return [
 		'suffix' => 'km',
 		'type' => 'ICANN',
 		'comments' => [
-			'km : https://www.iana.org/domains/root/db/km.html',
-			'http://www.domaine.km/documents/charte.doc',
+			'km : https://www.domaine.km/',
 		],
 	],
 	'ass.km' => [
@@ -21061,7 +21057,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'These are only mentioned as proposed suggestions at domaine.km, but',
-			'https://www.iana.org/domains/root/db/km.html says they\'re available for registration:',
+			'https://en.wikipedia.org/wiki/.km says they\'re available for registration:',
 		],
 	],
 	'coop.km' => [
@@ -21110,8 +21106,7 @@ return [
 		'suffix' => 'kn',
 		'type' => 'ICANN',
 		'comments' => [
-			'kn : https://www.iana.org/domains/root/db/kn.html',
-			'http://www.dot.kn/domainRules.html',
+			'kn : https://nic.kn/',
 		],
 	],
 	'edu.kn' => [
@@ -21142,7 +21137,7 @@ return [
 		'suffix' => 'kp',
 		'type' => 'ICANN',
 		'comments' => [
-			'kp : http://www.kcce.kp/en_index.php',
+			'kp : http://www.star.co.kp/',
 		],
 	],
 	'com.kp' => [
@@ -21442,8 +21437,7 @@ return [
 		'suffix' => 'ky',
 		'type' => 'ICANN',
 		'comments' => [
-			'ky : http://www.icta.ky/da_ky_reg_dom.php',
-			'Confirmed by registry <kysupport@perimeterusa.com> 2008-06-17',
+			'ky : https://www.ofreg.ky/ict/kydomain-introduction',
 		],
 	],
 	'com.ky' => [
@@ -21860,14 +21854,13 @@ return [
 		'suffix' => 'lt',
 		'type' => 'ICANN',
 		'comments' => [
-			'lt : https://www.iana.org/domains/root/db/lt.html',
+			'lt : https://www.domreg.lt/',
 		],
 	],
 	'gov.lt' => [
 		'suffix' => 'gov.lt',
 		'type' => 'ICANN',
 		'comments' => [
-			'gov.lt : http://www.gov.lt/index_en.php',
 		],
 	],
 	'lu' => [
@@ -22003,8 +21996,7 @@ return [
 		'suffix' => 'ma',
 		'type' => 'ICANN',
 		'comments' => [
-			'ma : https://www.iana.org/domains/root/db/ma.html',
-			'http://www.anrt.ma/fr/admin/download/upload/file_fr782.pdf',
+			'ma : http://www.anrt.ma/fr/admin/download/upload/file_fr782.pdf',
 		],
 	],
 	'ac.ma' => [
@@ -22197,8 +22189,7 @@ return [
 		'suffix' => 'mk',
 		'type' => 'ICANN',
 		'comments' => [
-			'mk : https://www.iana.org/domains/root/db/mk.html',
-			'see also: http://dns.marnet.net.mk/postapka.php',
+			'mk : https://marnet.mk/ -> "ПРАВИЛНИК"',
 		],
 	],
 	'com.mk' => [
@@ -22365,7 +22356,7 @@ return [
 		'suffix' => 'mo',
 		'type' => 'ICANN',
 		'comments' => [
-			'mo : http://www.monic.net.mo/',
+			'mo : https://www.monic.mo/',
 		],
 	],
 	'com.mo' => [
@@ -22409,8 +22400,7 @@ return [
 		'suffix' => 'mp',
 		'type' => 'ICANN',
 		'comments' => [
-			'mp : http://www.dot.mp/',
-			'Confirmed by registry <dcamacho@saipan.com> 2008-06-17',
+			'mp : http://get.mp/',
 		],
 	],
 	'mq' => [
@@ -23022,7 +23012,7 @@ return [
 		'suffix' => 'ng',
 		'type' => 'ICANN',
 		'comments' => [
-			'ng : http://www.nira.org.ng/index.php/join-us/register-ng-domain/189-nira-slds',
+			'ng : https://www.nira.org.ng/',
 		],
 	],
 	'com.ng' => [
@@ -23089,7 +23079,7 @@ return [
 		'suffix' => 'ni',
 		'type' => 'ICANN',
 		'comments' => [
-			'ni : http://www.nic.ni/',
+			'ni : https://www.nic.ni/',
 		],
 	],
 	'ac.ni' => [
@@ -23180,8 +23170,7 @@ return [
 		'suffix' => 'nl',
 		'type' => 'ICANN',
 		'comments' => [
-			'nl : https://www.iana.org/domains/root/db/nl.html',
-			'https://www.sidn.nl/',
+			'nl : https://www.sidn.nl/',
 		],
 	],
 	'no' => [
@@ -27748,7 +27737,7 @@ return [
 		'suffix' => '*.np',
 		'type' => 'ICANN',
 		'comments' => [
-			'np : http://www.mos.com.np/register.html',
+			'np : https://www.mos.com.np/',
 		],
 	],
 	'nr' => [
@@ -28066,7 +28055,7 @@ return [
 		'suffix' => 'pe',
 		'type' => 'ICANN',
 		'comments' => [
-			'pe : https://www.nic.pe/InformeFinalComision.pdf',
+			'pe : https://punto.pe/policy.php',
 		],
 	],
 	'com.pe' => [
@@ -28115,7 +28104,7 @@ return [
 		'suffix' => 'pf',
 		'type' => 'ICANN',
 		'comments' => [
-			'pf : http://www.gobin.info/domainname/formulaire-pf.pdf',
+			'pf : https://www.iana.org/domains/root/db/pf.html',
 		],
 	],
 	'com.pf' => [
@@ -28203,7 +28192,7 @@ return [
 		'suffix' => 'pk',
 		'type' => 'ICANN',
 		'comments' => [
-			'pk : https://pk5.pknic.net.pk/pk5/msgNamepk.PK',
+			'pk : https://www.pknic.net.pk/domain-structure.html',
 			'Contact Email: staff@pknic.net.pk',
 		],
 	],
@@ -29612,7 +29601,13 @@ return [
 		'suffix' => 'pr',
 		'type' => 'ICANN',
 		'comments' => [
-			'pr : http://www.nic.pr/index.asp?f=1',
+			'pr : https://www.domains.pr/',
+		],
+	],
+	'ac.pr' => [
+		'suffix' => 'ac.pr',
+		'type' => 'ICANN',
+		'comments' => [
 		],
 	],
 	'biz.pr' => [
@@ -29629,6 +29624,12 @@ return [
 	],
 	'edu.pr' => [
 		'suffix' => 'edu.pr',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'est.pr' => [
+		'suffix' => 'est.pr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29671,19 +29672,6 @@ return [
 	],
 	'pro.pr' => [
 		'suffix' => 'pro.pr',
-		'type' => 'ICANN',
-		'comments' => [
-		],
-	],
-	'ac.pr' => [
-		'suffix' => 'ac.pr',
-		'type' => 'ICANN',
-		'comments' => [
-			'these aren\'t mentioned on nic.pr, but on https://www.iana.org/domains/root/db/pr.html',
-		],
-	],
-	'est.pr' => [
-		'suffix' => 'est.pr',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -29771,8 +29759,7 @@ return [
 		'suffix' => 'ps',
 		'type' => 'ICANN',
 		'comments' => [
-			'ps : https://www.iana.org/domains/root/db/ps.html',
-			'http://www.nic.ps/registration/policy.html#reg',
+			'ps : https://www.pnina.ps/registration-policy/',
 		],
 	],
 	'com.ps' => [
@@ -30244,8 +30231,7 @@ return [
 		'suffix' => 'sb',
 		'type' => 'ICANN',
 		'comments' => [
-			'sb : http://www.sbnic.net.sb/',
-			'Submitted by registry <lee.humphries@telekom.com.sb>',
+			'sb : http://www.nic.net.sb/',
 		],
 	],
 	'com.sb' => [
@@ -30282,7 +30268,7 @@ return [
 		'suffix' => 'sc',
 		'type' => 'ICANN',
 		'comments' => [
-			'sc : http://www.nic.sc/',
+			'sc : https://www.nic.sc/en/policies.html',
 		],
 	],
 	'com.sc' => [
@@ -30708,8 +30694,7 @@ return [
 		'suffix' => 'sk',
 		'type' => 'ICANN',
 		'comments' => [
-			'sk : https://www.iana.org/domains/root/db/sk.html',
-			'https://sk-nic.sk/',
+			'sk : https://sk-nic.sk/',
 		],
 	],
 	'org.sk' => [
@@ -30810,7 +30795,7 @@ return [
 		'suffix' => 'so',
 		'type' => 'ICANN',
 		'comments' => [
-			'so : http://sonic.so/policies/',
+			'so : https://sonic.so/policies/',
 		],
 	],
 	'com.so' => [
@@ -31096,8 +31081,7 @@ return [
 		'suffix' => 'sz',
 		'type' => 'ICANN',
 		'comments' => [
-			'sz : https://www.iana.org/domains/root/db/sz.html',
-			'http://www.sispa.org.sz/',
+			'sz : http://www.sispa.org.sz/',
 		],
 	],
 	'ac.sz' => [
@@ -31136,8 +31120,7 @@ return [
 		'suffix' => 'tel',
 		'type' => 'ICANN',
 		'comments' => [
-			'tel : https://www.iana.org/domains/root/db/tel.html',
-			'http://www.telnic.org/',
+			'tel : http://www.telnic.org/',
 		],
 	],
 	'tf' => [
@@ -31151,8 +31134,7 @@ return [
 		'suffix' => 'tg',
 		'type' => 'ICANN',
 		'comments' => [
-			'tg : https://www.iana.org/domains/root/db/tg.html',
-			'http://www.nic.tg/',
+			'tg : http://www.nic.tg/',
 		],
 	],
 	'th' => [
@@ -31807,8 +31789,7 @@ return [
 		'suffix' => 'tz',
 		'type' => 'ICANN',
 		'comments' => [
-			'tz : http://www.tznic.or.tz/index.php/domains',
-			'Submitted by registry <manager@tznic.or.tz>',
+			'tz : https://karibu.tz/regulations',
 		],
 	],
 	'ac.tz' => [
@@ -34017,7 +33998,7 @@ return [
 		'suffix' => 've',
 		'type' => 'ICANN',
 		'comments' => [
-			've : https://registro.nic.ve/',
+			've : https://nic.ve/',
 			'https://nic.ve/site/user-agreement -> under "III. Clasificación de Nombres de Dominio"',
 			'Submitted by registry nic@nic.ve and nicve@conatel.gob.ve',
 		],
@@ -34209,8 +34190,7 @@ return [
 		'suffix' => 'vn',
 		'type' => 'ICANN',
 		'comments' => [
-			'vn : https://www.vnnic.vn/en/domain/cctld-vn',
-			'https://vnnic.vn/sites/default/files/tailieu/vn.cctld.domains.txt',
+			'vn : https://vnnic.vn/en/domain-name-vn/domain-name/cctldvn',
 		],
 	],
 	'ac.vn' => [
@@ -34783,7 +34763,7 @@ return [
 			'// [sponsoring org]',
 			'U-Label',
 			'xn--mgbaam7a8h ("Emerat", Arabic) : AE',
-			'http://nic.ae/english/arabicdomain/rules.jsp',
+			'http://aeda.ae/',
 		],
 	],
 	'հայ' => [
@@ -35117,7 +35097,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--fzc2c9e2c ("Lanka", Sinhalese-Sinhala) : LK',
-			'https://nic.lk',
+			'http://www.domains.lk/',
 		],
 	],
 	'இலங்கை' => [
@@ -35125,7 +35105,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--xkc2al3hye2a ("Ilangai", Tamil) : LK',
-			'https://nic.lk',
+			'http://www.domains.lk/',
 		],
 	],
 	'المغرب' => [
@@ -35260,7 +35240,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'xn--wgbl6a ("Qatar", Arabic) : QA',
-			'http://www.ict.gov.qa/',
+			'https://www.cra.gov.qa/',
 		],
 	],
 	'السعودية' => [
@@ -35421,14 +35401,14 @@ return [
 		'suffix' => 'xxx',
 		'type' => 'ICANN',
 		'comments' => [
-			'xxx : http://icmregistry.com',
+			'xxx : https://icmregistry.biz/',
 		],
 	],
 	'ye' => [
 		'suffix' => 'ye',
 		'type' => 'ICANN',
 		'comments' => [
-			'ye : http://www.y.net.ye/services/domain_name.htm',
+			'ye : https://www.iana.org/domains/root/db/ye.html',
 		],
 	],
 	'com.ye' => [
@@ -35581,7 +35561,6 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'zm : https://zicta.zm/',
-			'Submitted by registry <info@zicta.zm>',
 		],
 	],
 	'ac.zm' => [
@@ -52139,6 +52118,12 @@ return [
 		'comments' => [
 		],
 	],
+	'opencloud.me' => [
+		'suffix' => 'opencloud.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.icp.net' => [
 		'suffix' => '*.icp.net',
 		'type' => 'PRIVATE',
@@ -62730,16 +62715,16 @@ return [
 			'Submitted by Jennifer Herting <jchits@rit.edu>',
 		],
 	],
-	'*.builtwithrocket.new' => [
-		'suffix' => '*.builtwithrocket.new',
+	'rocketpreview.app' => [
+		'suffix' => 'rocketpreview.app',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Rocket : https://rocket.new',
 			'Submitted by Rahul Shingala <support@rocket.new>',
 		],
 	],
-	'rocketpreview.app' => [
-		'suffix' => 'rocketpreview.app',
+	'*.builtwithrocket.new' => [
+		'suffix' => '*.builtwithrocket.new',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
