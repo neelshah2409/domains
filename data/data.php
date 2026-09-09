@@ -56874,6 +56874,18 @@ return [
 		'comments' => [
 		],
 	],
+	'cloud.run' => [
+		'suffix' => 'cloud.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ai.studio' => [
+		'suffix' => 'ai.studio',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'goupile.fr' => [
 		'suffix' => 'goupile.fr',
 		'type' => 'PRIVATE',
