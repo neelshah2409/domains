@@ -57111,6 +57111,12 @@ return [
 			'Submitted by Shumon Huque <public-dns@salesforce.com>',
 		],
 	],
+	'*.compute.herokuapp.com' => [
+		'suffix' => '*.compute.herokuapp.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'heyflow.page' => [
 		'suffix' => 'heyflow.page',
 		'type' => 'PRIVATE',
@@ -62199,18 +62205,6 @@ return [
 		'comments' => [
 			'QNAP System Inc : https://www.qnap.com',
 			'Submitted by Nick Chang <cloudadmin@qnap.com>',
-		],
-	],
-	'alpha-myqnapcloud.com' => [
-		'suffix' => 'alpha-myqnapcloud.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'dev-myqnapcloud.com' => [
-		'suffix' => 'dev-myqnapcloud.com',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'mycloudnas.com' => [
