@@ -55574,6 +55574,14 @@ return [
 			'Submitted by Jason Zhu <jason@owtware.com>',
 		],
 	],
+	'hosted-by-files.com' => [
+		'suffix' => 'hosted-by-files.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Files.com : https://www.files.com/',
+			'Submitted by Caleb Hearth <ops+public-suffix@files.com>',
+		],
+	],
 	'firebaseapp.com' => [
 		'suffix' => 'firebaseapp.com',
 		'type' => 'PRIVATE',
