@@ -64549,6 +64549,14 @@ return [
 		'comments' => [
 		],
 	],
+	'surge.sh' => [
+		'suffix' => 'surge.sh',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Surge : https://surge.sh',
+			'Submitted by Brock Whitten <support@surge.sh>',
+		],
+	],
 	'syncloud.it' => [
 		'suffix' => 'syncloud.it',
 		'type' => 'PRIVATE',
