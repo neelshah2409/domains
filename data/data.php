@@ -51848,6 +51848,32 @@ return [
 		'comments' => [
 		],
 	],
+	'aws.databricksapps.com' => [
+		'suffix' => 'aws.databricksapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Databricks, Inc. : https://www.databricks.com/',
+			'Submitted by Databricks Enterprise Security <entsec@databricks.com>',
+		],
+	],
+	'*.azure.databricksapps.com' => [
+		'suffix' => '*.azure.databricksapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gcp.databricksapps.com' => [
+		'suffix' => 'gcp.databricksapps.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'aws-gov.databricksapps.us' => [
+		'suffix' => 'aws-gov.databricksapps.us',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'demo.datadetect.com' => [
 		'suffix' => 'demo.datadetect.com',
 		'type' => 'PRIVATE',
