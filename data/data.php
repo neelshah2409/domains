@@ -51596,6 +51596,12 @@ return [
 			'Submitted by Combell Team <support@combell.com>',
 		],
 	],
+	'site.webhosting.be' => [
+		'suffix' => 'site.webhosting.be',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'prvw.eu' => [
 		'suffix' => 'prvw.eu',
 		'type' => 'PRIVATE',
@@ -51604,6 +51610,12 @@ return [
 	],
 	'hosting-cluster.nl' => [
 		'suffix' => 'hosting-cluster.nl',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'site.hosting-cluster.nl' => [
+		'suffix' => 'site.hosting-cluster.nl',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -56102,6 +56114,14 @@ return [
 		'comments' => [
 		],
 	],
+	'glideos.app' => [
+		'suffix' => 'glideos.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Glide : https://www.glideapps.com',
+			'Submitted by Glide Engineering <engineering@heyglide.com>',
+		],
+	],
 	'nog.community' => [
 		'suffix' => 'nog.community',
 		'type' => 'PRIVATE',
@@ -57867,6 +57887,14 @@ return [
 		'suffix' => 'ipv64.net',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'iqhs.pl' => [
+		'suffix' => 'iqhs.pl',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'IQHost / IQ Group : https://iqhost.pl/',
+			'Submitted by Adam Buhl <admin@iqhost.pl>',
 		],
 	],
 	'ir.md' => [
