@@ -35672,7 +35672,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-07-24T16:40:16Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-09-30T19:51:07Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -37306,7 +37306,7 @@ return [
 		'suffix' => 'cologne',
 		'type' => 'ICANN',
 		'comments' => [
-			'cologne : dotKoeln GmbH',
+			'cologne : domainworx Service & Management GmbH',
 			'https://www.iana.org/domains/root/db/cologne.html',
 		],
 	],
@@ -39738,7 +39738,7 @@ return [
 		'suffix' => 'koeln',
 		'type' => 'ICANN',
 		'comments' => [
-			'koeln : dotKoeln GmbH',
+			'koeln : domainworx Service & Management GmbH',
 			'https://www.iana.org/domains/root/db/koeln.html',
 		],
 	],
