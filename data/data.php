@@ -35672,7 +35672,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-09-30T19:51:07Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39636,14 +39636,6 @@ return [
 		'comments' => [
 			'juegos : Dog Beach, LLC',
 			'https://www.iana.org/domains/root/db/juegos.html',
-		],
-	],
-	'juniper' => [
-		'suffix' => 'juniper',
-		'type' => 'ICANN',
-		'comments' => [
-			'juniper : JUNIPER NETWORKS, INC.',
-			'https://www.iana.org/domains/root/db/juniper.html',
 		],
 	],
 	'kaufen' => [
