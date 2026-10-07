@@ -45151,11 +45151,17 @@ return [
 		'comments' => [
 			'Amazon Cognito',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: d7d4a954-976e-403e-a010-de9ed0cfbbd1',
+			'Reference: dd7b1be3-c336-4750-8e69-85d381b572dd',
 		],
 	],
 	'auth.ap-east-1.amazoncognito.com' => [
 		'suffix' => 'auth.ap-east-1.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-east-2.amazoncognito.com' => [
+		'suffix' => 'auth.ap-east-2.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -45216,6 +45222,12 @@ return [
 	],
 	'auth.ap-southeast-5.amazoncognito.com' => [
 		'suffix' => 'auth.ap-southeast-5.amazoncognito.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'auth.ap-southeast-6.amazoncognito.com' => [
+		'suffix' => 'auth.ap-southeast-6.amazoncognito.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -46002,6 +46014,129 @@ return [
 	],
 	'emrstudio-prod.us-west-2.amazonaws.com' => [
 		'suffix' => 'emrstudio-prod.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'amazonlightsail.com' => [
+		'suffix' => 'amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon Lightsail',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: _BNEF4RCADXL7ELNLFZHYJMSMW4',
+		],
+	],
+	'*.ap-east-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.ap-east-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-northeast-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.ap-northeast-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-northeast-2.cs.amazonlightsail.com' => [
+		'suffix' => '*.ap-northeast-2.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-south-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.ap-south-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-southeast-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.ap-southeast-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-southeast-2.cs.amazonlightsail.com' => [
+		'suffix' => '*.ap-southeast-2.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-southeast-3.cs.amazonlightsail.com' => [
+		'suffix' => '*.ap-southeast-3.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ap-southeast-5.cs.amazonlightsail.com' => [
+		'suffix' => '*.ap-southeast-5.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.ca-central-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.ca-central-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-central-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.eu-central-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-north-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.eu-north-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-south-2.cs.amazonlightsail.com' => [
+		'suffix' => '*.eu-south-2.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-west-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.eu-west-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-west-2.cs.amazonlightsail.com' => [
+		'suffix' => '*.eu-west-2.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.eu-west-3.cs.amazonlightsail.com' => [
+		'suffix' => '*.eu-west-3.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.sa-east-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.sa-east-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-east-1.cs.amazonlightsail.com' => [
+		'suffix' => '*.us-east-1.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-east-2.cs.amazonlightsail.com' => [
+		'suffix' => '*.us-east-2.cs.amazonlightsail.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.us-west-2.cs.amazonlightsail.com' => [
+		'suffix' => '*.us-west-2.cs.amazonlightsail.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49474,7 +49609,7 @@ return [
 		'comments' => [
 			'AWS Elastic Beanstalk',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: e4e02a54-eaf9-4fe7-b662-39ccbc011a04',
+			'Reference: _CCBN322SBHBCSUGB7BBDVTREDI',
 		],
 	],
 	'cn-northwest-1.eb.amazonaws.com.cn' => [
@@ -49525,6 +49660,12 @@ return [
 		'comments' => [
 		],
 	],
+	'ap-south-2.elasticbeanstalk.com' => [
+		'suffix' => 'ap-south-2.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'ap-southeast-1.elasticbeanstalk.com' => [
 		'suffix' => 'ap-southeast-1.elasticbeanstalk.com',
 		'type' => 'PRIVATE',
@@ -49543,8 +49684,20 @@ return [
 		'comments' => [
 		],
 	],
+	'ap-southeast-4.elasticbeanstalk.com' => [
+		'suffix' => 'ap-southeast-4.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'ap-southeast-5.elasticbeanstalk.com' => [
 		'suffix' => 'ap-southeast-5.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'ap-southeast-6.elasticbeanstalk.com' => [
+		'suffix' => 'ap-southeast-6.elasticbeanstalk.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -49561,8 +49714,20 @@ return [
 		'comments' => [
 		],
 	],
+	'ca-west-1.elasticbeanstalk.com' => [
+		'suffix' => 'ca-west-1.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'eu-central-1.elasticbeanstalk.com' => [
 		'suffix' => 'eu-central-1.elasticbeanstalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'eu-central-2.elasticbeanstalk.com' => [
+		'suffix' => 'eu-central-2.elasticbeanstalk.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -62721,6 +62886,14 @@ return [
 		'suffix' => 'devices.resinstaging.io',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'retool.app' => [
+		'suffix' => 'retool.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Retool : https://retool.com',
+			'Submitted by Andrew Guan <security@retool.com>',
 		],
 	],
 	'adimo.co.uk' => [
