@@ -45136,6 +45136,141 @@ return [
 		'comments' => [
 		],
 	],
+	'consent-portal.bedrock-agentcore.ap-northeast-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ap-northeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Amazon Bedrock AgentCore Identity Consent Portal',
+			'Submitted by AWS Security <psl-maintainers@amazon.com>',
+			'Reference: _MPIAF4IUV7E6TWCRJLOA3T4PHY',
+		],
+	],
+	'consent-portal.bedrock-agentcore.ap-northeast-2.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ap-northeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.ap-south-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ap-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.ap-south-2.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ap-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.ap-southeast-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ap-southeast-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.ap-southeast-2.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ap-southeast-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.ap-southeast-5.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ap-southeast-5.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.ap-southeast-7.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ap-southeast-7.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.ca-central-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.ca-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.eu-central-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.eu-central-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.eu-north-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.eu-north-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.eu-south-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.eu-south-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.eu-south-2.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.eu-south-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.eu-west-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.eu-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.eu-west-2.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.eu-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.eu-west-3.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.eu-west-3.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.sa-east-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.sa-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.us-east-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.us-east-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.us-east-2.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.us-east-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.us-gov-west-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.us-gov-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.us-west-1.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.us-west-1.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'consent-portal.bedrock-agentcore.us-west-2.amazonaws.com' => [
+		'suffix' => 'consent-portal.bedrock-agentcore.us-west-2.amazonaws.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'cloudfront.net' => [
 		'suffix' => 'cloudfront.net',
 		'type' => 'PRIVATE',
@@ -46147,7 +46282,7 @@ return [
 		'comments' => [
 			'Amazon Managed Workflows for Apache Airflow',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: bfd043cc-2816-451d-894e-612c6b61a438',
+			'Reference: _2D43DR7RQE2YAOU6AMDMC65YVY',
 		],
 	],
 	'*.airflow.ap-east-1.on.aws' => [
@@ -46212,6 +46347,12 @@ return [
 	],
 	'*.airflow.ap-southeast-5.on.aws' => [
 		'suffix' => '*.airflow.ap-southeast-5.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.airflow.ap-southeast-7.on.aws' => [
+		'suffix' => '*.airflow.ap-southeast-7.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50002,11 +50143,17 @@ return [
 		'comments' => [
 			'AWS Transfer Family web apps',
 			'Submitted by AWS Security <psl-maintainers@amazon.com>',
-			'Reference: 9265cdd3-f017-42ab-98bb-08bf427d3fc9',
+			'Reference: _PYLGNY4SQAVGHDG4DGP234KPQY',
 		],
 	],
 	'transfer-webapp.ap-east-1.on.aws' => [
 		'suffix' => 'transfer-webapp.ap-east-1.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-east-2.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-east-2.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50067,6 +50214,12 @@ return [
 	],
 	'transfer-webapp.ap-southeast-5.on.aws' => [
 		'suffix' => 'transfer-webapp.ap-southeast-5.on.aws',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.ap-southeast-6.on.aws' => [
+		'suffix' => 'transfer-webapp.ap-southeast-6.on.aws',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50223,6 +50376,12 @@ return [
 	],
 	'transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn' => [
 		'suffix' => 'transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'transfer-webapp.eusc-de-east-1.on.amazonwebservices.eu' => [
+		'suffix' => 'transfer-webapp.eusc-de-east-1.on.amazonwebservices.eu',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -58794,14 +58953,6 @@ return [
 		'comments' => [
 		],
 	],
-	'knightpoint.systems' => [
-		'suffix' => 'knightpoint.systems',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'KnightPoint Systems, LLC : http://www.knightpoint.com/',
-			'Submitted by Roy Keene <rkeene@knightpoint.com>',
-		],
-	],
 	'koobin.events' => [
 		'suffix' => 'koobin.events',
 		'type' => 'PRIVATE',
@@ -60574,6 +60725,242 @@ return [
 			'Submitted by Paulus Schoutsen <infra@nabucasa.com>',
 		],
 	],
+	'kr.object.fin-ncloudstorage.com' => [
+		'suffix' => 'kr.object.fin-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'NAVER Cloud : https://www.ncloud.com',
+			'Submitted by Storage Team <dl_ns_psl@navercorp.com>',
+		],
+	],
+	's3-website.kr.object.fin-ncloudstorage.com' => [
+		'suffix' => 's3-website.kr.object.fin-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.object.private.fin-ncloudstorage.com' => [
+		'suffix' => 'kr.object.private.fin-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.gov-ncloudstorage.com' => [
+		'suffix' => 'kr.gov-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr-private.gov-ncloudstorage.com' => [
+		'suffix' => 'kr-private.gov-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.object.gov-ncloudstorage.com' => [
+		'suffix' => 'kr.object.gov-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.kr.object.gov-ncloudstorage.com' => [
+		'suffix' => 's3-website.kr.object.gov-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'krs.object.gov-ncloudstorage.com' => [
+		'suffix' => 'krs.object.gov-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.krs.object.gov-ncloudstorage.com' => [
+		'suffix' => 's3-website.krs.object.gov-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.object.private.gov-ncloudstorage.com' => [
+		'suffix' => 'kr.object.private.gov-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'krs.object.private.gov-ncloudstorage.com' => [
+		'suffix' => 'krs.object.private.gov-ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.objectstorage.ncloud.com' => [
+		'suffix' => 'kr.objectstorage.ncloud.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sg.objectstorage.ncloud.com' => [
+		'suffix' => 'sg.objectstorage.ncloud.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.ncloudstorage.com' => [
+		'suffix' => 'kr.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr-naver.ncloudstorage.com' => [
+		'suffix' => 'kr-naver.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr-naver-dev.ncloudstorage.com' => [
+		'suffix' => 'kr-naver-dev.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr-private.ncloudstorage.com' => [
+		'suffix' => 'kr-private.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'de.object.ncloudstorage.com' => [
+		'suffix' => 'de.object.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.de.object.ncloudstorage.com' => [
+		'suffix' => 's3-website.de.object.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.object.ncloudstorage.com' => [
+		'suffix' => 'kr.object.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.kr.object.ncloudstorage.com' => [
+		'suffix' => 's3-website.kr.object.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sg.object.ncloudstorage.com' => [
+		'suffix' => 'sg.object.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.sg.object.ncloudstorage.com' => [
+		'suffix' => 's3-website.sg.object.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us.object.ncloudstorage.com' => [
+		'suffix' => 'us.object.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website.us.object.ncloudstorage.com' => [
+		'suffix' => 's3-website.us.object.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.object.private.ncloudstorage.com' => [
+		'suffix' => 'kr.object.private.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sg.object.private.ncloudstorage.com' => [
+		'suffix' => 'sg.object.private.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.website.ncloudstorage.com' => [
+		'suffix' => 'kr.website.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr-naver.website.ncloudstorage.com' => [
+		'suffix' => 'kr-naver.website.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr-naver-dev.website.ncloudstorage.com' => [
+		'suffix' => 'kr-naver-dev.website.ncloudstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jp.object.ncpstorage.com' => [
+		'suffix' => 'jp.object.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jp.jp4.object.ncpstorage.com' => [
+		'suffix' => 'jp.jp4.object.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jp.jp5.object.ncpstorage.com' => [
+		'suffix' => 'jp.jp5.object.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.object.ncpstorage.com' => [
+		'suffix' => 'kr.object.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	's3-website-jp.object.ncpstorage.com' => [
+		'suffix' => 's3-website-jp.object.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jp.object.private.ncpstorage.com' => [
+		'suffix' => 'jp.object.private.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jp.jp4.object.private.ncpstorage.com' => [
+		'suffix' => 'jp.jp4.object.private.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'jp.jp5.object.private.ncpstorage.com' => [
+		'suffix' => 'jp.jp5.object.private.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'kr.object.private.ncpstorage.com' => [
+		'suffix' => 'kr.object.private.ncpstorage.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'needle.run' => [
 		'suffix' => 'needle.run',
 		'type' => 'PRIVATE',
@@ -62098,14 +62485,6 @@ return [
 		'comments' => [
 			'Perplexity AI : https://www.perplexity.ai/',
 			'Submitted by Alec Xiang <security@perplexity.ai>',
-		],
-	],
-	'perspecta.cloud' => [
-		'suffix' => 'perspecta.cloud',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Perspecta : https://perspecta.com/',
-			'Submitted by Kenneth Van Alstyne <kvanalstyne@perspecta.com>',
 		],
 	],
 	'forgeblocks.com' => [
