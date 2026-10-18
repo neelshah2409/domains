@@ -35672,7 +35672,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-16T18:37:24Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -42482,7 +42482,7 @@ return [
 		'suffix' => 'star',
 		'type' => 'ICANN',
 		'comments' => [
-			'star : Star India Private Limited',
+			'star : JioStar India Private Limited',
 			'https://www.iana.org/domains/root/db/star.html',
 		],
 	],
@@ -56416,18 +56416,12 @@ return [
 			'Submitted by Alex Hanselka <alex@gitlab.com>',
 		],
 	],
-	'gitapp.si' => [
-		'suffix' => 'gitapp.si',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Gitplac.si : https://gitplac.si',
-			'Submitted by Aljaž Starc <me@aljaxus.eu>',
-		],
-	],
 	'gitpage.si' => [
 		'suffix' => 'gitpage.si',
 		'type' => 'PRIVATE',
 		'comments' => [
+			'Gitplac.si : https://gitplac.si',
+			'Submitted by Aljaž Starc <me@aljaxus.eu>',
 		],
 	],
 	'glideos.app' => [
