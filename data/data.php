@@ -56268,14 +56268,6 @@ return [
 		'comments' => [
 		],
 	],
-	'aliases121.com' => [
-		'suffix' => 'aliases121.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'GCom Internet : https://www.gcom.net.au',
-			'Submitted by Leo Julius <support@gcom.net.au>',
-		],
-	],
 	'campaign.gov.uk' => [
 		'suffix' => 'campaign.gov.uk',
 		'type' => 'PRIVATE',
@@ -58967,14 +58959,6 @@ return [
 		'suffix' => 'krellian.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'oya.to' => [
-		'suffix' => 'oya.to',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'KUROKU LTD : https://kuroku.ltd/',
-			'Submitted by DisposaBoy <security@oya.to>',
 		],
 	],
 	'co.de' => [
