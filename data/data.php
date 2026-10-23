@@ -44878,8 +44878,14 @@ return [
 		'suffix' => 'alibabacloudcs.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'Alibaba Cloud API Gateway',
+			'Alibaba',
 			'Submitted by Alibaba Cloud Security <cloud_product_security_team@alibaba-inc.com>',
+		],
+	],
+	'*.ztna-dingtalk.com' => [
+		'suffix' => '*.ztna-dingtalk.com',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'ms.fun' => [
