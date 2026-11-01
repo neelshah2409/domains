@@ -35672,7 +35672,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-16T18:37:24Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-30T19:51:02Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -39036,14 +39036,6 @@ return [
 		'comments' => [
 			'help : Innovation service Limited',
 			'https://www.iana.org/domains/root/db/help.html',
-		],
-	],
-	'helsinki' => [
-		'suffix' => 'helsinki',
-		'type' => 'ICANN',
-		'comments' => [
-			'helsinki : City of Helsinki',
-			'https://www.iana.org/domains/root/db/helsinki.html',
 		],
 	],
 	'here' => [
