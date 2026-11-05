@@ -50436,14 +50436,6 @@ return [
 		'comments' => [
 		],
 	],
-	'*.cursorusercontent.com' => [
-		'suffix' => '*.cursorusercontent.com',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Anysphere Inc : https://cursor.com',
-			'Submitted by Benson Liu <security@cursor.com>',
-		],
-	],
 	'apigee.io' => [
 		'suffix' => 'apigee.io',
 		'type' => 'PRIVATE',
@@ -51068,6 +51060,14 @@ return [
 		'suffix' => 'bubbleapps.io',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'manus.space' => [
+		'suffix' => 'manus.space',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Butterfly Effect Pte. Ltd. : https://manus.im',
+			'Submitted by Manus Security Team <security@manus.ai>',
 		],
 	],
 	'*.bwcloud-os-instance.de' => [
@@ -52712,6 +52712,14 @@ return [
 		'suffix' => 'ddns.wtf',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'docsflowy.site' => [
+		'suffix' => 'docsflowy.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Docs Flowy : https://docsflowy.com',
+			'Submitted by Haykel Maaoui <hello@docsflowy.com>',
 		],
 	],
 	'online.th' => [
@@ -59162,6 +59170,14 @@ return [
 		'comments' => [
 		],
 	],
+	'linkyhost.page' => [
+		'suffix' => 'linkyhost.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Linkyhost : https://www.linkyhost.com',
+			'Submitted by Linkyhost Support <support@linkyhost.com>',
+		],
+	],
 	'members.linode.com' => [
 		'suffix' => 'members.linode.com',
 		'type' => 'PRIVATE',
@@ -59316,6 +59332,12 @@ return [
 		'comments' => [
 			'Lovable : https://lovable.dev',
 			'Submitted by Fabian Hedin <security@lovable.dev>',
+		],
+	],
+	'auth.lovable.app' => [
+		'suffix' => 'auth.lovable.app',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'lovableproject.com' => [
@@ -62379,6 +62401,14 @@ return [
 			'Submitted by Charly Coste <changaco@changaco.oy.lc>',
 		],
 	],
+	'pagelemon.dev' => [
+		'suffix' => 'pagelemon.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Page Lemon : https://pagelemon.com',
+			'Submitted by Aporia Research Ltd <hi@pagelemon.com>',
+		],
+	],
 	'pgfog.com' => [
 		'suffix' => 'pgfog.com',
 		'type' => 'PRIVATE',
@@ -63717,6 +63747,20 @@ return [
 			'Submitted by Asheesh Laroia <asheesh@sandstorm.io>',
 		],
 	],
+	'sanity.run' => [
+		'suffix' => 'sanity.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Sanity Inc. : https://www.sanity.io/',
+			'Submitted by Josh Ellis <security@sanity.io>',
+		],
+	],
+	'sanity.studio' => [
+		'suffix' => 'sanity.studio',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'sav.case' => [
 		'suffix' => 'sav.case',
 		'type' => 'PRIVATE',
@@ -64341,6 +64385,14 @@ return [
 			'Submitted by Skylar Challand <support@siteleaf.com>',
 		],
 	],
+	'sliplane.app' => [
+		'suffix' => 'sliplane.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Sliplane GmbH : https://sliplane.io',
+			'Submitted by Jonas Scholz <support@sliplane.io>',
+		],
+	],
 	'small-web.org' => [
 		'suffix' => 'small-web.org',
 		'type' => 'PRIVATE',
@@ -64528,6 +64580,32 @@ return [
 	],
 	'nx.gw' => [
 		'suffix' => 'nx.gw',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.apps.grok.bot' => [
+		'suffix' => '*.apps.grok.bot',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'SpaceXSI : https://x.ai/',
+			'Submitted by Benson Liu <security@x.ai>',
+		],
+	],
+	'*.pages.grok.bot' => [
+		'suffix' => '*.pages.grok.bot',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.cursorusercontent.com' => [
+		'suffix' => '*.cursorusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'grok.me' => [
+		'suffix' => 'grok.me',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -66245,14 +66323,6 @@ return [
 		'suffix' => 'js.wpenginepowered.com',
 		'type' => 'PRIVATE',
 		'comments' => [
-		],
-	],
-	'grok.me' => [
-		'suffix' => 'grok.me',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'xAI : https://x.ai/',
-			'Submitted by Asim Shrestha <security@x.ai>',
 		],
 	],
 	'*.xenonconnect.de' => [
