@@ -34191,6 +34191,8 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'vn : https://vnnic.vn/en/domain-name-vn/domain-name/cctldvn',
+			'https://vnnic.vn/sites/default/files/vn.cctld.domains.txt',
+			'Submitted by registry <dnsabuse-support@vnnic.vn> 2026-10-05',
 		],
 	],
 	'ac.vn' => [
@@ -34199,8 +34201,20 @@ return [
 		'comments' => [
 		],
 	],
+	'ad.vn' => [
+		'suffix' => 'ad.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
 	'ai.vn' => [
 		'suffix' => 'ai.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'ap.vn' => [
+		'suffix' => 'ap.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
@@ -34267,6 +34281,12 @@ return [
 	],
 	'net.vn' => [
 		'suffix' => 'net.vn',
+		'type' => 'ICANN',
+		'comments' => [
+		],
+	],
+	'on.vn' => [
+		'suffix' => 'on.vn',
 		'type' => 'ICANN',
 		'comments' => [
 		],
