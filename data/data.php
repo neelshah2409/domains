@@ -50894,6 +50894,14 @@ return [
 			'Submitted by Andy Ortlieb <aortlieb@atlassian.com>',
 		],
 	],
+	'ship.place' => [
+		'suffix' => 'ship.place',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Bitgate, Inc. : https://ship.page',
+			'Submitted by Bitgate, Inc. <abuse@bitgate.com>',
+		],
+	],
 	'blackbaudcdn.net' => [
 		'suffix' => 'blackbaudcdn.net',
 		'type' => 'PRIVATE',
@@ -50908,6 +50916,14 @@ return [
 		'comments' => [
 			'Blatech : http://www.blatech.net',
 			'Submitted by Luke Bratch <luke@bratch.co.uk>',
+		],
+	],
+	'prod.page' => [
+		'suffix' => 'prod.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'BlitzWorks : https://blitz.cloud',
+			'Submitted by BlitzWorks <hallo@blitzworks.io>',
 		],
 	],
 	'square.site' => [
