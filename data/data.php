@@ -44630,6 +44630,14 @@ return [
 		'comments' => [
 		],
 	],
+	'abyme.dev' => [
+		'suffix' => 'abyme.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'abyme : https://abyme.studio',
+			'Submitted by Richard Mathieson <psl@abyme.studio>',
+		],
+	],
 	'activetrail.biz' => [
 		'suffix' => 'activetrail.biz',
 		'type' => 'PRIVATE',
@@ -51822,6 +51830,14 @@ return [
 		'comments' => [
 		],
 	],
+	'cloudzyro.app' => [
+		'suffix' => 'cloudzyro.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Cloudzyro Ltd : https://cloudzyro.com',
+			'Submitted by Kofi Agyem <psl@cloudzyro.com>',
+		],
+	],
 	'wnext.app' => [
 		'suffix' => 'wnext.app',
 		'type' => 'PRIVATE',
@@ -57298,6 +57314,14 @@ return [
 		'comments' => [
 			'GOV.UK Pay : https://www.payments.service.gov.uk/',
 			'Submitted by Richard Baker <richard.baker@digital.cabinet-office.gov.uk>',
+		],
+	],
+	'gov.de' => [
+		'suffix' => 'gov.de',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Government of Germany : https://dachmarke.gov.de/',
+			'Submitted by Digitale Dachmarke <support@dachmarke.gov.de>',
 		],
 	],
 	'gov.nl' => [
