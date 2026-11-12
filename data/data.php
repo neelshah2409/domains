@@ -60651,6 +60651,26 @@ return [
 		'comments' => [
 		],
 	],
+	'modelence.app' => [
+		'suffix' => 'modelence.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Modelence : https://modelence.com/',
+			'Submitted by Modelence Security <security@modelence.com>',
+		],
+	],
+	'cloud.modelence.app' => [
+		'suffix' => 'cloud.modelence.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'sandbox.modelence.app' => [
+		'suffix' => 'sandbox.modelence.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'modx.dev' => [
 		'suffix' => 'modx.dev',
 		'type' => 'PRIVATE',
@@ -63067,6 +63087,14 @@ return [
 		'suffix' => 'readthedocs.io',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'rwx.run' => [
+		'suffix' => 'rwx.run',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ReadWriteExecute, Inc : https://www.rwx.com',
+			'Submitted by Dan Manges <security@rwx.com>',
 		],
 	],
 	'rhcloud.com' => [
@@ -65968,6 +65996,14 @@ return [
 		'comments' => [
 			'VeryPositive SIA : http://very.lv',
 			'Submitted by Danko Aleksejevs <danko@very.lv>',
+		],
+	],
+	'vibekit.page' => [
+		'suffix' => 'vibekit.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'VibeKit : https://vibekit.bot/',
+			'Submitted by Brian Boisjoli <info@vibekit.bot>',
 		],
 	],
 	'v-info.info' => [
