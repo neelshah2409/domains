@@ -59800,6 +59800,12 @@ return [
 			'Submitted by Stevche Radevski <engineering@medusajs.com>',
 		],
 	],
+	'medusajs.site' => [
+		'suffix' => 'medusajs.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'miniserver.com' => [
 		'suffix' => 'miniserver.com',
 		'type' => 'PRIVATE',
