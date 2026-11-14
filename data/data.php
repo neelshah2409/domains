@@ -50427,11 +50427,37 @@ return [
 		'comments' => [
 		],
 	],
+	'app.amba.host' => [
+		'suffix' => 'app.amba.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'concludes Amazon',
+			'Amba : https://amba.dev',
+			'Submitted by Amba Abuse Desk <abuse@amba.dev>',
+		],
+	],
+	'cdn.amba.host' => [
+		'suffix' => 'cdn.amba.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'fn.amba.host' => [
+		'suffix' => 'fn.amba.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'go.amba.host' => [
+		'suffix' => 'go.amba.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'opentunnel.xyz' => [
 		'suffix' => 'opentunnel.xyz',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'concludes Amazon',
 			'Anomaly : https://opencode.ai',
 			'Submitted by Dax Raad <security@anoma.ly>',
 		],
@@ -52148,6 +52174,14 @@ return [
 		'comments' => [
 			'Craynic, s.r.o. : http://www.craynic.com/',
 			'Submitted by Ales Krajnik <ales.krajnik@craynic.com>',
+		],
+	],
+	'crbts.app' => [
+		'suffix' => 'crbts.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Curia : https://curiabots.com',
+			'Submitted by Curia <psl@crbts.app>',
 		],
 	],
 	'cfolks.pl' => [
