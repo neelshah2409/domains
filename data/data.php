@@ -44758,6 +44758,14 @@ return [
 			'Submitted by Simon Farshid <security@assistant-ui.com>',
 		],
 	],
+	'agilevibes.app' => [
+		'suffix' => 'agilevibes.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Agile Developer : https://agiledeveloper.de',
+			'Submitted by Görkem Sinirlioglu <info@agiledeveloper.de>',
+		],
+	],
 	'beep.pl' => [
 		'suffix' => 'beep.pl',
 		'type' => 'PRIVATE',
@@ -50760,6 +50768,20 @@ return [
 		'comments' => [
 		],
 	],
+	'space.fast' => [
+		'suffix' => 'space.fast',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Automattic Inc. : https://automattic.com',
+			'Submitted by Stefano Sala <support@spacefast.com>',
+		],
+	],
+	'view.fast' => [
+		'suffix' => 'view.fast',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'myfritz.link' => [
 		'suffix' => 'myfritz.link',
 		'type' => 'PRIVATE',
@@ -50888,6 +50910,14 @@ return [
 		'comments' => [
 			'Bear Blog : https://bearblog.dev',
 			'Submitted by Herman Martinus <admin@bearblog.dev>',
+		],
+	],
+	'bearly.sh' => [
+		'suffix' => 'bearly.sh',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Bearly : https://bearly.ai',
+			'Submitted by Bearly Support <support@bearly.ai>',
 		],
 	],
 	'*.beget.app' => [
@@ -52344,6 +52374,14 @@ return [
 		'suffix' => 'mydatto.net',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'ddns.ge' => [
+		'suffix' => 'ddns.ge',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ddns.ge : https://nic.ddns.ge',
+			'Submitted by John Snow <support@mail.ddns.ge>',
 		],
 	],
 	'ddnss.de' => [
@@ -54741,12 +54779,42 @@ return [
 		'comments' => [
 		],
 	],
+	'dns.army' => [
+		'suffix' => 'dns.army',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'dynv6 : https://dynv6.com',
+			'Submitted by Dominik Menke <dynv6@digineo.de>',
+		],
+	],
+	'v6.army' => [
+		'suffix' => 'v6.army',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'dns.navy' => [
+		'suffix' => 'dns.navy',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'v6.navy' => [
+		'suffix' => 'v6.navy',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'dynv6.net' => [
 		'suffix' => 'dynv6.net',
 		'type' => 'PRIVATE',
 		'comments' => [
-			'dynv6 : https://dynv6.com',
-			'Submitted by Dominik Menke <dom@digineo.de>',
+		],
+	],
+	'v6.rocks' => [
+		'suffix' => 'v6.rocks',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'e4.cz' => [
@@ -56202,6 +56270,14 @@ return [
 		'comments' => [
 			'FunkFeuer - Verein zur Förderung freier Netze : https://www.funkfeuer.at',
 			'Submitted by Daniel A. Maierhofer <vorstand@funkfeuer.at>',
+		],
+	],
+	'xwx.me' => [
+		'suffix' => 'xwx.me',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'FurryBox : https://www.furry.box',
+			'Submitted by Aether <furry@org.digital>',
 		],
 	],
 	'daemon.asia' => [
@@ -57844,20 +57920,6 @@ return [
 	],
 	'iliadboxos.it' => [
 		'suffix' => 'iliadboxos.it',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'imagine.diy' => [
-		'suffix' => 'imagine.diy',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Imagine : https://imagine.dev',
-			'Submitted by Steven Nguyen <security@imagine.dev>',
-		],
-	],
-	'imagine-proxy.work' => [
-		'suffix' => 'imagine-proxy.work',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59722,6 +59784,14 @@ return [
 			'Submitted by Damien Tournoud <dtournoud@magento.cloud>',
 		],
 	],
+	'mymagic.page' => [
+		'suffix' => 'mymagic.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Magic Pages : https://www.magicpages.co',
+			'Submitted by Jannis Fedoruk-Betschki <help@magicpages.co>',
+		],
+	],
 	'magicpatterns.app' => [
 		'suffix' => 'magicpatterns.app',
 		'type' => 'PRIVATE',
@@ -61264,6 +61334,14 @@ return [
 		'comments' => [
 		],
 	],
+	'ninjaneer-sites.com' => [
+		'suffix' => 'ninjaneer-sites.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Ninjaneer Media : https://ninjaneer.au',
+			'Submitted by the Ninjaneer Media team <admin@ninjaneer.au>',
+		],
+	],
 	'mmafan.biz' => [
 		'suffix' => 'mmafan.biz',
 		'type' => 'PRIVATE',
@@ -62133,6 +62211,14 @@ return [
 		'comments' => [
 		],
 	],
+	'omgs.page' => [
+		'suffix' => 'omgs.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'omg.dev : https://omg.dev',
+			'Submitted by omg.dev Security <security@omg.dev>',
+		],
+	],
 	'omg.lol' => [
 		'suffix' => 'omg.lol',
 		'type' => 'PRIVATE',
@@ -62511,6 +62597,14 @@ return [
 		'comments' => [
 			'OX : http://www.ox.rs',
 			'Submitted by Adam Grand <webmaster@mail.ox.rs>',
+		],
+	],
+	'myoxypages.com' => [
+		'suffix' => 'myoxypages.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'OxyPages : https://oxypages.com',
+			'Submitted by Oxy Pages <hello@oxypages.com>',
 		],
 	],
 	'oy.lc' => [
@@ -63167,6 +63261,26 @@ return [
 		'comments' => [
 		],
 	],
+	'reliantlabs.dev' => [
+		'suffix' => 'reliantlabs.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Reliant Labs : https://reliantlabs.io',
+			'Submitted by Reliant Labs Security <security@reliantlabs.io>',
+		],
+	],
+	'sites.reliantlabs.dev' => [
+		'suffix' => 'sites.reliantlabs.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'reliantpreview.dev' => [
+		'suffix' => 'reliantpreview.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'onrender.com' => [
 		'suffix' => 'onrender.com',
 		'type' => 'PRIVATE',
@@ -63421,6 +63535,14 @@ return [
 		'comments' => [
 			'Russian Academy of Sciences',
 			'Submitted by Tech Support <support@rasnet.ru>',
+		],
+	],
+	'sail.box' => [
+		'suffix' => 'sail.box',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Sail Research Co. : https://sailresearch.com/',
+			'Submitted by Sail Support <support@sailresearch.com>',
 		],
 	],
 	'nyat.app' => [
@@ -64465,6 +64587,32 @@ return [
 		'comments' => [
 		],
 	],
+	'co.fo' => [
+		'suffix' => 'co.fo',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Show Corporation : https://doma.in',
+			'Submitted by Xiufeng Guo <support@cctld.com>',
+		],
+	],
+	'com.fo' => [
+		'suffix' => 'com.fo',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wz.io' => [
+		'suffix' => 'wz.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'wz.org' => [
+		'suffix' => 'wz.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'mo-siemens.io' => [
 		'suffix' => 'mo-siemens.io',
 		'type' => 'PRIVATE',
@@ -65498,6 +65646,14 @@ return [
 			'Submitted by Rob Picard <security@goteleport.com>',
 		],
 	],
+	'terramind.io' => [
+		'suffix' => 'terramind.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Terramind.com, Inc. : https://terramind.com',
+			'Submitted by Terramind Sites <sites@terramind.com>',
+		],
+	],
 	'*.firenet.ch' => [
 		'suffix' => '*.firenet.ch',
 		'type' => 'PRIVATE',
@@ -66084,6 +66240,14 @@ return [
 		'comments' => [
 		],
 	],
+	'voati.host' => [
+		'suffix' => 'voati.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Voati : https://voati.org',
+			'Submitted by Voati Support <support@voati.org>',
+		],
+	],
 	'voorloper.cloud' => [
 		'suffix' => 'voorloper.cloud',
 		'type' => 'PRIVATE',
@@ -66122,6 +66286,12 @@ return [
 		'comments' => [
 			'Wasmer: https://wasmer.io',
 			'Submitted by Lorentz Kinde <security@wasmer.io>',
+		],
+	],
+	'sm.run' => [
+		'suffix' => 'sm.run',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'webflow.io' => [
