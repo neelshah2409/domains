@@ -50514,6 +50514,14 @@ return [
 			'Submitted by Matt Saladna <matt@apisnetworks.com>',
 		],
 	],
+	'apps.devs.ai' => [
+		'suffix' => 'apps.devs.ai',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AppDirect, Inc. : https://devs.ai/',
+			'Submitted by Devs.ai Developer Team <developer@devs.ai>',
+		],
+	],
 	'siiites.com' => [
 		'suffix' => 'siiites.com',
 		'type' => 'PRIVATE',
@@ -51336,6 +51344,14 @@ return [
 		'suffix' => 'ssl.origin.cdn77-secure.org',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'ceero.site' => [
+		'suffix' => 'ceero.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Ceero ApS : https://ceero.site',
+			'Submitted by Ceero ApS <abuse@ceero.eu>',
 		],
 	],
 	'za.bz' => [
@@ -56532,6 +56548,14 @@ return [
 		'comments' => [
 			'GignoSystemJapan : http://gsj.bz',
 			'Submitted by GignoSystemJapan <kakutou-ec@gsj.bz>',
+		],
+	],
+	'ginta.page' => [
+		'suffix' => 'ginta.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Ginta : https://ginta.app/',
+			'Submitted by Povilas Adomas Brukas <support@ginta.app>',
 		],
 	],
 	'gitbook.io' => [
@@ -66713,6 +66737,14 @@ return [
 		'comments' => [
 			'Yola : https://www.yola.com/',
 			'Submitted by Stefano Rivera <stefano@yola.com>',
+		],
+	],
+	'loc.cc' => [
+		'suffix' => 'loc.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Yunamo : https://yunamo.com/',
+			'Submitted by James <support@yunamo.com>',
 		],
 	],
 	'ynh.fr' => [
