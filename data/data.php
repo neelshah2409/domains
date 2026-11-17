@@ -64822,6 +64822,14 @@ return [
 			'Submitted by Solana Name Service <contact@sns.id>',
 		],
 	],
+	'solidres.page' => [
+		'suffix' => 'solidres.page',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Solid Labs : https://www.solidres.com/',
+			'Submitted by Solid Labs <contact@solidres.com>',
+		],
+	],
 	'playstation-cloud.com' => [
 		'suffix' => 'playstation-cloud.com',
 		'type' => 'PRIVATE',
@@ -65958,6 +65966,14 @@ return [
 		'comments' => [
 			'Triton Data Center project : https://tritondatacenter.com',
 			'Submitted by Triton Data Center staff <tickets@tritondatacenter.com>',
+		],
+	],
+	'*.2na.am' => [
+		'suffix' => '*.2na.am',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Tuna : https://tuna.am/',
+			'Submitted by Tuna Support <support@tuna.am>',
 		],
 	],
 	'tunnelmole.net' => [
