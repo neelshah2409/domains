@@ -52066,6 +52066,14 @@ return [
 			'Submitted by Contentful Developer Experience Team <prd-ecosystem-dx@contentful.com>',
 		],
 	],
+	'prod.enter.pro' => [
+		'suffix' => 'prod.enter.pro',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Converge AI Pte. Ltd. : https://converge.ai',
+			'Submitted by Tyler <support@enter.pro>',
+		],
+	],
 	'convex.app' => [
 		'suffix' => 'convex.app',
 		'type' => 'PRIVATE',
@@ -56452,6 +56460,20 @@ return [
 		'comments' => [
 		],
 	],
+	'fastedge.app' => [
+		'suffix' => 'fastedge.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Gcore : https://gcore.com/',
+			'Submitted by Maryia Miskevich <fastedge@gcore.com>',
+		],
+	],
+	'gcorecdn.com' => [
+		'suffix' => 'gcorecdn.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'campaign.gov.uk' => [
 		'suffix' => 'campaign.gov.uk',
 		'type' => 'PRIVATE',
@@ -59123,6 +59145,14 @@ return [
 		'suffix' => 'uni5.net',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'kliv.site' => [
+		'suffix' => 'kliv.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Kliv : https://kliv.dev',
+			'Submitted by Anders Olsson <security@kliv.dev>',
 		],
 	],
 	'koobin.events' => [
@@ -66056,6 +66086,14 @@ return [
 		'comments' => [
 			'Umso Software Inc. : https://www.umso.com',
 			'Submitted by Alexis Taylor <security@umso.com>',
+		],
+	],
+	'uncld.dev' => [
+		'suffix' => 'uncld.dev',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Uncloud : https://uncloud.run',
+			'Submitted by Pasha Sviderski <support@uncloud.run>',
 		],
 	],
 	'unison-services.cloud' => [
