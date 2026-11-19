@@ -59868,6 +59868,20 @@ return [
 			'Submitted by Ilya Zaretskiy <zaretskiy@corp.mail.ru>',
 		],
 	],
+	'mailerpage.io' => [
+		'suffix' => 'mailerpage.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'MailerLite : https://www.mailerlite.com',
+			'Submitted by Bob Gordon <public-suffix-list@mailerlite.com>',
+		],
+	],
+	'subscribepage.io' => [
+		'suffix' => 'subscribepage.io',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'matlab.cloud' => [
 		'suffix' => 'matlab.cloud',
 		'type' => 'PRIVATE',
@@ -61394,6 +61408,14 @@ return [
 		'comments' => [
 			'Ninjaneer Media : https://ninjaneer.au',
 			'Submitted by the Ninjaneer Media team <admin@ninjaneer.au>',
+		],
+	],
+	'nippy.site' => [
+		'suffix' => 'nippy.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Nippy : https://nippy.host/',
+			'Submitted by Nippy Support <support@nippy.host>',
 		],
 	],
 	'mmafan.biz' => [
