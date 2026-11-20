@@ -56272,6 +56272,26 @@ return [
 			'Submitted by Daniel Stone <daniel@fooishbar.org>',
 		],
 	],
+	'pvf.cc' => [
+		'suffix' => 'pvf.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'FreeDns : https://freedns.my',
+			'Submitted by FreeDns Team <support@freedns.my>',
+		],
+	],
+	'kz.ci' => [
+		'suffix' => 'kz.ci',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xyz.ci' => [
+		'suffix' => 'xyz.ci',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'freemyip.com' => [
 		'suffix' => 'freemyip.com',
 		'type' => 'PRIVATE',
@@ -62913,6 +62933,14 @@ return [
 		'suffix' => 'httpbin.org',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'*.prairielearn-user-content.com' => [
+		'suffix' => '*.prairielearn-user-content.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PrairieLearn, Inc. : https://www.prairielearn.com',
+			'Submitted by PrairieLearn, Inc. <security@prairielearn.com>',
 		],
 	],
 	'prequalifyme.today' => [
