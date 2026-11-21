@@ -62959,6 +62959,38 @@ return [
 			'Submitted by Sarah Newman <owner@prgmr.com>',
 		],
 	],
+	'ec.cc' => [
+		'suffix' => 'ec.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'PrimeLink Limited: https://www.nic.uk.cc/',
+			'Submitted by PrimeLink Developer <support@nic.uk.cc>',
+		],
+	],
+	'eu.cc' => [
+		'suffix' => 'eu.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'gu.cc' => [
+		'suffix' => 'gu.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'uk.cc' => [
+		'suffix' => 'uk.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'us.cc' => [
+		'suffix' => 'us.cc',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'priv.at' => [
 		'suffix' => 'priv.at',
 		'type' => 'PRIVATE',
@@ -65684,38 +65716,6 @@ return [
 		'comments' => [
 		],
 	],
-	'ec.cc' => [
-		'suffix' => 'ec.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'TechEdge Limited: https://www.nic.uk.cc/',
-			'Submitted by TechEdge Developer <support@nic.uk.cc>',
-		],
-	],
-	'eu.cc' => [
-		'suffix' => 'eu.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'gu.cc' => [
-		'suffix' => 'gu.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'uk.cc' => [
-		'suffix' => 'uk.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'us.cc' => [
-		'suffix' => 'us.cc',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'edugit.io' => [
 		'suffix' => 'edugit.io',
 		'type' => 'PRIVATE',
@@ -66744,6 +66744,20 @@ return [
 		'comments' => [
 		],
 	],
+	'wordsmithmcpcontent.com' => [
+		'suffix' => 'wordsmithmcpcontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Wordsmith AI : https://wordsmith.ai',
+			'Submitted by Wordsmith Security <security@wordsmith.ai>',
+		],
+	],
+	'staging.wordsmithmcpcontent.com' => [
+		'suffix' => 'staging.wordsmithmcpcontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'wpenginepowered.com' => [
 		'suffix' => 'wpenginepowered.com',
 		'type' => 'PRIVATE',
@@ -66899,6 +66913,14 @@ return [
 		'comments' => [
 			'Zeabur : https://zeabur.com/',
 			'Submitted by Zeabur Team <contact@zeabur.com>',
+		],
+	],
+	'fj.kg' => [
+		'suffix' => 'fj.kg',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Zerexa domains : https://nic.fj.kg',
+			'Submitted by Zerexa Team <admin@zerexa.net>',
 		],
 	],
 	'*.zerops.app' => [
