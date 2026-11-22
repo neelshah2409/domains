@@ -35692,7 +35692,7 @@ return [
 		'type' => 'ICANN',
 		'comments' => [
 			'newGTLDs',
-			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-30T19:51:02Z',
+			'List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-11-20T22:06:55Z',
 			'This list is auto-generated, don\'t edit it manually.',
 			'aaa : American Automobile Association, Inc.',
 			'https://www.iana.org/domains/root/db/aaa.html',
@@ -42446,7 +42446,7 @@ return [
 		'suffix' => 'space',
 		'type' => 'ICANN',
 		'comments' => [
-			'space : Radix Technologies Inc SEZC',
+			'space : Squarespace Registry LLC',
 			'https://www.iana.org/domains/root/db/space.html',
 		],
 	],
@@ -43664,14 +43664,6 @@ return [
 		'comments' => [
 			'xerox : Xerox DNHC LLC',
 			'https://www.iana.org/domains/root/db/xerox.html',
-		],
-	],
-	'xihuan' => [
-		'suffix' => 'xihuan',
-		'type' => 'ICANN',
-		'comments' => [
-			'xihuan : Beijing Qihu Keji Co., Ltd.',
-			'https://www.iana.org/domains/root/db/xihuan.html',
 		],
 	],
 	'xin' => [
