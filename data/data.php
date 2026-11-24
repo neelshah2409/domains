@@ -50708,6 +50708,14 @@ return [
 			'Submitted by Hector Martin <marcan@euskalencounter.org>',
 		],
 	],
+	'sites.aspirethemes.com' => [
+		'suffix' => 'sites.aspirethemes.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Aspire Themes : https://aspirethemes.com',
+			'Submitted by Ahmad <psl@aspirethemes.com>',
+		],
+	],
 	'pimienta.org' => [
 		'suffix' => 'pimienta.org',
 		'type' => 'PRIVATE',
@@ -57324,12 +57332,24 @@ return [
 			'Submitted by VibeHost Security <security@vibehost.com>',
 		],
 	],
-	'graphic.design' => [
-		'suffix' => 'graphic.design',
+	'*.airoapp.ai' => [
+		'suffix' => '*.airoapp.ai',
 		'type' => 'PRIVATE',
 		'comments' => [
 			'GoDaddy Registry : https://registry.godaddy',
 			'Submitted by Rohan Durrant <tldns@registry.godaddy>',
+		],
+	],
+	'*.host.cloud' => [
+		'suffix' => '*.host.cloud',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'graphic.design' => [
+		'suffix' => 'graphic.design',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'goip.de' => [
