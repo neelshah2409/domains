@@ -50758,14 +50758,32 @@ return [
 			'Submitted by Benjamin McAlary <edge-services@atlassian.com>',
 		],
 	],
+	'*.shared.atlassian-3p.com' => [
+		'suffix' => '*.shared.atlassian-3p.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.atlassian-3p-us-gov-mod.com' => [
 		'suffix' => '*.atlassian-3p-us-gov-mod.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
 	],
+	'*.shared.atlassian-3p-us-gov-mod.com' => [
+		'suffix' => '*.shared.atlassian-3p-us-gov-mod.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'*.atlassian-isolated-3p.com' => [
 		'suffix' => '*.atlassian-isolated-3p.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'*.shared.atlassian-isolated-3p.com' => [
+		'suffix' => '*.shared.atlassian-isolated-3p.com',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -50980,6 +50998,20 @@ return [
 		'comments' => [
 			'Blackbaud, Inc. : https://www.blackbaud.com',
 			'Submitted by Paul Crowder <paul.crowder@blackbaud.com>',
+		],
+	],
+	'blacktops.app' => [
+		'suffix' => 'blacktops.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Blacktops, Inc. : https://blacktops.ai',
+			'Submitted by Ravi Kolandaiswamy <psl@blacktops.ai>',
+		],
+	],
+	'blacktops.page' => [
+		'suffix' => 'blacktops.page',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'of.je' => [
@@ -54903,6 +54935,20 @@ return [
 		'comments' => [
 		],
 	],
+	'ipdisk.co.kr' => [
+		'suffix' => 'ipdisk.co.kr',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'EFM Networks (ipTIME) : https://iptime.com',
+			'Submitted by EFM Networks Development Team <server@iptime.com>',
+		],
+	],
+	'iptime.org' => [
+		'suffix' => 'iptime.org',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
 	'at.emf.camp' => [
 		'suffix' => 'at.emf.camp',
 		'type' => 'PRIVATE',
@@ -55437,6 +55483,14 @@ return [
 		'suffix' => 'on.staging.expo.app',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'faable.link' => [
+		'suffix' => 'faable.link',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Faable : https://faable.com/',
+			'Submitted by Marc Pomar <support@faable.com>',
 		],
 	],
 	'fspages.org' => [
@@ -57544,6 +57598,14 @@ return [
 			'Submitted by Catherine Zotova <admin@grebedoc.dev>',
 		],
 	],
+	'greybull.site' => [
+		'suffix' => 'greybull.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Greybull : https://greybull.cloud/',
+			'Submitted by Nick Bouwhuis <security@greybull.cloud>',
+		],
+	],
 	'günstigbestellen.de' => [
 		'suffix' => 'günstigbestellen.de',
 		'type' => 'PRIVATE',
@@ -57807,6 +57869,14 @@ return [
 		'suffix' => '*.kin.pub',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'onhomemade.com' => [
+		'suffix' => 'onhomemade.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Homemade : https://homemade.dev',
+			'Submitted by Homemade Support <support@homemade.dev>',
 		],
 	],
 	'seprox.hooc.me' => [
@@ -58545,12 +58615,6 @@ return [
 		'comments' => [
 		],
 	],
-	'diadem.cloud' => [
-		'suffix' => 'diadem.cloud',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'vip.jelastic.cloud' => [
 		'suffix' => 'vip.jelastic.cloud',
 		'type' => 'PRIVATE',
@@ -58737,12 +58801,6 @@ return [
 		'comments' => [
 		],
 	],
-	'mircloud.host' => [
-		'suffix' => 'mircloud.host',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
 	'paas.beebyte.io' => [
 		'suffix' => 'paas.beebyte.io',
 		'type' => 'PRIVATE',
@@ -58913,12 +58971,6 @@ return [
 	],
 	'phx.enscaled.us' => [
 		'suffix' => 'phx.enscaled.us',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'mircloud.us' => [
-		'suffix' => 'mircloud.us',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
@@ -59310,18 +59362,6 @@ return [
 		'comments' => [
 			'Leapcell : https://leapcell.io/',
 			'Submitted by Leapcell Team <support@leapcell.io>',
-		],
-	],
-	'leapcell.dev' => [
-		'suffix' => 'leapcell.dev',
-		'type' => 'PRIVATE',
-		'comments' => [
-		],
-	],
-	'leapcell.online' => [
-		'suffix' => 'leapcell.online',
-		'type' => 'PRIVATE',
-		'comments' => [
 		],
 	],
 	'liara.run' => [
@@ -63521,14 +63561,6 @@ return [
 			'Submitted by Andrew Guan <security@retool.com>',
 		],
 	],
-	'adimo.co.uk' => [
-		'suffix' => 'adimo.co.uk',
-		'type' => 'PRIVATE',
-		'comments' => [
-			'Rico Developments Limited : https://adimo.co',
-			'Submitted by Colin Brown <hello@adimo.co>',
-		],
-	],
 	'itcouldbewor.se' => [
 		'suffix' => 'itcouldbewor.se',
 		'type' => 'PRIVATE',
@@ -64695,6 +64727,14 @@ return [
 		'comments' => [
 			'Sheezy.Art : https://sheezy.art',
 			'Submitted by Nyoom <admin@sheezy.art>',
+		],
+	],
+	'shipstatic.com' => [
+		'suffix' => 'shipstatic.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'ShipStatic : https://www.shipstatic.com',
+			'Submitted by ShipStatic Team <hello@shipstatic.com>',
 		],
 	],
 	'myshopblocks.com' => [
