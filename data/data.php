@@ -62933,6 +62933,14 @@ return [
 			'Submitted by Alec Xiang <security@perplexity.ai>',
 		],
 	],
+	'phronusercontent.com' => [
+		'suffix' => 'phronusercontent.com',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Phron : https://phron.net',
+			'Submitted by Phron Security <security@phron.net>',
+		],
+	],
 	'forgeblocks.com' => [
 		'suffix' => 'forgeblocks.com',
 		'type' => 'PRIVATE',
@@ -63573,6 +63581,14 @@ return [
 		'suffix' => 'reliantpreview.dev',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'relumesite.ai' => [
+		'suffix' => 'relumesite.ai',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Relume : https://www.relume.ai/',
+			'Submitted by Relume Security Team <security@relume.ai>',
 		],
 	],
 	'onrender.com' => [
@@ -65076,6 +65092,14 @@ return [
 			'Submitted by Ian Streeter <ian@snowplowanalytics.com>',
 		],
 	],
+	'softr.app' => [
+		'suffix' => 'softr.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Softr : https://www.softr.io/',
+			'Submitted by Softr Support <support@softr.io>',
+		],
+	],
 	'mafelo.net' => [
 		'suffix' => 'mafelo.net',
 		'type' => 'PRIVATE',
@@ -65202,6 +65226,14 @@ return [
 		'comments' => [
 			'SpeedPartner GmbH : https://www.speedpartner.de/',
 			'Submitted by Stefan Neufeind <info@speedpartner.de>',
+		],
+	],
+	'spheron.live' => [
+		'suffix' => 'spheron.live',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Spheron : https://www.spheron.ai',
+			'Submitted by Spheron Team <info@spheron.ai>',
 		],
 	],
 	'myspreadshop.at' => [
@@ -65413,6 +65445,14 @@ return [
 		'suffix' => 'novecore.site',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'staticrun.app' => [
+		'suffix' => 'staticrun.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Static.run : https://static.run',
+			'Submitted by Static.run <security@static.run>',
 		],
 	],
 	'statichost.page' => [
