@@ -44760,6 +44760,14 @@ return [
 			'Submitted by Gavin Brown <gavin.brown@centralnic.com>',
 		],
 	],
+	'agental.site' => [
+		'suffix' => 'agental.site',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'agental : https://agental.io',
+			'Submitted by agental <squad@agental.io>',
+		],
+	],
 	'*.auiusercontent.com' => [
 		'suffix' => '*.auiusercontent.com',
 		'type' => 'PRIVATE',
@@ -44796,6 +44804,14 @@ return [
 		'suffix' => '*.aivencloud.com',
 		'type' => 'PRIVATE',
 		'comments' => [
+		],
+	],
+	'aiwebinfra.app' => [
+		'suffix' => 'aiwebinfra.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'AiWebInfra : https://aiwebinfra.com',
+			'Submitted by AiWebInfra <support@aiwebinfra.com>',
 		],
 	],
 	'akadns.net' => [
@@ -59334,6 +59350,14 @@ return [
 			'Abuse reports to <registry@kv-gmbh.de>',
 		],
 	],
+	'lambforge.app' => [
+		'suffix' => 'lambforge.app',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'Lambforge : https://lambforge.com',
+			'Submitted by Kristiyan Tachev <security@lambforge.com>',
+		],
+	],
 	'shiptoday.app' => [
 		'suffix' => 'shiptoday.app',
 		'type' => 'PRIVATE',
@@ -62458,7 +62482,13 @@ return [
 		'type' => 'PRIVATE',
 		'comments' => [
 			'Omnibond Systems, LLC. : https://www.omnibond.com',
-			'Submitted by Cole Estep <cole@omnibond.com>',
+			'Submitted by Omnibond Support <support@omnibond.com>',
+		],
+	],
+	'eureka.zone' => [
+		'suffix' => 'eureka.zone',
+		'type' => 'PRIVATE',
+		'comments' => [
 		],
 	],
 	'omniwe.site' => [
@@ -65964,6 +65994,14 @@ return [
 			'Submitted by Rob Picard <security@goteleport.com>',
 		],
 	],
+	'tnas.online' => [
+		'suffix' => 'tnas.online',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'TerraMaster : https://www.terra-master.com/',
+			'Submitted by TerraMaster Team <psl@terra-master.com>',
+		],
+	],
 	'terramind.io' => [
 		'suffix' => 'terramind.io',
 		'type' => 'PRIVATE',
@@ -66997,6 +67035,26 @@ return [
 	],
 	'half.host' => [
 		'suffix' => 'half.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xport.free' => [
+		'suffix' => 'xport.free',
+		'type' => 'PRIVATE',
+		'comments' => [
+			'xPort : https://xport.dev',
+			'Submitted by Sascha Klein <security@xport.dev>',
+		],
+	],
+	'xport.host' => [
+		'suffix' => 'xport.host',
+		'type' => 'PRIVATE',
+		'comments' => [
+		],
+	],
+	'xport.sh' => [
+		'suffix' => 'xport.sh',
 		'type' => 'PRIVATE',
 		'comments' => [
 		],
